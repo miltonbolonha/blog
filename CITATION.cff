@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Bolonha"
+    given-names: "Milton"
+title: "NextJS Boilerplate - Bolonha Conversas"
+date-released: 2023-04-06
+url: "https://github.com/miltonbolonha/next-boilerplate"
+version: 0.2.1

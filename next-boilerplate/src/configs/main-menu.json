@@ -1,0 +1,26 @@
+{
+  "menu": {
+    "status": true,
+    "name": "MAIN_MENU",
+    "items": [
+      {
+        "item": {
+          "label": "Home",
+          "to": "/"
+        }
+      },
+      {
+        "item": {
+          "label": "O Autor",
+          "to": "/about"
+        }
+      },
+      {
+        "item": {
+          "label": "Contato",
+          "to": "/contact"
+        }
+      }
+    ]
+  }
+}

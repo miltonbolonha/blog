@@ -1,0 +1,63 @@
+{
+  "globals": {
+    "isDarkLogo": false
+  },
+  "website": {
+    "siteUrl": "https://miltonbolonha.com.br",
+    "author": "Milton Bolonha",
+    "i18n": "pt-BR",
+    "themeColor": "#d2d",
+    "keywords": ["Introdução à Programação", "Curso Para Iniciantes", "E Agências Web Modernas"],
+    "questions": [
+      "O que é um boilerplate?:Assim são chamados os pré-moldados para fácil início da programação de tecnologia."
+    ],
+    "datePublished": "01/01/2023"
+  },
+  "business": {
+    "brandPerson": "Milton Bolonha",
+    "brandName": "Bolonha Conversas",
+    "brandEmail": "miltonbolonha@gmail.com",
+    "brandLogo": "favicon-32x32.png",
+    "brandPhone": "+5512981062959",
+    "brandDescription": "Aqui nóis conversa e nóis é Bolonha.",
+    "brandCardImage": "favicon-32x32.png",
+    "sameAs": {
+      "whatsapp": "https://web.whatsapp.com/send?phone=5512981062959&text=Ol%C3%A1%2C%20Milton.",
+      "instagram": "https://instagram.com/miltonbolonha_",
+      "facebook": "https://facebook.com/BolonhaMilton",
+      "twitter": "https://twitter.com/miltonbolonha"
+    },
+    "twitterCard": {
+      "card": "card",
+      "creator": "creator",
+      "title": "title",
+      "description": "description",
+      "image": "image",
+      "site": "site"
+    }
+  },
+  "pages": {
+    "hasHeader": true,
+    "hasMenu": true,
+    "index": {
+      "title": "Home",
+      "slug": "",
+      "description": "Milton Bolonha desenvolve sites desde 1998. Como especialista faz a curadoria e implementação sustentável de códigos e de tecnologias."
+    },
+    "about": {
+      "title": "Sobre",
+      "slug": "about",
+      "description": "Milton Bolonha desenvolve sites desde 1998. Como especialista faz a curadoria e implementação sustentável de códigos e de tecnologias."
+    },
+    "contact": {
+      "title": "Contato",
+      "slug": "contact",
+      "description": "Fale com Milton por meio do what's (12) 98106-2959, ou e-mail: miltonbolonha@gmail.com."
+    },
+    "edu": {
+      "title": "Material Didático",
+      "slug": "edu",
+      "description": "Fale com Milton por meio do what's (12) 98106-2959, ou e-mail: miltonbolonha@gmail.com."
+    }
+  }
+}

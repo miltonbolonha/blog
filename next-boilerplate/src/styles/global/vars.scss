@@ -1,0 +1,69 @@
+// Colors
+$brand__color: #151515;
+$cta__color: #000;
+$cta__colorLink: #ffd219;
+$hot__color: #1f1f1f;
+$hotDark__color: #6200ff;
+$cta__contrast_color: #ffd219;
+$error_color: #ffd219;
+$link__color: #ffaa00;
+
+$heading__top-padding: 30px;
+$heading__bottom-padding: 0px;
+
+$primary: $cta__color;
+$primary_background: mix(white, $cta__color, 90%);
+$primary_light: mix(white, $cta__colorLink, 25%);
+$primary_darklight: mix(black, $cta__colorLink, 25%);
+$primary_lightVar: mix(black, $hot__color, 25%);
+$primary_dark: mix(black, $cta__color, 35%);
+$primary_darkvar: #252210;
+
+$brand_black__color: #262833;
+$paragrahp_black__color: #212529;
+$grayscale_300__color: #e3e3e3;
+$grayscale_600__color: #a3a3a3;
+$color__light-grey: #999999;
+
+// Breakpoints n screen vars
+$logo__max-width: 450px;
+
+$page__size: 960px;
+$paragraph__size: 960px;
+$widescreen__size: 1165px;
+$tablet__size: 768px;
+$tabletHack__size: 959px;
+$tabletHackMinimal__size: 425px;
+$boxed__tabletHackMaxWidth: 730px;
+$desktopIndexButtons__maxWidth: 520px;
+$mobileIndexButtons__maxWidth: 280px;
+$tabletIndexButtons__maxWidth: 350px;
+$boxedDesktop__maxWidth: 960px;
+$boxedMobile__maxWidth: 375px;
+//Spaces
+$s__space: 16pt;
+
+// typograph
+$alternative__font: "Arial";
+
+$main__font: var(--font-jetbrains-mono), $alternative__font, sans-serif;
+
+$second__font: "Dosis Variable", $alternative__font, sans-serif;
+
+$third__font: "Josefin Sans Variable", $alternative__font, sans-serif;
+
+$fourth__font: var(--font-quattrocento), $alternative__font, sans-serif;
+
+// $fifth__font: var(--font-playfair-display), $alternative__font, sans-serif;
+
+$sixth__font: var(--font-roboto), $alternative__font, sans-serif;
+
+$seventh__font: var(--font-nova-flat), $alternative__font, sans-serif;
+
+$eighth__font: "Varela", $alternative__font, sans-serif;
+
+$h1__fontSize: 30pt;
+$h2__fontSize: 24pt;
+$h3__fontSize: 22pt;
+$h4__fontSize: 20pt;
+$h5__fontSize: 18pt;

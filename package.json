@@ -1,0 +1,43 @@
+{
+  "name": "next-boilerplate-workspace",
+  "version": "1.0.0",
+  "workspaces": [
+    "next-boilerplate"
+  ],
+  "private": false,
+  "description": "Bolonha Conversas NextJS Theme",
+  "author": "Bolonha Conversas <miltonbolonha@gmail.com>",
+  "keywords": [
+    "nextjs workspace",
+    "workspace engine",
+    "room workspace engine",
+    "nextjs",
+    "nextjs plugin",
+    "nextjs layout",
+    "nextjs builder",
+    "nextjs theme boilerplate",
+    "nextjs theme Bolonha Conversas",
+    "layout builder",
+    "seo",
+    "builder"
+  ],
+  "scripts": {
+    "build": "npm run build -w next-boilerplate",
+    "serve": "npm run serve -w next-boilerplate",
+    "clean": "npm run clean -w next-boilerplate",
+    "develop": "npm run dev --workspace=next-boilerplate",
+    "dev": "npm run dev --workspace=next-boilerplate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miltonbolonha/next-boilerplate"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "@nuktpls:registry": "https://npm.pkg.github.com"
+  },
+  "bugs": {
+    "url": "https://github.com/miltonbolonha/next-boilerplate/issues"
+  }
+}
