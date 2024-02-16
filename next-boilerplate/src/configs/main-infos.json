@@ -3,29 +3,33 @@
     "isDarkLogo": false
   },
   "website": {
-    "siteUrl": "https://miltonbolonha.com.br",
-    "author": "Milton Bolonha",
-    "i18n": "pt-BR",
-    "themeColor": "#d2d",
-    "keywords": ["Introdução à Programação", "Curso Para Iniciantes", "E Agências Web Modernas"],
+    "siteUrl": "https://moderntips.com",
+    "author": "Modern Tips",
+    "i18n": "en-US",
+    "themeColor": "#f26500",
+    "keywords": ["Modern Tips"],
     "questions": [
-      "O que é um boilerplate?:Assim são chamados os pré-moldados para fácil início da programação de tecnologia."
+      "What is Modern Tips?:Modern Tips is a strategic design agency."
     ],
-    "datePublished": "01/01/2023"
+    "datePublished": "02/01/2024",
+    "errorMessage": "Hmm... something is wrong, try again later or e-mail us: general@moderntipss.com",
+    "successMessage": "Thank you for your message. We will reach you soon."
   },
   "business": {
-    "brandPerson": "Milton Bolonha",
-    "brandName": "Bolonha Conversas",
-    "brandEmail": "miltonbolonha@gmail.com",
-    "brandLogo": "favicon-32x32.png",
-    "brandPhone": "+5512981062959",
-    "brandDescription": "Aqui nóis conversa e nóis é Bolonha.",
-    "brandCardImage": "favicon-32x32.png",
+    "gaID": "G-PRQQEHRZR0",
+    "brandPerson": "Modern Tips",
+    "shortName": "creativityblk",
+    "brandName": "Modern Tips",
+    "brandEmail": "general@moderntips.com",
+    "brandLogo": "logomark.png",
+    "brandPhone": "+351",
+    "brandDescription": "Modern Tips is a strategic design agency focused on providing measurable results by optimizing our client's conversion rates and social media presence.",
+    "brandCardImage": "seo-img-index.jpg",
     "sameAs": {
-      "whatsapp": "https://web.whatsapp.com/send?phone=5512981062959&text=Ol%C3%A1%2C%20Milton.",
-      "instagram": "https://instagram.com/miltonbolonha_",
-      "facebook": "https://facebook.com/BolonhaMilton",
-      "twitter": "https://twitter.com/miltonbolonha"
+      "linkedin": "https://www.linkedin.com/company/",
+      "instagram": "https://www.instagram.com/",
+      "tiktok": "https://www.tiktok.com/",
+      "twitter": "https://x.com/"
     },
     "twitterCard": {
       "card": "card",
@@ -40,24 +44,206 @@
     "hasHeader": true,
     "hasMenu": true,
     "index": {
-      "title": "Home",
-      "slug": "",
-      "description": "Milton Bolonha desenvolve sites desde 1998. Como especialista faz a curadoria e implementação sustentável de códigos e de tecnologias."
+      "feedBackSubject": "Modern Tips - Message Request",
+      "feedbackEmail": "renato.quintal@moderntips.com",
+      "calendlyLink": null,
+      "topRibbon": {
+        "text": "Let's make your business stand out?",
+        "highlight": "Click here",
+        "linkHighlight": "/#explore",
+        "arrow": true
+      },
+      "team": [
+        {
+          "img": "home-renato",
+          "name": "Renato Quintal",
+          "role": "Founder & Manager",
+          "in": "https://www.linkedin.com/in/renato-quintal-75953114b/"
+        },
+        {
+          "img": "home-ines",
+          "name": "Inês Santos",
+          "role": "Founder & CEO",
+          "in": "https://www.linkedin.com/in/in%C3%AAs-s-moderntips/"
+        },
+        {
+          "img": "home-ana",
+          "name": "Ana Martins",
+          "role": "Social Media Designer & Team Manager"
+        },
+        {
+          "img": "home-milton",
+          "name": "Milton Bolonha",
+          "role": "CRO Developer & Team Manager"
+        },
+        {
+          "img": "home-raquel",
+          "name": "Raquel Carvalho",
+          "role": "Social Media Designer"
+        },
+        {
+          "img": "home-jomari",
+          "name": "Jomari Andales",
+          "role": "CRO UI/UX Design Manager"
+        }
+      ],
+      "logosSlider": [
+        { "img": "home-logo-canva", "w": 118, "h": 42, "alt": "canva" },
+        { "img": "home-logo-clarity", "w": 124, "h": 35, "alt": "clarity" },
+        { "img": "home-logo-convert", "w": 135, "h": 35, "alt": "convert" },
+        { "img": "home-logo-figma", "w": 109, "h": 33, "alt": "figma" },
+        { "img": "home-logo-ga4", "w": 110, "h": 40, "alt": "ga4" },
+        { "img": "home-logo-ig", "w": 115, "h": 39, "alt": "ig" },
+        { "img": "home-logo-shopify", "w": 116, "h": 34, "alt": "shopify" },
+        { "img": "home-logo-vwo", "w": 75, "h": 31, "alt": "vwo" },
+        { "img": "home-logo-wc", "w": 147, "h": 34, "alt": "wc" },
+        { "img": "home-logo-wix", "w": 75, "h": 30, "alt": "wix" }
+      ],
+      "hasMenu": false,
+      "title": "Design Solutions for Real World Results",
+      "description": "Modern Tips is a strategic design agency focused on providing measurable results by optimizing our client's conversion rates and social media presence. Book your free call!",
+      "headline": "Design that has real impact",
+      "slug": "/",
+      "featureImage": "seo-img-index.jpg",
+      "secondHeadline": "Design isn't merely about creating visually appealing boards. It's about delivering tangible results for brands.",
+      "footerHighlight": {
+        "title": "Design that has real impact",
+        "paragraph": "<strong>Design isn't merely about creating visually appealing boards. it's about delivering tangible results for brands.</strong><br />",
+        "cta": false,
+        "blckBtn": "Explore our services"
+      },
+      "faq": [
+        {
+          "q": "Do we provide other services?",
+          "a": "Yes we can do any type of graphic design service, per request."
+        },
+        {
+          "q": "Who is going to be my POC during the process?",
+          "a": "The person who's going to follow your process and maintain regular contact with you, depends on the process. Renato is in charge of CRO clients and Inês is in charge of SMM clients."
+        },
+        {
+          "q": "Do you offer free consultation or audits before starting a project?",
+          "a": "When you jump on a call with us, we can make a high-level audit about your specific situation if we see that's needed. But if you need a deep audit and a comprehensive report you will have to buy our services."
+        },
+        {
+          "q": "What kind of support or maintenance do you offer post-implementation of CRO strategies or Social Media Management?",
+          "a": "Unfortanelly, we can only provide maintenance or customized support as long as we are providing the services to you. That's why we have monthly on-going services. But you can always count on Renato and Inês for business advice or any question you may have on the future."
+        }
+      ]
     },
-    "about": {
-      "title": "Sobre",
-      "slug": "about",
-      "description": "Milton Bolonha desenvolve sites desde 1998. Como especialista faz a curadoria e implementação sustentável de códigos e de tecnologias."
-    },
-    "contact": {
-      "title": "Contato",
-      "slug": "contact",
-      "description": "Fale com Milton por meio do what's (12) 98106-2959, ou e-mail: miltonbolonha@gmail.com."
-    },
-    "edu": {
-      "title": "Material Didático",
-      "slug": "edu",
-      "description": "Fale com Milton por meio do what's (12) 98106-2959, ou e-mail: miltonbolonha@gmail.com."
+    "convertion": {
+      "title": "CRO Design Solutions | Same Clicks, More Conversions",
+      "description": "Full CRO solutions for you. Whether you are a DTC, B2B or B2C brand - if your website is your storefront, we got you!",
+      "featureImage": "seo-img-cro.jpg",
+      "videoCTA": "05rrdIKq-Lg",
+      "calendlyLink": "https://calendly.com/renato-quintal/cblock-discovery",
+      "feedBackSubject": "Modern Tips - Message Request",
+      "feedbackEmail": "renato.quintal@moderntips.com",
+      "topRibbon": {
+        "text": "Increase your brand's revenue!",
+        "linkHighlight": "#pricing",
+        "highlight": "Click here",
+        "arrow": true
+      },
+      "logosSlider": [
+        { "img": "cro-logo-buddha", "w": 127, "h": 47, "alt": "buddha" },
+        { "img": "cro-logo-chipset", "w": 59, "h": 69, "alt": "chipset" },
+        {
+          "img": "cro-logo-conquest-maps",
+          "w": 137,
+          "h": 27,
+          "alt": "conquest"
+        },
+        {
+          "img": "cro-logo-creativity",
+          "w": 48,
+          "h": 49,
+          "alt": "creativity"
+        },
+        { "img": "cro-logo-excusemi", "w": 113, "h": 30, "alt": "excusemi" },
+        { "img": "cro-logo-ikea", "w": 120, "h": 43, "alt": "ikea" },
+        { "img": "cro-logo-pony", "w": 90, "h": 55, "alt": "pony" },
+        { "img": "cro-logo-stella", "w": 100, "h": 60, "alt": "stella" },
+        { "img": "cro-logo-stock", "w": 95, "h": 49, "alt": "stock" }
+      ],
+      "projects": [
+        { "img": "cro-project_1", "w": 398, "h": 299, "alt": "1" },
+        { "img": "cro-project_2", "w": 398, "h": 299, "alt": "2" },
+        { "img": "cro-project_3", "w": 398, "h": 299, "alt": "3" },
+        { "img": "cro-project_4", "w": 398, "h": 299, "alt": "4" },
+        { "img": "cro-project_5", "w": 398, "h": 299, "alt": "5" }
+      ],
+      "hasMenu": true,
+      "headline": null,
+      "secondHeadline": "<strong>We help brands converting their website visitors into actual customers</strong>Increase your conversion rates and make more money without spending more on ads",
+      "footerHighlight": {
+        "title": "CRO - Designs that sell",
+        "paragraph": "<strong>We help brands converting their website visitors into actual customers</strong><br />Increase your conversion rates and make more money without spending more on ads",
+        "cta": true,
+        "blckBtn": "Pricing"
+      },
+      "faq": [
+        {
+          "q": "What makes Modern Tips's CRO services unique?",
+          "a": "Modern Tips stands out by offering personalized CRO solutions crafted by our experienced team. We don't rely on generic templates but tailor our approach to meet the specific needs of your brand."
+        },
+        {
+          "q": "How can CRO services from Modern Tips benefit my business?",
+          "a": "Our CRO services can significantly boost your website's conversion rates, translating into increased revenue without the need for additional ad spending. It's a strategic investment in maximizing your online potential."
+        },
+        {
+          "q": "How do you ensure results for clients?",
+          "a": "With each team member boasting +7 years of expertise in design or technology, Modern Tips guarantees results through a meticulous process involving audits, top-notch design, and ongoing optimizations based on data-backed insights."
+        },
+        {
+          "q": "Can I see examples of CRO success on Modern Tips?",
+          "a": "Explore our Example Works section to witness firsthand how Modern Tips has helped clients achieve remarkable increases in conversion rates, revenue generation, and overall online success."
+        },
+        {
+          "q": "Does Modern Tips specialize in a particular industry?",
+          "a": "While many clients are from E-Commerce and SaaS sectors, Modern Tips's adaptable solutions cater to businesses from any industry or background. We understand the uniqueness of each brand."
+        },
+        {
+          "q": "What's included in the CRO Audit and Report from Modern Tips?",
+          "a": "For $499, you'll receive a personalized report with recommendations and a video briefing from our analysts. Understand your website analytics and discover actionable steps to boost your conversion rates."
+        },
+        {
+          "q": "How does Modern Tips handle Landing Page Design and Development?",
+          "a": "Starting from $2499, our team creates hyper-converting landing pages tailored to your niche. Whether launching a product or an entire E-commerce store, our unlimited revisions ensure satisfaction."
+        },
+        {
+          "q": "Tell me more about the On-Going Optimization service at Modern Tips.",
+          "a": "Our comprehensive package includes monthly audits, designs, and split tests. We guarantee a minimum 30% increase in conversion rates within the first 90 days or your money back, showcasing our commitment to ongoing success."
+        },
+        {
+          "q": "What's the process for booking services with Modern Tips?",
+          "a": "Simplified! Choose your preferred solution, book a free meeting to discuss expectations, let our team deliver tailored strategies, and witness the impact on your conversion rates."
+        },
+        {
+          "q": "How do I get started with Modern Tips's CRO services?",
+          "a": "Visit our Contact page, book a free call, and let's kickstart the journey of elevating your conversion rates and enhancing your online presence with Modern Tips's expert CRO services. We look forward to collaborating with you!"
+        },
+        {
+          "q": "How does Modern Tips ensure that CRO strategies align with my brand's unique identity?",
+          "a": "At Modern Tips, we pride ourselves on a collaborative approach. Our team takes the time to understand your brand's unique identity, values, and goals, ensuring that our CRO strategies not only boost conversion rates but also resonate with your brand."
+        },
+        {
+          "q": "Can Modern Tips integrate CRO strategies seamlessly with my existing website design?",
+          "a": "Yes, our team excels at seamless integration. Whether your website is an established platform or a recent launch, Modern Tips ensures that CRO strategies complement your existing design, providing a cohesive and engaging user experience."
+        },
+        {
+          "q": "How does ongoing communication work throughout the CRO process?",
+          "a": "Communication is key. Modern Tips maintains transparent and regular communication channels. We provide updates on progress, discuss insights, and welcome your feedback throughout the entire CRO process to ensure a collaborative and effective partnership."
+        },
+        {
+          "q": "Are Modern Tips's CRO services suitable for businesses of all sizes?",
+          "a": "Absolutely. While we have successfully worked with major E-Commerce and SaaS brands, Modern Tips's scalable solutions are tailored to businesses of all sizes. Our goal is to empower every business, regardless of scale, to achieve optimal conversion rates."
+        },
+        {
+          "q": "What sets Modern Tips apart from other CRO service providers?",
+          "a": "Modern Tips distinguishes itself through a combination of personalized strategies, a dedicated team with extensive expertise, and a commitment to tangible results. Our client-centric approach ensures that your success is at the forefront of everything we do."
+        }
+      ]
     }
   }
 }

@@ -1,28 +1,12 @@
 .main-wrapper {
-  background-attachment: fixed !important;
-  min-height: 100vh;
-  background-size: 500px 500px;
   p {
     margin: 10px auto;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 14px;
     width: 100%;
     text-align-last: center;
-    font-family: $second__font;
-    color: $brand__color;
+    font-family: $main__font;
     text-align: center;
-  }
-  h1,
-  h2 {
-    color: black;
-    text-align: center;
-    font-size: 26px;
-    font-family: $third__font;
-    margin: 15px 0;
-    padding-top: 3px;
-  }
-  h2 {
-    font-size: 18px;
   }
   .main-wrapper-inner {
     &.boxed-column-child {

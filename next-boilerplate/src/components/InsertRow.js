@@ -10,8 +10,10 @@ const InsertRow = ({
   bgParent,
   alignTo,
   rowClass,
+  id,
 }) => (
   <div
+    id={id}
     className={`${rowClass} ${classes} ${alignTo} responsive-padding`}
     style={{
       backgroundImage: bgParent,

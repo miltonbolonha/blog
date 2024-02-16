@@ -7,6 +7,7 @@ const MainMenuContainer = ({
   mainMenuItems,
   refState,
   handleRefState,
+  pathname,
 }) => {
   const isVisibleClass = !refState ? "visible" : "not-visible";
   const navClasses = isMobile
@@ -15,8 +16,8 @@ const MainMenuContainer = ({
   const labelledby = isMobile ? "check-toggle-icon" : null;
   return (
     <>
-      <div onFocus={handleRefState}>
-      </div>
+      <div className='overlay menu-overlay' onClick={handleRefState}></div>
+
       <nav
         className={navClasses}
         ref={wrapperRef}
@@ -33,7 +34,13 @@ const MainMenuContainer = ({
           {mainMenuItems?.map((listMobile, indxMobile) => {
             const y = 1 + indxMobile;
             return (
-              <MainMenuList list={listMobile} key={y} isMobile={isMobile} />
+              <MainMenuList
+                list={listMobile}
+                key={y}
+                isMobile={isMobile}
+                handleRefState={handleRefState}
+                pathname={pathname}
+              />
             );
           })}
         </ul>

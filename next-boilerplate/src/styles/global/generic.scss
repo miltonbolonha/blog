@@ -99,6 +99,8 @@ button,
 ul,
 li {
   outline: none;
+  font-family: $main__font, $alternative__font;
+  hyphens: manual;
 }
 input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-cancel-button,
@@ -165,4 +167,7 @@ img {
 code {
   font-size: 13px;
   font-weight: 600;
+}
+video {
+  pointer-events: none;
 }

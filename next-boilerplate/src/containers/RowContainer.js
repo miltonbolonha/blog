@@ -1,7 +1,7 @@
 import React from "react";
 import InsertRow from "../components/InsertRow";
 const Row = ({ opt, children, content }) => {
-  const rowClass = opt.isBoxed ? "boxed-column" : "full-width-row";
+  const rowClass = opt?.isBoxed ? "boxed-column" : "full-width-row";
   const alignTo = opt.alignTo ? `align-to-${opt.alignTo}` : "";
   const templateColumns = `repeat(${opt.numColumns || "1"}, ${
     opt.widthColumns || "1fr"
@@ -25,6 +25,7 @@ const Row = ({ opt, children, content }) => {
       bgParent={bgParent}
       alignTo={alignTo}
       rowWidth={opt.rowWidth}
+      id={opt.id}
     >
       {children}
     </InsertRow>

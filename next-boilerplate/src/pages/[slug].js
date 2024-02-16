@@ -11,26 +11,26 @@ export default Post;
 
 export const getStaticProps = async context => {
   if (!context) {
-    throw new Error("Não tem !context!");
+    throw new Error("Error: No !context!");
   }
   if (!context.params) {
-    throw new Error("Não tem !context.params!");
+    throw new Error("Error: No !context.params!");
   }
 
   const slug = context.params.slug;
   if (!slug) {
-    throw new Error("Não tem !slug!");
+    throw new Error("Error: No !slug!");
   }
   const post = getPostBySlug(slug);
 
   const content = post ? await markdownToHtml(post.content || "") : null;
   if (!content) {
-    throw new Error("Não tem !content!");
+    throw new Error("Error: No !content!");
   }
   // get prev/next posts
   const allPosts = getAllPosts();
   if (!allPosts) {
-    throw new Error("Não tem !allPosts!");
+    throw new Error("Error: No !allPosts!");
   }
   const currentAllPostIndex = allPosts.filter(
     p => p?.frontmatter.layout === "post"

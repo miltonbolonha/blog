@@ -1,4 +1,5 @@
 import React from "react";
+
 import Row from "../containers/RowContainer";
 import Image from "next/image";
 import Link from "next/link";
@@ -7,86 +8,91 @@ import MainMenuContainer from "../containers/MainMenuContainer";
 
 const Header = ({
   refState,
-  menuActive,
   wrapperRef,
   bgOne,
-  bgTwo,
-  mainMenuStatus,
   hasMenu,
-  mainMenuItems,
   mainMenu,
-  logo,
   logotype,
-  logoImage,
   handleRefState,
-  setTheme,
-  theme,
+  scheduleLink,
+  gtag,
+  gtagCounter,
+  pathname,
 }) => {
+  const firstBtn = pathname === "convertion" ? "pricing" : "project-results";
   return (
     <header>
-      <div className='toggle-dark-mode'>
-        <button
-          onClick={() => setTheme("light")}
-          className={theme === "light" ? "active" : ""}
-        >
-          <Image
-            src={"/brandimages/light-mode.svg"}
-            alt={"Light Mode"}
-           
-            critical='true'
-            className={""}
-            width={30}
-            height={30}
-          />
-        </button>
-        <button
-          onClick={() => setTheme("dark")}
-          className={theme === "dark" ? "active" : ""}
-        >
-          {" "}
-          <Image
-            src={"/brandimages/dark-mode.svg"}
-            alt={"Dark Mode"}
-           
-            critical='true'
-            width={30}
-            height={30}
-          />
-        </button>
-      </div>
       <Row
         opt={{
           isBoxed: false,
           bgColor: bgOne,
-          classes: "main-header",
+          classes: `main-header ${hasMenu ? "full-menu" : ""}`,
           numColumns: 3,
         }}
       >
-        {" "}
-        <Link href='/' passHref>
-          <span className='left-gray-circle' />{" "}
-        </Link>
         <Row opt={{ isBoxed: false, classes: "header-logo" }}>{logotype}</Row>
-        {hasMenu && mainMenuStatus === true ? (
-          <>
-            {/* <div className='desktop-only'>
-              <MainMenuContainer
-                wrapperRef={wrapperRef}
-                refState={refState}
-                mainMenuStatus={mainMenuStatus}
-                isMobile={false}
-                mainMenuItems={mainMenu}
-              />
-            </div> */}
 
+        {hasMenu === true ? (
+          <>
+            <ul className='main-menu-list desktop-only'>
+              <li>
+                <Link
+                  id={`${pathname}-menu-${firstBtn}`}
+                  onClick={() => gtagCounter(`${pathname}-menu-${firstBtn}`)}
+                  alt={firstBtn}
+                  href={`#${firstBtn}`}
+                >
+                  {pathname === "convertion" ? "Pricing" : "Results"}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href='#process'
+                  onClick={() => gtagCounter(`${pathname}-menu-process`)}
+                  alt={"Process"}
+                >
+                  Process
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href='#benefits'
+                  onClick={() => gtagCounter(`${pathname}-menu-benefits`)}
+                  alt={"Benefits"}
+                >
+                  Benefits
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href='/#explore'
+                  onClick={() => gtagCounter(`${pathname}-menu-services`)}
+                  alt={"Benefits"}
+                >
+                  Services
+                </Link>
+              </li>
+            </ul>
             <div
               className={`main-header-${!refState ? "visible" : "not-visible"}`}
             >
-              <div className='header-columns toggle-menu'>
+              <a
+                href={scheduleLink}
+                className='whiteBtn'
+                rel='nofollow noopener'
+                id={gtag}
+                onClick={() => gtagCounter(`${pathname}-menu-schedule`)}
+                alt={"Schedule a consultation"}
+                target='_blank'
+              >
+                Schedule a consultation
+              </a>
+              <div className='header-columns toggle-menu mobile-only'>
                 <button
                   type='button'
                   id='check-toggle-icon'
-                  onClick={handleRefState}
+                  onFocus={handleRefState}
+                  onClick={() => gtagCounter(`${pathname}-menu-schedule`)}
                   aria-haspopup='true'
                   aria-controls='mainmenu'
                   aria-expanded={refState}
@@ -96,16 +102,16 @@ const Header = ({
                   }`}
                 >
                   <Image
-                    src={"/brandimages/door.png"}
+                    src={"/brandimages/hamburguer.png"}
                     alt={"Open Menu"}
-                   
                     critical='true'
-                    width={15}
-                    height={30}
+                    width={27}
+                    height={18}
                   />
                 </button>
               </div>
             </div>
+
             <div
               className={`main-menu main-menu-${
                 !refState ? "visible" : "not-visible"
@@ -114,10 +120,10 @@ const Header = ({
               <MainMenuContainer
                 wrapperRef={wrapperRef}
                 refState={refState}
-                mainMenuStatus={mainMenuStatus}
                 isMobile={false}
                 mainMenuItems={mainMenu}
                 handleRefState={handleRefState}
+                pathname={pathname}
               />
             </div>
           </>

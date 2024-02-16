@@ -5,29 +5,20 @@ import RowContainer from "../containers/RowContainer";
 
 const MainWrapper = ({
   children,
-  bgImg,
-  darkBgImg,
   hasHeader,
   hasMenu,
-  isDarkLogo,
-  theme,
-  rowWidth,
+  scheduleLink,
+  gtag,
+  gtagCounter,
 }) => (
   <>
-    <div
-      className={"main-wrapper"}
-      style={{
-        backgroundImage: `url(${theme !== "dark" ? bgImg : darkBgImg})`,
-        backgroundRepeat: "repeat",
-        backgroundSize: "500px 500px",
-      }}
-    >
+    <div className={"main-wrapper"}>
       <RowContainer
         opt={{
           classes: "main-wrapper-inner",
-          isBoxed: true,
-          bgColor: "#fff",
-          rowWidth: rowWidth,
+          isBoxed: false,
+          bgColor: "#000",
+          rowWidth: "100%",
         }}
       >
         {hasHeader !== false ? (
@@ -38,10 +29,13 @@ const MainWrapper = ({
               bgOne: "transparent",
               bgTwo: "transparent",
               classes: "header-block",
-              hasMenu: hasMenu,
-              isDarkLogo: isDarkLogo,
+              pageHasMenu: hasMenu,
             }}
             mainMenu={mainConfigs.menu.items}
+            hasMenu={hasMenu}
+            scheduleLink={scheduleLink}
+            gtag={gtag}
+            gtagCounter={gtagCounter}
           />
         ) : null}
 

@@ -1,18 +1,17 @@
 /** @type {import('next').NextConfig} */
-const isGithubPages = process.env.GITHUB_PAGES || false;
-const repoName = "next-boilerplate";
+
+const isProd = process.env.NODE_ENV === "production";
+const imgsPath = isProd ? process.env.WEBSITE_URL : "";
 const nextConfig = {
   reactStrictMode: true,
   output: "export",
   trailingSlash: true,
-  basePath: isGithubPages ? `/${repoName}` : undefined,
+  assetPrefix: isProd ? process.env.WEBSITE_URL : "",
   images: {
+    deviceSizes: [350, 480, 640, 768, 960, 1250, 2048],
     loader: "custom",
     loaderFile: "./src/containers/imgLoaderContainer.js",
-  },
-  env: {
-    IS_GITHUB_PAGE: isGithubPages,
-    THEME_FOLDER: repoName,
+    formats: ["image/webp"],
   },
 };
 

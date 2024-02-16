@@ -1,12 +1,12 @@
 {
   "name": "next-boilerplate-workspace",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "workspaces": [
     "next-boilerplate"
   ],
   "private": false,
-  "description": "Bolonha Conversas NextJS Theme",
-  "author": "Bolonha Conversas <miltonbolonha@gmail.com>",
+  "description": "Modern Tips NextJS Theme",
+  "author": "Modern Tips <ines.santos@moderntips.com>",
   "keywords": [
     "nextjs workspace",
     "workspace engine",
@@ -16,7 +16,7 @@
     "nextjs layout",
     "nextjs builder",
     "nextjs theme boilerplate",
-    "nextjs theme Bolonha Conversas",
+    "nextjs theme Modern Tips",
     "layout builder",
     "seo",
     "builder"
@@ -25,12 +25,13 @@
     "build": "npm run build -w next-boilerplate",
     "serve": "npm run serve -w next-boilerplate",
     "clean": "npm run clean -w next-boilerplate",
+    "emails": "echo './next-boilerplate/content/emails/index.mjml' && mjml ./next-boilerplate/content/emails/index.mjml -o ./next-boilerplate/content/emails/index.html",
     "develop": "npm run dev --workspace=next-boilerplate",
     "dev": "npm run dev --workspace=next-boilerplate"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miltonbolonha/next-boilerplate"
+    "url": "git+https://github.com/miltonbolonha/creativity-block"
   },
   "license": "MIT",
   "publishConfig": {
@@ -38,6 +39,6 @@
     "@nuktpls:registry": "https://npm.pkg.github.com"
   },
   "bugs": {
-    "url": "https://github.com/miltonbolonha/next-boilerplate/issues"
+    "url": "https://github.com/miltonbolonha/creativity-block/issues"
   }
 }

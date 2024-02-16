@@ -5,20 +5,26 @@
     "items": [
       {
         "item": {
-          "label": "Home",
-          "to": "/"
+          "label": "convertion:Pricing,socialmedia:Results",
+          "anchor": "convertion:#pricing,socialmedia:#project-results"
         }
       },
       {
         "item": {
-          "label": "O Autor",
-          "to": "/about"
+          "label": "Process",
+          "to": "/socialmedia/#process"
         }
       },
       {
         "item": {
-          "label": "Contato",
-          "to": "/contact"
+          "label": "Benefits",
+          "to": "/socialmedia/#benefits"
+        }
+      },
+      {
+        "item": {
+          "label": "Services",
+          "to": "/#explore"
         }
       }
     ]

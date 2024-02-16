@@ -1,17 +1,18 @@
 import React from "react";
 import SEO from "../components/SEO";
+import Head from "next/head";
 
 const SeoContainer = ({ data, killSeo = true }) => {
-  const isBrowser = () => typeof window !== "undefined";
-  if (!isBrowser) {
-    return null;
-  }
+  // const isBrowser = () => typeof window !== "undefined";
+  // if (!isBrowser) {
+  //   return null;
+  // }
   if (killSeo) {
     return (
-      <SEO>
+      <Head>
         <title>NO SEO</title>
         <meta name='robots' content={"noindex, nofollow"} />
-      </SEO>
+      </Head>
     );
   }
   const authorType =
@@ -54,7 +55,7 @@ const SeoContainer = ({ data, killSeo = true }) => {
       copyrightYear: new Date().getFullYear(),
       datePublished: data?.dateCreated,
       dateModified: data?.dateNow,
-      image: data?.brandCardImage || data?.featuredImage,
+      image: data?.featuredImage || data?.brandCardImage,
       sameAs: socialValues,
     },
   ];
@@ -68,16 +69,16 @@ const SeoContainer = ({ data, killSeo = true }) => {
       description: data?.description,
       author: {
         "@type": authorType,
-        name: data?.author,
+        name: data?.brandPerson,
         url: data?.siteUrl,
       },
       image: {
         "@type": "ImageObject",
-        url: data?.brandCardImage || data?.featuredImage,
-        height: 156,
-        width: 60,
+        url: data?.featuredImage || data?.brandCardImage,
+        height: 1200,
+        width: 630,
       },
-      articleBody: data?.articleBody,
+      articleBody: data?.articleBody || data?.description,
       publisher: {
         "@type": "Organization",
         name: data?.brandName,
@@ -86,20 +87,21 @@ const SeoContainer = ({ data, killSeo = true }) => {
           "@type": "ImageObject",
           url: data?.brandLogo,
           width: 156,
-          height: 60,
+          height: 156,
         },
       },
       datePublished: data?.datePublished,
     },
   ];
+
   let arrayQuestions = [];
   data?.questions?.forEach(question => {
     return arrayQuestions.push({
       "@type": "Question",
-      name: question[0],
+      name: question.q,
       acceptedAnswer: {
         "@type": "Answer",
-        text: `<p>${question[1]}</p>`,
+        text: `<p>${question.a}</p>`,
       },
     });
   });
@@ -143,6 +145,7 @@ const SeoContainer = ({ data, killSeo = true }) => {
         webSiteSchema: webSiteSchema,
         orgSchema: orgSchema,
         questionSchema: questionSchema,
+        brandPerson: data?.brandPerson,
       }}
     />
   );

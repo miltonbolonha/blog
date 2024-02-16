@@ -1,6 +1,6 @@
 {
   "name": "next-boilerplate",
-  "version": "0.6.0",
+  "version": "1.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,24 +10,34 @@
     "preview": "next build && next start"
   },
   "dependencies": {
-    "@fontsource/varela": "^5.0.8",
     "@fontsource-variable/dosis": "^5.0.8",
+    "@fontsource-variable/inter": "^5.0.16",
     "@fontsource-variable/josefin-sans": "^5.0.9",
+    "@fontsource/varela": "^5.0.8",
+    "@netlify/emails": "^1.1.0",
+    "@next/third-parties": "^14.1.0",
+    "cross-fetch": "^4.0.0",
     "date-fns": "^3.1.0",
+    "graceful-fs": "^4.2.11",
     "gray-matter": "^4.0.3",
     "lodash": "^4.17.21",
+    "mjml": "^4.14.1",
+    "moment": "^2.30.1",
     "next": "^14.0.4",
     "next-seo": "^6.4.0",
     "next-themes": "^0.2.1",
-    "nextjs-progressbar": "^0.0.16",
+    "node-fs": "^0.1.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-slick": "^0.29.0",
     "remark": "^14.0.3",
     "remark-autolink-headings": "^7.0.1",
     "remark-html": "^15.0.2",
     "remark-oembed": "^1.2.2",
     "remark-slug": "^7.0.1",
-    "slugify": "^1.6.6"
+    "slugify": "^1.6.6",
+    "universal-cookie": "^7.0.1",
+    "vanilla-masker": "^1.2.0"
   },
   "devDependencies": {
     "eslint": "8.56.0",

@@ -26,16 +26,16 @@
       a {
         font-size: 20px;
         font-weight: 600;
-        font-family: $second__font;
+        font-family: $main__font;
         line-height: 33px;
         border: 2px solid transparent;
         padding: 3px 10px;
         border-radius: 3px;
         margin: 0 10px;
         &:hover {
-          border-bottom: 3px solid $link__color;
-          background: $cta__colorLink;
-          color: $cta__color;
+          border-bottom: 3px solid $primary__colorTwo;
+          background: $primary__colorTwo;
+          color: $primary_light;
         }
         &.active {
           color: #1f98eb;
@@ -43,7 +43,7 @@
             color: $primary_light;
           }
         }
-        color: $brand_black__color;
+        color: $grayscale_500__color;
         text-shadow: unset;
       }
     }
@@ -52,4 +52,10 @@
 
 .main-nav {
   position: relative;
+}
+
+.menu-overlay {
+  display: flex;
+  z-index: 1 !important;
+  cursor: pointer;
 }

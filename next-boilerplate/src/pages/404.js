@@ -6,9 +6,9 @@ import Image from "next/image";
 import { slugPrefix } from "../lib/utils";
 import mainConfigs from "../configs/main-infos.json";
 const infos = {
-  slug: mainConfigs.pages.about.slug,
-  title: `${mainConfigs.pages.about.title} - ${mainConfigs.business.brandName}`,
-  description: mainConfigs.pages.about.description,
+  slug: "404",
+  title: `Error Page - ${mainConfigs.business.brandName}`,
+  description: "This is a 404 error page.",
   author: mainConfigs.website.author,
   siteUrl: mainConfigs.website.siteUrl,
   brandName: mainConfigs.business.brandName,
@@ -23,14 +23,13 @@ const infos = {
   keywords: mainConfigs.website.keywords,
   questions: mainConfigs.website.questions,
   topology: "pages",
-  articleUrl: `${mainConfigs.website.siteUrl}/${mainConfigs.pages.about.slug}`,
-  themeColor: "#d3d3d3",
+  articleUrl: `${mainConfigs.website.siteUrl}/404`,
+  themeColor: "#f26500",
   sameAs: mainConfigs.business.sameAs,
   twitter: mainConfigs.business.twitterCard,
-}
+};
 const NotFoundPage = () => (
-  <MainWrapperContainer rowWidth={960} killSeo={false}
-  data={infos}>
+  <MainWrapperContainer rowWidth={"100%"} killSeo={false} data={infos}>
     <h2>Erro: 404</h2>
     <div className='wrapper-box'>
       <Row opt={{ isBoxed: true }}>
@@ -62,7 +61,7 @@ const NotFoundPage = () => (
           <h2>Contato</h2>
           <p>
             Fale com a gente por meio do e-mail:{" "}
-            <strong>miltonbolonha@gmail.com</strong>
+            <strong>ines.santos@moderntips.com</strong>
           </p>
         </div>
       </Row>

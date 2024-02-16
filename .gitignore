@@ -14,6 +14,13 @@ next-boilerplate/.next/
 next-boilerplate/out/
 .next/
 
+# github workspaces
+../../node_modules
+/next-boilerplate/node_modules
+../out
+/next-boilerplate/out
+../.next
+/next-boilerplate/.next
 
 # production
 /build
@@ -27,9 +34,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# local env files
-.env*.local
+#  local env files
+.env.*
+!.env.example
 /next-boilerplate/.env*
+/next-boilerplate/.env.local
+.env.local
 !/next-boilerplate/.env.local.example
 
 # vercel
@@ -40,10 +50,5 @@ yarn-error.log*
 next-env.d.ts
 node_modules
 
-# github workspaces
-../../node_modules
-/next-boilerplate/node_modules
-../out
-/next-boilerplate/out
-../.next
-/next-boilerplate/.next
+# Local Netlify folder
+.netlify

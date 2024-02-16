@@ -1,10 +1,10 @@
 /*
 Theme Name: Next Boilerplate
-Theme URI: https://miltonbolonha.com.br
-Description: Website feito em NextJS.
+Theme URI: miltonbolonha@gmail.com
+Description: NextJS Website.
 Author: Milton Bolonha
 Template: Next Boilerplate
-Version: 0.6.0
+Version: 1.1.0
 */
 
 /*--------------------------------------------------------------
@@ -18,6 +18,7 @@ Version: 0.6.0
 --------------------------------------------------------------*/
 
 @import "global/vars";
+@import "helpers/responsive";
 
 /*--------------------------------------------------------------
 1.0 Basic settings
@@ -25,23 +26,17 @@ Version: 0.6.0
 
 @import "global/generic";
 @import "global/base";
-
-/*--------------------------------------------------------------
-2.0 Pages
---------------------------------------------------------------*/
-
-@import "pages/index";
-@import "pages/link-tree";
+@import "components/row";
+@import "components/main-wrapper";
 
 /*--------------------------------------------------------------
 3.0 Components
 --------------------------------------------------------------*/
 
-@import "components/row";
 @import "components/buttons";
 @import "components/header";
 @import "components/footer";
-@import "components/main-wrapper";
+@import "components/top-ribbon";
 
 /*--------------------------------------------------------------
 4.0 Modules
@@ -52,8 +47,13 @@ Version: 0.6.0
 @import "modules/single-post";
 
 /*--------------------------------------------------------------
+2.0 Pages
+--------------------------------------------------------------*/
+
+@import "pages/index";
+
+/*--------------------------------------------------------------
 5.0 Helpers & Fixes
 --------------------------------------------------------------*/
 
-@import "helpers/responsive";
 @import "helpers/helpers";
