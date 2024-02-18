@@ -23,16 +23,3 @@
     }
   }
 }
-.wrapper-box {
-  border-radius: 10px;
-  border: 2px solid black;
-  margin: 10px 20px;
-  padding: 10px 20px;
-}
-
-.wrapper-box.post {
-  padding: 0;
-  .post-container.boxed-column {
-    padding: 0;
-  }
-}

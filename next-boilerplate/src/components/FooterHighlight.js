@@ -35,7 +35,7 @@ const FooterHighlight = ({
             <span>
               <Image
                 src={"/brandimages/right-arrow.png"}
-                alt={"The Five Stars Agency"}
+                alt={"Modern way to find your trend topics."}
                 width={22}
                 height={22}
                 unoptimized
@@ -56,7 +56,7 @@ const FooterHighlight = ({
             <span>
               <Image
                 src={"/brandimages/right-arrow.png"}
-                alt={"The Five Stars Agency"}
+                alt={"Modern way to find your trend topics."}
                 width={22}
                 height={22}
                 unoptimized

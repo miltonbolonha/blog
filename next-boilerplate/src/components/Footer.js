@@ -15,51 +15,29 @@ const Footer = ({ label, link }) => {
               height={52}
             />
           </a>
-          <a
-            href='https://www.linkedin.com/company/creativityblk/'
-            rel='nofollow noreferrer noopener'
-            target='_blank'
-            alt='CB LinkedIn'
-          >
-            <Image
-              src={"/brandimages/linkedin.png"}
-              alt={"creativityblk"}
-              width={22}
-              height={22}
-            />
-          </a>
-          <a
-            href='https://www.instagram.com/the.moderntips/'
-            rel='nofollow noreferrer noopener'
-            target='_blank'
-            alt='CN Instagram'
-          >
-            <Image
-              src={"/brandimages/instagram.png"}
-              alt={"the.moderntips"}
-              width={22}
-              height={22}
-            />
-          </a>
-          <a
-            href='https://www.tiktok.com/@creativityblk'
-            rel='nofollow noreferrer noopener'
-            target='_blank'
-            alt='CB TikTok'
-          >
-            <Image
-              src={"/brandimages/tiktok.png"}
-              alt={"@creativityblk"}
-              width={22}
-              height={22}
-            />
-          </a>
         </div>
         <div className='right footer-bottom'>
           <a href={link}>{label}</a>
-          <p>Portugal</p>
+          <a href={link}>{label}</a>
+          <a href={link}>{label}</a>
         </div>
       </Row>
+      <div className='bottom'>
+        <hr />
+        <p>
+          <small>
+            Disclaimer: The content provided on this site is intended for
+            general information purposes only and should not be considered a
+            replacement for professional financial and/or medical advice. All
+            materials, including text, graphics, images, and information, are
+            subject to change without prior notice. The information, materials,
+            terms, conditions, and descriptions presented on these pages are
+            subject to change without prior notice.
+          </small>
+        </p>
+        <br />
+        <p>© 2024 Modern Tips. All Rights Reserved.</p>
+      </div>
     </footer>
   );
 };

@@ -1,8 +1,9 @@
 import React, { useRef, useState, useEffect } from "react";
 // import Head from "next/head";
+import Link from "next/link";
 import { usePathname } from "next/navigation";
 import BlogList from "../templates/blog-list";
-import { getAllPosts, slugPrefix } from "../lib/api";
+import { getAllPosts } from "../lib/api";
 
 // import Slider from "react-slick";
 import Image from "next/image";
@@ -24,9 +25,6 @@ const index = mainConfigs?.pages?.index;
 const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
-const homeLogos = index?.logosSlider;
-const homeTeam = index?.team;
-
 const infos = {
   slug: index?.slug,
   title: `${index?.title} - ${business.brandName}`,
@@ -38,9 +36,9 @@ const infos = {
   brandEmail: business.brandEmail,
   brandPhone: business.brandPhone,
   brandDescription: business.brandDescription,
-  brandLogo: `${website.siteUrl}${slugPrefix}/${business.brandLogo}`,
-  brandCardImage: `${website.siteUrl}${slugPrefix}/brandimages/pages/${business.brandCardImage}`,
-  featuredImage: `${website.siteUrl}${slugPrefix}/brandimages/pages/${index.featureImage}`,
+  brandLogo: `${website.siteUrl}/${business.brandLogo}`,
+  brandCardImage: `${website.siteUrl}/brandimages/pages/${business.brandCardImage}`,
+  featuredImage: `${website.siteUrl}/brandimages/pages/${index.featureImage}`,
   datePublished: website.datePublished,
   i18n: website.i18n,
   keywords: website.keywords,
@@ -51,134 +49,11 @@ const infos = {
   sameAs: business.sameAs,
   twitter: business.shortName,
 };
-const logoSettings = {
-  dots: false,
-  arrows: false,
-  pauseOnHover: false,
-  draggable: false,
-  swipe: false,
-  infinite: true,
-  autoplay: true,
-  speed: 1000,
-  autoplaySpeed: 2500,
-  slidesToShow: 7,
-  slidesToScroll: 1,
-  responsive: [
-    {
-      breakpoint: 1024,
-      settings: {
-        slidesToShow: 7,
-      },
-    },
-    {
-      breakpoint: 960,
-      settings: {
-        slidesToShow: 5,
-      },
-    },
-    {
-      breakpoint: 768,
-      settings: {
-        slidesToShow: 3,
-      },
-    },
-    {
-      breakpoint: 560,
-      settings: {
-        slidesToShow: 2,
-      },
-    },
-  ],
-};
 
-const testimonialSettings = {
-  dots: false,
-  arrows: false,
-  pauseOnHover: true,
-  draggable: true,
-  swipe: true,
-  infinite: true,
-  autoplay: true,
-  slidesToShow: 2,
-  slidesToScroll: 1,
-  variableWidth: false,
-  centerMode: false,
-  responsive: [
-    {
-      breakpoint: 720,
-      settings: {
-        slidesToShow: 1,
-        centerPadding: 30,
-      },
-    },
-  ],
-};
-
-const teamSettings = {
-  dots: true,
-  arrows: true,
-  pauseOnHover: true,
-  infinite: false,
-  draggable: true,
-  swipe: true,
-  autoplay: true,
-  autoplaySpeed: 6000,
-  initialSlide: 0,
-  slidesToShow: 3,
-  slidesToScroll: 1,
-  centerMode: false,
-  rows: 1,
-  // centerPadding: 70,
-  variableWidth: true,
-  responsive: [
-    {
-      breakpoint: 960,
-      settings: {
-        slidesToShow: 2,
-      },
-    },
-    {
-      breakpoint: 520,
-      settings: {
-        centerPadding: 20,
-        slidesToShow: 1,
-      },
-    },
-  ],
-  appendDots: dots => (
-    <div
-      style={{
-        position: "absolute",
-        left: "-120px",
-        top: "-40px",
-        width: "500px",
-        height: "50px",
-      }}
-    >
-      <ul style={{ margin: "0px" }}> {dots} </ul>
-    </div>
-  ),
-  customPaging: i => (
-    <div
-      style={{
-        width: "20px",
-        height: "2px",
-        background: "rgba(255,255,255,0.5)",
-        margin: "0 8px",
-      }}
-      className='zuming'
-    ></div>
-  ),
-};
-const Home = () => {
+const Home = ({ posts }) => {
   const [btnGClick, useBtnGClick] = useState(null);
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
 
-  // const gCount = id => {
-  //   if (typeof window !== "undefined") {
-  //     useBtnGClick(id);
-  //   }
-  // };
   const gtagCounter = id => {
     if (btnGClick === null && typeof window !== "undefined") {
       window?.gtag("event", id);
@@ -189,14 +64,7 @@ const Home = () => {
   return (
     <div className='index-page'>
       <SeoContainer killSeo={false} data={infos} />
-      {/* <TopRibbonContainer
-        text={index?.topRibbon?.text}
-        highlight={index?.topRibbon?.highlight}
-        linkHighlight={index?.topRibbon?.linkHighlight}
-        arrow={true}
-        gtagCounter={gtagCounter}
-        id='home-btn-topribbon'
-      /> */}
+
       <HeaderContainer
         opt={{
           bgOne: "transparent",
@@ -205,70 +73,84 @@ const Home = () => {
           pageHasMenu: index?.hasMenu,
         }}
         mainMenu={mainMenu.menu.items}
-        hasMenu={index?.hasMenu}
+        hasMenu={false}
+        // hasMenu={index?.hasMenu}
         scheduleLink={index.calendlyLink}
         gtag={"gtag"}
         gtagCounter={gtagCounter}
         pathname={pathname}
       />
-      <div className={"isBoxed main-wrapper hero highlight-info"}>
-        <p className='five-stars-wrapper'>
+      <div className='hero-wrapper'>
+        <div className='hero search-hero'>
           <Image
-            src={"/brandimages/five-white-stars.png"}
-            alt={"The Five Stars Agency"}
-            className={"five-stars"}
-            width={90}
-            height={18}
+            src={`/brandimages/hero-img.jpg`}
+            alt={"Modern Tips hero image"}
+            width={1024}
+            height={650}
+            className='hero-img'
           />
-          {` `}
-          Rated 4.9/5 by 300+ Satisfied Clients!
-        </p>
-        <h1
-          className='graydient'
-          dangerouslySetInnerHTML={{
-            __html: index?.headline,
-          }}
-        />
-        <p className='main-paragraph'>
-          <strong
-            dangerouslySetInnerHTML={{
-              __html: index?.secondHeadline,
-            }}
-          />
-        </p>
-        <a
-          id='home-btn-servicestop'
-          href='/#explore'
-          alt='Explore Our Services Now'
-          className={"cta"}
-          onClick={() => gtagCounter("home-btn-servicestop")}
-        >
-          Explore Our Services Now!
-          <span>
-            <Image
-              src={"/brandimages/right-arrow.png"}
-              alt={"Explore Our Services Now"}
-              width={21}
-              height={21}
-              unoptimized
-            />
-          </span>
-        </a>
-      </div>
-      {/* <main className='main-container'></main> */}
-
-      <h2>Lista: {mainConfigs?.pages?.index.title}</h2>
-      <div className='wrapper-box'>
-        <div className='post'>
-          <BlogList posts={posts} />
+          <div className='row-config inner-hero'>
+            <h1>Get in touch</h1>
+            <p>A modern way to find your trend topics.</p>
+            <form action='#' method='post'>
+              <input
+                type='text'
+                name='something'
+                id='here'
+                placeholder='Ribeirão Preto Living Room...'
+              />
+              <input type='submit' value='search' />
+            </form>
+            {/* 
+          <a href='#' target='_blank' rel='noopener noreferrer'>
+            Trend me now
+          </a> */}
+          </div>
         </div>
       </div>
 
-      <FooterContainer
-        label='generalmoderntips.com'
-        link='https://generalmoderntips.com'
-      />
+      <main className='main-container-wrapper'>
+        <div className='main-container'>
+          {/* <div className='post highlight-01 news-grid'>
+            <Link href={"/"} passHref className='post-link'>
+              <Image
+                src={`/brandimages/hero-img.jpg`}
+                alt={"title"}
+                width={280}
+                height={150}
+                unoptimized
+              />
+            </Link>
+            <div className='main-post-inner'>
+              <Link href={"/cat"} passHref className='post-category'>
+                Category
+              </Link>
+              <Link href={"/"} passHref className='post-link'>
+                <h1 className=''>News here more then words</h1>
+              </Link>
+            </div>
+          </div> */}
+
+          <div className='news-grid'>
+            {/* {console.log(posts)} */}
+            <BlogList posts={posts} postsToShow={website.postsToShow} />
+          </div>
+        </div>
+      </main>
+
+      <div className='wrapper-box'></div>
+      <div className='footer-wrapper'>
+        <FooterContainer label='moderntips.com' link='https://moderntips.com' />
+      </div>
     </div>
   );
 };
 export default Home;
+export async function getStaticProps() {
+  const posts = getAllPosts();
+  return {
+    props: {
+      posts,
+    },
+  };
+}

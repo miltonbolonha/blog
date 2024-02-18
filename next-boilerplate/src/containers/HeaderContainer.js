@@ -40,7 +40,7 @@ const HeaderContainer = ({
           critical='true'
           className={"main-logo"}
           width={183}
-          height={50}
+          height={32}
         />
       </Link>
       <Link
@@ -50,12 +50,12 @@ const HeaderContainer = ({
         id={"small-logo-link"}
       >
         <Image
-          src={"/logomark.png"}
+          src={opt.isDarkLogo ? logoImage : logoLightImage}
           alt={"Modern Tips"}
           critical='true'
           className={"main-logo"}
-          width={35}
-          height={35}
+          width={183}
+          height={32}
         />
       </Link>
     </>

@@ -1,6 +1,6 @@
 .full-width-row {
   .full-width-content {
-    max-width: $boxedDesktop__maxWidth;
+    max-width: $page__size;
     margin: 0 auto;
   }
 }
@@ -21,7 +21,7 @@
     margin: 0 auto;
   }
   .boxed-column-child {
-    max-width: $boxedDesktop__maxWidth;
+    max-width: $page__size;
     margin: 0 auto;
     overflow: hidden;
   }

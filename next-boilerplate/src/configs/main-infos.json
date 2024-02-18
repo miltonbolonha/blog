@@ -7,6 +7,7 @@
     "author": "Modern Tips",
     "i18n": "en-US",
     "themeColor": "#f26500",
+    "postsToShow": 9,
     "keywords": ["Modern Tips"],
     "questions": [
       "What is Modern Tips?:Modern Tips is a strategic design agency."
@@ -16,13 +17,13 @@
     "successMessage": "Thank you for your message. We will reach you soon."
   },
   "business": {
-    "gaID": "G-PRQQEHRZR0",
+    "gaID": "G-LPW4K8F19G",
     "brandPerson": "Modern Tips",
-    "shortName": "creativityblk",
+    "shortName": "moderntips",
     "brandName": "Modern Tips",
     "brandEmail": "general@moderntips.com",
     "brandLogo": "logomark.png",
-    "brandPhone": "+351",
+    "brandPhone": "+1",
     "brandDescription": "Modern Tips is a strategic design agency focused on providing measurable results by optimizing our client's conversion rates and social media presence.",
     "brandCardImage": "seo-img-index.jpg",
     "sameAs": {
@@ -53,54 +54,8 @@
         "linkHighlight": "/#explore",
         "arrow": true
       },
-      "team": [
-        {
-          "img": "home-renato",
-          "name": "Renato Quintal",
-          "role": "Founder & Manager",
-          "in": "https://www.linkedin.com/in/renato-quintal-75953114b/"
-        },
-        {
-          "img": "home-ines",
-          "name": "Inês Santos",
-          "role": "Founder & CEO",
-          "in": "https://www.linkedin.com/in/in%C3%AAs-s-moderntips/"
-        },
-        {
-          "img": "home-ana",
-          "name": "Ana Martins",
-          "role": "Social Media Designer & Team Manager"
-        },
-        {
-          "img": "home-milton",
-          "name": "Milton Bolonha",
-          "role": "CRO Developer & Team Manager"
-        },
-        {
-          "img": "home-raquel",
-          "name": "Raquel Carvalho",
-          "role": "Social Media Designer"
-        },
-        {
-          "img": "home-jomari",
-          "name": "Jomari Andales",
-          "role": "CRO UI/UX Design Manager"
-        }
-      ],
-      "logosSlider": [
-        { "img": "home-logo-canva", "w": 118, "h": 42, "alt": "canva" },
-        { "img": "home-logo-clarity", "w": 124, "h": 35, "alt": "clarity" },
-        { "img": "home-logo-convert", "w": 135, "h": 35, "alt": "convert" },
-        { "img": "home-logo-figma", "w": 109, "h": 33, "alt": "figma" },
-        { "img": "home-logo-ga4", "w": 110, "h": 40, "alt": "ga4" },
-        { "img": "home-logo-ig", "w": 115, "h": 39, "alt": "ig" },
-        { "img": "home-logo-shopify", "w": 116, "h": 34, "alt": "shopify" },
-        { "img": "home-logo-vwo", "w": 75, "h": 31, "alt": "vwo" },
-        { "img": "home-logo-wc", "w": 147, "h": 34, "alt": "wc" },
-        { "img": "home-logo-wix", "w": 75, "h": 30, "alt": "wix" }
-      ],
-      "hasMenu": false,
-      "title": "Design Solutions for Real World Results",
+      "hasMenu": true,
+      "title": "Home",
       "description": "Modern Tips is a strategic design agency focused on providing measurable results by optimizing our client's conversion rates and social media presence. Book your free call!",
       "headline": "Design that has real impact",
       "slug": "/",

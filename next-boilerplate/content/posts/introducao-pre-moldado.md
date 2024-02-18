@@ -2,10 +2,9 @@
 layout: post
 title: Introdução ao Pré-Moldado
 date: 2023-08-16 00:00:00
-image: "homem-computador.jpg"
+image: "post-image.jpg"
 description: "Algumas dicas."
-categories:
-  - programação
+category: "Programação"
 ---
 
 ## Introdução ao Pré-Moldado

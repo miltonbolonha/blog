@@ -268,7 +268,7 @@ const Convertion = () => {
         <p className='five-stars-wrapper'>
           <Image
             src={"/brandimages/five-white-stars.png"}
-            alt={"The Five Stars Agency"}
+            alt={"Modern way to find your trend topics."}
             className={"five-stars"}
             width={90}
             height={18}
@@ -280,7 +280,7 @@ const Convertion = () => {
           Same Clicks{" "}
           <Image
             src={"/brandimages/heading-right-arrow.png"}
-            alt={"The Five Stars Agency"}
+            alt={"Modern way to find your trend topics."}
             className='heading-cro-arrow'
             width={55}
             height={55}
@@ -294,7 +294,7 @@ const Convertion = () => {
           Same Clicks{" "}
           <Image
             src={"/brandimages/heading-down-arrow.png"}
-            alt={"The Five Stars Agency"}
+            alt={"Modern way to find your trend topics."}
             className=''
             width={29}
             height={35}
@@ -319,7 +319,7 @@ const Convertion = () => {
         >
           <Image
             src={"/brandimages/pages/cro-hero.jpg"}
-            alt={"The Five Stars Agency"}
+            alt={"Modern way to find your trend topics."}
             width={365}
             height={205}
           />
@@ -338,7 +338,7 @@ const Convertion = () => {
           <span>
             <Image
               src={"/brandimages/right-arrow.png"}
-              alt={"The Five Stars Agency"}
+              alt={"Modern way to find your trend topics."}
               width={22}
               height={22}
               unoptimized
@@ -442,7 +442,7 @@ const Convertion = () => {
           <span>
             <Image
               src={"/brandimages/right-arrow.png"}
-              alt={"The Five Stars Agency"}
+              alt={"Modern way to find your trend topics."}
               width={22}
               height={22}
             />
@@ -810,7 +810,7 @@ const Convertion = () => {
           <span>
             <Image
               src={"/brandimages/right-arrow.png"}
-              alt={"The Five Stars Agency"}
+              alt={"Modern way to find your trend topics."}
               width={22}
               height={22}
             />
@@ -830,7 +830,7 @@ const Convertion = () => {
               <div className='box'>
                 <Image
                   src={"/brandimages/pages/cro-six-box-1.png"}
-                  alt={"The Five Stars Agency"}
+                  alt={"Modern way to find your trend topics."}
                   width={24}
                   height={24}
                 />
@@ -843,7 +843,7 @@ const Convertion = () => {
               <div className='box'>
                 <Image
                   src={"/brandimages/pages/home-icon-kanban-fill.png"}
-                  alt={"The Five Stars Agency"}
+                  alt={"Modern way to find your trend topics."}
                   width={24}
                   height={24}
                 />
@@ -853,7 +853,7 @@ const Convertion = () => {
               <div className='box'>
                 <Image
                   src={"/brandimages/pages/cro-six-box-3.png"}
-                  alt={"The Five Stars Agency"}
+                  alt={"Modern way to find your trend topics."}
                   width={24}
                   height={24}
                 />
@@ -863,7 +863,7 @@ const Convertion = () => {
               <div className='box'>
                 <Image
                   src={"/brandimages/pages/cro-six-box-4.png"}
-                  alt={"The Five Stars Agency"}
+                  alt={"Modern way to find your trend topics."}
                   width={24}
                   height={24}
                 />
@@ -874,7 +874,7 @@ const Convertion = () => {
               <div className='box'>
                 <Image
                   src={"/brandimages/pages/cro-six-box-5.png"}
-                  alt={"The Five Stars Agency"}
+                  alt={"Modern way to find your trend topics."}
                   width={24}
                   height={24}
                 />
@@ -884,7 +884,7 @@ const Convertion = () => {
               <div className='box'>
                 <Image
                   src={"/brandimages/pages/cro-six-box-6.png"}
-                  alt={"The Five Stars Agency"}
+                  alt={"Modern way to find your trend topics."}
                   width={24}
                   height={24}
                 />
@@ -907,7 +907,7 @@ const Convertion = () => {
           <div className='two-boxes-img'>
             <Image
               src={"/brandimages/pages/cro-two-imgs-1.jpg"}
-              alt={"The Five Stars Agency"}
+              alt={"Modern way to find your trend topics."}
               width={588}
               height={201}
             />
@@ -925,7 +925,7 @@ const Convertion = () => {
           <div className='two-boxes-img'>
             <Image
               src={"/brandimages/pages/cro-two-imgs-2.jpg"}
-              alt={"The Five Stars Agency"}
+              alt={"Modern way to find your trend topics."}
               width={588}
               height={201}
             />
@@ -951,7 +951,7 @@ const Convertion = () => {
               <Image
                 src={"/brandimages/pages/cro-price-icon-1.png"}
                 className={`float-right`}
-                alt={"The Five Stars Agency"}
+                alt={"Modern way to find your trend topics."}
                 width={46}
                 height={46}
               />
@@ -988,7 +988,7 @@ const Convertion = () => {
               <Image
                 src={"/brandimages/pages/cro-price-icon-2.png"}
                 className={`float-right`}
-                alt={"The Five Stars Agency"}
+                alt={"Modern way to find your trend topics."}
                 width={46}
                 height={46}
               />
@@ -1024,7 +1024,7 @@ const Convertion = () => {
                 Book a FREE Strategic Call Now{" "}
                 <Image
                   src={"/brandimages/heading-right-arrow.png"}
-                  alt={"The Five Stars Agency"}
+                  alt={"Modern way to find your trend topics."}
                   className='heading-cro-arrow'
                   width={22}
                   height={22}
@@ -1158,7 +1158,7 @@ const Convertion = () => {
                   Book a FREE Strategic Call Now{" "}
                   <Image
                     src={"/brandimages/heading-right-arrow.png"}
-                    alt={"The Five Stars Agency"}
+                    alt={"Modern way to find your trend topics."}
                     className='heading-cro-arrow'
                     width={22}
                     height={22}
@@ -1173,7 +1173,7 @@ const Convertion = () => {
               <div className='inner-price-box mobile'>
                 <Image
                   src={"/brandimages/pages/cro-price-icon-1.png"}
-                  alt={"The Five Stars Agency"}
+                  alt={"Modern way to find your trend topics."}
                   width={46}
                   height={46}
                   className='float-right'
@@ -1223,7 +1223,7 @@ const Convertion = () => {
       >
         <Image
           src={"/brandimages/pages/cro-listing.png"}
-          alt={"The Five Stars Agency"}
+          alt={"Modern way to find your trend topics."}
           width={428}
           height={428}
           className=''
@@ -1263,7 +1263,7 @@ const Convertion = () => {
           <span>
             <Image
               src={"/brandimages/right-arrow.png"}
-              alt={"The Five Stars Agency"}
+              alt={"Modern way to find your trend topics."}
               width={22}
               height={22}
             />

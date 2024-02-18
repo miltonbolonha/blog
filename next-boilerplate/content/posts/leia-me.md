@@ -2,10 +2,9 @@
 layout: post
 title: Leia-Me
 date: 2023-08-16 00:00:04
-image: "homem-computador.jpg"
+image: "post-image.jpg"
 description: "Algumas dicas."
-categories:
-  - programação
+category: "Programação"
 ---
 
 ## Selos de Qualidade:

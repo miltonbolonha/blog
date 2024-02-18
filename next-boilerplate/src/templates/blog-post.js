@@ -1,13 +1,13 @@
 import React from "react";
 import Row from "../containers/RowContainer";
-import { timeToRead, slugPrefix } from "../lib/utils";
-import SeoContainer from "../containers/SeoContainer";
+import { timeToRead } from "../lib/utils";
+// import SeoContainer from "../containers/SeoContainer";
 import SinglePostBlock from "../components/SinglePostBlock";
 import mainConfigs from "../configs/main-infos.json";
-import MainWrapperContainer from "../containers/MainWrapperContainer";
+// import MainWrapperContainer from "../containers/MainWrapperContainer";
 const BlogPost = ({ post }) => (
-  <MainWrapperContainer rowWidth={960}>
-    <SeoContainer
+  <>
+    {/* <SeoContainer
       killSeo={false}
       data={{
         slug: post.slug,
@@ -36,7 +36,7 @@ const BlogPost = ({ post }) => (
         sameAs: mainConfigs.business.sameAs,
         twitter: mainConfigs.business.twitterCard,
       }}
-    />
+    /> */}
     <h2>Postagem sobre: {post.frontmatter.categories.join("; ")}.</h2>
     <div className='wrapper-box post'>
       <Row opt={{ isBoxed: true, classes: "post-container" }}>
@@ -53,7 +53,7 @@ const BlogPost = ({ post }) => (
         />
       </Row>
     </div>
-  </MainWrapperContainer>
+  </>
 );
 
 export default BlogPost;

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: As Tecnologias Importantes
+title: As Tecnologias mportantess
 date: 2023-08-16 00:00:03
 image: "post-image.jpg"
 description: "Algumas dicas."

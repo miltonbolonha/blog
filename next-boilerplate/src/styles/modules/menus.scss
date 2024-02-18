@@ -39,7 +39,7 @@
         }
         &.active {
           color: #1f98eb;
-          @media (min-width: $boxedDesktop__maxWidth) {
+          @media (min-width: $page__size) {
             color: $primary_light;
           }
         }

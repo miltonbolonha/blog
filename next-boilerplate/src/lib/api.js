@@ -1,12 +1,13 @@
 import matter from "gray-matter";
 import { join } from "path";
-import fs from "graceful-fs";
+import fs from "fs";
 
 import { format } from "date-fns";
 import { pt } from "date-fns/locale";
 
 const postsDirectory = join(process.cwd(), "content/posts");
-
+console.log("postsDirectory");
+console.log(postsDirectory);
 export function getPostBySlug(slug) {
   if (!slug) return null;
 

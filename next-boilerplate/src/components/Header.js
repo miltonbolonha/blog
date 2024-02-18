@@ -22,15 +22,8 @@ const Header = ({
   const firstBtn = pathname === "convertion" ? "pricing" : "project-results";
   return (
     <header>
-      <Row
-        opt={{
-          isBoxed: false,
-          bgColor: bgOne,
-          classes: `main-header ${hasMenu ? "full-menu" : ""}`,
-          numColumns: 3,
-        }}
-      >
-        <Row opt={{ isBoxed: false, classes: "header-logo" }}>{logotype}</Row>
+      <div className={`main-header ${hasMenu ? "full-menu" : ""}`}>
+        <div className={`header-logo`}>{logotype}</div>
 
         {hasMenu === true ? (
           <>
@@ -76,17 +69,6 @@ const Header = ({
             <div
               className={`main-header-${!refState ? "visible" : "not-visible"}`}
             >
-              <a
-                href={scheduleLink}
-                className='whiteBtn'
-                rel='nofollow noopener'
-                id={gtag}
-                onClick={() => gtagCounter(`${pathname}-menu-schedule`)}
-                alt={"Schedule a consultation"}
-                target='_blank'
-              >
-                Schedule a consultation
-              </a>
               <div className='header-columns toggle-menu mobile-only'>
                 <button
                   type='button'
@@ -128,7 +110,7 @@ const Header = ({
             </div>
           </>
         ) : null}
-      </Row>
+      </div>
     </header>
   );
 };
