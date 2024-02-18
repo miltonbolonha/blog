@@ -37,7 +37,7 @@ const BlogPost = ({ post }) => (
         twitter: mainConfigs.business.twitterCard,
       }}
     /> */}
-    <h2>Postagem sobre: {post.frontmatter.categories.join("; ")}.</h2>
+    {/* <h2>Postagem sobre: {post.frontmatter.categories.join("; ")}.</h2> */}
     <div className='wrapper-box post'>
       <Row opt={{ isBoxed: true, classes: "post-container" }}>
         <SinglePostBlock
@@ -47,7 +47,7 @@ const BlogPost = ({ post }) => (
           author={mainConfigs.business.brandName}
           html={post.content}
           title={post.frontmatter.title}
-          categories={post.frontmatter.categories}
+          category={post.frontmatter.category}
           timeToRead={timeToRead(post.content)}
           wordCount={10}
         />

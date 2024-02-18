@@ -10,7 +10,7 @@ const SinglePostBlock = ({
   date,
   author,
   html,
-  categories,
+  category,
   title,
   timeToRead,
   wordCount,
@@ -43,7 +43,6 @@ const SinglePostBlock = ({
                   <Image
                     src={"/brandimages/profile-image.png"}
                     alt={"Profile Image"}
-                   
                     critical='true'
                     width={50}
                     height={50}
@@ -69,7 +68,6 @@ const SinglePostBlock = ({
             <Image
               src={`/postsimages/${highlightImage}`}
               alt={"Maskot Reading"}
-             
               critical='true'
               className={""}
               width={824}

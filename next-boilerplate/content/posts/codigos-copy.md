@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curadoria Susstentável
-date: 2023-08-16 00:00:02
+date: 2023-08-16 00:01:02
 image: "post-image.jpg"
 description: "Algumas dicas."
 category: "Programação"
