@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COVID-19 Vaccination: Facts vs Myths and Who Should Go for it?"
-date: 2023-08-15 00:00:02
+date: 2023-08-16 00:20:03
 image: "corona-vaccination-health-hand-human-body-neck.jpg"
 description: "Algumas dicas."
 category: "Health"

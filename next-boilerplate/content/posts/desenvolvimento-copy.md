@@ -1,7 +1,7 @@
 ---
 layout: post
 title: As Tecnologias mportantess
-date: 2023-08-16 00:20:03
+date: 2023-08-15 00:00:02
 image: "post-image.jpg"
 description: "Algumas dicas."
 category: "Programação"
