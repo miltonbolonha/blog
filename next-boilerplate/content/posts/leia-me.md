@@ -25,15 +25,13 @@ Este repositório serve como ponto de partida para nossas atividades pedagógica
 
 Segue a contagem de palavras e relação das principais tecnologias:
 
-```
 |                | **Linhas de códigos** | **Caracteres** | **Palavras** | **Páginas** |
-|----------------|:---------------------:|:--------------:|:------------:|:-----------:|
-| **JavaScript** |          1513         |      46248     |     4635     |      10     |
-| **SCSS**       |          1987         |      39934     |     4598     |      10     |
-| **MD**         |          154          |      9240      |     1405     |      3      |
-| **JSON**       |           85          |      2286      |      257     |     1/2     |
-|    **TOTAL**   |          3739         |      97708     |     10895    |   13 e 1/2  |
-```
+| -------------- | --------------------- | -------------- | ------------ | ----------- |
+| **JavaScript** | 1513                  | 46248          | 4635         | 10          |
+| **SCSS**       | 1987                  | 39934          | 4598         | 10          |
+| **MD**         | 154                   | 9240           | 1405         | 3           |
+| **JSON**       | 85                    | 2286           | 257          | 1/2         |
+| **TOTAL**      | 3739                  | 97708          | 10895        | 13 e 1/2    |
 
 # Como Usar
 
