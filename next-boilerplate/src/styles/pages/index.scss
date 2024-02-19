@@ -562,7 +562,7 @@ hr.half-hr {
     }
   }
   .main-container-wrapper {
-    background-color: $mix_white_15;
+    background-color: $background_white;
     margin: auto;
     width: 100%;
     .main-container {
@@ -584,7 +584,7 @@ hr.half-hr {
         .main-post-inner,
         .post-link {
           width: 100%;
-          background: $mix_white_70;
+          background: $mix_white_15;
           object-fit: cover;
           // max-width: 720px;
           padding: 0;

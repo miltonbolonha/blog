@@ -1,13 +1,57 @@
-import React from "react";
+import React, { useRef, useState, useEffect } from "react";
+import { usePathname } from "next/navigation";
 import Row from "../containers/RowContainer";
-import { timeToRead } from "../lib/utils";
 // import SeoContainer from "../containers/SeoContainer";
 import SinglePostBlock from "../components/SinglePostBlock";
 import mainConfigs from "../configs/main-infos.json";
+import FooterContainer from "../containers/FooterContainer";
+import HeaderContainer from "../containers/HeaderContainer";
+import SeoContainer from "../containers/SeoContainer";
 // import MainWrapperContainer from "../containers/MainWrapperContainer";
-const BlogPost = ({ post }) => (
-  <>
-    {/* <SeoContainer
+import mainMenu from "../configs/main-menu.json";
+
+const index = mainConfigs?.pages?.index;
+const business = mainConfigs?.business;
+const website = mainConfigs?.website;
+
+const infos = {
+  slug: index?.slug,
+  title: `${index?.title} - ${business.brandName}`,
+  description: index?.description,
+  author: website.author,
+  brandPerson: website.brandPerson,
+  siteUrl: website.siteUrl,
+  brandName: business.brandName,
+  brandEmail: business.brandEmail,
+  brandPhone: business.brandPhone,
+  brandDescription: business.brandDescription,
+  brandLogo: `${website.siteUrl}/${business.brandLogo}`,
+  brandCardImage: `${website.siteUrl}/brandimages/pages/${business.brandCardImage}`,
+  featuredImage: `${website.siteUrl}/brandimages/pages/${index.featureImage}`,
+  datePublished: website.datePublished,
+  i18n: website.i18n,
+  keywords: website.keywords,
+  questions: index.faq,
+  topology: null,
+  articleUrl: `${website.siteUrl}/${index?.slug}`,
+  themeColor: website.themeColor,
+  sameAs: business.sameAs,
+  twitter: business.shortName,
+};
+const BlogPost = ({ post }) => {
+  const [btnGClick, useBtnGClick] = useState(null);
+  const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
+
+  const gtagCounter = id => {
+    if (btnGClick === null && typeof window !== "undefined") {
+      window?.gtag("event", id);
+      useBtnGClick(null);
+    }
+  };
+
+  return (
+    <>
+      {/* <SeoContainer
       killSeo={false}
       data={{
         slug: post.slug,
@@ -37,9 +81,26 @@ const BlogPost = ({ post }) => (
         twitter: mainConfigs.business.twitterCard,
       }}
     /> */}
-    {/* <h2>Postagem sobre: {post.frontmatter.categories.join("; ")}.</h2> */}
-    <div className='wrapper-box post'>
-      <Row opt={{ isBoxed: true, classes: "post-container" }}>
+      {/* <h2>Postagem sobre: {post.frontmatter.categories.join("; ")}.</h2> */}
+      <div className='single-post post-container'>
+        <SeoContainer killSeo={false} data={infos} />
+
+        <HeaderContainer
+          opt={{
+            bgOne: "transparent",
+            bgTwo: "transparent",
+            classes: "header-block",
+            pageHasMenu: index?.hasMenu,
+          }}
+          mainMenu={mainMenu.menu.items}
+          hasMenu={false}
+          // hasMenu={index?.hasMenu}
+          scheduleLink={index.calendlyLink}
+          gtag={"gtag"}
+          gtagCounter={gtagCounter}
+          pathname={pathname}
+        />
+
         <SinglePostBlock
           highlightImage={post.frontmatter.image}
           authorImg={"imgHolder"}
@@ -48,12 +109,17 @@ const BlogPost = ({ post }) => (
           html={post.content}
           title={post.frontmatter.title}
           category={post.frontmatter.category}
-          timeToRead={timeToRead(post.content)}
           wordCount={10}
         />
-      </Row>
-    </div>
-  </>
-);
+        <div className='footer-wrapper'>
+          <FooterContainer
+            label='moderntips.com'
+            link='https://moderntips.com'
+          />
+        </div>
+      </div>
+    </>
+  );
+};
 
 export default BlogPost;

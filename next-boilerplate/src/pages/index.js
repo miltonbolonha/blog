@@ -111,28 +111,7 @@ const Home = ({ posts }) => {
 
       <main className='main-container-wrapper'>
         <div className='main-container'>
-          {/* <div className='post highlight-01 news-grid'>
-            <Link href={"/"} passHref className='post-link'>
-              <Image
-                src={`/brandimages/hero-img.jpg`}
-                alt={"title"}
-                width={280}
-                height={150}
-                unoptimized
-              />
-            </Link>
-            <div className='main-post-inner'>
-              <Link href={"/cat"} passHref className='post-category'>
-                Category
-              </Link>
-              <Link href={"/"} passHref className='post-link'>
-                <h1 className=''>News here more then words</h1>
-              </Link>
-            </div>
-          </div> */}
-
           <div className='news-grid'>
-            {/* {console.log(posts)} */}
             <BlogList posts={posts} postsToShow={website.postsToShow} />
           </div>
         </div>

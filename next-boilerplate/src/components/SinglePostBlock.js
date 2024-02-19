@@ -12,8 +12,6 @@ const SinglePostBlock = ({
   html,
   category,
   title,
-  timeToRead,
-  wordCount,
 }) => {
   return (
     <article>
@@ -22,7 +20,6 @@ const SinglePostBlock = ({
           opt={{
             isBoxed: false,
             classes: "post-header",
-            bgColor: "#111e24",
           }}
         >
           <div className='header-post'>
@@ -31,12 +28,20 @@ const SinglePostBlock = ({
             </Row>
           </div>
         </Row>
-        <Row opt={{ isBoxed: true, classes: "main-post" }}>
-          <div className='close-btn-single-post'>
+        <div className='main-post'>
+          {/* <div className='close-btn-single-post'>
             <Link href='/'>X</Link>
             <span>Fechar</span>
-          </div>
+          </div> */}
           <div className='container'>
+            <Image
+              src={`/posts/${highlightImage}`}
+              alt={title}
+              critical='true'
+              className={"post-highlight-img"}
+              width={560}
+              height={300}
+            />
             <div className='post-author'>
               <Row opt={{ numColumns: 2, classes: "post-author-infos" }}>
                 <div className='inner-post-author-infos'>
@@ -57,28 +62,14 @@ const SinglePostBlock = ({
                     </time>
                   </div>
                 </div>
-                <Row opt={{ classes: "editorial-infos", numColumns: 2 }}>
-                  <p className='timeToread'>{timeToRead} min. (leitura)</p>
-                  <p className='wordCount'>{wordCount.paragraphs} parágrafos</p>
-                  <p className='wordCount'>{wordCount.sentences} sentenças</p>
-                  <p className='wordCount'>{wordCount.words} palavras</p>
-                </Row>
               </Row>
             </div>
-            <Image
-              src={`/postsimages/${highlightImage}`}
-              alt={"Maskot Reading"}
-              critical='true'
-              className={""}
-              width={824}
-              height={450}
-            />
             <div
               className='post-article-content'
               dangerouslySetInnerHTML={{ __html: html }}
             ></div>
           </div>
-        </Row>
+        </div>
       </section>
     </article>
   );

@@ -28,7 +28,6 @@ const BlogList = ({ posts, postsToShow }) => {
             slug={post.slug}
             title={post.frontmatter.title}
             image={post.frontmatter.image}
-            timeToRead={post.timeToRead}
             date={post.frontmatter.date}
             description={post.frontmatter.description}
             category={post.frontmatter.category}

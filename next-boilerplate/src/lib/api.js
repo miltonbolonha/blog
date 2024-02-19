@@ -3,7 +3,7 @@ import { join } from "path";
 import fs from "fs";
 
 import { format } from "date-fns";
-import { pt } from "date-fns/locale";
+import { usa } from "date-fns/locale";
 
 const postsDirectory = join(process.cwd(), "content/posts");
 console.log("postsDirectory");
@@ -16,8 +16,8 @@ export function getPostBySlug(slug) {
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
 
-  const date = format(new Date(data.date), "dd 'de' MMMM 'de' yyyy", {
-    locale: pt,
+  const date = format(new Date(data.date), "MMMM'/'dd'/'yyyy", {
+    locale: usa,
   });
 
   return {

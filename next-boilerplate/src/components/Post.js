@@ -2,16 +2,7 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 
-const Post = ({
-  slug,
-  date,
-  timeToRead,
-  title,
-  description,
-  image,
-  number,
-  category,
-}) => {
+const Post = ({ slug, date, title, description, image, number, category }) => {
   return (
     <div id={`item-${number}`} className={`post highlight-0${number}`}>
       <div
