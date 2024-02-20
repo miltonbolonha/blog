@@ -6,8 +6,8 @@ import { format } from "date-fns";
 import { usa } from "date-fns/locale";
 
 const postsDirectory = join(process.cwd(), "content/posts");
-console.log("postsDirectory");
-console.log(postsDirectory);
+// console.log("postsDirectory");
+// console.log(postsDirectory);
 export function getPostBySlug(slug) {
   if (!slug) return null;
 

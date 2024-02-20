@@ -90,16 +90,31 @@ const Home = ({ posts }) => {
             className='hero-img'
           />
           <div className='row-config inner-hero'>
-            <h1>Get in touch</h1>
-            <p>A modern way to find your trend topics.</p>
+            <h1>Search ModernTips</h1>
+            {/* <p>A modern way to find your trend topics.</p> */}
             <form action='#' method='post'>
               <input
                 type='text'
                 name='something'
                 id='here'
-                placeholder='Ribeirão Preto Living Room...'
+                placeholder='Search'
               />
-              <input type='submit' value='search' />
+              <button className='search-icon'>
+                <Image
+                  src={`/brandimages/search-icon.png`}
+                  alt={"Modern Tips search icon"}
+                  width={26}
+                  height={26}
+                  className='search-hold'
+                />
+                <Image
+                  src={`/brandimages/search-icon-hover.png`}
+                  alt={"Modern Tips search icon hover"}
+                  width={26}
+                  height={26}
+                  className='search-hover'
+                />
+              </button>
             </form>
             {/* 
           <a href='#' target='_blank' rel='noopener noreferrer'>

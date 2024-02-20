@@ -34,10 +34,11 @@
   }
   h1 {
     color: #fff;
-    margin: 15px auto;
-    letter-spacing: -3.6px;
-    font-size: 60px;
-    line-height: 67px;
+    margin: 15px auto 25px;
+    letter-spacing: -2.2px;
+    word-spacing: 5px;
+    font-size: 45px;
+    line-height: 57px;
     height: auto;
     text-align: center;
     max-width: 700px;
@@ -77,7 +78,8 @@
     max-width: 520px;
     background-color: white;
     input[type="text"],
-    input[type="submit"] {
+    input[type="submit"],
+    button {
       border: 0;
       border-radius: 30px 10px 10px 30px;
       padding: 0 25px;
@@ -95,7 +97,8 @@
         color: $mix_white_70;
       }
     }
-    input[type="submit"] {
+    input[type="submit"],
+    button {
       width: auto;
       border-radius: 30px;
       text-align: center;
@@ -584,7 +587,7 @@ hr.half-hr {
         .main-post-inner,
         .post-link {
           width: 100%;
-          background: $mix_white_15;
+          background: transparent;
           object-fit: cover;
           // max-width: 720px;
           padding: 0;
@@ -602,7 +605,7 @@ hr.half-hr {
           font-size: 18px;
           color: $mix_black_90;
           font-weight: 700;
-          padding-bottom: 30px;
+          margin-bottom: 30px;
           width: 95%;
           margin-left: auto;
           margin-right: auto;
@@ -621,9 +624,9 @@ hr.half-hr {
             color: $mix_black_90;
           }
         }
-        .main-post-inner {
-          padding-top: 20px;
-        }
+        // .main-post-inner {
+        //   padding-top: 20px;
+        // }
       }
     }
   }

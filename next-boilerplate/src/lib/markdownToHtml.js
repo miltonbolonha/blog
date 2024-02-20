@@ -3,6 +3,8 @@ import remarkRehype from "remark-rehype";
 import remarkParse from "remark-parse";
 import remarkGfm from "remark-gfm";
 import { unified } from "unified";
+import rehypeAutolinkHeadings from "rehype-autolink-headings";
+import rehypeSlug from "rehype-slug";
 
 // import html from "remark-html";
 import headings from "remark-autolink-headings";
@@ -17,7 +19,8 @@ export default async function markdownToHtml(markdown) {
     .use(remarkGfm)
     .use(remarkRehype)
     .use(rehypeStringify)
-    .use(slug)
+    .use(rehypeSlug)
+    .use(rehypeAutolinkHeadings)
     .use(headings, {
       behavior: "wrap",
       linkProperties: {
@@ -25,7 +28,7 @@ export default async function markdownToHtml(markdown) {
       },
     })
     .process(markdown);
-  console.log("result");
-  console.log(result);
+  // console.log("result");
+  // console.log(result);
   return String(result) || markdown;
 }

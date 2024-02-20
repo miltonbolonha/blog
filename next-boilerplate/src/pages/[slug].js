@@ -24,6 +24,9 @@ export const getStaticProps = async context => {
   const post = getPostBySlug(slug);
 
   const content = post ? await markdownToHtml(post.content || "") : null;
+  // const { frontmatter } = post;
+  // console.log("post");
+  // console.log(post);
   if (!content) {
     throw new Error("Error: No !content!");
   }

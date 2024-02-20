@@ -124,7 +124,7 @@ body {
   }
   p {
     font-family: $main__font;
-    color: $primary_light;
+    color: $black;
   }
   thead,
   tbody {
@@ -156,11 +156,11 @@ body.dark {
   h5 > a,
   p,
   footer {
-    color: black;
+    color: $black;
   }
 }
 a {
-  color: $primary__colorTwo;
+  color: $black;
   font-weight: 900;
 }
 p {
