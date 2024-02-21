@@ -198,11 +198,11 @@
         text-align: center;
         font-weight: 700;
         font-size: 18px;
-        color: #000;
+        color: $black;
       }
       p {
         text-align: center;
-        color: #000;
+        color: $black;
         margin-bottom: 10px;
       }
       img {
@@ -361,7 +361,7 @@
   .white-btn-highlight {
     background: white;
     font-size: 25px;
-    color: #000;
+    color: $black;
     font-weight: 600;
     padding: 10px 0px;
     display: flex;
@@ -427,14 +427,14 @@
   inset: 0px;
 
   background: linear-gradient(180deg, #fffc 10%, #ffffff2b) border-box;
-  border: 0.5px solid #0000;
+  border: 0.5px solid $black;
   border-radius: 9px;
 }
 .text-center {
   text-align: center;
 }
 .graydient {
-  -webkit-text-fill-color: #0000;
+  -webkit-text-fill-color: $black;
   background: linear-gradient(180.19deg, #fff 0.16%, #ffffff42 196.13%);
   background-clip: text;
 }
@@ -446,7 +446,7 @@
       #4c4c4c 95.31%
     )
     border-box;
-  border: 2px solid #0000;
+  border: 2px solid $black;
   border-radius: 20px;
   box-sizing: border-box;
   &.active {

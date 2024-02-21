@@ -22,6 +22,25 @@ function App({ Component, pageProps }) {
         `,
         }}
       />
+      {/* <Script
+        id='rampjs'
+        dangerouslySetInnerHTML={{
+          __html: `
+          (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
+            arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
+            _rampJs({ subdomain: "find" });
+        `,
+        }}
+      /> */}
+      <Script
+        id='rampjs'
+        dangerouslySetInnerHTML={{
+          __html: `
+          (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
+            arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
+        `,
+        }}
+      />
 
       {/* <Script
       strategy="afterInteractive"

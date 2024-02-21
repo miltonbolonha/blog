@@ -1,7 +1,7 @@
 import React, { useRef, useState, useEffect } from "react";
-import { usePathname } from "next/navigation";
 import Row from "../containers/RowContainer";
 // import SeoContainer from "../containers/SeoContainer";
+import { usePathname, useSearchParams, useRouter } from "next/navigation";
 import SinglePostBlock from "../components/SinglePostBlock";
 import mainConfigs from "../configs/main-infos.json";
 import FooterContainer from "../containers/FooterContainer";
@@ -38,50 +38,45 @@ const infos = {
   sameAs: business.sameAs,
   twitter: business.shortName,
 };
-const BlogPost = ({ post }) => {
-  const [btnGClick, useBtnGClick] = useState(null);
+const BlogPost = ({ post, searchParams }) => {
+  const [btnGClick, setBtnGClick] = useState(null);
+  const [promoVisitState, setPromoVisitState] = useState(false);
+  const [readMore, setReadMore] = useState(false);
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
-
+  console.log("readMore");
+  console.log(readMore);
   const gtagCounter = id => {
     if (btnGClick === null && typeof window !== "undefined") {
       window?.gtag("event", id);
-      useBtnGClick(null);
+      setBtnGClick(null);
     }
   };
+  const getRef = useSearchParams().getAll("ref");
 
+  console.log("useSearchParams");
+  console.log(useSearchParams().getAll("ref"));
+  console.log(useSearchParams().getAll("zim"));
+  // console.log("usePathname");
+  // console.log(usePathname());
+  // console.log("searchParams");
+  // console.log(searchParams);
+  // console.log("useRouter");
+  // console.log(useRouter());
+  // const searchParamss = searchParams();
+
+  // const search = searchParamss.get("ref");
+  function fREadMore() {
+    setReadMore(!readMore);
+  }
+  useEffect(() => {
+    getRef.length === 0 && readMore === false ? null : setPromoVisitState(true);
+    console.log("getRef.length;;;;;");
+    console.log(getRef.length);
+    console.log("readMore....");
+    console.log(readMore);
+  });
   return (
     <>
-      {/* <SeoContainer
-      killSeo={false}
-      data={{
-        slug: post.slug,
-        title: `${post.frontmatter.title} - ${mainConfigs.business.brandName}`,
-        author: mainConfigs.website.author,
-        siteUrl: mainConfigs.website.siteUrl,
-        brandName: mainConfigs.business.brandName,
-        brandEmail: mainConfigs.business.brandEmail,
-        brandLogo: mainConfigs.business.brandLogo,
-        brandPhone: mainConfigs.business.brandPhone,
-        brandDescription: mainConfigs.business.brandDescription,
-        brandCardImage: mainConfigs.business.brandCardImage,
-        featuredImage: `${mainConfigs.website.siteUrl}${slugPrefix}/favicon-32x32.png`,
-        dateCreated: "dateCreated",
-        dateNow: "dateNow",
-        articleBody: "articleBody",
-        datePublished: "04/02/2022",
-        i18n: "pt-BR",
-        keywords: ["keywords"],
-        questions: ["questions:answer"],
-        topology: "pages",
-        articleUrl: "https://miltonbolonha.com.br/contato",
-        description: post.frontmatter.description,
-        themeColor: mainConfigs.website.themeColor,
-        fbAppID: null,
-        sameAs: mainConfigs.business.sameAs,
-        twitter: mainConfigs.business.twitterCard,
-      }}
-    /> */}
-      {/* <h2>Postagem sobre: {post.frontmatter.categories.join("; ")}.</h2> */}
       <div className='single-post post-container'>
         <SeoContainer killSeo={false} data={infos} />
 
@@ -110,7 +105,11 @@ const BlogPost = ({ post }) => {
           title={post.frontmatter.title}
           category={post.frontmatter.category}
           wordCount={10}
+          promoVisitState={promoVisitState}
+          setReadMore={setReadMore}
+          readMore={readMore}
         />
+
         <div className='footer-wrapper'>
           <FooterContainer
             label='moderntips.com'

@@ -37,6 +37,7 @@ export default class MyDocument extends Document {
             type='text/css'
             href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css'
           />
+          <script async src='https://rampjs-cdn.system1.com/ramp.js'></script>
           <link rel='icon prefetch' href='/favicon.png' sizes='any' />
         </Head>
         <body className='theme-one'>
@@ -44,6 +45,8 @@ export default class MyDocument extends Document {
             strategy='afterInteractive'
             src={`https://www.googletagmanager.com/gtag/js?id=${mainInfos.business.gaID}`}
           />
+          <div id='rampjs_slot1'></div>
+          <div id='rampjs_slot2'></div>
           <Main />
           <NextScript />
         </body>

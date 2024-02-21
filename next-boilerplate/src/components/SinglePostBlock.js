@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { parse } from "node-html-parser";
-
+import slugify from "slugify";
+import AdsList from "../components/AdsList";
 import Row from "../containers/RowContainer";
 
 const SinglePostBlock = ({
@@ -13,10 +14,14 @@ const SinglePostBlock = ({
   html,
   category,
   title,
+  promoVisitState,
+  setReadMore,
+  readMore,
 }) => {
   const [toggle, setToggle] = useState(false);
   const doc = parse(html);
-  const headingshere = doc.querySelectorAll("h2");
+  const headingsHere = doc.querySelectorAll("h2");
+  const pHere = doc.querySelector("p");
   function handleToggle() {
     return setToggle(!toggle);
   }
@@ -49,168 +54,114 @@ const SinglePostBlock = ({
             <span>Fechar</span>
           </div> */}
           <div className='container'>
-            <h1>{title}</h1>
-            <Row
-              opt={{
-                numColumns: 2,
-                classes: "post-author-infos mobile-only",
-                isBoxed: true,
-              }}
-            >
-              {/* <p className='date'>Published on Feb 2, 2024.</p> */}
-              <time className='post-author-date date' dateTime={date}>
-                Published on {" " + date}
-              </time>
-              <p className='post-author-date read-time'>
-                {timeToRead(doc.text)} minute read
-              </p>
-            </Row>
-
-            <nav className='toc toc--sticky mobile-only'>
-              <button
-                className='toc-toggle'
-                type='button'
-                aria-label='Close Table of Contents'
-                onClick={() => handleToggle()}
-              >
-                <h3>Table of Content</h3>
-                <span>{toggle ? "X" : "▼"}</span>
-              </button>
-              <div className={`toc-container ${toggle ? "show" : "hide"}`}>
-                <ul className='toc-list'>
-                  {Array.from(headingshere).map((h, indh) => (
-                    <li key={indh}>
-                      <a href={`#${h.id}`} onClick={() => handleToggle()}>
-                        {h.innerText}
-                      </a>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            </nav>
-
-            <Image
-              src={`/posts/${highlightImage}`}
-              alt={title}
-              critical='true'
-              className={"post-highlight-img"}
-              width={560}
-              height={300}
-            />
-            {/* <div className='post-author'>
-              <Row opt={{ numColumns: 2, classes: "post-author-infos" }}>
-                <div className='inner-post-author-infos'>
+            <nav className='breadcrumb'>
+              <ul>
+                <Link href='/'>
                   <Image
-                    src={"/brandimages/profile-image.png"}
-                    alt={"Profile Image"}
-                    critical='true'
-                    width={50}
-                    height={50}
-                    className='profile-image'
+                    src={`/logomark.png`}
+                    alt={"Modern Tips search icon"}
+                    width={20}
+                    height={20}
                   />
-                  <div className='innerauthor-infos'>
-                    <p className='post-author-name' rel='author'>
-                      {author}
-                    </p>
-                    <time className='post-author-date' dateTime={date}>
-                      {date}
-                    </time>
+                </Link>
+                <li>
+                  <Image
+                    src={`/brandimages/right-icon.png`}
+                    alt={"Modern Tips search icon"}
+                    width={10}
+                    height={10}
+                    className='search-hold'
+                  />
+                  <Link href={slugify(category).toLowerCase()}>{category}</Link>
+                </li>
+                <li>
+                  <Image
+                    src={`/brandimages/right-icon.png`}
+                    alt={"Modern Tips search icon"}
+                    width={10}
+                    height={10}
+                    className='search-hold'
+                  />
+                  <Link href={"#"}>Second</Link>
+                </li>
+              </ul>
+            </nav>
+            <h1>{title}</h1>
+            <hr className='small-row mobile-only' />
+
+            {promoVisitState === true && readMore == false ? (
+              <>
+                <p className='excerpt'>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio
+                  officia ipsum, blanditiis ullam obcaecati sit. Distinctio
+                  autem, impedit tempore obcaecati nulla consequuntur eveniet
+                  praesentium rerum temporibus eligendi. Dicta, tempora aperiam!
+                </p>
+                <AdsList promoVisitState={promoVisitState} />
+                <a
+                  href='#'
+                  className='read-more'
+                  onClick={() => setReadMore(true)}
+                >
+                  Read More
+                </a>
+              </>
+            ) : (
+              <>
+                <Row
+                  opt={{
+                    numColumns: 2,
+                    classes: "post-author-infos mobile-only",
+                    isBoxed: true,
+                  }}
+                >
+                  {/* <p className='date'>Published on Feb 2, 2024.</p> */}
+                  <time className='post-author-date date' dateTime={date}>
+                    Published on {" " + date}
+                  </time>
+                  <p className='post-author-date read-time'>
+                    {timeToRead(doc.text)} minute read
+                  </p>
+                </Row>
+
+                <nav className='toc-sticky mobile-only'>
+                  <button
+                    className='toc-toggle'
+                    type='button'
+                    aria-label='Close Table of Contents'
+                    onClick={() => handleToggle()}
+                  >
+                    <h3>Table of Contents</h3>
+                    <span>{toggle ? "X" : "▼"}</span>
+                  </button>
+                  <div className={`toc-container ${toggle ? "show" : "hide"}`}>
+                    <ul className='toc-list'>
+                      {Array.from(headingsHere).map((h, indh) => (
+                        <li key={indh}>
+                          <a href={`#${h.id}`} onClick={() => handleToggle()}>
+                            {h.innerText}
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
                   </div>
-                </div>
-              </Row>
-            </div> */}
-            <ul className='post-ads-ul'>
-              <p>See related topics:</p>
-              <li>
+                </nav>
+
                 <Image
-                  src={`/brandimages/search-icon.png`}
-                  alt={"Modern Tips search icon"}
-                  width={20}
-                  height={20}
-                  className='search-hold'
+                  src={`/posts/${highlightImage}`}
+                  alt={title}
+                  critical='true'
+                  className={"post-highlight-img"}
+                  width={560}
+                  height={300}
                 />
-                <a href='#'>Some her thing</a>
-                <Image
-                  src={`/brandimages/right-icon.png`}
-                  alt={"Modern Tips search icon"}
-                  width={20}
-                  height={20}
-                  className='search-hold'
-                />
-              </li>
-              <li>
-                <Image
-                  src={`/brandimages/search-icon.png`}
-                  alt={"Modern Tips search icon"}
-                  width={20}
-                  height={20}
-                  className='search-hold'
-                />
-                <a href='#'>Some her thing</a>
-                <Image
-                  src={`/brandimages/right-icon.png`}
-                  alt={"Modern Tips search icon"}
-                  width={20}
-                  height={20}
-                  className='search-hold'
-                />
-              </li>
-              <li>
-                <Image
-                  src={`/brandimages/search-icon.png`}
-                  alt={"Modern Tips search icon"}
-                  width={20}
-                  height={20}
-                  className='search-hold'
-                />
-                <a href='#'>Some her thing</a>
-                <Image
-                  src={`/brandimages/right-icon.png`}
-                  alt={"Modern Tips search icon"}
-                  width={20}
-                  height={20}
-                  className='search-hold'
-                />
-              </li>
-              <li>
-                <Image
-                  src={`/brandimages/search-icon.png`}
-                  alt={"Modern Tips search icon"}
-                  width={20}
-                  height={20}
-                  className='search-hold'
-                />
-                <a href='#'>Some her thing</a>
-                <Image
-                  src={`/brandimages/right-icon.png`}
-                  alt={"Modern Tips search icon"}
-                  width={20}
-                  height={20}
-                  className='search-hold'
-                />
-              </li>
-              <li>
-                <Image
-                  src={`/brandimages/search-icon.png`}
-                  alt={"Modern Tips search icon"}
-                  width={20}
-                  height={20}
-                  className='search-hold'
-                />
-                <a href='#'>Some her thing</a>
-                <Image
-                  src={`/brandimages/right-icon.png`}
-                  alt={"Modern Tips search icon"}
-                  width={20}
-                  height={20}
-                  className='search-hold'
-                />
-              </li>
-            </ul>
-            <div
-              className='post-article-content'
-              dangerouslySetInnerHTML={{ __html: html }}
-            ></div>
+                <AdsList promoVisitState={promoVisitState} />
+                <div
+                  className='post-article-content'
+                  dangerouslySetInnerHTML={{ __html: html }}
+                ></div>
+              </>
+            )}
           </div>
         </div>
       </section>

@@ -1,7 +1,8 @@
 import React, { useRef, useState, useEffect } from "react";
 // import Head from "next/head";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { usePathname, useSearchParams } from "next/navigation";
+// import { usePathname } from "next/navigation";
 import BlogList from "../templates/blog-list";
 import { getAllPosts } from "../lib/api";
 
