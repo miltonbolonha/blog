@@ -65,9 +65,7 @@ const BlogPost = ({ post, searchParams }) => {
   // const searchParamss = searchParams();
 
   // const search = searchParamss.get("ref");
-  function fREadMore() {
-    setReadMore(!readMore);
-  }
+
   useEffect(() => {
     getRef.length === 0 && readMore === false ? null : setPromoVisitState(true);
     console.log("getRef.length;;;;;");

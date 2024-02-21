@@ -5,7 +5,9 @@ import Link from "next/link";
 const AdsList = ({ promoVisitState }) => {
   return (
     <ul className={`post-ads-ul ${promoVisitState ? "promoVisit" : ""}`}>
-      <p>See related topics:</p>
+      <p>
+        <small>See related topics:</small>
+      </p>
       <li>
         <Image
           src={`/brandimages/${promoVisitState ? "right-icon" : "search-icon"}.png`}

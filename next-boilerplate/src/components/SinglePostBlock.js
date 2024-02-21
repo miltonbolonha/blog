@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import ReactDOMServer from "react-dom/server";
 import Link from "next/link";
 import Image from "next/image";
 import { parse } from "node-html-parser";
@@ -25,15 +26,24 @@ const SinglePostBlock = ({
   function handleToggle() {
     return setToggle(!toggle);
   }
-  console.log("date");
-  console.log(date);
+  console.log("headingsHere");
+  const reduce = headingsHere.length >= 4 ? headingsHere.length - 3 : 2;
+  console.log(headingsHere[reduce]);
+  console.log(headingsHere[reduce].text);
+  const excerpt = pHere.childNodes[0]._rawText;
+  // console.log(pHere.childNodes[0].childNodes[0]._rawText);
   // a function to calculate reading time
   const timeToRead = text => {
     const words = text.split(" ");
     const minutes = Math.floor(words.length / 200);
     return minutes;
   };
-
+  console.log("html");
+  const searchReplace = `<h2 id="${headingsHere[reduce].id}`;
+  const replacedHtml = html.replace(
+    searchReplace,
+    `${ReactDOMServer.renderToString(<AdsList />)}${searchReplace}`
+  );
   return (
     <article>
       <section>
@@ -91,12 +101,10 @@ const SinglePostBlock = ({
 
             {promoVisitState === true && readMore == false ? (
               <>
-                <p className='excerpt'>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio
-                  officia ipsum, blanditiis ullam obcaecati sit. Distinctio
-                  autem, impedit tempore obcaecati nulla consequuntur eveniet
-                  praesentium rerum temporibus eligendi. Dicta, tempora aperiam!
-                </p>
+                <p
+                  className='excerpt'
+                  dangerouslySetInnerHTML={{ __html: excerpt }}
+                />
                 <AdsList promoVisitState={promoVisitState} />
                 <a
                   href='#'
@@ -158,7 +166,7 @@ const SinglePostBlock = ({
                 <AdsList promoVisitState={promoVisitState} />
                 <div
                   className='post-article-content'
-                  dangerouslySetInnerHTML={{ __html: html }}
+                  dangerouslySetInnerHTML={{ __html: replacedHtml }}
                 ></div>
               </>
             )}
