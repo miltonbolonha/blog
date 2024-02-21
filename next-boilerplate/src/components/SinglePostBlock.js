@@ -18,6 +18,7 @@ const SinglePostBlock = ({
   promoVisitState,
   setReadMore,
   readMore,
+  topic,
 }) => {
   const [toggle, setToggle] = useState(false);
   const doc = parse(html);
@@ -26,10 +27,11 @@ const SinglePostBlock = ({
   function handleToggle() {
     return setToggle(!toggle);
   }
-  console.log("headingsHere");
-  const reduce = headingsHere.length >= 4 ? headingsHere.length - 3 : 2;
-  console.log(headingsHere[reduce]);
-  console.log(headingsHere[reduce].text);
+  // console.log("headingsHere");
+  const reduce = headingsHere?.length >= 4 ? headingsHere?.length - 3 : 2;
+  // console.log('doc.querySelectorAll("sup")');
+  // console.log(doc.querySelectorAll("sup")[0].childNodes[0].innerText);
+  // console.log(html);
   const excerpt = pHere.childNodes[0]._rawText;
   // console.log(pHere.childNodes[0].childNodes[0]._rawText);
   // a function to calculate reading time
@@ -38,12 +40,16 @@ const SinglePostBlock = ({
     const minutes = Math.floor(words.length / 200);
     return minutes;
   };
-  console.log("html");
-  const searchReplace = `<h2 id="${headingsHere[reduce].id}`;
-  const replacedHtml = html.replace(
-    searchReplace,
-    `${ReactDOMServer.renderToString(<AdsList />)}${searchReplace}`
-  );
+  const searchReplace =
+    reduce && headingsHere[reduce]?.id
+      ? `<h2 id="${headingsHere[reduce]?.id}`
+      : null;
+  const replacedHtml = searchReplace
+    ? html.replace(
+        searchReplace,
+        `${ReactDOMServer.renderToString(<AdsList promoVisitState={promoVisitState} />)}${searchReplace}`
+      )
+    : html;
   return (
     <article>
       <section>
@@ -64,38 +70,44 @@ const SinglePostBlock = ({
             <span>Fechar</span>
           </div> */}
           <div className='container'>
-            <nav className='breadcrumb'>
-              <ul>
-                <Link href='/'>
-                  <Image
-                    src={`/logomark.png`}
-                    alt={"Modern Tips search icon"}
-                    width={20}
-                    height={20}
-                  />
-                </Link>
-                <li>
-                  <Image
-                    src={`/brandimages/right-icon.png`}
-                    alt={"Modern Tips search icon"}
-                    width={10}
-                    height={10}
-                    className='search-hold'
-                  />
-                  <Link href={slugify(category).toLowerCase()}>{category}</Link>
-                </li>
-                <li>
-                  <Image
-                    src={`/brandimages/right-icon.png`}
-                    alt={"Modern Tips search icon"}
-                    width={10}
-                    height={10}
-                    className='search-hold'
-                  />
-                  <Link href={"#"}>Second</Link>
-                </li>
-              </ul>
-            </nav>
+            {promoVisitState === true && readMore == false ? null : (
+              <nav className='breadcrumb'>
+                <ul>
+                  <Link href='/'>
+                    <Image
+                      src={`/logomark.png`}
+                      alt={"Modern Tips search icon"}
+                      width={20}
+                      height={20}
+                    />
+                  </Link>
+                  <li>
+                    <Image
+                      src={`/brandimages/right-icon.png`}
+                      alt={"Modern Tips search icon"}
+                      width={10}
+                      height={10}
+                      className='search-hold'
+                    />
+                    <Link href={slugify(category).toLowerCase()}>
+                      {category}
+                    </Link>
+                  </li>
+                  <li>
+                    <Image
+                      src={`/brandimages/right-icon.png`}
+                      alt={"Modern Tips search icon"}
+                      width={10}
+                      height={10}
+                      className='search-hold'
+                    />
+                    <Link href={"/topics/" + slugify(topic).toLowerCase()}>
+                      {topic}
+                    </Link>
+                  </li>
+                </ul>
+              </nav>
+            )}
             <h1>{title}</h1>
             <hr className='small-row mobile-only' />
 
@@ -125,7 +137,7 @@ const SinglePostBlock = ({
                 >
                   {/* <p className='date'>Published on Feb 2, 2024.</p> */}
                   <time className='post-author-date date' dateTime={date}>
-                    Published on {" " + date}
+                    {date}
                   </time>
                   <p className='post-author-date read-time'>
                     {timeToRead(doc.text)} minute read

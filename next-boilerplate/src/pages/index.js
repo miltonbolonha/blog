@@ -117,21 +117,9 @@ const Home = ({ posts }) => {
                 />
               </button>
             </form>
-            {/* 
-          <a href='#' target='_blank' rel='noopener noreferrer'>
-            Trend me now
-          </a> */}
           </div>
         </div>
       </div>
-
-      <main className='main-container-wrapper'>
-        <div className='main-container'>
-          <div className='news-grid'>
-            <BlogList posts={posts} postsToShow={website.postsToShow} />
-          </div>
-        </div>
-      </main>
 
       <div className='wrapper-box'></div>
       <div className='footer-wrapper'>

@@ -5,6 +5,7 @@ date: 2023-08-16 00:00:02
 image: "post-image.jpg"
 description: "Algumas dicas."
 category: "Programação"
+topic: "Vaccination"
 ---
 
 Pense, quando foi na história humana que o trabalhador teve tanta responsabilidade como um trabalhador _home-office_ de tecnologia?

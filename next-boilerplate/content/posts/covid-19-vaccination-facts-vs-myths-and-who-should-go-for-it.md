@@ -5,6 +5,7 @@ date: 2023-08-16 00:20:03
 image: "corona-vaccination-health-hand-human-body-neck.jpg"
 description: "Algumas dicas."
 category: "Health"
+topic: "Vaccination"
 ---
 
 A little over a year into the COVID-19 pandemic and the virus still lingers on. But the CDC has authorized the use of three vaccines, Pfizer-BioNTech, Moderna, and Johnson & Johnson to curb the impact of the virus.

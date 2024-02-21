@@ -106,6 +106,7 @@ const BlogPost = ({ post, searchParams }) => {
           promoVisitState={promoVisitState}
           setReadMore={setReadMore}
           readMore={readMore}
+          topic={post.frontmatter.topic}
         />
 
         <div className='footer-wrapper'>

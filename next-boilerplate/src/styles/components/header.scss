@@ -28,6 +28,9 @@ header {
     flex-direction: column;
     display: grid !important;
     grid-template-columns: 0.2fr 1fr 0.2fr !important;
+    @media (max-width: $media960) {
+      grid-template-columns: 1fr !important;
+    }
     align-items: center;
     z-index: 9;
     margin: 0 auto;
@@ -149,4 +152,9 @@ header {
 
 .header-logo {
   min-width: 170px;
+}
+.error-page {
+  h2 {
+    color: white;
+  }
 }

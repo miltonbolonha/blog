@@ -5,6 +5,7 @@ date: 2023-08-16 00:00:03
 image: "post-image.jpg"
 description: "Algumas dicas."
 category: "Programação"
+topic: "Vaccination"
 ---
 
 As you reach your senior years, the likelihood that you will need expensive medical care increases. This is something none of us like to think about, and so in many cases we don’t. Rather than face our mortality, we would rather bury our heads in the sand and hope that everything turns out okay. But as with many things, it is far better to have medical insurance and not need it than it is to need it and not have it! In fact, the latter can lead to extreme levels of discomfort, pain, embarrassment, and poverty. This should be your absolute priority, and Medigap is one of the key things you need to think about as you reach your late 60s.

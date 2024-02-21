@@ -5,6 +5,7 @@ date: 2023-08-16 00:00:01
 image: "post-image.jpg"
 description: "Algumas dicas."
 category: "Programação"
+topic: "Vaccination"
 ---
 
 ## O Profissional

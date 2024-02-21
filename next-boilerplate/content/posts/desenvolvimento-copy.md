@@ -5,6 +5,7 @@ date: 2023-08-15 00:00:02
 image: "post-image.jpg"
 description: "Algumas dicas."
 category: "Programação"
+topic: "Vaccination"
 ---
 
 Ao aprender tecnologia aprendemos muitas palavras novas. Códigos nada mais é do que texto e o programador é um escritor diferenciado. Com isso em mente, é importante dizer que quando lemos uma palavra desconhecida, por mais complicado que seja, aquilo se refere a um texto, que possue um contexto sempre controlados por comandos escritos.

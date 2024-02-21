@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import slugify from "slugify";
 import Image from "next/image";
 
 const Post = ({ slug, date, title, description, image, number, category }) => {
@@ -20,7 +21,12 @@ const Post = ({ slug, date, title, description, image, number, category }) => {
       </Link> */}
 
       <div className='main-post-inner caption'>
-        <Link href={"/cat"} passHref className='post-category author'>
+        <Link
+          href={slugify(category).toLowerCase()}
+          alt={category}
+          passHref
+          className='post-category author'
+        >
           {category}
         </Link>
         <Link href={slug} passHref className='post-link'>

@@ -5,6 +5,7 @@ date: 2023-08-16 00:00:04
 image: "post-image.jpg"
 description: "Algumas dicas."
 category: "Programação"
+topic: "Vaccination"
 ---
 
 Eu sou o Milton Bolonha, um programador e versionador de códigos. Eu estou aqui para te ensinar tecnologia de ponta.

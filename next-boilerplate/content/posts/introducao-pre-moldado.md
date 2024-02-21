@@ -5,6 +5,7 @@ date: 2023-08-16 00:00:00
 image: "post-image.jpg"
 description: "Algumas dicas."
 category: "Programação"
+topic: "Vaccination"
 ---
 
 ## Introdução ao Pré-Moldado

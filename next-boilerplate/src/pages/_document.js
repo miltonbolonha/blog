@@ -24,7 +24,7 @@ export default class MyDocument extends Document {
 
   render() {
     return (
-      <Html lang='pt-BR'>
+      <Html lang='en-US'>
         <Head>
           <link
             rel='stylesheet prefetch'

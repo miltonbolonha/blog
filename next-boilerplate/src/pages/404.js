@@ -2,71 +2,113 @@ import React from "react";
 import Link from "next/link";
 import MainWrapperContainer from "../containers/MainWrapperContainer";
 import Row from "../containers/RowContainer";
+import SeoContainer from "../containers/SeoContainer";
+import HeaderContainer from "../containers/HeaderContainer";
+import FooterContainer from "../containers/FooterContainer";
+import { usePathname, useSearchParams } from "next/navigation";
+
 import Image from "next/image";
+import mainMenu from "../configs/main-menu.json";
 import { slugPrefix } from "../lib/utils";
 import mainConfigs from "../configs/main-infos.json";
+
+const index = mainConfigs?.pages?.index;
+const business = mainConfigs?.business;
+const website = mainConfigs?.website;
+
 const infos = {
   slug: "404",
   title: `Error Page - ${mainConfigs.business.brandName}`,
   description: "This is a 404 error page.",
-  author: mainConfigs.website.author,
-  siteUrl: mainConfigs.website.siteUrl,
-  brandName: mainConfigs.business.brandName,
-  brandEmail: mainConfigs.business.brandEmail,
-  brandLogo: mainConfigs.business.brandLogo,
-  brandPhone: mainConfigs.business.brandPhone,
-  brandDescription: mainConfigs.business.brandDescription,
-  brandCardImage: mainConfigs.business.brandCardImage,
-  featuredImage: `${mainConfigs.website.siteUrl}${slugPrefix}/favicon-32x32.png`,
-  datePublished: mainConfigs.website.datePublished,
-  i18n: mainConfigs.website.i18n,
-  keywords: mainConfigs.website.keywords,
-  questions: mainConfigs.website.questions,
-  topology: "pages",
+  author: website.author,
+  brandPerson: website.brandPerson,
+  siteUrl: website.siteUrl,
+  brandName: business.brandName,
+  brandEmail: business.brandEmail,
+  brandPhone: business.brandPhone,
+  brandDescription: business.brandDescription,
+  brandLogo: `${website.siteUrl}/${business.brandLogo}`,
+  brandCardImage: `${website.siteUrl}/brandimages/pages/${business.brandCardImage}`,
+  featuredImage: `${website.siteUrl}/brandimages/pages/${index.featureImage}`,
+  datePublished: website.datePublished,
+  i18n: website.i18n,
+  keywords: website.keywords,
+  questions: index.faq,
+  topology: null,
   articleUrl: `${mainConfigs.website.siteUrl}/404`,
-  themeColor: "#f26500",
-  sameAs: mainConfigs.business.sameAs,
-  twitter: mainConfigs.business.twitterCard,
+  themeColor: website.themeColor,
+  sameAs: business.sameAs,
+  twitter: business.shortName,
 };
-const NotFoundPage = () => (
-  <MainWrapperContainer rowWidth={"100%"} killSeo={false} data={infos}>
-    <h2>Erro: 404</h2>
-    <div className='wrapper-box'>
-      <Row opt={{ isBoxed: true }}>
-        <div className='hero-txt'>
-          <h1>Não há nada por aqui!</h1>
-          <h2>Desculpe o transtorno.</h2>
-          <Link href='/' passHref className='hot-color-rounded-btn'>
-            De volta ao blog!
-          </Link>
-        </div>
-      </Row>
 
-      <Row
+const NotFoundPage = () => {
+  const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
+
+  return (
+    <div className='error-page'>
+      <SeoContainer killSeo={false} data={infos} />
+
+      <HeaderContainer
         opt={{
-          numColumns: 2,
-          isBoxed: true,
-          classes: "hero-txt contact-wrapper",
+          bgOne: "transparent",
+          bgTwo: "transparent",
+          classes: "header-block",
+          pageHasMenu: index?.hasMenu,
         }}
-      >
-        <Image
-          src={"/brandimages/envelope-greeting.png"}
-          alt={"Maskot Contact"}
-          critical='true'
-          className={""}
-          width={300}
-          height={300}
-        />
-        <div id='contato' className='contact-info'>
-          <h2>Contato</h2>
-          <p>
-            Fale com a gente por meio do e-mail:{" "}
-            <strong>ines.santos@moderntips.com</strong>
-          </p>
+        // mainMenu={mainMenu.menu.items}
+        hasMenu={false}
+        // hasMenu={index?.hasMenu}
+        // scheduleLink={index.calendlyLink}
+        // gtag={"gtag"}
+        // gtagCounter={gtagCounter}
+        pathname={pathname}
+      />
+      <div className='hero-wrapper'>
+        <div className='hero search-hero'>
+          <Image
+            src={`/brandimages/hero-img.jpg`}
+            alt={"Modern Tips hero image"}
+            width={1024}
+            height={650}
+            className='hero-img'
+          />
+          <div className='row-config inner-hero'>
+            <h2>Error page</h2>
+            <h1>Search ModernTips</h1>
+            <form action='#' method='post'>
+              <input
+                type='text'
+                name='something'
+                id='here'
+                placeholder='Search'
+              />
+              <button className='search-icon'>
+                <Image
+                  src={`/brandimages/search-icon.png`}
+                  alt={"Modern Tips search icon"}
+                  width={26}
+                  height={26}
+                  className='search-hold'
+                />
+                <Image
+                  src={`/brandimages/search-icon-hover.png`}
+                  alt={"Modern Tips search icon hover"}
+                  width={26}
+                  height={26}
+                  className='search-hover'
+                />
+              </button>
+            </form>
+          </div>
         </div>
-      </Row>
+      </div>
+
+      <div className='wrapper-box'></div>
+      <div className='footer-wrapper'>
+        <FooterContainer label='moderntips.com' link='https://moderntips.com' />
+      </div>
     </div>
-  </MainWrapperContainer>
-);
+  );
+};
 
 export default NotFoundPage;
