@@ -958,13 +958,17 @@ sub {
 }
 .footer-highlights {
   max-width: $ext_page__size;
-  width: 100%;
+  width: 98%;
   margin-right: auto;
   margin-left: auto;
+
   .inner-footer-highlights {
     display: flex;
     gap: 20px;
     width: 100%;
     flex-direction: row;
+    @media (max-width: $media960) {
+      flex-direction: column;
+    }
   }
 }

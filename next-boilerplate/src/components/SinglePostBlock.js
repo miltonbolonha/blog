@@ -85,6 +85,8 @@ const SinglePostBlock = ({
 
   return (
     <article>
+      <div id='rampjs_slot1'></div>
+      <div id='rampjs_slot2'></div>
       <section>
         <div
           className={`main-post ${promoVisitState === true && readMore == false ? "promoVisit" : ""}`}
