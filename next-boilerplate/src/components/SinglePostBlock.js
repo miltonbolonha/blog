@@ -7,6 +7,7 @@ import slugify from "slugify";
 import AdsList from "../components/AdsList";
 import Row from "../containers/RowContainer";
 
+import AdsBoxContainer from "../containers/AdsBoxContainer";
 import TOCContainer from "../containers/TOCContainer";
 
 const X = () => (
@@ -87,6 +88,7 @@ const SinglePostBlock = ({
     <article>
       <div id='rampjs_slot1'></div>
       <div id='rampjs_slot2'></div>
+      <AdsBoxContainer dataAdSlot={"X7XXXXXX5X"} />
       <section>
         <div
           className={`main-post ${promoVisitState === true && readMore == false ? "promoVisit" : ""}`}
