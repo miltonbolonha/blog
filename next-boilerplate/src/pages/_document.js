@@ -42,8 +42,10 @@ export default class MyDocument extends Document {
             src='https://rampjs-cdn.system1.com/ramp.js'
           />
           <Script
+            id='adsbygoogle-init'
             strategy='afterInteractive'
-            src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4309295381222992'
+            crossOrigin='anonymous'
+            src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456'
           />
           <link rel='icon prefetch' href='/favicon.png' sizes='any' />
         </Head>
