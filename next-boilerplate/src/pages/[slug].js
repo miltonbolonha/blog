@@ -2,7 +2,7 @@ import React from "react";
 import BlogPost from "../templates/blog-post";
 import { getPostBySlug, getAllPosts } from "../lib/api";
 import markdownToHtml from "../lib/markdownToHtml";
-
+import slugify from "slugify";
 const Post = mdFile => {
   return <BlogPost post={mdFile} />;
 };
@@ -31,23 +31,31 @@ export const getStaticProps = async context => {
     throw new Error("Error: No !content!");
   }
   // get prev/next posts
-  const allPosts = getAllPosts();
-  if (!allPosts) {
-    throw new Error("Error: No !allPosts!");
-  }
-  const currentAllPostIndex = allPosts.filter(
-    p => p?.frontmatter.layout === "post"
-  );
-  const currentPostIndex = currentAllPostIndex.findIndex(p => p?.slug === slug);
-  const nextPost = allPosts[currentPostIndex - 1] ?? null;
-  const prevPost = allPosts[currentPostIndex + 1] ?? null;
+  // const allPosts = getAllPosts();
+  // if (!allPosts) {
+  //   throw new Error("Error: No !allPosts!");
+  // }
+  // const currentAllPostIndex = allPosts.filter(
+  //   p => p?.frontmatter.layout === "post"
+  // );
+  // const currentPostIndex = currentAllPostIndex.findIndex(p => p?.slug === slug);
+  // const categoryIndex = allPosts.filter(
+  //   p => slugify(p?.frontmatter.category) === slug
+  // );
+  // const postCategoryIndex = allPosts.filter(
+  //   p => slugify(p?.frontmatter.category) === slug
+  // );
+
+  // const nextPost = allPosts[currentPostIndex - 1] ?? null;
+  // const prevPost = allPosts[currentPostIndex + 1] ?? null;
 
   return {
     props: {
       ...post,
       content,
-      nextPost,
-      prevPost,
+      // nextPost,
+      // prevPost,
+      // categoryIndex,
     },
   };
 };

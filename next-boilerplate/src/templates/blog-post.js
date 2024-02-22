@@ -38,13 +38,13 @@ const infos = {
   sameAs: business.sameAs,
   twitter: business.shortName,
 };
-const BlogPost = ({ post, searchParams }) => {
+const BlogPost = ({ post, searchParams, categoryIndex }) => {
   const [btnGClick, setBtnGClick] = useState(null);
   const [promoVisitState, setPromoVisitState] = useState(false);
   const [readMore, setReadMore] = useState(false);
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
-  console.log("readMore");
-  console.log(readMore);
+  // console.log("categoryIndex");
+  // console.log(categoryIndex);
   const gtagCounter = id => {
     if (btnGClick === null && typeof window !== "undefined") {
       window?.gtag("event", id);
@@ -53,9 +53,9 @@ const BlogPost = ({ post, searchParams }) => {
   };
   const getRef = useSearchParams().getAll("ref");
 
-  console.log("useSearchParams");
-  console.log(useSearchParams().getAll("ref"));
-  console.log(useSearchParams().getAll("zim"));
+  // console.log("useSearchParams");
+  // console.log(useSearchParams().getAll("ref"));
+  // console.log(useSearchParams().getAll("zim"));
   // console.log("usePathname");
   // console.log(usePathname());
   // console.log("searchParams");
@@ -68,10 +68,10 @@ const BlogPost = ({ post, searchParams }) => {
 
   useEffect(() => {
     getRef.length === 0 && readMore === false ? null : setPromoVisitState(true);
-    console.log("getRef.length;;;;;");
-    console.log(getRef.length);
-    console.log("readMore....");
-    console.log(readMore);
+    // console.log("getRef.length;;;;;");
+    // console.log(getRef.length);;
+    // console.log("readMore....");
+    // console.log(readMore);
   });
   return (
     <>

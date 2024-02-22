@@ -10,7 +10,7 @@ topic: "Vaccination"
 
 A little over a year into the COVID-19 pandemic and the virus still lingers on. But the CDC has authorized the use of three vaccines, Pfizer-BioNTech, Moderna, and Johnson & Johnson to curb the impact of the virus.
 
-According to NPR[^1], around 64.4 million Americans have been vaccinated with about 171 million doses being administered. That is about 20% of the country’s population. Another research[^2], mentions that around 85% of the population needs to be vaccinated before the virus stops spreading. The country still has a long way to go to reach that mark.
+According to NPR~1~, around 64.4 million Americans have been vaccinated with about 171 million doses being administered. That is about 20% of the country’s population. Another research~2~, mentions that around 85% of the population needs to be vaccinated before the virus stops spreading. The country still has a long way to go to reach that mark.
 
 To help you understand a bit more about the three vaccines currently being rolled out, we discuss facts and myths around them.
 
@@ -24,11 +24,11 @@ Immunity takes time, usually a few weeks. So, you can get infected even after yo
 
 Each of the three vaccines has a different efficacy rate, Pfizer-BioNTech is around 94%, Modern around 90%, and Johnson & Johnson around 72%.
 
-However, all three vaccines will enhance your immune system enough to lower the effectiveness of the virus. The vaccine works to curb the virus so if you are infected after being vaccinated, at most you have minor symptoms and just need to isolate[^3]. Hospitalization and death by the virus will virtually be off the table for any individual that has received either of the three vaccines.
+However, all three vaccines will enhance your immune system enough to lower the effectiveness of the virus. The vaccine works to curb the virus so if you are infected after being vaccinated, at most you have minor symptoms and just need to isolate~3~. Hospitalization and death by the virus will virtually be off the table for any individual that has received either of the three vaccines.
 
 ## Myth: You don’t need to get vaccinated if you’ve already had COVID-19
 
-**Fact:** COVID-19 is still a fairly new virus and experts are still studying it to determine immunity from both the vaccine and after you’ve been infected. Therefore, it is recommended that you get vaccinated even if you’ve had COVID-19 and recovered. It is rare[^4] but there have been cases of reinfection.
+**Fact:** COVID-19 is still a fairly new virus and experts are still studying it to determine immunity from both the vaccine and after you’ve been infected. Therefore, it is recommended that you get vaccinated even if you’ve had COVID-19 and recovered. It is rare~4~ but there have been cases of reinfection.
 
 But don’t get the vaccine right away after recovering. Individuals that were directed to use convalescent plasma or monoclonal antibodies should wait 90 days after recovering before getting vaccinated. The best thing to do is speak to your doctor before getting vaccinated to ensure you are safe to do so.
 
@@ -60,7 +60,7 @@ If you have any concerns or doubts about the vaccine due to your underlying prob
 
 **Fact:** There is a lot of information being circulated that the spike protein produced by the vaccine binds to the placental proteins, which results in infertility. You will find such information on forums that are anti-vaccine.
 
-The logic behind the reasoning of infertility and miscarriage is not scientifically plausible. The vaccine in no way leads to either[^5]. Studies were conducted on COVID-19 infected, pregnant women to see its impact on them. In response to the virus, the immune system itself produces the spike protein. There were no instances in which these women experienced a miscarriage or it affected their fertility.
+The logic behind the reasoning of infertility and miscarriage is not scientifically plausible. The vaccine in no way leads to either~5~. Studies were conducted on COVID-19 infected, pregnant women to see its impact on them. In response to the virus, the immune system itself produces the spike protein. There were no instances in which these women experienced a miscarriage or it affected their fertility.
 
 ## Myth: Pregnant women should not be vaccinated
 
@@ -74,8 +74,15 @@ The reason why CDC has left this as a personal choice of the individual is that 
 
 Vaccination is vital as countries move to develop herd immunity. The three vaccines currently being administered in the U.S. are safe. But to be on the safe side, you should consult your doctor before getting vaccinated. They can tell you what to expect and whether it is safe for you.
 
-[^1]: [COVID-19 Vaccine Tracker](https://www.npr.org/sections/health-shots/2021/01/28/960901166/how-is-the-covid-19-vaccination-campaign-going-in-your-state)
-[^2]: [ A Rocky Road on the Way to Herd Immunity](https://www.npr.org/sections/health-shots/2021/02/03/963373971/a-rocky-road-on-the-way-to-herd-immunity-for-covid-19)
-[^3]: [Coping with Isolation During COVID](https://getvipcare.com/blog/coping-with-isolation-during-covid/)
-[^4]: [COVID Reinfections are Unusual – but still could help the virus to spread](https://www.nature.com/articles/d41586-021-00071-6)
-[^5]: [COVID 19: No evidence that vaccines can affect fertility](https://www.bmj.com/content/372/bmj.n509)
+## Footernotes
+
+<div id="footernotes">
+<footer>
+
+1. [COVID-19 Vaccine Tracker](https://www.npr.org/sections/health-shots/2021/01/28/960901166/how-is-the-covid-19-vaccination-campaign-going-in-your-state)
+2. [ A Rocky Road on the Way to Herd Immunity](https://www.npr.org/sections/health-shots/2021/02/03/963373971/a-rocky-road-on-the-way-to-herd-immunity-for-covid-19)
+3. [Coping with Isolation During COVID](https://getvipcare.com/blog/coping-with-isolation-during-covid/)
+4. [COVID Reinfections are Unusual – but still could help the virus to spread](https://www.nature.com/articles/d41586-021-00071-6)
+5. [COVID 19: No evidence that vaccines can affect fertility](https://www.bmj.com/content/372/bmj.n509)
+</footer>
+</div>

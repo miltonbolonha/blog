@@ -7,6 +7,27 @@ import slugify from "slugify";
 import AdsList from "../components/AdsList";
 import Row from "../containers/RowContainer";
 
+import TOCContainer from "../containers/TOCContainer";
+
+const X = () => (
+  <div id={`item-2`} className={`post column-post`}>
+    <a href={"/category"} className='media'>
+      <div
+        className='media'
+        style={{ backgroundImage: `url(/posts/post-image.jpg)` }}
+      ></div>
+    </a>
+    <div className='main-post-inner caption'>
+      <a href={"category"} alt={"category"} className='post-category author'>
+        category
+      </a>
+      <a href={"/cat"} className='post-link'>
+        <h2 className='title'>Here’s What You Need to Know About Medigap</h2>
+      </a>
+    </div>
+  </div>
+);
+
 const SinglePostBlock = ({
   highlightImage,
   authorImg,
@@ -24,6 +45,9 @@ const SinglePostBlock = ({
   const doc = parse(html);
   const headingsHere = doc.querySelectorAll("h2");
   const pHere = doc.querySelector("p");
+  const supHere = doc.querySelector("sup");
+  console.log("supHere");
+  console.log(supHere);
   function handleToggle() {
     return setToggle(!toggle);
   }
@@ -32,6 +56,7 @@ const SinglePostBlock = ({
   // console.log('doc.querySelectorAll("sup")');
   // console.log(doc.querySelectorAll("sup")[0].childNodes[0].innerText);
   // console.log(html);
+
   const excerpt = pHere.childNodes[0]._rawText;
   // console.log(pHere.childNodes[0].childNodes[0]._rawText);
   // a function to calculate reading time
@@ -50,25 +75,32 @@ const SinglePostBlock = ({
         `${ReactDOMServer.renderToString(<AdsList promoVisitState={promoVisitState} />)}${searchReplace}`
       )
     : html;
+
+  // useEffect(() => {
+  //   window.addEventListener("click", handleUserKeyPress);
+  //   return () => {
+  //       window.removeEventListener("click", handleUserKeyPress);
+  //   };
+  // }, [handleUserKeyPress]);
+
   return (
     <article>
       <section>
-        {/* <Row
-          opt={{
-            isBoxed: false,
-            classes: "post-header",
-          }}
+        <div
+          className={`main-post ${promoVisitState === true && readMore == false ? "promoVisit" : ""}`}
         >
-          <div className='header-post'>
-            <Row opt={{ isBoxed: true, classes: "post", alignTo: "center" }}>
-            </Row>
+          <div
+            className={`left-column ${promoVisitState === true && readMore == false ? "none" : ""}`}
+          >
+            <TOCContainer
+              tocs={headingsHere}
+              // gtag={gtag}
+              display={"desktop"}
+              toggle={true}
+              handleToggle={handleToggle}
+            />
           </div>
-        </Row> */}
-        <div className='main-post'>
-          {/* <div className='close-btn-single-post'>
-            <Link href='/'>X</Link>
-            <span>Fechar</span>
-          </div> */}
+
           <div className='container'>
             {promoVisitState === true && readMore == false ? null : (
               <nav className='breadcrumb'>
@@ -144,7 +176,7 @@ const SinglePostBlock = ({
                   </p>
                 </Row>
 
-                <nav className='toc-sticky mobile-only'>
+                {/* <nav className='toc-sticky mobile-only'>
                   <button
                     className='toc-toggle'
                     type='button'
@@ -165,8 +197,14 @@ const SinglePostBlock = ({
                       ))}
                     </ul>
                   </div>
-                </nav>
-
+                </nav> */}
+                <TOCContainer
+                  tocs={headingsHere}
+                  // gtag={gtag}
+                  display={"mobile"}
+                  toggle={toggle}
+                  handleToggle={handleToggle}
+                />
                 <Image
                   src={`/posts/${highlightImage}`}
                   alt={title}
@@ -182,6 +220,31 @@ const SinglePostBlock = ({
                 ></div>
               </>
             )}
+          </div>
+          <section
+            className={`right-column desktop-only ${promoVisitState === true && readMore == false ? "none" : ""}`}
+          >
+            <h2>Related Posts</h2>
+            <hr className='small-row' />
+            <div className='inner-right-column'>
+              <X />
+              <X />
+              <X />
+              <X />
+            </div>
+          </section>
+        </div>
+
+        <div
+          className={`footer-highlights ${promoVisitState === true && readMore == false ? "none" : ""}`}
+        >
+          <h2>Explore</h2>
+          <hr className='small-row' />
+          <div className='inner-footer-highlights'>
+            <X />
+            <X />
+            <X />
+            <X />
           </div>
         </div>
       </section>

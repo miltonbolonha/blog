@@ -6,20 +6,12 @@ import Image from "next/image";
 const Post = ({ slug, date, title, description, image, number, category }) => {
   return (
     <div id={`item-${number}`} className={`post highlight-0${number}`}>
-      <div
-        className='media'
-        style={{ backgroundImage: `url(/posts/${image})` }}
-      ></div>
-      {/* <Link href={slug} passHref className='post-link'>
-        <Image
-          src={`/posts/${image}`}
-          alt={title}
-          width={280}
-          height={150}
-          unoptimized
-        />
-      </Link> */}
-
+      <Link href={slug} passHref className='media'>
+        <div
+          className='media'
+          style={{ backgroundImage: `url(/posts/${image})` }}
+        ></div>
+      </Link>
       <div className='main-post-inner caption'>
         <Link
           href={slugify(category).toLowerCase()}
@@ -30,7 +22,7 @@ const Post = ({ slug, date, title, description, image, number, category }) => {
           {category}
         </Link>
         <Link href={slug} passHref className='post-link'>
-          <h1 className='title'>{title}</h1>
+          <h2 className='title'>{title}</h2>
         </Link>
       </div>
     </div>
