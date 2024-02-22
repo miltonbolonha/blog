@@ -12,7 +12,7 @@ const AdsBoxContainer = ({ dataAdSlot }) => {
       <ins
         className='adsbygoogle'
         style={{ display: "block" }}
-        data-ad-client='ca-pub-1234567890123456'
+        data-ad-client='ca-pub-4309295381222992'
         data-ad-slot={dataAdSlot}
         data-ad-format='auto'
         data-full-width-responsive='true'
