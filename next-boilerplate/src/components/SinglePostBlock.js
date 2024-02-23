@@ -255,7 +255,7 @@ const SinglePostBlock = ({
 
             <div
               className={`desktop-only ads-right-column second ${promoVisitState === true && readMore === false ? "none" : ""}
-              ${promoVisitState === false && readMore === false ? "" : "sticky"}`}
+              ${promoVisitState === false && readMore === true ? "" : "sticky"}`}
             >
               <h1>ads 2</h1>
             </div>

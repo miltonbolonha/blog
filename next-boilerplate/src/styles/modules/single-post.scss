@@ -177,13 +177,17 @@
         top: 20px;
         margin-bottom: 150px;
         &.second {
-          top: 175px;
+          top: 50px;
           margin-bottom: 0;
         }
       }
     }
   }
   .footer-highlights {
+    &.ads-bottom-row {
+      text-align: center;
+      max-width: $page__size;
+    }
     margin-bottom: 20px;
     h2 {
       font-size: 20px;
