@@ -261,7 +261,12 @@ const SinglePostBlock = ({
             </div>
           </section>
         </div>
-
+        <div
+          className={`footer-highlights  ads-bottom-row ${promoVisitState === true && readMore === false ? "none" : ""}
+`}
+        >
+          <h1>ads 3</h1>
+        </div>
         <div
           className={`footer-highlights ${promoVisitState === true && readMore !== null ? "none" : ""}`}
         >
