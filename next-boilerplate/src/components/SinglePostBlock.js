@@ -233,6 +233,14 @@ const SinglePostBlock = ({
             className={`right-column desktop-only ${promoVisitState === true && readMore === false ? "none" : ""}`}
           >
             <div
+              className={`desktop-only ads-right-column ${promoVisitState === true && readMore === false ? "none" : ""}
+              ${promoVisitState === false && readMore === false ? "" : "sticky"}
+              
+              `}
+            >
+              <h1>ads 1</h1>
+            </div>
+            <div
               className={`desktop-only ${promoVisitState === true && readMore !== null ? "none" : ""}`}
             >
               <h2>Related Posts</h2>
@@ -244,16 +252,18 @@ const SinglePostBlock = ({
                 <X />
               </div>
             </div>
+
             <div
-              className={`desktop-only ads-right-column ${promoVisitState === true && readMore === false ? "none" : ""}`}
+              className={`desktop-only ads-right-column second ${promoVisitState === true && readMore === false ? "none" : ""}
+              ${promoVisitState === false && readMore === false ? "" : "sticky"}`}
             >
-              <h1>ads</h1>
+              <h1>ads 2</h1>
             </div>
           </section>
         </div>
 
         <div
-          className={`footer-highlights ${promoVisitState === true && readMore == false ? "none" : ""}`}
+          className={`footer-highlights ${promoVisitState === true && readMore !== null ? "none" : ""}`}
         >
           <h2>Explore</h2>
           <hr className='small-row' />
