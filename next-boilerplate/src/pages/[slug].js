@@ -63,6 +63,14 @@ export const getStaticProps = async context => {
 export const getStaticPaths = async () => {
   const posts = getAllPosts();
   const paths = posts.map(({ slug }) => ({ params: { slug } }));
+  // const categories = posts.map(({ category }) => ({ params: { category } }));
+  console.log("posts");
+  console.log(posts);
+  // const categories = posts.map(({ category }) => ({
+  //   params: { frontmatter: category },
+  // }));
+  // console.log("categories");
+  // console.log(categories);
 
   return {
     paths,

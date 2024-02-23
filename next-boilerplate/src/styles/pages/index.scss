@@ -7,6 +7,18 @@
   min-height: 500px;
   max-height: 700px;
   width: 100%;
+  &.page {
+    height: 200px;
+    min-height: unset !important;
+    .hero-img,
+    .hero {
+      height: 200px;
+      min-height: unset !important;
+    }
+    h2 {
+      color: white;
+    }
+  }
 }
 .hero {
   background: $mix_black_02;
@@ -14,6 +26,7 @@
   height: 70dvh;
   min-height: 500px;
   max-height: 700px;
+
   .hero-img {
     position: absolute;
     z-index: -1;
