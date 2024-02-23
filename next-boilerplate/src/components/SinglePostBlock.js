@@ -88,21 +88,25 @@ const SinglePostBlock = ({
     <article>
       <div id='rampjs_slot1'></div>
       <div id='rampjs_slot2'></div>
-      <AdsBoxContainer dataAdSlot={"2083202812"} />
+      {/* <AdsBoxContainer dataAdSlot={"2083202812"} /> */}
       <section>
         <div
           className={`main-post ${promoVisitState === true && readMore == false ? "promoVisit" : ""}`}
         >
           <div
-            className={`left-column ${promoVisitState === true && readMore == false ? "none" : ""}`}
+            className={`left-column ${promoVisitState === true && readMore === false ? "none" : ""}`}
           >
-            <TOCContainer
-              tocs={headingsHere}
-              // gtag={gtag}
-              display={"desktop"}
-              toggle={true}
-              handleToggle={handleToggle}
-            />
+            <div
+              className={`${promoVisitState === true && readMore !== null ? "none" : ""}`}
+            >
+              <TOCContainer
+                tocs={headingsHere}
+                // gtag={gtag}
+                display={"desktop"}
+                toggle={true}
+                handleToggle={handleToggle}
+              />
+            </div>
           </div>
 
           <div className='container'>
@@ -226,15 +230,24 @@ const SinglePostBlock = ({
             )}
           </div>
           <section
-            className={`right-column desktop-only ${promoVisitState === true && readMore == false ? "none" : ""}`}
+            className={`right-column desktop-only ${promoVisitState === true && readMore === false ? "none" : ""}`}
           >
-            <h2>Related Posts</h2>
-            <hr className='small-row' />
-            <div className='inner-right-column'>
-              <X />
-              <X />
-              <X />
-              <X />
+            <div
+              className={`desktop-only ${promoVisitState === true && readMore !== null ? "none" : ""}`}
+            >
+              <h2>Related Posts</h2>
+              <hr className='small-row' />
+              <div className='inner-right-column'>
+                <X />
+                <X />
+                <X />
+                <X />
+              </div>
+            </div>
+            <div
+              className={`desktop-only ads-right-column ${promoVisitState === true && readMore === false ? "none" : ""}`}
+            >
+              <h1>ads</h1>
             </div>
           </section>
         </div>

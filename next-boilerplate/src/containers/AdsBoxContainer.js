@@ -1,11 +1,11 @@
 import React, { useEffect } from "react";
 
 const AdsBoxContainer = ({ dataAdSlot }) => {
-  useEffect(() => {
-    if (window) {
-      (window.adsbygoogle || []).push({});
-    }
-  }, []);
+  // useEffect(() => {
+  //   if (window) {
+  //     (window.adsbygoogle || []).push({});
+  //   }
+  // }, []);
 
   return (
     <>
