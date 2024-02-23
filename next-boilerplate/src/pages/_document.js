@@ -41,11 +41,11 @@ export default class MyDocument extends Document {
             strategy='afterInteractive'
             src='https://rampjs-cdn.system1.com/ramp.js'
           />
-          {/* <Script
+          <Script
             strategy='lazyOnload'
             crossOrigin='anonymous'
             src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4309295381222992'
-          /> */}
+          />
           <link rel='icon prefetch' href='/favicon.png' sizes='any' />
         </Head>
         <body className='theme-one'>

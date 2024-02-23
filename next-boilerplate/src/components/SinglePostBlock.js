@@ -88,7 +88,7 @@ const SinglePostBlock = ({
     <article>
       <div id='rampjs_slot1'></div>
       <div id='rampjs_slot2'></div>
-      {/* <AdsBoxContainer dataAdSlot={"4309295381222992"} /> */}
+      <AdsBoxContainer dataAdSlot={"2083202812"} />
       <section>
         <div
           className={`main-post ${promoVisitState === true && readMore == false ? "promoVisit" : ""}`}
