@@ -46,9 +46,8 @@ const SinglePostBlock = ({
   const doc = parse(html);
   const headingsHere = doc.querySelectorAll("h2");
   const pHere = doc.querySelector("p");
-  const supHere = doc.querySelector("sup");
-  console.log("supHere");
-  console.log(supHere);
+  // const supHere = doc.querySelector("sup");
+
   function handleToggle() {
     return setToggle(!toggle);
   }

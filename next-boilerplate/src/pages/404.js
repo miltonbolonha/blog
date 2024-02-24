@@ -41,9 +41,10 @@ const infos = {
   twitter: business.shortName,
 };
 
-const NotFoundPage = () => {
+const NotFoundPage = ({ type }) => {
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
-
+  console.log("type");
+  console.log(type);
   return (
     <div className='error-page'>
       <SeoContainer killSeo={false} data={infos} />

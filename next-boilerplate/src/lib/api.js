@@ -1,6 +1,7 @@
 import matter from "gray-matter";
 import { join } from "path";
 import fs from "fs";
+import slugify from "slugify";
 
 import { format } from "date-fns";
 import { usa } from "date-fns/locale";
@@ -10,22 +11,63 @@ const postsDirectory = join(process.cwd(), "content/posts");
 // console.log(postsDirectory);
 export function getPostBySlug(slug) {
   if (!slug) return null;
+  const slugIncludes = slug.includes(".md", "");
+  console.log(slugIncludes);
+  console.log(slug);
+  const realSlug = slugIncludes ? slug.replace(/\.md$/, "") : slug;
+  const fullPath = join(postsDirectory, `${realSlug}.md`) || null;
 
-  const realSlug = slug.replace(/\.md$/, "");
-  const fullPath = join(postsDirectory, `${realSlug}.md`);
-  const fileContents = fs.readFileSync(fullPath, "utf8");
-  const { data, content } = matter(fileContents);
+  var fileContents;
+  try {
+    fileContents = fs.readFileSync(fullPath, "utf8");
+  } catch (err) {
+    fileContents = false;
+  }
 
-  const date = format(new Date(data.date), "MMMM'/'dd'/'yyyy", {
-    locale: usa,
-  });
+  if (fileContents) {
+    const { data } = fileContents ? matter(fileContents) : null;
+    const { content } = fileContents ? matter(fileContents) : null;
 
-  return {
-    slug: realSlug,
-    date: data.date.toString(),
-    frontmatter: { ...data, date },
-    content,
-  };
+    const date = format(new Date(data.date), "MMMM'/'dd'/'yyyy", {
+      locale: usa,
+    });
+
+    return {
+      slug: realSlug,
+      date: data.date.toString(),
+      frontmatter: { ...data, date },
+      type: data ? "posts" : "categories",
+      content,
+      relatedPost: null,
+    };
+  } else {
+    const allPosts = getAllPosts();
+
+    const x = allPosts.filter(function f(o) {
+      if (slugify(o.frontmatter.category).toLowerCase().includes(slug)) {
+        return true;
+      }
+      if (o.children) {
+        return (o.children = o.children.filter(f)).length;
+      }
+    });
+    return {
+      slug: realSlug,
+      date: "2023-08-16 00:00:01",
+      frontmatter: {
+        layout: "",
+        title: "",
+        image: "",
+        description: "",
+        category: realSlug,
+        topic: "",
+        date: "2023-08-16 00:00:01",
+      },
+      type: "categories",
+      content: "category",
+      relatedPost: x,
+    };
+  }
 }
 
 export function getAllPosts() {

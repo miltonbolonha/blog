@@ -10,35 +10,13 @@ import SeoContainer from "../containers/SeoContainer";
 // import MainWrapperContainer from "../containers/MainWrapperContainer";
 import mainMenu from "../configs/main-menu.json";
 
+import BlogList from "../templates/blog-list";
+
 const index = mainConfigs?.pages?.index;
 const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
-const infos = {
-  slug: index?.slug,
-  title: `${index?.title} - ${business.brandName}`,
-  description: index?.description,
-  author: website.author,
-  brandPerson: website.brandPerson,
-  siteUrl: website.siteUrl,
-  brandName: business.brandName,
-  brandEmail: business.brandEmail,
-  brandPhone: business.brandPhone,
-  brandDescription: business.brandDescription,
-  brandLogo: `${website.siteUrl}/${business.brandLogo}`,
-  brandCardImage: `${website.siteUrl}/brandimages/pages/${business.brandCardImage}`,
-  featuredImage: `${website.siteUrl}/brandimages/pages/${index.featureImage}`,
-  datePublished: website.datePublished,
-  i18n: website.i18n,
-  keywords: website.keywords,
-  questions: index.faq,
-  topology: null,
-  articleUrl: `${website.siteUrl}/${index?.slug}`,
-  themeColor: website.themeColor,
-  sameAs: business.sameAs,
-  twitter: business.shortName,
-};
-const BlogPost = ({ post, searchParams, categoryIndex }) => {
+const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   const [btnGClick, setBtnGClick] = useState(null);
   const [promoVisitState, setPromoVisitState] = useState(false);
   const [readMore, setReadMore] = useState(false);
@@ -51,28 +29,46 @@ const BlogPost = ({ post, searchParams, categoryIndex }) => {
       setBtnGClick(null);
     }
   };
+  console.log("relatedPostrelatedPost");
+  console.log(post.relatedPost);
+
   const getRef = useSearchParams().getAll("ref");
 
-  // console.log("useSearchParams");
-  // console.log(useSearchParams().getAll("ref"));
-  // console.log(useSearchParams().getAll("zim"));
-  // console.log("usePathname");
-  // console.log(usePathname());
-  // console.log("searchParams");
-  // console.log(searchParams);
-  // console.log("useRouter");
-  // console.log(useRouter());
-  // const searchParamss = searchParams();
-
-  // const search = searchParamss.get("ref");
-
+  const infos = {
+    slug: index?.slug,
+    title: `${post?.frontmatter?.title} - ${business.brandName}`,
+    description: index?.description,
+    author: website.author,
+    brandPerson: website.brandPerson,
+    siteUrl: website.siteUrl,
+    brandName: business.brandName,
+    brandEmail: business.brandEmail,
+    brandPhone: business.brandPhone,
+    brandDescription: business.brandDescription,
+    brandLogo: `${website.siteUrl}/${business.brandLogo}`,
+    brandCardImage: `${website.siteUrl}/brandimages/pages/${business.brandCardImage}`,
+    featuredImage: `${website.siteUrl}/brandimages/posts/${post?.frontmatter?.image}`,
+    datePublished: website.datePublished,
+    i18n: website.i18n,
+    keywords: website.keywords,
+    questions: index.faq,
+    topology: null,
+    articleUrl: `${website.siteUrl}/${index?.slug}`,
+    themeColor: website.themeColor,
+    sameAs: business.sameAs,
+    twitter: business.shortName,
+  };
   useEffect(() => {
-    getRef.length === 0 && readMore === false ? null : setPromoVisitState(true);
+    getRef?.length === 0 && readMore === false
+      ? null
+      : setPromoVisitState(true);
     // console.log("getRef.length;;;;;");
     // console.log(getRef.length);;
     // console.log("readMore....");
     // console.log(readMore);
   });
+  // console.log("type");
+  // console.log(type);
   return (
     <>
       <div className='single-post post-container'>
@@ -93,21 +89,36 @@ const BlogPost = ({ post, searchParams, categoryIndex }) => {
           gtagCounter={gtagCounter}
           pathname={pathname}
         />
-
-        <SinglePostBlock
-          highlightImage={post.frontmatter.image}
-          authorImg={"imgHolder"}
-          date={post.frontmatter.date}
-          author={mainConfigs.business.brandName}
-          html={post.content}
-          title={post.frontmatter.title}
-          category={post.frontmatter.category}
-          wordCount={10}
-          promoVisitState={promoVisitState}
-          setReadMore={setReadMore}
-          readMore={readMore}
-          topic={post.frontmatter.topic}
-        />
+        {post?.type === "posts" ? (
+          <SinglePostBlock
+            highlightImage={post?.frontmatter?.image}
+            authorImg={"imgHolder"}
+            date={post?.frontmatter?.date}
+            author={mainConfigs.business.brandName}
+            html={post?.content}
+            title={post?.frontmatter?.title}
+            category={post?.frontmatter?.category}
+            wordCount={10}
+            promoVisitState={promoVisitState}
+            setReadMore={setReadMore}
+            readMore={readMore}
+            topic={post?.frontmatter?.topic}
+          />
+        ) : (
+          <main className='main-container-wrapper'>
+            <div className='main-container'>
+              <div className='news-grid category'>
+                <BlogList
+                  posts={post.relatedPost}
+                  postsToShow={website.postsToShow}
+                />
+              </div>
+            </div>
+          </main>
+        )}
+        {/* {post.relatedPost.map((rel, indRel) => (
+          <div>{rel.frontmatter.title}</div>
+        ))} */}
 
         <div className='footer-wrapper'>
           <FooterContainer

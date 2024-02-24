@@ -627,7 +627,14 @@ h1.cro-heading {
     column-gap: 2%;
     grid-template-columns: repeat(2, 1fr);
   }
-
+  &.category {
+    grid-template-columns: repeat(4, 1fr);
+    .post:nth-child(1) {
+      // grid-column-end: span 4;
+      grid-column: span 1 !important;
+      grid-row: 1 !important;
+    }
+  }
   .post {
     display: flex;
     flex-flow: column nowrap;
