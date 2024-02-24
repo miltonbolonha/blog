@@ -17,9 +17,9 @@ const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
 const infos = {
-  slug: "404",
-  title: `Error Page - ${mainConfigs.business.brandName}`,
-  description: "This is a 404 error page.",
+  slug: "about",
+  title: `About Us - ${mainConfigs.business.brandName}`,
+  description: "This is a About Us page.",
   author: website.author,
   brandPerson: website.brandPerson,
   siteUrl: website.siteUrl,
@@ -35,18 +35,17 @@ const infos = {
   keywords: website.keywords,
   questions: index.faq,
   topology: null,
-  articleUrl: `${mainConfigs.website.siteUrl}/404`,
+  articleUrl: `${mainConfigs.website.siteUrl}/about`,
   themeColor: website.themeColor,
   sameAs: business.sameAs,
   twitter: business.shortName,
 };
 
-const NotFoundPage = ({ type }) => {
+const NotFoundPage = () => {
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
-  console.log("type");
-  console.log(type);
+
   return (
-    <div className='error-page'>
+    <div className='page'>
       <SeoContainer killSeo={false} data={infos} />
 
       <HeaderContainer
@@ -64,7 +63,7 @@ const NotFoundPage = ({ type }) => {
         // gtagCounter={gtagCounter}
         pathname={pathname}
       />
-      <div className='hero-wrapper'>
+      <div className='hero-wrapper page'>
         <div className='hero search-hero'>
           <Image
             src={`/brandimages/hero-img.jpg`}
@@ -74,8 +73,7 @@ const NotFoundPage = ({ type }) => {
             className='hero-img'
           />
           <div className='row-config inner-hero'>
-            <h2>Error page</h2>
-            <h1>Search ModernTips</h1>
+            <h2>Search ModernTips</h2>
             <form action='#' method='post'>
               <input
                 type='text'
@@ -103,6 +101,54 @@ const NotFoundPage = ({ type }) => {
           </div>
         </div>
       </div>
+
+      <main className='main-container-wrapper'>
+        <div className='main-container main-page'>
+          <h1>About Us</h1>
+          <p>
+            <strong>
+              ModernTips is here to deliver tips and tricks to live a better
+              life.
+            </strong>
+            We cover a broad range of topics including finance, health, and
+            travel to help enhance your everyday life. We’re passionate about
+            spreading meaningful content that makes an immediate and noticeable
+            difference in your life.
+          </p>
+
+          <p>
+            Our writers aim to produce content that improves everyday lives. We
+            understand how inside tips and tricks in the financial, health, and
+            travel world can be extraordinarily powerful. We’re here to educate
+            and inform so you can live your best life.
+          </p>
+
+          <p>
+            <strong>
+              ModernTips delivers understandable and usable information for
+              people in all stages of life.
+            </strong>{" "}
+            From seniors to newly married couples who are learning to make a
+            family budget, ModernTips has valuable content you need to succeed.
+            Our contributors enjoy researching the best in finance, health, and
+            travel. We cover content on improving your credit, career,
+            investments and how to live frugally, be healthy, and make the most
+            of your travels. Look to ModernTips before you make decisions –
+            we’re providing the best tips for you and your family.
+          </p>
+
+          <p>
+            <strong>Contact Us</strong> <br />
+            ModernTips
+            <br />
+            PO Box 515381
+            <br />
+            Los Angeles, CA 90051-6681
+            <br />
+            <a href={`mailto:mailinfo@moderntips.com`}>info@moderntips.com</a>
+          </p>
+        </div>
+      </main>
 
       <div className='wrapper-box'></div>
       <div className='footer-wrapper'>

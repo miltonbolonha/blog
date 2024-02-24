@@ -7,6 +7,18 @@
   min-height: 500px;
   max-height: 700px;
   width: 100%;
+  &.page {
+    height: 200px;
+    min-height: unset !important;
+    .hero-img,
+    .hero {
+      height: 200px;
+      min-height: unset !important;
+    }
+    h2 {
+      color: white;
+    }
+  }
 }
 .hero {
   background: $mix_black_02;
@@ -14,6 +26,7 @@
   height: 70dvh;
   min-height: 500px;
   max-height: 700px;
+
   .hero-img {
     position: absolute;
     z-index: -1;
@@ -378,74 +391,73 @@ hr.half-hr {
       }
     }
   }
-  .main-container-wrapper {
-    background-color: $background_white;
-    margin: auto;
-    width: 100%;
-    .main-container {
-      padding: 40px 0;
-      width: 98%;
-      margin-right: auto;
-      margin-left: auto;
-      max-width: $ext_page__size;
+}
+.main-container-wrapper {
+  background-color: $background_white;
+  margin: auto;
+  width: 100%;
+  .main-container {
+    padding: 40px 0;
+    width: 98%;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: $ext_page__size;
 
-      .post {
-        a {
-          display: flex;
-          flex-direction: column;
-          text-align: center;
-        }
-        a,
-        img,
-        h1,
-        .main-post-inner,
-        .post-link {
-          width: 100%;
-          background: transparent;
-          object-fit: cover;
-          // max-width: 720px;
-          padding: 0;
-          margin: 0;
-        }
-        // img {
-        //   height: 350px;
-        // }
-        h2 {
-          // min-height: 60px;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          line-height: 20px;
-          font-size: 18px;
-          color: $mix_black_90;
-          font-weight: 700;
-          margin-bottom: 30px;
-          width: 95%;
-          margin-left: auto;
-          margin-right: auto;
-          &:hover {
-            color: $mix_black_60;
-          }
-        }
-        .post-category {
-          width: auto;
-          color: $mix_black_60;
-          font-size: 12px;
-          font-weight: 700;
-          padding-top: 10px;
-          padding-bottom: 5px;
-          &:hover {
-            color: $mix_black_90;
-          }
-        }
-        // .main-post-inner {
-        //   padding-top: 20px;
-        // }
+    .post {
+      a {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
       }
+      a,
+      img,
+      h1,
+      .main-post-inner,
+      .post-link {
+        width: 100%;
+        background: transparent;
+        object-fit: cover;
+        // max-width: 720px;
+        padding: 0;
+        margin: 0;
+      }
+      // img {
+      //   height: 350px;
+      // }
+      h2 {
+        // min-height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        line-height: 20px;
+        font-size: 18px;
+        color: $mix_black_90;
+        font-weight: 700;
+        margin-bottom: 30px;
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+        &:hover {
+          color: $mix_black_60;
+        }
+      }
+      .post-category {
+        width: auto;
+        color: $mix_black_60;
+        font-size: 12px;
+        font-weight: 700;
+        padding-top: 10px;
+        padding-bottom: 5px;
+        &:hover {
+          color: $mix_black_90;
+        }
+      }
+      // .main-post-inner {
+      //   padding-top: 20px;
+      // }
     }
   }
 }
-
 .team-card-box {
   .slick-next {
     right: 0%;

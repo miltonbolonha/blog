@@ -17,9 +17,9 @@ const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
 const infos = {
-  slug: "404",
-  title: `Error Page - ${mainConfigs.business.brandName}`,
-  description: "This is a 404 error page.",
+  slug: "about",
+  title: `About Us - ${mainConfigs.business.brandName}`,
+  description: "This is a About Us page.",
   author: website.author,
   brandPerson: website.brandPerson,
   siteUrl: website.siteUrl,
@@ -35,18 +35,17 @@ const infos = {
   keywords: website.keywords,
   questions: index.faq,
   topology: null,
-  articleUrl: `${mainConfigs.website.siteUrl}/404`,
+  articleUrl: `${mainConfigs.website.siteUrl}/about`,
   themeColor: website.themeColor,
   sameAs: business.sameAs,
   twitter: business.shortName,
 };
 
-const NotFoundPage = ({ type }) => {
+const NotFoundPage = () => {
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
-  console.log("type");
-  console.log(type);
+
   return (
-    <div className='error-page'>
+    <div className='page'>
       <SeoContainer killSeo={false} data={infos} />
 
       <HeaderContainer
@@ -64,7 +63,7 @@ const NotFoundPage = ({ type }) => {
         // gtagCounter={gtagCounter}
         pathname={pathname}
       />
-      <div className='hero-wrapper'>
+      <div className='hero-wrapper page'>
         <div className='hero search-hero'>
           <Image
             src={`/brandimages/hero-img.jpg`}
@@ -74,8 +73,7 @@ const NotFoundPage = ({ type }) => {
             className='hero-img'
           />
           <div className='row-config inner-hero'>
-            <h2>Error page</h2>
-            <h1>Search ModernTips</h1>
+            <h2>Search ModernTips</h2>
             <form action='#' method='post'>
               <input
                 type='text'
@@ -103,6 +101,37 @@ const NotFoundPage = ({ type }) => {
           </div>
         </div>
       </div>
+
+      <main className='main-container-wrapper'>
+        <div className='main-container main-page'>
+          <h1>Advertising Disclosure</h1>
+          <p>
+            ModernTips has a financial relationship with some of the companies
+            mentioned throughout the site and this site may be compensated
+            through the credit card issuer or advertiser’s partner programs. We
+            do not make recommendations based on these relationships alone.
+            Compensation may impact which companies we review and write about
+            and how and where products appear on this site (including, for
+            example, the order in which they appear).
+          </p>
+
+          <h2>Disclaimer:</h2>
+
+          <p>
+            We try to keep information accurate and up to date, however we
+            cannot make warranties regarding the accuracy of our information.
+            Opinions expressed here are author’s alone, not those of the
+            financial institution, lender, credit card issuer, advertiser,
+            business, service provider, etc. and have not been reviewed,
+            approved, or otherwise endorsed by the respective company. Please
+            verify FDIC Insurance / NCUA Insurance status, credit card
+            information, and interest rates during the application process. We
+            strongly suggest you read the terms of use and privacy policies of
+            advertised companies as they may be substantially different than
+            ModernTip’s policies.
+          </p>
+        </div>
+      </main>
 
       <div className='wrapper-box'></div>
       <div className='footer-wrapper'>

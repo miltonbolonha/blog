@@ -17,9 +17,10 @@ const Footer = ({ label, link }) => {
           </a>
         </div>
         <div className='right footer-bottom'>
-          <a href={link}>{label}</a>
-          <a href={link}>{label}</a>
-          <a href={link}>{label}</a>
+          <a href={"/about"}>About Us</a>
+          <a href={"/advertising-disclosure"}>Advertising Disclosure</a>
+          <a href={"/terms-of-use"}>Terms and Conditions</a>
+          <a href={"/privacy-policy"}>Privacy Policy</a>
         </div>
       </Row>
       <div className='bottom'>

@@ -3,6 +3,9 @@ import BlogPost from "../templates/blog-post";
 import { getPostBySlug, getAllPosts } from "../lib/api";
 import markdownToHtml from "../lib/markdownToHtml";
 import slugify from "slugify";
+
+import _ from "lodash";
+
 const Post = mdFile => {
   return <BlogPost post={mdFile} />;
 };
@@ -18,18 +21,25 @@ export const getStaticProps = async context => {
   }
 
   const slug = context.params.slug;
+  // console.log("context.params.slug");
+  // console.log(context);
+
   if (!slug) {
     throw new Error("Error: No !slug!");
   }
+
   const post = getPostBySlug(slug);
 
-  const content = post ? await markdownToHtml(post.content || "") : null;
+  const content = await markdownToHtml(post.content || "");
   // const { frontmatter } = post;
   // console.log("post");
   // console.log(post);
-  if (!content) {
+  if (content === "") {
     throw new Error("Error: No !content!");
   }
+
+  // console.log("context");
+  // console.log(context);
   // get prev/next posts
   // const allPosts = getAllPosts();
   // if (!allPosts) {
@@ -62,8 +72,21 @@ export const getStaticProps = async context => {
 
 export const getStaticPaths = async () => {
   const posts = getAllPosts();
-  const paths = posts.map(({ slug }) => ({ params: { slug } }));
-
+  const categories = posts.map(({ frontmatter }) =>
+    slugify(frontmatter.category).toLowerCase().toString()
+  );
+  const uniqueCategories = _.uniq(categories);
+  const uniqueCategoriesMap = uniqueCategories.map(category => ({
+    params: { slug: category },
+  }));
+  // const x = uniqueCategories.forEach(uc =>
+  //   console.log({ params: { slug: uc } })
+  // );
+  const paths = posts
+    .map(({ slug }) => ({ params: { slug: slug } }))
+    .concat(uniqueCategoriesMap);
+  // console.log("paths");
+  // console.log(paths);
   return {
     paths,
     fallback: false,

@@ -46,9 +46,8 @@ const SinglePostBlock = ({
   const doc = parse(html);
   const headingsHere = doc.querySelectorAll("h2");
   const pHere = doc.querySelector("p");
-  const supHere = doc.querySelector("sup");
-  console.log("supHere");
-  console.log(supHere);
+  // const supHere = doc.querySelector("sup");
+
   function handleToggle() {
     return setToggle(!toggle);
   }
@@ -88,21 +87,25 @@ const SinglePostBlock = ({
     <article>
       <div id='rampjs_slot1'></div>
       <div id='rampjs_slot2'></div>
-      {/* <AdsBoxContainer dataAdSlot={"4309295381222992"} /> */}
+      {/* <AdsBoxContainer dataAdSlot={"2083202812"} /> */}
       <section>
         <div
           className={`main-post ${promoVisitState === true && readMore == false ? "promoVisit" : ""}`}
         >
           <div
-            className={`left-column ${promoVisitState === true && readMore == false ? "none" : ""}`}
+            className={`left-column ${promoVisitState === true && readMore === false ? "none" : ""}`}
           >
-            <TOCContainer
-              tocs={headingsHere}
-              // gtag={gtag}
-              display={"desktop"}
-              toggle={true}
-              handleToggle={handleToggle}
-            />
+            <div
+              className={`${promoVisitState === true && readMore !== null ? "none" : ""}`}
+            >
+              <TOCContainer
+                tocs={headingsHere}
+                // gtag={gtag}
+                display={"desktop"}
+                toggle={true}
+                handleToggle={handleToggle}
+              />
+            </div>
           </div>
 
           <div className='container'>
@@ -226,21 +229,46 @@ const SinglePostBlock = ({
             )}
           </div>
           <section
-            className={`right-column desktop-only ${promoVisitState === true && readMore == false ? "none" : ""}`}
+            className={`right-column desktop-only ${promoVisitState === true && readMore === false ? "none" : ""}`}
           >
-            <h2>Related Posts</h2>
-            <hr className='small-row' />
-            <div className='inner-right-column'>
-              <X />
-              <X />
-              <X />
-              <X />
+            <div
+              className={`desktop-only ads-right-column ${promoVisitState === true && readMore === false ? "none" : ""}
+              ${promoVisitState === false && readMore === false ? "" : "sticky"}
+              
+              `}
+            >
+              <h1>ads 1</h1>
+              <AdsBoxContainer dataAdSlot={"2083202812"} />
+            </div>
+            <div
+              className={`desktop-only ${promoVisitState === true && readMore !== null ? "none" : ""}`}
+            >
+              <h2>Related Posts</h2>
+              <hr className='small-row' />
+              <div className='inner-right-column'>
+                <X />
+                <X />
+                <X />
+                <X />
+              </div>
+            </div>
+
+            <div
+              className={`desktop-only ads-right-column second ${promoVisitState === true && readMore === false ? "none" : ""}
+              ${promoVisitState === false && readMore === true ? "" : "sticky"}`}
+            >
+              <h1>ads 2</h1>
             </div>
           </section>
         </div>
-
         <div
-          className={`footer-highlights ${promoVisitState === true && readMore == false ? "none" : ""}`}
+          className={`footer-highlights  ads-bottom-row ${promoVisitState === true && readMore === false ? "none" : ""}
+`}
+        >
+          <h1>ads 3</h1>
+        </div>
+        <div
+          className={`footer-highlights ${promoVisitState === true && readMore !== null ? "none" : ""}`}
         >
           <h2>Explore</h2>
           <hr className='small-row' />

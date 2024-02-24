@@ -22,18 +22,6 @@ function App({ Component, pageProps }) {
         `,
         }}
       />
-      {/* <Script
-        id='adsbygoogle-init'
-        strategy='afterInteractive'
-        dangerouslySetInnerHTML={{
-          __html: `
-          (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: 'ca-pub-4309295381222992',
-            enable_page_level_ads: true
-       });
-          `,
-        }}
-      /> */}
 
       {/* <Script
         id='rampjs'
@@ -51,7 +39,7 @@ function App({ Component, pageProps }) {
           __html: `
           (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
             arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-            /*_rampJs();*/
+            _rampJs({ subdomain: "find" });
         `,
         }}
       />

@@ -4,7 +4,7 @@ title: "Leia-Me"
 date: 2023-08-16 00:00:04
 image: "post-image.jpg"
 description: "Algumas dicas."
-category: "Programação"
+category: "Non sense"
 topic: "Vaccination"
 ---
 
