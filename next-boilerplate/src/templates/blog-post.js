@@ -92,6 +92,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
           "Access-Control -Allow-Origin": "*",
           "Access-Control-Allow-Credentials": "true",
           "Content-Type": "application/json",
+          Authorization: `None`,
           Accept: "application/json",
         },
         body: JSON.stringify("Hi"),
