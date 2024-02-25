@@ -1,5 +1,6 @@
 [build]
     command = "npm run build --workspace=next-boilerplate"
+    functions = "next-boilerplate/src/api"
     publish = "next-boilerplate/out"
 
 [build.environment]
