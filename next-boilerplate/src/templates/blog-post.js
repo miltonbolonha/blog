@@ -87,6 +87,10 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
 
       await fetch(`${website.developmentUrl}/.netlify/functions/geo`, {
         method: "POST",
+        headers: {
+          "Access-Control -Allow-Origin": "*",
+          "Access-Control-Allow-Credentials": true,
+        },
       })
         .then(res => {
           if (res.status >= 400) {
