@@ -130,6 +130,7 @@ footer {
       .footer-bottom {
         padding: 20px 0;
         align-items: center;
+        text-wrap: nowrap;
         @media (max-width: 768px) {
           justify-content: center;
         }

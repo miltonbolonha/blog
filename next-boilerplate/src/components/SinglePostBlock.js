@@ -238,7 +238,7 @@ const SinglePostBlock = ({
               `}
             >
               <h1>ads 1</h1>
-              <AdsBoxContainer dataAdSlot={"2083202812"} />
+              {/* <AdsBoxContainer dataAdSlot={"2083202812"} /> */}
             </div>
             <div
               className={`desktop-only ${promoVisitState === true && readMore !== null ? "none" : ""}`}
