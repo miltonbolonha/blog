@@ -85,7 +85,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
       //   callback(error)
       // }
 
-      await fetch(`${website.developmentUrl}/.netlify/functions/geo`, {
+      await fetch(`https://mtcom.netlify.app/.netlify/functions/geo`, {
         method: "POST",
         headers: {
           "Access-Control -Allow-Origin": "*",
