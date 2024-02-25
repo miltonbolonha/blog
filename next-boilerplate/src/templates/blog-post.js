@@ -1,6 +1,7 @@
 import React, { useRef, useState, useEffect } from "react";
 import Row from "../containers/RowContainer";
-import fetch from "node-fetch";
+import fetch from "cross-fetch";
+
 // import SeoContainer from "../containers/SeoContainer";
 import { usePathname, useSearchParams, useRouter } from "next/navigation";
 import SinglePostBlock from "../components/SinglePostBlock";
@@ -91,7 +92,9 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
           "Access-Control -Allow-Origin": "*",
           "Access-Control-Allow-Credentials": "true",
           "Content-Type": "application/json",
+          Accept: "application/json",
         },
+        body: JSON.stringify("Hi"),
       })
         .then(res => {
           if (res.status >= 400) {
