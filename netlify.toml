@@ -1,5 +1,6 @@
 [build]
     command = "npm run build --workspace=next-boilerplate"
+    functions = "next-boilerplate/src/api"
     publish = "next-boilerplate/out"
 
 [build.environment]
@@ -8,5 +9,8 @@
 [[plugins]]
   package = "@netlify/plugin-local-install-core"
 
-  [[plugins]]
-  package = "@netlify/plugin-emails"
+[[plugins]]
+package = "@netlify/plugin-emails"
+
+[functions]
+  directory = "next-boilerplate/src/api"

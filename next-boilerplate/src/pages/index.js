@@ -5,7 +5,7 @@ import { usePathname, useSearchParams } from "next/navigation";
 // import { usePathname } from "next/navigation";
 import BlogList from "../templates/blog-list";
 import { getAllPosts } from "../lib/api";
-
+import SearchInputContainer from "../containers/SearchInputContainer";
 // import Slider from "react-slick";
 import Image from "next/image";
 
@@ -93,30 +93,11 @@ const Home = ({ posts, searchParams }) => {
           <div className='row-config inner-hero'>
             <h1>Search ModernTips</h1>
             {/* <p>A modern way to find your trend topics.</p> */}
-            <form action='#' method='post'>
-              <input
-                type='text'
-                name='something'
-                id='here'
-                placeholder='Search'
-              />
-              <button className='search-icon'>
-                <Image
-                  src={`/brandimages/search-icon.png`}
-                  alt={"Modern Tips search icon"}
-                  width={26}
-                  height={26}
-                  className='search-hold'
-                />
-                <Image
-                  src={`/brandimages/search-icon-hover.png`}
-                  alt={"Modern Tips search icon hover"}
-                  width={26}
-                  height={26}
-                  className='search-hover'
-                />
-              </button>
-            </form>
+            <SearchInputContainer
+              siteUrl={website.siteUrl}
+              subDomain={"search"}
+            />
+
             {/* 
           <a href='#' target='_blank' rel='noopener noreferrer'>
             Trend me now
