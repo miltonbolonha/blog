@@ -47,7 +47,7 @@ const NotFoundPage = ({ type }) => {
   console.log(type);
   return (
     <div className='error-page'>
-      <SeoContainer killSeo={false} data={infos} />
+      <SeoContainer killSeo={true} data={infos} />
 
       <HeaderContainer
         opt={{

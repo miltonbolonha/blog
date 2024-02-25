@@ -64,7 +64,7 @@ const Home = ({ posts, searchParams }) => {
 
   return (
     <div className='index-page'>
-      <SeoContainer killSeo={false} data={infos} />
+      <SeoContainer killSeo={true} data={infos} />
 
       <HeaderContainer
         opt={{

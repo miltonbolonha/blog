@@ -72,7 +72,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   return (
     <>
       <div className='single-post post-container'>
-        <SeoContainer killSeo={false} data={infos} />
+        <SeoContainer killSeo={true} data={infos} />
 
         <HeaderContainer
           opt={{
