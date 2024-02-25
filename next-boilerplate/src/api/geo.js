@@ -1,4 +1,4 @@
-import { Context } from "@netlify/edge-functions";
+// import { Context } from "@netlify/edge-functions";
 
 // export default async (request, context) => {
 //   // Here's what's available on context.geo
@@ -25,8 +25,8 @@ import { Context } from "@netlify/edge-functions";
 //   });
 // };
 export default async (request, context) => {
-  console.log(request);
-  console.log(Context);
+  // console.log(request);
+  // console.log(Context);
   return new Response("Hello, Worlsd!s", {
     headers: { "content-type": "text/html" },
   });
