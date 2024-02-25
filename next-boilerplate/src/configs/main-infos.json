@@ -3,6 +3,7 @@
     "isDarkLogo": false
   },
   "website": {
+    "developmentUrl": "https://mtcom.netlify.app",
     "siteUrl": "https://moderntips.com",
     "author": "Modern Tips",
     "i18n": "en-US",

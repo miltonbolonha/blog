@@ -1,5 +1,6 @@
 import React, { useRef, useState, useEffect } from "react";
 import Row from "../containers/RowContainer";
+import fetch from "node-fetch";
 // import SeoContainer from "../containers/SeoContainer";
 import { usePathname, useSearchParams, useRouter } from "next/navigation";
 import SinglePostBlock from "../components/SinglePostBlock";
@@ -11,12 +12,20 @@ import SeoContainer from "../containers/SeoContainer";
 import mainMenu from "../configs/main-menu.json";
 
 import BlogList from "../templates/blog-list";
-
+const checkStatus = res => {
+  if (res.ok) {
+    // res.status >= 200 && res.status < 300
+    return res.json();
+  } else {
+    throw new Error(res.statusText);
+  }
+};
 const index = mainConfigs?.pages?.index;
 const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
 const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
+  const [firstRun, setFirstRun] = useState(null);
   const [btnGClick, setBtnGClick] = useState(null);
   const [promoVisitState, setPromoVisitState] = useState(false);
   const [readMore, setReadMore] = useState(false);
@@ -58,7 +67,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
     sameAs: business.sameAs,
     twitter: business.shortName,
   };
-  useEffect(() => {
+  useEffect(async () => {
     getRef?.length === 0 && readMore === false
       ? null
       : setPromoVisitState(true);
@@ -66,6 +75,33 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
     // console.log(getRef.length);;
     // console.log("readMore....");
     // console.log(readMore);
+    if (firstRun !== true) {
+      // try {
+      //   const response = await fetch(website.siteUrl+'/netlify/functions/')
+      //   const data = await checkStatus(response)
+      //   console.log(data)
+      //   setFirstRun(true)
+      // } catch (error) {
+      //   callback(error)
+      // }
+
+      await fetch(`${website.developmentUrl}/.netlify/functions/geo`, {
+        method: "POST",
+      })
+        .then(res => {
+          if (res.status >= 400) {
+            throw new Error("Bad response from server");
+          }
+
+          console.log("resresresresresresresres");
+          console.log(res);
+
+          return setFirstRun(true);
+        })
+        .catch(err => {
+          console.error(err);
+        });
+    }
   });
   // console.log("type");
   // console.log(type);
