@@ -75,7 +75,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
     // console.log(getRef.length);;
     // console.log("readMore....");
     // console.log(readMore);
-    if (firstRun !== true) {
+    if (firstRun !== true && window) {
       // try {
       //   const response = await fetch(website.siteUrl+'/netlify/functions/')
       //   const data = await checkStatus(response)
@@ -87,10 +87,10 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
 
       await fetch(`${website.developmentUrl}/.netlify/functions/geo`, {
         method: "POST",
-        headers: {
+        headers: JSON.stringify({
           "Access-Control -Allow-Origin": "*",
           "Access-Control-Allow-Credentials": true,
-        },
+        }),
       })
         .then(res => {
           if (res.status >= 400) {
