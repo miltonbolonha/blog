@@ -83,6 +83,8 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
     if ("geolocation" in navigator) {
       // Retrieve latitude & longitude coordinates from `navigator.geolocation` Web API
       navigator?.geolocation?.getCurrentPosition(({ coords }) => {
+        console.log("coords");
+        console.log(coords);
         const { latitude, longitude } = coords;
         setLocation({ latitude, longitude });
       });
@@ -130,6 +132,15 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   }, []);
   // console.log("type");
   // console.log(type);
+
+  useEffect(() => {
+    // Fetch data from API if `location` object is set
+    if (location) {
+      fetchApiData(location);
+    }
+  }, [location]);
+  console.log("location");
+  console.log(location);
   return (
     <>
       <div className='single-post post-container'>
