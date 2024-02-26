@@ -1,6 +1,7 @@
 import React, { useRef, useState, useEffect } from "react";
 import Row from "../containers/RowContainer";
 import fetch from "cross-fetch";
+import Link from "next/link";
 
 // import SeoContainer from "../containers/SeoContainer";
 import { usePathname, useSearchParams, useRouter } from "next/navigation";
