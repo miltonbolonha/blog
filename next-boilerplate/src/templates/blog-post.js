@@ -80,6 +80,9 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
       navigator?.geolocation?.getCurrentPosition(({ coords }) => {
         console.log("navigator");
         console.log(navigator);
+
+        console.log("navigator.geolocation");
+        console.log(navigator.geolocation);
         console.log("coords");
         console.log(coords);
         const { latitude, longitude } = coords;
