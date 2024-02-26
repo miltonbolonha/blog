@@ -34,9 +34,9 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
     const res = await fetch(`https://mtcom.netlify.app/geolocation`);
     const data = await res.json();
     // setMensen(data);
-    // console.log("data");
-    // console.log(data);
-    // console.log("data fimm");
+    console.log("data");
+    console.log(data);
+    console.log("data fimm");
     setLocation(data);
   };
 
@@ -99,11 +99,10 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
     // Fetch data from API if `location` object is set
     if (!location) {
       fetchApiData();
-      console.log("location here");
-      console.log(location);
     }
   }, [location]);
-
+  console.log("location here");
+  console.log(location);
   return (
     <>
       <div className='single-post post-container'>
