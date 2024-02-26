@@ -34,6 +34,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
     const res = await fetch(`https://mtcom.netlify.app/.netlify/functions/hi`);
     const data = await res.json();
     // setMensen(data);
+    console.log("data");
     console.log(data);
   };
 
