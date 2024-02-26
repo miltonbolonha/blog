@@ -102,7 +102,10 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
     }
   }, [location]);
   console.log("location here");
-  console.log(location);
+  console.log("{{city}}");
+  console.log(location.geo.city);
+  location.geo.city;
+
   return (
     <>
       <div className='single-post post-container'>
@@ -131,7 +134,10 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
             date={post?.frontmatter?.date}
             author={mainConfigs.business.brandName}
             html={post?.content}
-            title={post?.frontmatter?.title}
+            title={post?.frontmatter?.title.replace(
+              "{{city}}",
+              location.geo.city
+            )}
             category={post?.frontmatter?.category}
             wordCount={10}
             promoVisitState={promoVisitState}
