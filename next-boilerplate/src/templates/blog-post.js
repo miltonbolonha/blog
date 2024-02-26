@@ -21,6 +21,7 @@ const website = mainConfigs?.website;
 
 const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   const [location, setLocation] = useState();
+  const [city, setCity] = useState("Los Angeles");
   const [firstRun, setFirstRun] = useState(null);
   const [btnGClick, setBtnGClick] = useState(null);
   const [promoVisitState, setPromoVisitState] = useState(false);
@@ -46,6 +47,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
         console.log(data);
         console.log("data fimm");
         setLocation(data);
+        setCity(data?.geo?.city);
       })
       .catch(error => {
         console.log(error);
@@ -115,7 +117,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   }, [location]);
   console.log("location here");
   console.log("{{city}}");
-  const city = location?.city || "California";
+  console.log(city);
   return (
     <>
       <div className='single-post post-container'>
