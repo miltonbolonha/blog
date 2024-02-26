@@ -20,7 +20,7 @@ const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
 const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
-  const [location, setLocation] = useState();
+  const [location, setLocation] = useState(null);
   const [city, setCity] = useState(null);
   const [firstRun, setFirstRun] = useState(null);
   const [btnGClick, setBtnGClick] = useState(null);
@@ -32,7 +32,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   // console.log(categoryIndex);
 
   const fetchApiData = async () => {
-    const res = await fetch(`https://mtcom.netlify.app/geolocation`)
+    await fetch(`https://mtcom.netlify.app/geolocation`)
       .then(response => {
         if (response.ok) {
           return response.json();
@@ -49,11 +49,11 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
         console.log(data.city || "data.city errado");
         console.log("data fimm");
         setLocation(data);
-        setCity(data?.city || data.geo.city || "Los Angeles");
+        return setCity(data?.city || data.geo.city || "Los Angeles");
       })
       .catch(error => {
         console.log(error);
-        setCity("Los Angeles");
+        return setCity("Los Angeles");
       });
   };
 
