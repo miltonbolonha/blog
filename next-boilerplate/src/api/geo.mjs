@@ -1,4 +1,4 @@
-export default async (request, context) => {
+export const handler = async (event, context) => {
   // Here's what's available on context.geo
 
   // context: {
