@@ -134,10 +134,10 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
             date={post?.frontmatter?.date}
             author={mainConfigs.business.brandName}
             html={post?.content}
-            title={post?.frontmatter?.title.replace(
-              "{{city}}",
-              location.geo.city
-            )}
+            title={
+              post?.frontmatter?.title.replace("{{city}}", location?.city) ||
+              post?.frontmatter?.title
+            }
             category={post?.frontmatter?.category}
             wordCount={10}
             promoVisitState={promoVisitState}
