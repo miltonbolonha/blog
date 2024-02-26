@@ -14,14 +14,7 @@ import SeoContainer from "../containers/SeoContainer";
 import mainMenu from "../configs/main-menu.json";
 
 import BlogList from "../templates/blog-list";
-const checkStatus = res => {
-  if (res.ok) {
-    // res.status >= 200 && res.status < 300
-    return res.json();
-  } else {
-    throw new Error(res.statusText);
-  }
-};
+
 const index = mainConfigs?.pages?.index;
 const business = mainConfigs?.business;
 const website = mainConfigs?.website;
@@ -138,10 +131,11 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
     // Fetch data from API if `location` object is set
     if (location) {
       fetchApiData(location);
+      console.log("location");
+      console.log(location);
     }
   }, [location]);
-  console.log("location");
-  console.log(location);
+
   return (
     <>
       <div className='single-post post-container'>
