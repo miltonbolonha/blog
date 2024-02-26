@@ -45,12 +45,15 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
         // setMensen(data);
         console.log("data");
         console.log(data);
+        console.log(data.geo.city || "data.geo errado");
+        console.log(data.city || "data.city errado");
         console.log("data fimm");
         setLocation(data);
-        setCity(data?.geo?.city || "Los Angeles");
+        setCity(data?.city || data.geo.city || "Los Angeles");
       })
       .catch(error => {
         console.log(error);
+        setCity("Los Angeles");
       });
   };
 
