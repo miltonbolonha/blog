@@ -1,4 +1,6 @@
-export const handler = async (event, context) => {
+import { Context } from "@netlify/edge-functions";
+
+export const handler = async (context: Context) => {
   // Here's what's available on context.geo
 
   // context: {
