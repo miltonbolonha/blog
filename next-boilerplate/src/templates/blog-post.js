@@ -31,13 +31,25 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   // console.log(categoryIndex);
 
   const fetchApiData = async () => {
-    const res = await fetch(`https://mtcom.netlify.app/geolocation`);
-    const data = await res.json();
-    // setMensen(data);
-    console.log("data");
-    console.log(data);
-    console.log("data fimm");
-    setLocation(data);
+    const res = await fetch(`https://mtcom.netlify.app/geolocation`)
+      .then(response => {
+        if (response.ok) {
+          return response.json();
+        }
+        throw new Error("Something went wrong");
+      })
+      .then(responseJson => {
+        // Do something with the response
+        const data = responseJson.json();
+        // setMensen(data);
+        console.log("data");
+        console.log(data);
+        console.log("data fimm");
+        setLocation(data);
+      })
+      .catch(error => {
+        console.log(error);
+      });
   };
 
   const gtagCounter = id => {
@@ -103,9 +115,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   }, [location]);
   console.log("location here");
   console.log("{{city}}");
-  console.log(location.geo.city);
-  location.geo.city;
-
+  const city = location?.city || "California";
   return (
     <>
       <div className='single-post post-container'>
@@ -135,7 +145,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
             author={mainConfigs.business.brandName}
             html={post?.content}
             title={
-              post?.frontmatter?.title.replace("{{city}}", location?.city) ||
+              post?.frontmatter?.title.replace("{{city}}", city) ||
               post?.frontmatter?.title
             }
             category={post?.frontmatter?.category}
