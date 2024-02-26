@@ -20,21 +20,21 @@ const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
 const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
-  const [mensen, setMensen] = useState([]);
   const [location, setLocation] = useState();
   const [firstRun, setFirstRun] = useState(null);
   const [btnGClick, setBtnGClick] = useState(null);
   const [promoVisitState, setPromoVisitState] = useState(false);
   const [readMore, setReadMore] = useState(false);
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
+  // const [mensen, setMensen] = useState([]);
   // console.log("categoryIndex");
   // console.log(categoryIndex);
 
   const fetchApiData = async ({ latitude, longitude }) => {
     const res = await fetch(`https://mtcom.netlify.app/.netlify/functions/geo`);
     const data = await res.json();
-    setMensen(data);
-    console.log();
+    // setMensen(data);
+    console.log(data);
   };
 
   const gtagCounter = id => {
@@ -121,13 +121,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
           gtagCounter={gtagCounter}
           pathname={pathname}
         />
-        <h1>aquiui</h1>
-        {mensen?.length > 0 &&
-          mensen.map(mensa => (
-            <a href={`/mensen/${mensa.id}`} key={mensa.id}>
-              <h3>{mensa.name}</h3>
-            </a>
-          ))}
+
         {post?.type === "posts" ? (
           <SinglePostBlock
             highlightImage={post?.frontmatter?.image}
