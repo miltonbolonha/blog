@@ -31,7 +31,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   // console.log(categoryIndex);
 
   const fetchApiData = async ({ latitude, longitude }) => {
-    const res = await fetch(`https://mtcom.netlify.app/.netlify/functions/hi`);
+    const res = await fetch(`https://mtcom.netlify.app/.netlify/functions/geo`);
     const data = await res.json();
     // setMensen(data);
     console.log("data");
