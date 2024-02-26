@@ -1,6 +1,6 @@
 import { Context } from "@netlify/edge-functions";
 
-export const handler = async (context: Context) => {
+export default async (request: Request, context: Context) => {
   // Here's what's available on context.geo
 
   // context: {
@@ -20,11 +20,9 @@ export const handler = async (context: Context) => {
   //   }
   // }
 
-  return {
-    body: JSON.stringify({
-      message: "Hello World",
-      contextodo: context.geo || context,
-    }),
-    statusCode: 200,
-  };
+  return Response.json({
+    geo: context.geo,
+  });
 };
+
+export const config = { path: "/geolocation" };
