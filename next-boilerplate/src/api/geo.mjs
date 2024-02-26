@@ -21,12 +21,8 @@ export const handler = async (event, context) => {
   return {
     body: JSON.stringify({
       message: "Hello World",
-      contextodo: context.geo || "context.geo nao tinha",
+      contextodo: context.geo || context,
     }),
     statusCode: 200,
   };
-};
-
-export const config = {
-  path: "/geolocation",
 };

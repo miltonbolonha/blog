@@ -31,11 +31,11 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   // console.log(categoryIndex);
 
   const fetchApiData = async ({ latitude, longitude }) => {
-    const res = await fetch(`https://mtcom.netlify.app/.netlify/functions/geo`);
-    const data = await res.json();
+    // const res = await fetch(`https://mtcom.netlify.app/.netlify/functions/geo`);
+    // const data = await res.json();
     // setMensen(data);
     console.log("data");
-    console.log(data);
+    // console.log(data);
   };
 
   const gtagCounter = id => {
