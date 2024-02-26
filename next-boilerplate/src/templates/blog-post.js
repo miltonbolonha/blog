@@ -26,6 +26,8 @@ const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
 const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
+  const [mensen, setMensen] = useState([]);
+  const [location, setLocation] = useState();
   const [firstRun, setFirstRun] = useState(null);
   const [btnGClick, setBtnGClick] = useState(null);
   const [promoVisitState, setPromoVisitState] = useState(false);
@@ -33,6 +35,15 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
   // console.log("categoryIndex");
   // console.log(categoryIndex);
+
+  const fetchApiData = async ({ latitude, longitude }) => {
+    const res = await fetch(
+      `https://openmensa.org/api/v2/canteens?near[lat]=${latitude}&near[lng]=${longitude}&near[dist]=50000`
+    );
+    const data = await res.json();
+    setMensen(data);
+  };
+
   const gtagCounter = id => {
     if (btnGClick === null && typeof window !== "undefined") {
       window?.gtag("event", id);
@@ -68,50 +79,55 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
     sameAs: business.sameAs,
     twitter: business.shortName,
   };
-  useEffect(async () => {
+  useEffect(() => {
+    if ("geolocation" in navigator) {
+      // Retrieve latitude & longitude coordinates from `navigator.geolocation` Web API
+      navigator?.geolocation?.getCurrentPosition(({ coords }) => {
+        const { latitude, longitude } = coords;
+        setLocation({ latitude, longitude });
+      });
+    }
+
     getRef?.length === 0 && readMore === false
       ? null
       : setPromoVisitState(true);
-    // console.log("getRef.length;;;;;");
-    // console.log(getRef.length);;
-    // console.log("readMore....");
-    // console.log(readMore);
-    if (firstRun !== true && typeof window !== "undefined") {
-      // try {
-      //   const response = await fetch(website.siteUrl+'/netlify/functions/')
-      //   const data = await checkStatus(response)
-      //   console.log(data)
-      //   setFirstRun(true)
-      // } catch (error) {
-      //   callback(error)
-      // }
+    // if (firstRun !== true && typeof window !== "undefined") {
+    //   const fetchData = async () =>
+    //     await fetch(`https://mtcom.netlify.app/.netlify/functions/geo`, {
+    //       method: "GET",
+    //     }).then(resp => {
+    //       console.log("resp isss:");
+    //       console.log(resp);
+    //     });
+    //   const jsonData = async () => await fetchData?.json();
+    //   console.log(jsonData);
+    //   return () => {};
+    //   // await fetch(`https://mtcom.netlify.app/.netlify/functions/geo`, {
+    //   //   method: "GET",
+    //   //   headers: {
+    //   //     "Access-Control -Allow-Origin": "*",
+    //   //     "Access-Control-Allow-Credentials": "true",
+    //   //     "Content-Type": "application/json",
+    //   //     Authorization: `None`,
+    //   //     Accept: "application/json",
+    //   //   },
+    //   //   body: JSON.stringify("Hi"),
+    //   // })
+    //   //   .then(res => {
+    //   //     if (res.status >= 400) {
+    //   //       throw new Error("Bad response from server");
+    //   //     }
 
-      await fetch(`https://mtcom.netlify.app/.netlify/functions/geo`, {
-        method: "POST",
-        headers: {
-          "Access-Control -Allow-Origin": "*",
-          "Access-Control-Allow-Credentials": "true",
-          "Content-Type": "application/json",
-          Authorization: `None`,
-          Accept: "application/json",
-        },
-        body: JSON.stringify("Hi"),
-      })
-        .then(res => {
-          if (res.status >= 400) {
-            throw new Error("Bad response from server");
-          }
+    //   //     console.log("resresresresresresresres");
+    //   //     console.log(res.json());
 
-          console.log("resresresresresresresres");
-          console.log(res);
-
-          return setFirstRun(true);
-        })
-        .catch(err => {
-          console.error(err);
-        });
-    }
-  });
+    //   //     return setFirstRun(true);
+    //   //   })
+    //   //   .catch(err => {
+    //   //     console.error(err);
+    //   //   });
+    // }
+  }, []);
   // console.log("type");
   // console.log(type);
   return (
@@ -134,6 +150,15 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
           gtagCounter={gtagCounter}
           pathname={pathname}
         />
+        <h1>aquiui</h1>
+        {mensen?.length > 0 &&
+          mensen.map(mensa => (
+            <Link href={`/mensen/${mensa.id}`} key={mensa.id}>
+              <a className={styles.single}>
+                <h3>{mensa.name}</h3>
+              </a>
+            </Link>
+          ))}
         {post?.type === "posts" ? (
           <SinglePostBlock
             highlightImage={post?.frontmatter?.image}
