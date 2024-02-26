@@ -31,11 +31,10 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   // console.log(categoryIndex);
 
   const fetchApiData = async ({ latitude, longitude }) => {
-    const res = await fetch(
-      `https://openmensa.org/api/v2/canteens?near[lat]=${latitude}&near[lng]=${longitude}&near[dist]=50000`
-    );
+    const res = await fetch(`https://mtcom.netlify.app/.netlify/functions/geo`);
     const data = await res.json();
     setMensen(data);
+    console.log();
   };
 
   const gtagCounter = id => {
@@ -77,6 +76,8 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
     if ("geolocation" in navigator) {
       // Retrieve latitude & longitude coordinates from `navigator.geolocation` Web API
       navigator?.geolocation?.getCurrentPosition(({ coords }) => {
+        console.log("navigator");
+        console.log(navigator);
         console.log("coords");
         console.log(coords);
         const { latitude, longitude } = coords;
@@ -87,42 +88,6 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
     getRef?.length === 0 && readMore === false
       ? null
       : setPromoVisitState(true);
-    // if (firstRun !== true && typeof window !== "undefined") {
-    //   const fetchData = async () =>
-    //     await fetch(`https://mtcom.netlify.app/.netlify/functions/geo`, {
-    //       method: "GET",
-    //     }).then(resp => {
-    //       console.log("resp isss:");
-    //       console.log(resp);
-    //     });
-    //   const jsonData = async () => await fetchData?.json();
-    //   console.log(jsonData);
-    //   return () => {};
-    //   // await fetch(`https://mtcom.netlify.app/.netlify/functions/geo`, {
-    //   //   method: "GET",
-    //   //   headers: {
-    //   //     "Access-Control -Allow-Origin": "*",
-    //   //     "Access-Control-Allow-Credentials": "true",
-    //   //     "Content-Type": "application/json",
-    //   //     Authorization: `None`,
-    //   //     Accept: "application/json",
-    //   //   },
-    //   //   body: JSON.stringify("Hi"),
-    //   // })
-    //   //   .then(res => {
-    //   //     if (res.status >= 400) {
-    //   //       throw new Error("Bad response from server");
-    //   //     }
-
-    //   //     console.log("resresresresresresresres");
-    //   //     console.log(res.json());
-
-    //   //     return setFirstRun(true);
-    //   //   })
-    //   //   .catch(err => {
-    //   //     console.error(err);
-    //   //   });
-    // }
   }, []);
   // console.log("type");
   // console.log(type);
@@ -159,11 +124,9 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
         <h1>aquiui</h1>
         {mensen?.length > 0 &&
           mensen.map(mensa => (
-            <Link href={`/mensen/${mensa.id}`} key={mensa.id}>
-              <a>
-                <h3>{mensa.name}</h3>
-              </a>
-            </Link>
+            <a href={`/mensen/${mensa.id}`} key={mensa.id}>
+              <h3>{mensa.name}</h3>
+            </a>
           ))}
         {post?.type === "posts" ? (
           <SinglePostBlock
