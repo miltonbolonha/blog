@@ -30,13 +30,14 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   // console.log("categoryIndex");
   // console.log(categoryIndex);
 
-  const fetchApiData = async ({ latitude, longitude }) => {
+  const fetchApiData = async () => {
     const res = await fetch(`https://mtcom.netlify.app/geolocation`);
     const data = await res.json();
     // setMensen(data);
-    console.log("data");
-    console.log(data);
-    console.log("data fimm");
+    // console.log("data");
+    // console.log(data);
+    // console.log("data fimm");
+    setLocation(data);
   };
 
   const gtagCounter = id => {
@@ -45,8 +46,8 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
       setBtnGClick(null);
     }
   };
-  console.log("relatedPostrelatedPost");
-  console.log(post.relatedPost);
+  // console.log("relatedPostrelatedPost");
+  // console.log(post.relatedPost);
 
   const getRef = useSearchParams().getAll("ref");
 
@@ -75,17 +76,17 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
     twitter: business.shortName,
   };
   useEffect(() => {
-    if ("geolocation" in navigator) {
-      // Retrieve latitude & longitude coordinates from `navigator.geolocation` Web API
-      navigator?.geolocation?.getCurrentPosition(({ coords }) => {
-        console.log("navigator");
-        console.log(navigator);
-        console.log("coords");
-        console.log(coords);
-        const { latitude, longitude } = coords;
-        setLocation({ latitude, longitude });
-      });
-    }
+    // if ("geolocation" in navigator) {
+    //   // Retrieve latitude & longitude coordinates from `navigator.geolocation` Web API
+    //   navigator?.geolocation?.getCurrentPosition(({ coords }) => {
+    //     // console.log("navigator");
+    //     // console.log(navigator);
+    //     // console.log("coords");
+    //     // console.log(coords);
+    //     // const { latitude, longitude } = coords;
+    //     // setLocation({ latitude, longitude });
+    //   });
+    // }
 
     getRef?.length === 0 && readMore === false
       ? null
@@ -96,10 +97,10 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
 
   useEffect(() => {
     // Fetch data from API if `location` object is set
-    if (location) {
-      fetchApiData(location);
-      // console.log("location here");
-      // console.log(location);
+    if (!location) {
+      fetchApiData();
+      console.log("location here");
+      console.log(location);
     }
   }, [location]);
 

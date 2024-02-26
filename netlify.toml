@@ -18,3 +18,4 @@ package = "@netlify/plugin-emails"
 [[edge_functions]]
   path = "/next-boilerplate/src/api/geo" 
   function = "injectGeoCookie"
+  
