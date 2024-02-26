@@ -21,7 +21,7 @@ const website = mainConfigs?.website;
 
 const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   const [location, setLocation] = useState();
-  const [city, setCity] = useState("Los Angeles");
+  const [city, setCity] = useState(null);
   const [firstRun, setFirstRun] = useState(null);
   const [btnGClick, setBtnGClick] = useState(null);
   const [promoVisitState, setPromoVisitState] = useState(false);
@@ -47,7 +47,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
         console.log(data);
         console.log("data fimm");
         setLocation(data);
-        setCity(data?.geo?.city);
+        setCity(data?.geo?.city || "Los Angeles");
       })
       .catch(error => {
         console.log(error);
