@@ -32,29 +32,14 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   // console.log(categoryIndex);
 
   const fetchApiData = async () => {
-    await fetch(`https://mtcom.netlify.app/geolocation`)
-      .then(response => {
-        if (response.ok) {
-          return response.json();
-        }
-        throw new Error("Something went wrong");
-      })
-      .then(responseJson => {
-        // Do something with the response
-        const data = responseJson.json();
-        // setMensen(data);
-        console.log("data");
-        console.log(data);
-        console.log(data.geo.city || "data.geo errado");
-        console.log(data.city || "data.city errado");
-        console.log("data fimm");
-        setLocation(data);
-        return setCity(data?.city || data.geo.city || "Los Angeles");
-      })
-      .catch(error => {
-        console.log(error);
-        setCity("Los Angeles");
-      });
+    const res = await fetch(`https://mtcom.netlify.app/geolocation`);
+    const data = await res.json();
+    // setMensen(data);
+    console.log("data");
+    console.log(data);
+    console.log("data fimm");
+    setLocation(data);
+    return setCity(data?.city || data.geo.city || "Los Angeles");
   };
 
   const gtagCounter = id => {
@@ -115,7 +100,24 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   useEffect(() => {
     // Fetch data from API if `location` object is set
     if (!location) {
-      fetchApiData();
+      fetchApiData()
+        .then(function (response) {
+          if (response.ok) {
+            response;
+          } else {
+            console.log("response");
+            console.log(response);
+            console.log("Network response was not ok.");
+            return null;
+          }
+        })
+        .catch(function (error) {
+          console.log(
+            "There has been a problem with your fetch operation: " +
+              error.message
+          );
+          return null;
+        });
     }
   }, [location]);
   console.log("location here");
