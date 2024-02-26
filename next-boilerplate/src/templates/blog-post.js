@@ -160,7 +160,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
         {mensen?.length > 0 &&
           mensen.map(mensa => (
             <Link href={`/mensen/${mensa.id}`} key={mensa.id}>
-              <a className={styles.single}>
+              <a>
                 <h3>{mensa.name}</h3>
               </a>
             </Link>
