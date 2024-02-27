@@ -1,18 +1,18 @@
 import React, { useEffect } from "react";
 
 const AdsBoxContainer = ({ dataAdSlot }) => {
-  // useEffect(() => {
-  //   if (window && !window.adsbygoogle) {
-  //     (window.adsbygoogle || []).push({});
-  //   }
-  // }, []);
+  useEffect(() => {
+    if (window && !window.adsbygoogle) {
+      (window.adsbygoogle || []).push({});
+    }
+  }, []);
 
   return (
     <>
-      <div style={{ display: "block", width: "728px", height: "280px" }}>
+      <div style={{ display: "block", width: "280px", height: "280px" }}>
         <ins
           className={`adsbygoogle-${dataAdSlot}`}
-          style={{ display: "block", width: "728px", height: "280px" }}
+          style={{ display: "block", width: "280px", height: "280px" }}
           data-ad-client='ca-pub-4309295381222992'
           // data-ad-host={`ca-host-`}
           data-ad-slot={dataAdSlot}
