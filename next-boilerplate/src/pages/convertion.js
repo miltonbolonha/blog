@@ -230,7 +230,7 @@ const Convertion = () => {
 
   return (
     <div className='convertion-page'>
-      <SeoContainer killSeo={true} data={infos} />
+      <SeoContainer killSeo={false} data={infos} />
       <TopRibbonContainer
         text={convertion.topRibbon.text}
         highlight={convertion.topRibbon.highlight}

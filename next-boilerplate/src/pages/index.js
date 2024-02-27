@@ -108,7 +108,7 @@ const Home = ({ posts, searchParams }) => {
   }, [city]);
   return (
     <div className='index-page'>
-      <SeoContainer killSeo={true} data={infos} />
+      <SeoContainer killSeo={false} data={infos} />
 
       <HeaderContainer
         opt={{
@@ -156,7 +156,7 @@ const Home = ({ posts, searchParams }) => {
             <BlogList
               posts={posts}
               postsToShow={website.postsToShow}
-              city={city}
+              city={city || "Los Angeles"}
             />
           </div>
         </div>

@@ -67,18 +67,15 @@ const SinglePostBlock = ({
         `${ReactDOMServer.renderToString(<div id='rampjs_slot1'></div>)}${searchReplace}`
       )
     : html;
+  const promoNOread = promoVisitState === true && readMore === false;
+  const promoNEVERread = promoVisitState === true && readMore !== null;
+  const noPromoNEVERread = promoVisitState === false && readMore === null;
   return (
     <article>
       <section>
-        <div
-          className={`main-post ${promoVisitState === true && readMore === false ? "promoVisit" : ""}`}
-        >
-          <div
-            className={`left-column ${promoVisitState === true && readMore === false ? "none" : ""}`}
-          >
-            <div
-              className={`${promoVisitState === true && readMore !== null ? "none" : ""}`}
-            >
+        <div className={`main-post ${promoNOread ? "promoVisit" : ""}`}>
+          <div className={`left-column ${promoNOread ? "none" : ""}`}>
+            <div className={`${promoNEVERread ? "none" : ""}`}>
               <TOCContainer
                 tocs={headingsHere}
                 // gtag={gtag}
@@ -90,7 +87,7 @@ const SinglePostBlock = ({
           </div>
 
           <div className='container'>
-            {promoVisitState === true && readMore === false ? null : (
+            {promoNOread ? null : (
               <nav className='breadcrumb'>
                 <ul>
                   <Link href='/'>
@@ -129,7 +126,7 @@ const SinglePostBlock = ({
             <h1>{title}</h1>
             <hr className='small-row mobile-only' />
 
-            {promoVisitState === true && readMore === false ? (
+            {promoNOread ? (
               <>
                 <p
                   className='excerpt'
@@ -210,20 +207,18 @@ const SinglePostBlock = ({
             )}
           </div>
           <section
-            className={`right-column desktop-only ${promoVisitState === true && readMore === false ? "none" : ""}`}
+            className={`right-column desktop-only ${promoNOread ? "none" : ""}`}
           >
             <div
-              className={`desktop-only ads-right-column ${promoVisitState === true && readMore === false ? "none" : ""}
-              ${promoVisitState === false && readMore === false ? "" : "sticky"}
+              className={`desktop-only ads-right-column ${promoNOread ? "none" : ""}
+              ${noPromoNEVERread ? "" : "sticky"}
               
               `}
             >
               <h2>ads 1</h2>
               <AdsBoxContainer dataAdSlot={"2083202812"} />
             </div>
-            <div
-              className={`desktop-only ${promoVisitState === true && readMore !== null ? "none" : ""}`}
-            >
+            <div className={`desktop-only ${promoNEVERread ? "none" : ""}`}>
               <h2>Related Posts</h2>
               <hr className='small-row' />
               <div className='inner-right-column'>
@@ -237,7 +232,7 @@ const SinglePostBlock = ({
             </div>
 
             <div
-              className={`desktop-only ads-right-column second ${promoVisitState === true && readMore === false ? "none" : ""}
+              className={`desktop-only ads-right-column second ${promoNOread ? "none" : ""}
               ${promoVisitState === false && readMore === true ? "" : "sticky"}`}
             >
               <h2>ads 2</h2>
@@ -246,15 +241,13 @@ const SinglePostBlock = ({
           </section>
         </div>
         <div
-          className={`footer-highlights  ads-bottom-row ${promoVisitState === true && readMore === false ? "none" : ""}
+          className={`footer-highlights  ads-bottom-row ${promoNOread ? "none" : ""}
 `}
         >
           <h2>ads 3</h2>
           <AdsBoxContainer dataAdSlot={"2083202812"} />
         </div>
-        <div
-          className={`footer-highlights ${promoVisitState === true && readMore !== null ? "none" : ""}`}
-        >
+        <div className={`footer-highlights ${promoNEVERread ? "none" : ""}`}>
           <h2>Explore</h2>
           <hr className='small-row' />
           <div className='inner-footer-highlights'>

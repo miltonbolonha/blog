@@ -18,10 +18,14 @@ const website = mainConfigs?.website;
 const BlogPost = ({ post }) => {
   const [btnGClick, setBtnGClick] = useState(null);
   const [promoVisitState, setPromoVisitState] = useState(null);
-  const [readMore, setReadMore] = useState(false);
+  const [readMore, setReadMore] = useState(null);
+  const [refUrl, setRefUrl] = useState(null);
   const [city, setCity] = useState(null);
-  const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
   const [userInfos, setUserInfos] = useState(null);
+  const getRef = useSearchParams().getAll("ref");
+  const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
+
+  const title = post?.frontmatter?.title.replace("{{city}}", city);
   const gtagCounter = id => {
     if (btnGClick === null && typeof window !== "undefined") {
       window?.gtag("event", id);
@@ -38,20 +42,19 @@ const BlogPost = ({ post }) => {
     return setCity(data?.geo?.city || "Los Angeles");
   };
 
-  const cookies = new Cookies();
-  const hasSuccessCookies =
-    cookies.get("locationValue") ||
-    cookies.set("locationValue", null, {
-      path: "/",
-    });
-  console.log("hasSuccessCookieshasSuccessCookies");
-  console.log(hasSuccessCookies);
+  // const cookies = new Cookies();
+  // const hasSuccessCookies =
+  //   cookies.get("locationValue") ||
+  //   cookies.set("locationValue", null, {
+  //     path: "/",
+  //   });
+  // console.log("hasSuccessCookieshasSuccessCookies");
+  // console.log(hasSuccessCookies);
   // Pass data to the page via props
 
-  const getRef = useSearchParams().getAll("ref");
   const infos = {
     slug: index?.slug,
-    title: `${post?.frontmatter?.title} - ${business.brandName}`,
+    title: `${title} - ${business.brandName}`,
     description: index?.description,
     author: website.author,
     brandPerson: website.brandPerson,
@@ -75,6 +78,15 @@ const BlogPost = ({ post }) => {
   };
 
   useEffect(() => {
+    if (typeof window !== "undefined") {
+      getRef?.length === 1 ? console.log("arnaldoooooooooooooo") : null;
+      getRef?.length === 1 && promoVisitState === null
+        ? setPromoVisitState(true)
+        : null;
+      getRef?.length === 1 && promoVisitState === null
+        ? setReadMore(false)
+        : null;
+    }
     // Fetch data from API if `location` object is set
     if (!city) {
       fetchApiData()
@@ -85,7 +97,6 @@ const BlogPost = ({ post }) => {
             console.log("response");
             console.log(response);
             console.log("Network response was not ok.");
-            return null;
           }
         })
         .catch(function (error) {
@@ -93,23 +104,14 @@ const BlogPost = ({ post }) => {
             "There has been a problem with your fetch operation: " +
               error.message
           );
-          return null;
         });
     }
-  }, [city]);
-  useEffect(() => {
-    getRef?.length === 0 && readMore === false
-      ? null
-      : setPromoVisitState(true);
-  }, []);
-  console.log("promoVisitStatepromoVisitState");
-  console.log(promoVisitState);
-  console.log("getRefgetRefgetRef");
-  console.log(getRef);
+  }, [city, promoVisitState, getRef]);
+
   return (
     <>
       <div className='single-post post-container'>
-        <SeoContainer killSeo={true} data={infos} />
+        <SeoContainer killSeo={false} data={infos} />
 
         <HeaderContainer
           opt={{
@@ -133,12 +135,7 @@ const BlogPost = ({ post }) => {
             date={post?.frontmatter?.date}
             author={mainConfigs.business.brandName}
             html={post?.content}
-            title={
-              post?.frontmatter?.title.replace(
-                "{{city}}",
-                city || "Los Angeles"
-              ) || post?.frontmatter?.title
-            }
+            title={title || post?.frontmatter?.title}
             category={
               post?.frontmatter?.categories[0] || post?.frontmatter?.categories
             }

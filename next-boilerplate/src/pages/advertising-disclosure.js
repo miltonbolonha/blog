@@ -46,7 +46,7 @@ const NotFoundPage = () => {
 
   return (
     <div className='page'>
-      <SeoContainer killSeo={true} data={infos} />
+      <SeoContainer killSeo={false} data={infos} />
 
       <HeaderContainer
         opt={{

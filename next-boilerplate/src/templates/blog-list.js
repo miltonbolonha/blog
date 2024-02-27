@@ -25,10 +25,9 @@ const BlogList = ({ posts, postsToShow, city }) => {
         return (
           <Post
             key={x}
-            city={city}
             number={x}
             slug={post.slug}
-            title={post.frontmatter.title}
+            title={post.frontmatter.title.replace("{{city}}", city)}
             image={post.frontmatter.image}
             date={post.frontmatter.date}
             description={post.frontmatter.description}
