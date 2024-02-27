@@ -198,7 +198,7 @@ const SinglePostBlock = ({
               className={`desktop-only ads-right-column ${promoNOread ? "none" : ""}             
               `}
             >
-              {promoNOread ? (
+              {promoNEVERread ? (
                 <Adsense
                   slot={"2083202812"}
                   client={mainConfigs.business.adClient}
@@ -223,7 +223,7 @@ const SinglePostBlock = ({
               className={`desktop-only ads-right-column second ${promoNOread ? "none" : ""}
               ${promoVisitState === false && readMore === true ? "" : "sticky"}`}
             >
-              {promoNOread ? (
+              {promoNEVERread ? (
                 <Adsense
                   slot={"2083202812"}
                   client={mainConfigs.business.adClient}
@@ -239,11 +239,11 @@ const SinglePostBlock = ({
           className={`footer-highlights  ads-bottom-row ${promoNOread ? "none" : ""}
 `}
         >
-          {promoNOread ? (
+          {promoNEVERread ? (
             <Adsense
               slot={"2083202812"}
               client={mainConfigs.business.adClient}
-              style={{ display: "block", width: "750px", height: "90px" }}
+              style={{ display: "block", width: "750px", height: "120px" }}
               format="fluid"
               layout="responsive"
             />
