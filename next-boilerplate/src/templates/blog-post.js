@@ -25,6 +25,8 @@ const BlogPost = ({ post }) => {
       setBtnGClick(null);
     }
   };
+  console.log("post.dataLocation");
+  console.log(post.dataLocation);
   const getRef = useSearchParams().getAll("ref");
   const infos = {
     slug: index?.slug,

@@ -39,62 +39,14 @@ function App({ Component, pageProps }) {
           __html: `
           (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
             arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-            _rampJs({ subdomain: "find" });
+            _rampJs();
         `,
         }}
       />
 
-      {/* <Script
-      strategy="afterInteractive"
-        src={`https://www.googletagmanager.com/gtag/js?id=${mainInfos.business.gaID}`}
-      />
-      <Script
-       id="gtag"
-        dangerouslySetInnerHTML={{
-          __html: `
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-        
-          gtag('config', '${mainInfos.business.gaID}', {
-            page_path: window.location.pathname,
-          });
-        `,
-        }}
-      /> */}
       <Component {...pageProps} />
     </>
   );
 }
 
 export default App;
-
-/*
-<!-- Google tag (gtag.js) -->
-<scriptasyncsrc="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  functiongtag(){dataLayer.push(arguments);}
-  gtag('js', newDate());
-  gtag('config', 'G-NHVWK8L97D');
-</script>
-
-
-
-
-
-
-
-
-
-<Script strategy="afterInteractive"src={`https://www.googletagmanager.com/gtag/js?id=${mainInfos.gaId}`}/>
-
-gtag('config', ${mainInfos.gaId}
-
-
-
-
-
-
-
-*/

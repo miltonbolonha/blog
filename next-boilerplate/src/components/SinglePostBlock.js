@@ -36,7 +36,7 @@ const SinglePostBlock = ({
   author,
   html,
   category,
-  title = "Los Angeles",
+  title,
   promoVisitState,
   setReadMore,
   readMore,

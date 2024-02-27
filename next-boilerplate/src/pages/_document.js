@@ -56,7 +56,6 @@ export default class MyDocument extends Document {
           <Main />
           <NextScript />
         </body>
-        {/* <GoogleAnalytics gaId={mainInfos.business.gaID} /> */}
       </Html>
     );
   }
