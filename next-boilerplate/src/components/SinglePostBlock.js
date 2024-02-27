@@ -202,7 +202,7 @@ const SinglePostBlock = ({
                 slot={"2083202812"} 
                 client={mainConfigs.business.adClient}
                 style={{ display:'block', width: '300px', height: '300px'}}
-                format="auto"
+                format="fluid"
                 layout="responsive"
               />
             </div>
@@ -226,7 +226,7 @@ const SinglePostBlock = ({
                 slot={"2083202812"} 
                 client={mainConfigs.business.adClient}
                 style={{ display:'block', width: '300px', height: '300px'}}
-                format="auto"
+                format="fluid"
                 layout="responsive"
               />
             </div>
@@ -240,7 +240,7 @@ const SinglePostBlock = ({
                 slot={"2083202812"} 
                 client={mainConfigs.business.adClient}
                 style={{ display:'block', width: '750px', height: '90px' }}
-                format="auto"
+                format="fluid"
                 layout="responsive"
               />
         </div>
