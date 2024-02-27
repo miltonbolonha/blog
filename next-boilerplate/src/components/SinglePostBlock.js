@@ -47,19 +47,11 @@ const SinglePostBlock = ({
   const headingsHere = doc?.querySelectorAll("h2");
   const pHere = doc?.querySelector("p");
   // const supHere = doc.querySelector("sup");
-
   function handleToggle() {
     return setToggle(!toggle);
   }
-  // console.log("headingsHere");
   const reduce = headingsHere?.length >= 4 ? headingsHere?.length - 3 : 2;
-  // console.log('doc.querySelectorAll("sup")');
-  // console.log(doc.querySelectorAll("sup")[0].childNodes[0].innerText);
-  // console.log(html);
-  // const adslist = <AdsList promoVisitState={promoVisitState} />;
   const excerpt = pHere?.childNodes[0]?._rawText;
-  // console.log(pHere.childNodes[0].childNodes[0]._rawText);
-  // a function to calculate reading time
   const timeToRead = text => {
     const words = text.split(" ");
     const minutes = Math.floor(words.length / 200);
@@ -75,18 +67,8 @@ const SinglePostBlock = ({
         `${ReactDOMServer.renderToString(<div id='rampjs_slot1'></div>)}${searchReplace}`
       )
     : html;
-
-  // useEffect(() => {
-  //   window.addEventListener("click", handleUserKeyPress);
-  //   return () => {
-  //       window.removeEventListener("click", handleUserKeyPress);
-  //   };
-  // }, [handleUserKeyPress]);
-  console.log("categorycategory");
-  console.log(category);
   return (
     <article>
-      {/* <AdsBoxContainer dataAdSlot={"2083202812"} /> */}
       <section>
         <div
           className={`main-post ${promoVisitState === true && readMore == false ? "promoVisit" : ""}`}
@@ -237,7 +219,7 @@ const SinglePostBlock = ({
               `}
             >
               <h1>ads 1</h1>
-              {/* <AdsBoxContainer dataAdSlot={"2083202812"} /> */}
+              <AdsBoxContainer dataAdSlot={"2083202812"} />
             </div>
             <div
               className={`desktop-only ${promoVisitState === true && readMore !== null ? "none" : ""}`}
@@ -259,7 +241,7 @@ const SinglePostBlock = ({
               ${promoVisitState === false && readMore === true ? "" : "sticky"}`}
             >
               <h2>ads 2</h2>
-              {/* <AdsBoxContainer dataAdSlot={"2083202812"} /> */}
+              <AdsBoxContainer dataAdSlot={"2083202812"} />
             </div>
           </section>
         </div>
@@ -268,7 +250,7 @@ const SinglePostBlock = ({
 `}
         >
           <h2>ads 3</h2>
-          {/* <AdsBoxContainer dataAdSlot={"2083202812"} /> */}
+          <AdsBoxContainer dataAdSlot={"2083202812"} />
         </div>
         <div
           className={`footer-highlights ${promoVisitState === true && readMore !== null ? "none" : ""}`}
