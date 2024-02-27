@@ -179,12 +179,11 @@
           position: sticky;
         }
         top: 20px;
-        margin-bottom: 150px;
+        margin-bottom: 50px;
         &.second {
           top: 50px;
           margin-bottom: 0;
         }
-        
       }
     }
   }
@@ -381,12 +380,14 @@
       em {
         font-style: italic;
       }
-      ul.toc-list li {
+      ul.toc-list li,
+      ul li {
         font-style: italic;
         list-style-type: disc;
         margin-left: 20px;
         margin-bottom: 5px;
       }
+
       ol li {
         list-style-type: decimal;
         font-style: italic;

@@ -8,18 +8,18 @@ import mainInfos from "../configs/main-infos.json";
 function App({ Component, pageProps }) {
   return (
     <>
-    <Script
-            strategy='afterInteractive'
-            src='https://rampjs-cdn.system1.com/ramp.js'
-            async
-          />
-   <Script
-            strategy='afterInteractive'
-            async
-            src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4309295381222992'
-          />
       <Script
-        id='gtag'
+        strategy="afterInteractive"
+        src="https://rampjs-cdn.system1.com/ramp.js"
+        async
+      />
+      <Script
+        strategy="afterInteractive"
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4309295381222992"
+      />
+      <Script
+        id="gtag"
         async
         dangerouslySetInnerHTML={{
           __html: `
@@ -45,7 +45,7 @@ function App({ Component, pageProps }) {
         }}
       /> */}
       <Script
-        id='rampjs'
+        id="rampjs"
         async
         dangerouslySetInnerHTML={{
           __html: `
@@ -53,7 +53,7 @@ function App({ Component, pageProps }) {
             arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
             _rampJs({testMode: true, subdomain: "develop", requestReferrer: "https://develop.moderntips.com", referrer: "https://moderntips.com", terms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4",
             init: {
-            segment: "segment0",
+            segment: "rsoc.moderntips.001",
             subid: "123Test_456Test_789Test",
             ref: "taboola-xyz8x10",
             }});

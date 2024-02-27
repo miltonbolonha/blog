@@ -6,25 +6,25 @@ import { parse } from "node-html-parser";
 import slugify from "slugify";
 // import AdsList from "../components/AdsList";
 import Row from "../containers/RowContainer";
-import mainConfigs from '../configs/main-infos.json'
+import mainConfigs from "../configs/main-infos.json";
 // import AdsBoxContainer from "../containers/AdsBoxContainer";
 import TOCContainer from "../containers/TOCContainer";
-import {Adsense} from '@ctrl/react-adsense';
+import { Adsense } from "@ctrl/react-adsense";
 
 const X = () => (
   <div id={`item-2`} className={`post column-post`}>
-    <a href={"/category"} className='media'>
+    <a href={"/category"} className="media">
       <div
-        className='media'
+        className="media"
         style={{ backgroundImage: `url(/posts/post-image.jpg)` }}
       ></div>
     </a>
-    <div className='main-post-inner caption'>
-      <a href={"category"} alt={"category"} className='post-category author'>
+    <div className="main-post-inner caption">
+      <a href={"category"} alt={"category"} className="post-category author">
         category
       </a>
-      <a href={"/cat"} className='post-link'>
-        <h2 className='title'>Here’s What You Need to Know About Medigap</h2>
+      <a href={"/cat"} className="post-link">
+        <h2 className="title">Here’s What You Need to Know About Medigap</h2>
       </a>
     </div>
   </div>
@@ -53,7 +53,7 @@ const SinglePostBlock = ({
   }
   const reduce = headingsHere?.length >= 4 ? headingsHere?.length - 3 : 2;
   const excerpt = pHere?.childNodes[0]?._rawText;
-  const timeToRead = text => {
+  const timeToRead = (text) => {
     const words = text.split(" ");
     const minutes = Math.floor(words.length / 200);
     return minutes;
@@ -65,7 +65,7 @@ const SinglePostBlock = ({
   const replacedHtml = searchReplace
     ? html.replace(
         searchReplace,
-        `${ReactDOMServer.renderToString(<div id='rampjs_slot2'></div>)}${searchReplace}`
+        `${ReactDOMServer.renderToString(<div id="rampjs_slot2"></div>)}${searchReplace}`,
       )
     : html;
   const promoNOread = promoVisitState === true && readMore === false;
@@ -87,11 +87,11 @@ const SinglePostBlock = ({
             </div>
           </div>
 
-          <div className='container'>
+          <div className="container">
             {promoNOread ? null : (
-              <nav className='breadcrumb'>
+              <nav className="breadcrumb">
                 <ul>
-                  <Link href='/'>
+                  <Link href="/">
                     <Image
                       src={`/logomark.png`}
                       alt={"Modern Tips search icon"}
@@ -105,7 +105,7 @@ const SinglePostBlock = ({
                       alt={"Modern Tips search icon"}
                       width={10}
                       height={10}
-                      className='search-hold'
+                      className="search-hold"
                     />
                     <Link href={slugify(category || "general").toLowerCase()}>
                       {category || general}
@@ -117,7 +117,7 @@ const SinglePostBlock = ({
                       alt={"Modern Tips search icon"}
                       width={10}
                       height={10}
-                      className='search-hold'
+                      className="search-hold"
                     />
                     <span>{topic || "general"}</span>
                   </li>
@@ -125,19 +125,19 @@ const SinglePostBlock = ({
               </nav>
             )}
             <h1>{title}</h1>
-            <hr className='small-row mobile-only' />
+            <hr className="small-row mobile-only" />
 
             {promoNOread ? (
               <>
                 <p
-                  className='excerpt'
+                  className="excerpt"
                   dangerouslySetInnerHTML={{ __html: excerpt }}
                 />
-                <div id='rampjs_slot1'></div>
+                <div id="rampjs_slot1"></div>
 
                 <a
-                  href='#'
-                  className='read-more'
+                  href="#"
+                  className="read-more"
                   onClick={() => setReadMore(true)}
                 >
                   Read More
@@ -152,10 +152,10 @@ const SinglePostBlock = ({
                     isBoxed: true,
                   }}
                 >
-                  <time className='post-author-date date' dateTime={date}>
+                  <time className="post-author-date date" dateTime={date}>
                     {date}
                   </time>
-                  <p className='post-author-date read-time'>
+                  <p className="post-author-date read-time">
                     {timeToRead(doc.text)} minute read
                   </p>
                 </Row>
@@ -170,7 +170,7 @@ const SinglePostBlock = ({
                 <Image
                   src={`/posts/${highlightImage}`}
                   alt={title}
-                  critical='true'
+                  critical="true"
                   className={"post-highlight-img"}
                   width={560}
                   height={300}
@@ -182,10 +182,10 @@ const SinglePostBlock = ({
                 format="fluid"
                 layoutKey="-6t+ed+2i-1n-4w"
               /> */}
-                
-                <div id='rampjs_slot1'></div>
+
+                <div id="rampjs_slot1"></div>
                 <div
-                  className='post-article-content'
+                  className="post-article-content"
                   dangerouslySetInnerHTML={{ __html: replacedHtml }}
                 ></div>
               </>
@@ -198,23 +198,24 @@ const SinglePostBlock = ({
               className={`desktop-only ads-right-column ${promoNOread ? "none" : ""}             
               `}
             >
-              <Adsense 
-                slot={"2083202812"} 
-                client={mainConfigs.business.adClient}
-                style={{ display:'block', width: '300px', height: '300px'}}
-                format="fluid"
-                layout="responsive"
-              />
+              {promoNOread ? (
+                <Adsense
+                  slot={"2083202812"}
+                  client={mainConfigs.business.adClient}
+                  style={{ display: "block", width: "300px", height: "300px" }}
+                  format="fluid"
+                  layout="responsive"
+                />
+              ) : null}
             </div>
             <div className={`desktop-only ${promoNEVERread ? "none" : ""}`}>
               <h2>Related Posts</h2>
-              <hr className='small-row' />
-              <div className='inner-right-column'>
-                {/* <X />
+              <hr className="small-row" />
+              <div className="inner-right-column">
                 <X />
                 <X />
-                <X /> */}
-                
+                <X />
+                <X />
               </div>
             </div>
 
@@ -222,13 +223,15 @@ const SinglePostBlock = ({
               className={`desktop-only ads-right-column second ${promoNOread ? "none" : ""}
               ${promoVisitState === false && readMore === true ? "" : "sticky"}`}
             >
-              <Adsense 
-                slot={"2083202812"} 
-                client={mainConfigs.business.adClient}
-                style={{ display:'block', width: '300px', height: '300px'}}
-                format="fluid"
-                layout="responsive"
-              />
+              {promoNOread ? (
+                <Adsense
+                  slot={"2083202812"}
+                  client={mainConfigs.business.adClient}
+                  style={{ display: "block", width: "300px", height: "300px" }}
+                  format="fluid"
+                  layout="responsive"
+                />
+              ) : null}
             </div>
           </section>
         </div>
@@ -236,24 +239,24 @@ const SinglePostBlock = ({
           className={`footer-highlights  ads-bottom-row ${promoNOread ? "none" : ""}
 `}
         >
-          <Adsense 
-                slot={"2083202812"} 
-                client={mainConfigs.business.adClient}
-                style={{ display:'block', width: '750px', height: '90px' }}
-                format="fluid"
-                layout="responsive"
-              />
+          {promoNOread ? (
+            <Adsense
+              slot={"2083202812"}
+              client={mainConfigs.business.adClient}
+              style={{ display: "block", width: "750px", height: "90px" }}
+              format="fluid"
+              layout="responsive"
+            />
+          ) : null}
         </div>
         <div className={`footer-highlights ${promoNEVERread ? "none" : ""}`}>
           <h2>Explore</h2>
-          <hr className='small-row' />
-          <div className='inner-footer-highlights'>
-            {/* <X />
+          <hr className="small-row" />
+          <div className="inner-footer-highlights">
             <X />
             <X />
-            <X /> */}
-            <h2>Rampjs slot 2</h2>
-            <div id='rampjs_slot2'></div>
+            <X />
+            <X />
           </div>
         </div>
       </section>
