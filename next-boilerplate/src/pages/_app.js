@@ -8,7 +8,16 @@ import mainInfos from "../configs/main-infos.json";
 function App({ Component, pageProps }) {
   return (
     <>
-   
+    <Script
+            strategy='afterInteractive'
+            src='https://rampjs-cdn.system1.com/ramp.js'
+            async
+          />
+   <Script
+            strategy='afterInteractive'
+            async
+            src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4309295381222992'
+          />
       <Script
         id='gtag'
         async

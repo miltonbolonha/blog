@@ -26,17 +26,9 @@ export default class MyDocument extends Document {
     return (
       <Html lang='en-US'>
         <Head>
-          <Script
-            strategy='afterInteractive'
-            src='https://rampjs-cdn.system1.com/ramp.js'
-            async
-          />
+          
 
-          <Script
-            strategy='afterInteractive'
-            async
-            src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4309295381222992'
-          />
+          
           {/* <Script
             async
             strategy='beforeInteractive'
