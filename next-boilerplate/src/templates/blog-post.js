@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { usePathname, useSearchParams } from "next/navigation";
+import Cookies from "universal-cookie";
+
 import SinglePostBlock from "../components/SinglePostBlock";
 import mainConfigs from "../configs/main-infos.json";
 import FooterContainer from "../containers/FooterContainer";
@@ -17,16 +19,36 @@ const BlogPost = ({ post }) => {
   const [btnGClick, setBtnGClick] = useState(null);
   const [promoVisitState, setPromoVisitState] = useState(false);
   const [readMore, setReadMore] = useState(false);
+  const [city, setCity] = useState(null);
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
-  const city = post.dataLocation.geo.city;
+  const [userInfos, setUserInfos] = useState(null);
   const gtagCounter = id => {
     if (btnGClick === null && typeof window !== "undefined") {
       window?.gtag("event", id);
       setBtnGClick(null);
     }
   };
-  console.log("post.dataLocation");
-  console.log(post.dataLocation);
+  const fetchApiData = async () => {
+    const res = await fetch(
+      `${mainConfigs.website.developmentUrl}/geolocation`
+    );
+    const data = await res.json();
+    // setMensen(data);
+    console.log("data");
+    console.log(data);
+    console.log("data fimm");
+    return setCity(data?.geo?.city || "Los Angeles");
+  };
+
+  const cookies = new Cookies();
+  const hasSuccessCookies =
+    cookies.get("locationValue") ||
+    cookies.set("locationValue", null, {
+      path: "/",
+    });
+
+  // Pass data to the page via props
+
   const getRef = useSearchParams().getAll("ref");
   const infos = {
     slug: index?.slug,
@@ -58,6 +80,29 @@ const BlogPost = ({ post }) => {
       : setPromoVisitState(true);
   }, []);
 
+  useEffect(() => {
+    // Fetch data from API if `location` object is set
+    if (!city) {
+      fetchApiData()
+        .then(function (response) {
+          if (response.ok) {
+            response;
+          } else {
+            console.log("response");
+            console.log(response);
+            console.log("Network response was not ok.");
+            return null;
+          }
+        })
+        .catch(function (error) {
+          console.log(
+            "There has been a problem with your fetch operation: " +
+              error.message
+          );
+          return null;
+        });
+    }
+  }, [city]);
   return (
     <>
       <div className='single-post post-container'>
