@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { usePathname, useSearchParams } from "next/navigation";
-import Cookies from "universal-cookie";
+// import Cookies from "universal-cookie";
 
 import SinglePostBlock from "../components/SinglePostBlock";
 import mainConfigs from "../configs/main-infos.json";
