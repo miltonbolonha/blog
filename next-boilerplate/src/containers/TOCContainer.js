@@ -2,6 +2,9 @@ import React, { useState } from "react";
 import TOC from "../components/TOC";
 
 const TOCContainer = ({ tocs, gtag, display, toggle, handleToggle }) => {
+  if (!tocs) {
+    return null
+  }
   return (
     <TOC
       tocs={tocs}

@@ -7,7 +7,7 @@ import slugify from "slugify";
 // import AdsList from "../components/AdsList";
 import Row from "../containers/RowContainer";
 import mainConfigs from '../configs/main-infos.json'
-import AdsBoxContainer from "../containers/AdsBoxContainer";
+// import AdsBoxContainer from "../containers/AdsBoxContainer";
 import TOCContainer from "../containers/TOCContainer";
 import {Adsense} from '@ctrl/react-adsense';
 
@@ -65,7 +65,7 @@ const SinglePostBlock = ({
   const replacedHtml = searchReplace
     ? html.replace(
         searchReplace,
-        `${ReactDOMServer.renderToString(<div id='rampjs_slot1'></div>)}${searchReplace}`
+        `${ReactDOMServer.renderToString(<div id='rampjs_slot2'></div>)}${searchReplace}`
       )
     : html;
   const promoNOread = promoVisitState === true && readMore === false;
@@ -152,7 +152,6 @@ const SinglePostBlock = ({
                     isBoxed: true,
                   }}
                 >
-                  {/* <p className='date'>Published on Feb 2, 2024.</p> */}
                   <time className='post-author-date date' dateTime={date}>
                     {date}
                   </time>
@@ -161,30 +160,8 @@ const SinglePostBlock = ({
                   </p>
                 </Row>
 
-                {/* <nav className='toc-sticky mobile-only'>
-                  <button
-                    className='toc-toggle'
-                    type='button'
-                    aria-label='Close Table of Contents'
-                    onClick={() => handleToggle()}
-                  >
-                    <h3>Table of Contents</h3>
-                    <span>{toggle ? "X" : "▼"}</span>
-                  </button>
-                  <div className={`toc-container ${toggle ? "show" : "hide"}`}>
-                    <ul className='toc-list'>
-                      {Array.from(headingsHere).map((h, indh) => (
-                        <li key={indh}>
-                          <a href={`#${h.id}`} onClick={() => handleToggle()}>
-                            {h.innerText}
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
-                </nav> */}
                 <TOCContainer
-                  tocs={headingsHere}
+                  tocs={headingsHere || null}
                   // gtag={gtag}
                   display={"mobile"}
                   toggle={toggle}
@@ -198,7 +175,14 @@ const SinglePostBlock = ({
                   width={560}
                   height={300}
                 />
-                {/* <AdsList promoVisitState={promoVisitState} /> */}
+                {/* <Adsense 
+                slot={"4246417449"} 
+                client={mainConfigs.business.adClient}
+                style={{ display:'block' }}
+                format="fluid"
+                layoutKey="-6t+ed+2i-1n-4w"
+              /> */}
+                
                 <div id='rampjs_slot1'></div>
                 <div
                   className='post-article-content'
@@ -211,19 +195,16 @@ const SinglePostBlock = ({
             className={`right-column desktop-only ${promoNOread ? "none" : ""}`}
           >
             <div
-              className={`desktop-only ads-right-column ${promoNOread ? "none" : ""}
-              ${noPromoNEVERread ? "" : "sticky"}
-              
+              className={`desktop-only ads-right-column ${promoNOread ? "none" : ""}             
               `}
             >
-              <h2>ads 1</h2>
-              {/* <Adsense 
+              <Adsense 
                 slot={"2083202812"} 
                 client={mainConfigs.business.adClient}
-                style={{ width: 500, height: 300 }}
-                format="responsive"
-                layout="auto"
-              /> */}
+                style={{ display:block }}
+                format="auto"
+                layout="responsive"
+              />
             </div>
             <div className={`desktop-only ${promoNEVERread ? "none" : ""}`}>
               <h2>Related Posts</h2>
@@ -233,8 +214,7 @@ const SinglePostBlock = ({
                 <X />
                 <X />
                 <X /> */}
-                <h2>Rampjs slot 2</h2>
-                <div id='rampjs_slot2'></div>
+                
               </div>
             </div>
 
@@ -242,8 +222,13 @@ const SinglePostBlock = ({
               className={`desktop-only ads-right-column second ${promoNOread ? "none" : ""}
               ${promoVisitState === false && readMore === true ? "" : "sticky"}`}
             >
-              <h2>ads 2</h2>
-              <AdsBoxContainer dataAdSlot={"2083202812"} />
+              <Adsense 
+                slot={"2083202812"} 
+                client={mainConfigs.business.adClient}
+                style={{ display:block }}
+                format="auto"
+                layout="responsive"
+              />
             </div>
           </section>
         </div>
@@ -251,8 +236,13 @@ const SinglePostBlock = ({
           className={`footer-highlights  ads-bottom-row ${promoNOread ? "none" : ""}
 `}
         >
-          <h2>ads 3</h2>
-          {/* <AdsBoxContainer dataAdSlot={"2083202812"} /> */}
+          <Adsense 
+                slot={"2083202812"} 
+                client={mainConfigs.business.adClient}
+                style={{ display:block }}
+                format="auto"
+                layout="responsive"
+              />
         </div>
         <div className={`footer-highlights ${promoNEVERread ? "none" : ""}`}>
           <h2>Explore</h2>

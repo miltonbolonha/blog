@@ -51,12 +51,11 @@ function App({ Component, pageProps }) {
           __html: `
           (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
             arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-            _rampJs({testMode: true, subdomain: "develop", requestReferrer: "https://develop.moderntips.com", referrer: "https://develop.moderntips.com", terms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4",
+            _rampJs({testMode: true, subdomain: "develop", requestReferrer: "https://develop.moderntips.com", referrer: "https://moderntips.com", terms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4",
             init: {
-            segment: "segment01",
-            click_track_url: "https://test.com",
-            subid: "1234_test_camp99",
-            id: "1234",
+            segment: "segment0",
+            subid: "123Test_456Test_789Test",
+            ref: "taboola-xyz8x10",
             }});
         `,
         }}
