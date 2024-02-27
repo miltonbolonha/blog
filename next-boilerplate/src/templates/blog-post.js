@@ -153,6 +153,7 @@ const BlogPost = ({ post }) => {
                 <BlogList
                   posts={post.relatedPost}
                   postsToShow={website.postsToShow}
+                  city={city}
                 />
               </div>
             </div>
