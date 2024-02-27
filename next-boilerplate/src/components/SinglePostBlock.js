@@ -217,11 +217,13 @@ const SinglePostBlock = ({
               `}
             >
               <h2>ads 1</h2>
-              <Adsense slot={"2083202812"} client={mainConfigs.business.adClient}
-              style={{ width: 500, height: 300 }}
-              format="auto"
-              layout="responsive"
-/>
+              <Adsense 
+                slot={"2083202812"} 
+                client={mainConfigs.business.adClient}
+                style={{ width: 500, height: 300 }}
+                format="responsive"
+                layout="auto"
+              />
             </div>
             <div className={`desktop-only ${promoNEVERread ? "none" : ""}`}>
               <h2>Related Posts</h2>
