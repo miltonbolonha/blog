@@ -79,7 +79,7 @@ const BlogPost = ({ post }) => {
 
   useEffect(() => {
     if (typeof window !== "undefined") {
-      getRef?.length === 1 ? console.log("arnaldoooooooooooooo") : null;
+      // getRef?.length === 1 ? console.log("arnaldoooooooooooooo") : null;
       getRef?.length === 1 && promoVisitState === null
         ? setPromoVisitState(true)
         : null;

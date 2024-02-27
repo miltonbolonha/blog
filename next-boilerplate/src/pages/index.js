@@ -9,7 +9,6 @@ import { getAllPosts } from "../lib/api";
 import SearchInputContainer from "../containers/SearchInputContainer";
 // import Slider from "react-slick";
 import Image from "next/image";
-import { ResponsiveAdUnit } from "nextjs-google-adsense";
 
 import SeoContainer from "../containers/SeoContainer";
 import Row from "../containers/RowContainer";
@@ -125,11 +124,6 @@ const Home = ({ posts, searchParams }) => {
         gtag={"gtag"}
         gtagCounter={gtagCounter}
         pathname={pathname}
-      />
-      <ResponsiveAdUnit
-        publisherId='pub-4309295381222992'
-        type='ads-right-column-first'
-        slotId={"2083202812"}
       />
       <div className='hero-wrapper'>
         <div className='hero search-hero'>
