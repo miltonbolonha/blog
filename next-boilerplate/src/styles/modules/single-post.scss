@@ -172,6 +172,9 @@
         font-size: 20px;
       }
       .ads-right-column {
+        width: 100%;
+        height: auto;
+        display: block;
         &.sticky {
           position: sticky;
         }
@@ -181,6 +184,7 @@
           top: 50px;
           margin-bottom: 0;
         }
+        
       }
     }
   }
@@ -188,6 +192,7 @@
     &.ads-bottom-row {
       text-align: center;
       max-width: $page__size;
+      height: 90px;
     }
     margin-bottom: 20px;
     h2 {
