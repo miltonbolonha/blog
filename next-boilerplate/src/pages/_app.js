@@ -51,12 +51,7 @@ function App({ Component, pageProps }) {
           __html: `
           (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
             arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-            _rampJs({testMode: true, subdomain: "develop", requestReferrer: "https://develop.moderntips.com", referrer: "https://moderntips.com", terms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4",
-            init: {
-            segment: "rsoc.moderntips.001",
-            subid: "123Test_456Test_789Test",
-            ref: "taboola-xyz8x10",
-            }});
+            _rampJs({testMode: true});
         `,
         }}
       />

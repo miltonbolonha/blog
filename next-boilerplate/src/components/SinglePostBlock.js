@@ -179,7 +179,7 @@ const SinglePostBlock = ({
                 slot={"4246417449"} 
                 client={mainConfigs.business.adClient}
                 style={{ display:'block' }}
-                format="fluid"
+                format="auto"
                 layoutKey="-6t+ed+2i-1n-4w"
               /> */}
 
@@ -198,12 +198,12 @@ const SinglePostBlock = ({
               className={`desktop-only ads-right-column ${promoNOread ? "none" : ""}             
               `}
             >
-              {promoNEVERread ? (
+              {!promoNOread ? (
                 <Adsense
                   slot={"2083202812"}
                   client={mainConfigs.business.adClient}
                   style={{ display: "block", width: "300px", height: "300px" }}
-                  format="fluid"
+                  format="auto"
                   layout="responsive"
                 />
               ) : null}
@@ -223,12 +223,12 @@ const SinglePostBlock = ({
               className={`desktop-only ads-right-column second ${promoNOread ? "none" : ""}
               ${promoVisitState === false && readMore === true ? "" : "sticky"}`}
             >
-              {promoNEVERread ? (
+              {!promoNOread ? (
                 <Adsense
                   slot={"2083202812"}
                   client={mainConfigs.business.adClient}
                   style={{ display: "block", width: "300px", height: "300px" }}
-                  format="fluid"
+                  format="auto"
                   layout="responsive"
                 />
               ) : null}
@@ -239,12 +239,12 @@ const SinglePostBlock = ({
           className={`footer-highlights  ads-bottom-row ${promoNOread ? "none" : ""}
 `}
         >
-          {promoNEVERread ? (
+          {!promoNOread ? (
             <Adsense
               slot={"2083202812"}
               client={mainConfigs.business.adClient}
               style={{ display: "block", width: "750px", height: "120px" }}
-              format="fluid"
+              format="auto"
               layout="responsive"
             />
           ) : null}
