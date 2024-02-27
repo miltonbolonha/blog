@@ -201,7 +201,7 @@ const SinglePostBlock = ({
               <Adsense 
                 slot={"2083202812"} 
                 client={mainConfigs.business.adClient}
-                style={{ display:'block', width: '100%', height: '300px'}}
+                style={{ display:'block', width: '300px', height: '300px'}}
                 format="auto"
                 layout="responsive"
               />
@@ -225,7 +225,7 @@ const SinglePostBlock = ({
               <Adsense 
                 slot={"2083202812"} 
                 client={mainConfigs.business.adClient}
-                style={{ display:'block', width: '100%', height: '300px'}}
+                style={{ display:'block', width: '300px', height: '300px'}}
                 format="auto"
                 layout="responsive"
               />
@@ -239,7 +239,7 @@ const SinglePostBlock = ({
           <Adsense 
                 slot={"2083202812"} 
                 client={mainConfigs.business.adClient}
-                style={{ display:'block', width: '100%', height: '90px' }}
+                style={{ display:'block', width: '750px', height: '90px' }}
                 format="auto"
                 layout="responsive"
               />
