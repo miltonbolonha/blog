@@ -8,6 +8,7 @@ import mainInfos from "../configs/main-infos.json";
 function App({ Component, pageProps }) {
   return (
     <>
+   
       <Script
         id='gtag'
         async
@@ -41,7 +42,7 @@ function App({ Component, pageProps }) {
           __html: `
           (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
             arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-            _rampJs();
+            _rampJs({testMode: true});
         `,
         }}
       />

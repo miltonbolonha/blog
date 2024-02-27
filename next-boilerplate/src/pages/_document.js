@@ -26,17 +26,6 @@ export default class MyDocument extends Document {
     return (
       <Html lang='en-US'>
         <Head>
-          <link
-            rel='stylesheet prefetch'
-            type='text/css'
-            charSet='UTF-8'
-            href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css'
-          />
-          <link
-            rel='stylesheet prefetch'
-            type='text/css'
-            href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css'
-          />
           <Script
             strategy='afterInteractive'
             src='https://rampjs-cdn.system1.com/ramp.js'
@@ -59,6 +48,8 @@ export default class MyDocument extends Document {
         </Head>
         <body className='theme-one'>
           <Script
+        id='googletagmanager'
+
             strategy='afterInteractive'
             src={`https://www.googletagmanager.com/gtag/js?id=${mainInfos.business.gaID}`}
           />
