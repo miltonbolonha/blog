@@ -10,6 +10,7 @@ function App({ Component, pageProps }) {
     <>
       <Script
         id='gtag'
+        async
         dangerouslySetInnerHTML={{
           __html: `
           window.dataLayer = window.dataLayer || [];
@@ -35,6 +36,7 @@ function App({ Component, pageProps }) {
       /> */}
       <Script
         id='rampjs'
+        async
         dangerouslySetInnerHTML={{
           __html: `
           (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(

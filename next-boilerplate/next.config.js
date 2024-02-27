@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 
 const isProd = process.env.NODE_ENV === "production";
-const imgsPath = isProd ? process.env.WEBSITE_URL : "";
 const nextConfig = {
   reactStrictMode: false,
   output: "export",
