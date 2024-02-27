@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { parse } from "node-html-parser";
 import slugify from "slugify";
-import AdsList from "../components/AdsList";
+// import AdsList from "../components/AdsList";
 import Row from "../containers/RowContainer";
 
 import AdsBoxContainer from "../containers/AdsBoxContainer";
@@ -44,8 +44,8 @@ const SinglePostBlock = ({
 }) => {
   const [toggle, setToggle] = useState(false);
   const doc = parse(html);
-  const headingsHere = doc.querySelectorAll("h2");
-  const pHere = doc.querySelector("p");
+  const headingsHere = doc?.querySelectorAll("h2");
+  const pHere = doc?.querySelector("p");
   // const supHere = doc.querySelector("sup");
 
   function handleToggle() {
@@ -56,8 +56,8 @@ const SinglePostBlock = ({
   // console.log('doc.querySelectorAll("sup")');
   // console.log(doc.querySelectorAll("sup")[0].childNodes[0].innerText);
   // console.log(html);
-
-  const excerpt = pHere.childNodes[0]._rawText;
+  // const adslist = <AdsList promoVisitState={promoVisitState} />;
+  const excerpt = pHere?.childNodes[0]?._rawText;
   // console.log(pHere.childNodes[0].childNodes[0]._rawText);
   // a function to calculate reading time
   const timeToRead = text => {
@@ -72,7 +72,7 @@ const SinglePostBlock = ({
   const replacedHtml = searchReplace
     ? html.replace(
         searchReplace,
-        `${ReactDOMServer.renderToString(<AdsList promoVisitState={promoVisitState} />)}${searchReplace}`
+        `${ReactDOMServer.renderToString(<div id='rampjs_slot1'></div>)}${searchReplace}`
       )
     : html;
 
@@ -153,7 +153,8 @@ const SinglePostBlock = ({
                   className='excerpt'
                   dangerouslySetInnerHTML={{ __html: excerpt }}
                 />
-                <AdsList promoVisitState={promoVisitState} />
+                <div id='rampjs_slot1'></div>
+
                 <a
                   href='#'
                   className='read-more'
@@ -217,7 +218,8 @@ const SinglePostBlock = ({
                   width={560}
                   height={300}
                 />
-                <AdsList promoVisitState={promoVisitState} />
+                {/* <AdsList promoVisitState={promoVisitState} /> */}
+                <div id='rampjs_slot1'></div>
                 <div
                   className='post-article-content'
                   dangerouslySetInnerHTML={{ __html: replacedHtml }}

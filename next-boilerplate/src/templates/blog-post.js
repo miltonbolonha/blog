@@ -14,7 +14,24 @@ import SeoContainer from "../containers/SeoContainer";
 import mainMenu from "../configs/main-menu.json";
 
 import BlogList from "../templates/blog-list";
-
+const preContext = {
+  context: {
+    geo: {
+      city: "Los Angeles",
+      country: {
+        code: "USA",
+        name: "United States",
+      },
+      subdivision: {
+        code: "CA",
+        name: "California",
+      },
+      latitude: 0,
+      longitude: 0,
+      timezone: "America/Los_Angeles",
+    },
+  },
+};
 const index = mainConfigs?.pages?.index;
 const business = mainConfigs?.business;
 const website = mainConfigs?.website;
@@ -24,7 +41,7 @@ const BlogPost = ({
   searchParams,
   categoryIndex,
   type,
-  dataLocation,
+  dataLocation = preContext,
 }) => {
   const [location, setLocation] = useState(null);
   const [city, setCity] = useState(null);
@@ -233,24 +250,7 @@ const BlogPost = ({
 export default BlogPost;
 
 export async function getServerSideProps() {
-  const preContext = {
-    context: {
-      geo: {
-        city: "Los Angeles",
-        country: {
-          code: "USA",
-          name: "United States",
-        },
-        subdivision: {
-          code: "CA",
-          name: "California",
-        },
-        latitude: 0,
-        longitude: 0,
-        timezone: "America/Los_Angeles",
-      },
-    },
-  };
+  console.log("hiiiiiiii");
 
   const res = await fetch(`${mainConfigs.website.developmentUrl}/geolocation`)
     .then(function (response) {
