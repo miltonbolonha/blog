@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import Post from "../components/Post";
 
-const BlogList = ({ posts, postsToShow }) => {
+const BlogList = ({ posts, postsToShow, city }) => {
   const sortedPosts = posts.sort((post1, post2) =>
     new Date(post1.date) > new Date(post2.date) ? -1 : 1
   );
@@ -14,6 +14,7 @@ const BlogList = ({ posts, postsToShow }) => {
   const [current] = useState(sortedPosts.slice(count.prev, count.next));
   // console.log("current");
   // console.log(current);
+
   return (
     <>
       {current.map((post, i) => {
@@ -24,6 +25,7 @@ const BlogList = ({ posts, postsToShow }) => {
         return (
           <Post
             key={x}
+            city={city}
             number={x}
             slug={post.slug}
             title={post.frontmatter.title}

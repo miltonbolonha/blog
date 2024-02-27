@@ -3,7 +3,16 @@ import Link from "next/link";
 import slugify from "slugify";
 import Image from "next/image";
 
-const Post = ({ slug, date, title, description, image, number, category }) => {
+const Post = ({
+  slug,
+  date,
+  title,
+  description,
+  image,
+  number,
+  category,
+  city,
+}) => {
   return (
     <div id={`item-${number}`} className={`post highlight-0${number}`}>
       <Link href={slug} passHref className='media'>
@@ -22,7 +31,9 @@ const Post = ({ slug, date, title, description, image, number, category }) => {
           {category}
         </Link>
         <Link href={slug} passHref className='post-link'>
-          <h2 className='title'>{title}</h2>
+          <h2 className='title'>
+            {title.replace("{{city}}", city || "Los Angeles") || title}
+          </h2>
         </Link>
       </div>
     </div>

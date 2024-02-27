@@ -34,9 +34,7 @@ const BlogPost = ({ post }) => {
     );
     const data = await res.json();
     // setMensen(data);
-    console.log("data");
-    console.log(data);
-    console.log("data fimm");
+    setUserInfos(data);
     return setCity(data?.geo?.city || "Los Angeles");
   };
 
@@ -46,7 +44,8 @@ const BlogPost = ({ post }) => {
     cookies.set("locationValue", null, {
       path: "/",
     });
-
+  console.log("hasSuccessCookieshasSuccessCookies");
+  console.log(hasSuccessCookies);
   // Pass data to the page via props
 
   const getRef = useSearchParams().getAll("ref");
@@ -86,7 +85,7 @@ const BlogPost = ({ post }) => {
       fetchApiData()
         .then(function (response) {
           if (response.ok) {
-            response;
+            console.log(response);
           } else {
             console.log("response");
             console.log(response);

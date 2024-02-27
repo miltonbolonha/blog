@@ -1,5 +1,6 @@
 import React, { useRef, useState, useEffect } from "react";
 // import Head from "next/head";
+import Cookies from "universal-cookie";
 import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
 // import { usePathname } from "next/navigation";
@@ -53,15 +54,58 @@ const infos = {
 
 const Home = ({ posts, searchParams }) => {
   const [btnGClick, useBtnGClick] = useState(null);
+  const [userInfos, setUserInfos] = useState(null);
+  const [city, setCity] = useState(null);
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
 
+  const fetchApiData = async () => {
+    const res = await fetch(
+      `${mainConfigs.website.developmentUrl}/geolocation`
+    );
+    const data = await res.json();
+    // setMensen(data);
+    setUserInfos(data);
+    return setCity(data?.geo?.city || "Los Angeles");
+  };
+
+  const cookies = new Cookies();
+  const hasSuccessCookies =
+    cookies.get("locationValue") ||
+    cookies.set("locationValue", null, {
+      path: "/",
+    });
+  console.log("hasSuccessCookieshasSuccessCookies");
+  console.log(hasSuccessCookies);
+  // Pass data to the page via props
   const gtagCounter = id => {
     if (btnGClick === null && typeof window !== "undefined") {
       window?.gtag("event", id);
       useBtnGClick(null);
     }
   };
-
+  useEffect(() => {
+    // Fetch data from API if `location` object is set
+    if (!city) {
+      fetchApiData()
+        .then(function (response) {
+          if (response.ok) {
+            console.log(response);
+          } else {
+            console.log("response");
+            console.log(response);
+            console.log("Network response was not ok.");
+            return null;
+          }
+        })
+        .catch(function (error) {
+          console.log(
+            "There has been a problem with your fetch operation: " +
+              error.message
+          );
+          return null;
+        });
+    }
+  }, [city]);
   return (
     <div className='index-page'>
       <SeoContainer killSeo={true} data={infos} />
@@ -109,7 +153,11 @@ const Home = ({ posts, searchParams }) => {
       <main className='main-container-wrapper'>
         <div className='main-container'>
           <div className='news-grid'>
-            <BlogList posts={posts} postsToShow={website.postsToShow} />
+            <BlogList
+              posts={posts}
+              postsToShow={website.postsToShow}
+              city={city}
+            />
           </div>
         </div>
       </main>
