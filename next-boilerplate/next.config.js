@@ -3,7 +3,7 @@
 const isProd = process.env.NODE_ENV === "production";
 const imgsPath = isProd ? process.env.WEBSITE_URL : "";
 const nextConfig = {
-  reactStrictMode: true,
+  reactStrictMode: false,
   output: "export",
   trailingSlash: true,
   assetPrefix: isProd ? process.env.WEBSITE_URL : "",
