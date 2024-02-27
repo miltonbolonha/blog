@@ -38,25 +38,23 @@ export default class MyDocument extends Document {
             href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css'
           />
           <Script
-            strategy='beforeInteractive'
+            strategy='afterInteractive'
             src='https://rampjs-cdn.system1.com/ramp.js'
-            crossOrigin='anonymous'
             async
           />
 
-          {/* <Script
-            strategy='beforeInteractive'
-            crossOrigin='anonymous'
+          <Script
+            strategy='afterInteractive'
             async
             src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4309295381222992'
-          /> */}
-          <Script
+          />
+          {/* <Script
             async
             strategy='beforeInteractive'
             crossOrigin='anonymous'
             data-ad-client='ca-pub-4309295381222992'
             src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
-          />
+          /> */}
           <link rel='icon prefetch' href='/favicon.png' sizes='any' />
         </Head>
         <body className='theme-one'>
