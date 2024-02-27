@@ -52,7 +52,7 @@ export default class MyDocument extends Document {
             crossOrigin='anonymous'
             async
             src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4309295381222992'
-          />
+          /> */}
           <Script
             async
             strategy='afterInteractive'
@@ -62,7 +62,7 @@ export default class MyDocument extends Document {
             crossOrigin='anonymous'
             data-ad-client='ca-pub-4309295381222992'
             src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
-          /> */}
+          />
           <link rel='icon prefetch' href='/favicon.png' sizes='any' />
         </Head>
         <body className='theme-one'>
