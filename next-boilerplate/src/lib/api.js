@@ -44,7 +44,11 @@ export function getPostBySlug(slug) {
     const allPosts = getAllPosts();
 
     const x = allPosts.filter(function f(o) {
-      if (slugify(o.frontmatter.category).toLowerCase().includes(slug)) {
+      if (
+        slugify(o.frontmatter.categories[0] || o.frontmatter.categories)
+          .toLowerCase()
+          .includes(slug)
+      ) {
         return true;
       }
       if (o.children) {

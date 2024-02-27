@@ -73,20 +73,28 @@ export const getStaticProps = async context => {
 export const getStaticPaths = async () => {
   const posts = getAllPosts();
   const categories = posts.map(({ frontmatter }) =>
-    slugify(frontmatter.category).toLowerCase().toString()
+    slugify(frontmatter?.categories[0] || "general").toLowerCase()
   );
+
   const uniqueCategories = _.uniq(categories);
-  const uniqueCategoriesMap = uniqueCategories.map(category => ({
-    params: { slug: category },
-  }));
+
+  const uniqueCategoriesMap = uniqueCategories.map(category => {
+    console.log("categorycategory");
+    console.log(category);
+    return {
+      params: { slug: category },
+    };
+  });
+  console.log("uniqueCategoriesMapuniqueCategoriesMap");
+  console.log(uniqueCategoriesMap);
   // const x = uniqueCategories.forEach(uc =>
   //   console.log({ params: { slug: uc } })
   // );
   const paths = posts
     .map(({ slug }) => ({ params: { slug: slug } }))
     .concat(uniqueCategoriesMap);
-  // console.log("paths");
-  // console.log(paths);
+  console.log("paths");
+  console.log(paths);
   return {
     paths,
     fallback: false,

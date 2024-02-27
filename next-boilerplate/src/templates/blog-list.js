@@ -30,7 +30,9 @@ const BlogList = ({ posts, postsToShow }) => {
             image={post.frontmatter.image}
             date={post.frontmatter.date}
             description={post.frontmatter.description}
-            category={post.frontmatter.category}
+            category={
+              post?.frontmatter?.categories[0] || post.frontmatter.categories
+            }
           />
         );
       })}

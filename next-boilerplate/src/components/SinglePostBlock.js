@@ -82,11 +82,10 @@ const SinglePostBlock = ({
   //       window.removeEventListener("click", handleUserKeyPress);
   //   };
   // }, [handleUserKeyPress]);
-
+  console.log("categorycategory");
+  console.log(category);
   return (
     <article>
-      <div id='rampjs_slot1'></div>
-      <div id='rampjs_slot2'></div>
       {/* <AdsBoxContainer dataAdSlot={"2083202812"} /> */}
       <section>
         <div
@@ -128,8 +127,8 @@ const SinglePostBlock = ({
                       height={10}
                       className='search-hold'
                     />
-                    <Link href={slugify(category).toLowerCase()}>
-                      {category}
+                    <Link href={slugify(category || "general").toLowerCase()}>
+                      {category || general}
                     </Link>
                   </li>
                   <li>
@@ -140,9 +139,7 @@ const SinglePostBlock = ({
                       height={10}
                       className='search-hold'
                     />
-                    <Link href={"/topics/" + slugify(topic).toLowerCase()}>
-                      {topic}
-                    </Link>
+                    <span>{topic || "general"}</span>
                   </li>
                 </ul>
               </nav>
@@ -246,10 +243,12 @@ const SinglePostBlock = ({
               <h2>Related Posts</h2>
               <hr className='small-row' />
               <div className='inner-right-column'>
+                {/* <X />
                 <X />
                 <X />
-                <X />
-                <X />
+                <X /> */}
+                <h2>Rampjs slot 2</h2>
+                <div id='rampjs_slot2'></div>
               </div>
             </div>
 
@@ -257,7 +256,8 @@ const SinglePostBlock = ({
               className={`desktop-only ads-right-column second ${promoVisitState === true && readMore === false ? "none" : ""}
               ${promoVisitState === false && readMore === true ? "" : "sticky"}`}
             >
-              <h1>ads 2</h1>
+              <h2>ads 2</h2>
+              {/* <AdsBoxContainer dataAdSlot={"2083202812"} /> */}
             </div>
           </section>
         </div>
@@ -265,7 +265,8 @@ const SinglePostBlock = ({
           className={`footer-highlights  ads-bottom-row ${promoVisitState === true && readMore === false ? "none" : ""}
 `}
         >
-          <h1>ads 3</h1>
+          <h2>ads 3</h2>
+          {/* <AdsBoxContainer dataAdSlot={"2083202812"} /> */}
         </div>
         <div
           className={`footer-highlights ${promoVisitState === true && readMore !== null ? "none" : ""}`}
@@ -273,10 +274,12 @@ const SinglePostBlock = ({
           <h2>Explore</h2>
           <hr className='small-row' />
           <div className='inner-footer-highlights'>
+            {/* <X />
             <X />
             <X />
-            <X />
-            <X />
+            <X /> */}
+            <h2>Rampjs slot 2</h2>
+            <div id='rampjs_slot2'></div>
           </div>
         </div>
       </section>

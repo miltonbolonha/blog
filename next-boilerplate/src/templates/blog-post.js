@@ -19,7 +19,13 @@ const index = mainConfigs?.pages?.index;
 const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
-const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
+const BlogPost = ({
+  post,
+  searchParams,
+  categoryIndex,
+  type,
+  dataLocation,
+}) => {
   const [location, setLocation] = useState(null);
   const [city, setCity] = useState(null);
   const [firstRun, setFirstRun] = useState(null);
@@ -28,19 +34,19 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   const [readMore, setReadMore] = useState(false);
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
   // const [mensen, setMensen] = useState([]);
-  // console.log("categoryIndex");
-  // console.log(categoryIndex);
+  console.log("dataLocation");
+  console.log(dataLocation);
 
-  const fetchApiData = async () => {
-    const res = await fetch(`https://mtcom.netlify.app/geolocation`);
-    const data = await res.json();
-    // setMensen(data);
-    console.log("data");
-    console.log(data);
-    console.log("data fimm");
-    setLocation(data);
-    return setCity(data?.city || data.geo.city || "Los Angeles");
-  };
+  // const fetchApiData = async () => {
+  //   const res = await fetch(`https://mtcom.netlify.app/geolocation`);
+  //   const data = await res.json();
+  //   // setMensen(data);
+  //   console.log("data");
+  //   console.log(data);
+  //   console.log("data fimm");
+  //   setLocation(data);
+  //   return setCity(data?.city || data.geo.city || "Los Angeles");
+  // };
 
   const gtagCounter = id => {
     if (btnGClick === null && typeof window !== "undefined") {
@@ -97,32 +103,40 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
   // console.log("type");
   // console.log(type);
 
-  useEffect(() => {
-    // Fetch data from API if `location` object is set
-    if (!location) {
-      fetchApiData()
-        .then(function (response) {
-          if (response.ok) {
-            response;
-          } else {
-            console.log("response");
-            console.log(response);
-            console.log("Network response was not ok.");
-            return null;
-          }
-        })
-        .catch(function (error) {
-          console.log(
-            "There has been a problem with your fetch operation: " +
-              error.message
-          );
-          return null;
-        });
-    }
-  }, [location]);
-  console.log("location here");
-  console.log("{{city}}");
-  console.log(city);
+  // useEffect(() => {
+  //   // Fetch data from API if `location` object is set
+  //   if (!location) {
+  //     fetchApiData()
+  //       .then(function (response) {
+  //         if (response.ok) {
+  //           response;
+  //         } else {
+  //           console.log("response");
+  //           console.log(response);
+  //           console.log("Network response was not ok.");
+  //           return null;
+  //         }
+  //       })
+  //       .catch(function (error) {
+  //         console.log(
+  //           "There has been a problem with your fetch operation: " +
+  //             error.message
+  //         );
+  //         return null;
+  //       });
+  //   }
+  // }, [location]);
+  // console.log("location here");
+  // console.log("{{city}}");
+  // console.log(post.relatedPost);
+  // console.log(post?.frontmatter?.image);
+  // console.log(post?.frontmatter?.date);
+  // console.log(post?.frontmatter?.title);
+  // console.log(post?.frontmatter?.title);
+  // console.log(post?.frontmatter?.categories);
+  // console.log(post?.frontmatter?.categories[0]);
+  // console.log(post?.frontmatter?.tag[0]);
+
   return (
     <>
       <div className='single-post post-container'>
@@ -144,8 +158,7 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
           pathname={pathname}
         />
 
-        {post?.type === "posts" ? (
-          <SinglePostBlock
+        {/* <SinglePostBlock
             highlightImage={post?.frontmatter?.image}
             authorImg={"imgHolder"}
             date={post?.frontmatter?.date}
@@ -155,14 +168,41 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
               post?.frontmatter?.title.replace("{{city}}", city) ||
               post?.frontmatter?.title
             }
-            category={post?.frontmatter?.category}
+            category={
+              post?.frontmatter?.categories[0] || post?.frontmatter?.categories
+            }
             wordCount={10}
             promoVisitState={promoVisitState}
             setReadMore={setReadMore}
             readMore={readMore}
             topic={post?.frontmatter?.topic}
+          /> */}
+
+        {post?.type === "posts" ? (
+          <SinglePostBlock
+            highlightImage={post?.frontmatter?.image}
+            authorImg={"imgHolder"}
+            date={post?.frontmatter?.date}
+            author={mainConfigs.business.brandName}
+            html={post?.content}
+            title={
+              post?.frontmatter?.title.replace(
+                "{{city}}",
+                city || "Los Angeles"
+              ) || post?.frontmatter?.title
+            }
+            category={
+              post?.frontmatter?.categories[0] || post?.frontmatter?.categories
+            }
+            wordCount={10}
+            promoVisitState={promoVisitState}
+            setReadMore={setReadMore}
+            readMore={readMore}
+            topic={post?.frontmatter?.tag[0]}
           />
-        ) : (
+        ) : null}
+
+        {post?.type === "categories" && post.relatedPost ? (
           <main className='main-container-wrapper'>
             <div className='main-container'>
               <div className='news-grid category'>
@@ -173,7 +213,8 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
               </div>
             </div>
           </main>
-        )}
+        ) : null}
+
         {/* {post.relatedPost.map((rel, indRel) => (
           <div>{rel.frontmatter.title}</div>
         ))} */}
@@ -190,3 +231,48 @@ const BlogPost = ({ post, searchParams, categoryIndex, type }) => {
 };
 
 export default BlogPost;
+
+export async function getServerSideProps() {
+  const preContext = {
+    context: {
+      geo: {
+        city: "Los Angeles",
+        country: {
+          code: "USA",
+          name: "United States",
+        },
+        subdivision: {
+          code: "CA",
+          name: "California",
+        },
+        latitude: 0,
+        longitude: 0,
+        timezone: "America/Los_Angeles",
+      },
+    },
+  };
+
+  const res = await fetch(`${mainConfigs.website.developmentUrl}/geolocation`)
+    .then(function (response) {
+      if (response.ok) {
+        return response;
+      } else {
+        console.log("response");
+        console.log(response);
+        console.log("Network response was not ok.");
+        return preContext;
+      }
+    })
+    .catch(function (error) {
+      console.log(
+        "There has been a problem with your fetch operation: " + error.message
+      );
+      return preContext;
+    });
+
+  const repo = await res.json();
+  console.log("repo");
+  console.log(repo);
+  // Pass data to the page via props
+  return { props: { dataLocation } };
+}
