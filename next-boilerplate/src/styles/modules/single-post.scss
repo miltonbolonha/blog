@@ -89,6 +89,7 @@
       &.promoVisit {
         display: flex;
         grid-template-columns: unset;
+        min-height: 375px;
       }
     }
     .container {

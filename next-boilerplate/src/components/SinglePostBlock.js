@@ -71,7 +71,7 @@ const SinglePostBlock = ({
     <article>
       <section>
         <div
-          className={`main-post ${promoVisitState === true && readMore == false ? "promoVisit" : ""}`}
+          className={`main-post ${promoVisitState === true && readMore === false ? "promoVisit" : ""}`}
         >
           <div
             className={`left-column ${promoVisitState === true && readMore === false ? "none" : ""}`}
@@ -90,7 +90,7 @@ const SinglePostBlock = ({
           </div>
 
           <div className='container'>
-            {promoVisitState === true && readMore == false ? null : (
+            {promoVisitState === true && readMore === false ? null : (
               <nav className='breadcrumb'>
                 <ul>
                   <Link href='/'>
@@ -129,7 +129,7 @@ const SinglePostBlock = ({
             <h1>{title}</h1>
             <hr className='small-row mobile-only' />
 
-            {promoVisitState === true && readMore == false ? (
+            {promoVisitState === true && readMore === false ? (
               <>
                 <p
                   className='excerpt'
@@ -218,7 +218,7 @@ const SinglePostBlock = ({
               
               `}
             >
-              <h1>ads 1</h1>
+              <h2>ads 1</h2>
               <AdsBoxContainer dataAdSlot={"2083202812"} />
             </div>
             <div

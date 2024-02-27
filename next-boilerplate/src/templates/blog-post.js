@@ -17,7 +17,7 @@ const website = mainConfigs?.website;
 
 const BlogPost = ({ post }) => {
   const [btnGClick, setBtnGClick] = useState(null);
-  const [promoVisitState, setPromoVisitState] = useState(false);
+  const [promoVisitState, setPromoVisitState] = useState(null);
   const [readMore, setReadMore] = useState(false);
   const [city, setCity] = useState(null);
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
@@ -73,11 +73,6 @@ const BlogPost = ({ post }) => {
     sameAs: business.sameAs,
     twitter: business.shortName,
   };
-  useEffect(() => {
-    getRef?.length === 0 && readMore === false
-      ? null
-      : setPromoVisitState(true);
-  }, []);
 
   useEffect(() => {
     // Fetch data from API if `location` object is set
@@ -102,6 +97,15 @@ const BlogPost = ({ post }) => {
         });
     }
   }, [city]);
+  useEffect(() => {
+    getRef?.length === 0 && readMore === false
+      ? null
+      : setPromoVisitState(true);
+  }, []);
+  console.log("promoVisitStatepromoVisitState");
+  console.log(promoVisitState);
+  console.log("getRefgetRefgetRef");
+  console.log(getRef);
   return (
     <>
       <div className='single-post post-container'>
