@@ -40,9 +40,6 @@ export default class MyDocument extends Document {
           <Script
             strategy='beforeInteractive'
             src='https://rampjs-cdn.system1.com/ramp.js'
-            onError={e => {
-              console.error("Script failed to load", e);
-            }}
             crossOrigin='anonymous'
             async
           />
@@ -55,10 +52,7 @@ export default class MyDocument extends Document {
           /> */}
           <Script
             async
-            strategy='afterInteractive'
-            onError={e => {
-              console.error("Script failed to load", e);
-            }}
+            strategy='beforeInteractive'
             crossOrigin='anonymous'
             data-ad-client='ca-pub-4309295381222992'
             src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
