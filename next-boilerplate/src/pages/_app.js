@@ -4,6 +4,7 @@ import "@fontsource-variable/inter";
 import "../styles/styles.scss";
 import Script from "next/script";
 import mainInfos from "../configs/main-infos.json";
+import { GoogleAdSense } from "nextjs-google-adsense";
 
 function App({ Component, pageProps }) {
   return (
@@ -43,6 +44,7 @@ function App({ Component, pageProps }) {
         `,
         }}
       />
+      <GoogleAdSense publisherId='pub-4309295381222992' />
 
       <Component {...pageProps} />
     </>

@@ -38,14 +38,31 @@ export default class MyDocument extends Document {
             href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css'
           />
           <Script
-            strategy='afterInteractive'
+            strategy='beforeInteractive'
             src='https://rampjs-cdn.system1.com/ramp.js'
-          />
-          <Script
-            strategy='lazyOnload'
+            onError={e => {
+              console.error("Script failed to load", e);
+            }}
             crossOrigin='anonymous'
+            async
+          />
+
+          {/* <Script
+            strategy='beforeInteractive'
+            crossOrigin='anonymous'
+            async
             src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4309295381222992'
           />
+          <Script
+            async
+            strategy='afterInteractive'
+            onError={e => {
+              console.error("Script failed to load", e);
+            }}
+            crossOrigin='anonymous'
+            data-ad-client='ca-pub-4309295381222992'
+            src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
+          /> */}
           <link rel='icon prefetch' href='/favicon.png' sizes='any' />
         </Head>
         <body className='theme-one'>

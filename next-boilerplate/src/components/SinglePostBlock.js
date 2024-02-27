@@ -236,7 +236,7 @@ const SinglePostBlock = ({
               ${promoVisitState === false && readMore === true ? "" : "sticky"}`}
             >
               <h2>ads 2</h2>
-              <AdsBoxContainer dataAdSlot={"2083202812"} />
+              {/* <AdsBoxContainer dataAdSlot={"2083202812"} /> */}
             </div>
           </section>
         </div>
@@ -245,7 +245,7 @@ const SinglePostBlock = ({
 `}
         >
           <h2>ads 3</h2>
-          <AdsBoxContainer dataAdSlot={"2083202812"} />
+          {/* <AdsBoxContainer dataAdSlot={"2083202812"} /> */}
         </div>
         <div className={`footer-highlights ${promoNEVERread ? "none" : ""}`}>
           <h2>Explore</h2>
