@@ -215,7 +215,7 @@ const SinglePostBlock = ({
         </div>
         <div className='post-footer-wrapper'>
           <div
-            className={`ads footer-highlights  ads-bottom-row ${promoNOread ? "none" : ""}
+            className={`ads footer-highlights ads-bottom-row ${promoNOread ? "none" : ""}
 `}
           >
             {!promoNOread ? (
