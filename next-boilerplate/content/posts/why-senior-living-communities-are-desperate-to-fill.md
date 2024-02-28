@@ -5,7 +5,7 @@ author: Deanna Madera
 categories:
   - Sponsored
 tag: []
-featuredPost: true
+featuredPost: false
 image: 1200x628_seniordiscounts_eatingrestaurantseniors.jpg
 layout: post
 description: ""
