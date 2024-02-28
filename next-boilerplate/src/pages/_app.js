@@ -9,17 +9,17 @@ function App({ Component, pageProps }) {
   return (
     <>
       <Script
-        strategy="afterInteractive"
-        src="https://rampjs-cdn.system1.com/ramp.js"
+        strategy='afterInteractive'
+        src='https://rampjs-cdn.system1.com/ramp.js'
         async
       />
       <Script
-        strategy="afterInteractive"
+        strategy='afterInteractive'
         async
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4309295381222992"
+        src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4309295381222992'
       />
       <Script
-        id="gtag"
+        id='gtag'
         async
         dangerouslySetInnerHTML={{
           __html: `
@@ -45,7 +45,7 @@ function App({ Component, pageProps }) {
         }}
       /> */}
       <Script
-        id="rampjs"
+        id='rampjs'
         async
         dangerouslySetInnerHTML={{
           __html: `

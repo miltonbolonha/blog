@@ -3,7 +3,6 @@ backend:
   repo: miltonbolonha/mt
   branch: master
   site_domain: https://develop.moderntips.com
-  auth_endpoint: api/auth/
 
 media_folder: "next-boilerplate/public/posts/images"
 public_folder: "posts/images"
@@ -50,6 +49,7 @@ collections:
           name: "featuredPost",
           widget: "boolean",
           default: false,
+          required: false,
         }
       - {
           label: "Featured Image",

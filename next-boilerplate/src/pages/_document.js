@@ -26,9 +26,6 @@ export default class MyDocument extends Document {
     return (
       <Html lang='en-US'>
         <Head>
-          
-
-          
           {/* <Script
             async
             strategy='beforeInteractive'
@@ -37,16 +34,38 @@ export default class MyDocument extends Document {
             src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
           /> */}
           <link rel='icon prefetch' href='/favicon.png' sizes='any' />
+          <Script
+            async
+            strategy='afterInteractive'
+            crossOrigin='anonymous'
+            src='https://identity.netlify.com/v1/netlify-identity-widget.js'
+          />
         </Head>
         <body className='theme-one'>
           <Script
-        id='googletagmanager'
-
+            id='googletagmanager'
             strategy='afterInteractive'
             src={`https://www.googletagmanager.com/gtag/js?id=${mainInfos.business.gaID}`}
           />
           <Main />
           <NextScript />
+          <Script
+            id=''
+            async
+            dangerouslySetInnerHTML={{
+              __html: `
+          if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+              if (!user) {
+                window.netlifyIdentity.on("login", () => {
+                  document.location.href = "/admin/";
+                });
+              }
+            });
+          }
+        `,
+            }}
+          />
         </body>
       </Html>
     );
