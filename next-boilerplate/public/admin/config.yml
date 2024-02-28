@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: miltonbolonha/mt
   branch: main
   site_domain: https://develop.moderntips.com
