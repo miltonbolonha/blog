@@ -1034,3 +1034,10 @@ ins {
 .ads {
   overflow: hidden;
 }
+
+.post-footer-wrapper {
+  @media (max-width: $media960) {
+    flex-direction: column-reverse;
+    display: flex;
+  }
+}

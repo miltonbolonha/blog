@@ -213,28 +213,30 @@ const SinglePostBlock = ({
             </div>
           </section>
         </div>
-        <div
-          className={`ads footer-highlights  ads-bottom-row ${promoNOread ? "none" : ""}
+        <div className='post-footer-wrapper'>
+          <div
+            className={`ads footer-highlights  ads-bottom-row ${promoNOread ? "none" : ""}
 `}
-        >
-          {!promoNOread ? (
-            <Adsense
-              slot={"2083202812"}
-              client={mainConfigs.business.adClient}
-              style={{ display: "block", width: "750px", height: "120px" }}
-              format='auto'
-              layout='responsive'
-            />
-          ) : null}
-        </div>
-        <div className={`footer-highlights ${promoNEVERread ? "none" : ""}`}>
-          <h2>Explore</h2>
-          <hr className='small-row' />
-          <div className='inner-footer-highlights'>
-            <X />
-            <X />
-            <X />
-            <X />
+          >
+            {!promoNOread ? (
+              <Adsense
+                slot={"2083202812"}
+                client={mainConfigs.business.adClient}
+                style={{ display: "block", width: "750px", height: "120px" }}
+                format='auto'
+                layout='responsive'
+              />
+            ) : null}
+          </div>
+          <div className={`footer-highlights ${promoNEVERread ? "none" : ""}`}>
+            <h2>Explore</h2>
+            <hr className='small-row' />
+            <div className='inner-footer-highlights'>
+              <X />
+              <X />
+              <X />
+              <X />
+            </div>
           </div>
         </div>
       </section>
