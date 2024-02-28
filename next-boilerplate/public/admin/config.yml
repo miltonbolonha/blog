@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: miltonbolonha/mt
-  branch: master
+  branch: main
   site_domain: https://develop.moderntips.com
 
 media_folder: "next-boilerplate/public/posts/images"
