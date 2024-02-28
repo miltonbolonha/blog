@@ -88,6 +88,6 @@ This is specifically for women, but blonde women make about seven percent more t
 
 ### Ditch the Cigs
 
-<figure aria-describedby="caption-attachment-4002" class="wp-caption alignnone" id="attachment_4002" style="width: 700px">![12 Ditch the Cigs rich](http://moderntips.com/wp-content/uploads/2016/07/12-Ditch-the-Cigs-rich.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4002">[ChameleonsEye](http://www.shutterstock.com/pic-110076689/stock-photo-concept-photo-of-a-man-quitting-smoking-by-breaking-a-cigarette.html)</figcaption></figure>
+![12 Ditch the Cigs rich - http://www.shutterstock.com/pic-110076689/stock-photo-concept-photo-of-a-man-quitting-smoking-by-breaking-a-cigarette.html](/posts/12-Ditch-the-Cigs-rich.jpg)
 
 If you currently smoke, it might be time to quit. Non-smokers have a net worth of 50 percent more than light smokers and make 100 percent more than heavy smokers. If your health isn’t a factor in helping you quit smoking, the amount of money you miss out on should be. This is one of the factors you do have a say in.

@@ -1,0 +1,59 @@
+backend:
+  name: github
+  repo: miltonbolonha/mt
+  branch: master
+  site_domain: https://develop.moderntips.com
+
+publish_mode: editorial_workflow
+media_folder: "next-boilerplate/public/posts/images"
+public_folder: "posts/images"
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+collections:
+  - name: post
+    label: Posts
+    folder: next-boilerplate/content/posts
+    label_singular: Post
+    description: >
+      Markdown posts.
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - {
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          format: "YYYY-MM-DDTHH:mm:00+00:00",
+          required: true,
+        }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "string",
+          default: "Modern Tips",
+        }
+      - {
+          label: "Categories",
+          name: "categories",
+          widget: "list",
+          required: true,
+        }
+      - { label: "Tag", name: "tag", widget: "list" }
+      - {
+          label: "Featured Post",
+          name: "featuredPost",
+          widget: "boolean",
+          defautl: false,
+        }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: image,
+          required: true,
+        }
+      - { label: "Body", name: "body", widget: "markdown", required: true }
+      - { label: "Type", name: "layout", widget: "string", defautl: "post" }

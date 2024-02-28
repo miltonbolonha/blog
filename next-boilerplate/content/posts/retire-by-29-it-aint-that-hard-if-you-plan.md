@@ -10,8 +10,6 @@ categories:
   - Money
 ---
 
-![early retirement](http://mt2.wpengine.com/wp-content/uploads/2015/03/early-retirement.jpg)
-
 The word retirement send shivers up the spines of most people because of the amount of time and effort it will take most, if not all of us to get there. This traditional-based kind of thinking shouldn’t be something that limits you. Retiring early, even in your thirties is possible, as long as you make some smart decisions earlier on in life. In this post, we’ll take a look at some vital tips to help you retire in your thirties.
 
 ## Start Saving Early

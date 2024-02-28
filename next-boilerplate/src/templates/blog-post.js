@@ -2,12 +2,13 @@ import React, { useState, useEffect } from "react";
 import { usePathname, useSearchParams } from "next/navigation";
 // import Cookies from "universal-cookie";
 
-import SinglePostBlock from "../components/SinglePostBlock";
+import SinglePostContainer from "../containers/SinglePostContainer";
 import mainConfigs from "../configs/main-infos.json";
 import FooterContainer from "../containers/FooterContainer";
 import HeaderContainer from "../containers/HeaderContainer";
 import SeoContainer from "../containers/SeoContainer";
 import mainMenu from "../configs/main-menu.json";
+import { parse } from "node-html-parser";
 
 import BlogList from "../templates/blog-list";
 
@@ -24,8 +25,14 @@ const BlogPost = ({ post }) => {
   const [userInfos, setUserInfos] = useState(null);
   const getRef = useSearchParams().getAll("ref");
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
+  const doc = parse(post.content);
+  const pSelect = doc?.querySelector("p");
+  const excerpt = pSelect?.childNodes[0]?._rawText;
 
-  const title = post?.frontmatter?.title.replace("{{city}}", city);
+  const title = post?.frontmatter?.title.replace(
+    "{{city}}",
+    city || "Los Angeles"
+  );
   const gtagCounter = id => {
     if (btnGClick === null && typeof window !== "undefined") {
       window?.gtag("event", id);
@@ -55,7 +62,7 @@ const BlogPost = ({ post }) => {
   const infos = {
     slug: index?.slug,
     title: `${title} - ${business.brandName}`,
-    description: index?.description,
+    description: excerpt || post?.frontmatter.description,
     author: website.author,
     brandPerson: website.brandPerson,
     siteUrl: website.siteUrl,
@@ -129,7 +136,7 @@ const BlogPost = ({ post }) => {
           pathname={pathname}
         />
         {post?.type === "posts" ? (
-          <SinglePostBlock
+          <SinglePostContainer
             highlightImage={post?.frontmatter?.image}
             authorImg={"imgHolder"}
             date={post?.frontmatter?.date}
@@ -144,6 +151,8 @@ const BlogPost = ({ post }) => {
             setReadMore={setReadMore}
             readMore={readMore}
             topic={post?.frontmatter?.tag[0]}
+            excerpt={excerpt}
+            parseContent={doc}
           />
         ) : null}
 
