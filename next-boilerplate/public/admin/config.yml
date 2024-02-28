@@ -1,11 +1,11 @@
 backend:
   name: git-gateway
   repo: miltonbolonha/mt
-  branch: main
+  branch: master
   site_domain: https://develop.moderntips.com
 
-media_folder: "next-boilerplate/public/posts/images"
-public_folder: "posts/images"
+media_folder: "next-boilerplate/public/posts"
+public_folder: ""
 
 publish_mode: editorial_workflow
 
