@@ -2,12 +2,8 @@
 title: "A Few Money Tips From Warren Buffet"
 date: "2015-05-14 15:01:46"
 author: "Missy McKee"
-tag: []
-td_post_video:
-  - 'a:2:{s:8:"td_video";s:43:"https://www.youtube.com/watch?v=OMown2cpa_E";s:13:"td_last_video";s:43:"https://www.youtube.com/watch?v=OMown2cpa_E";}'
-  - 'a:2:{s:8:"td_video";s:43:"https://www.youtube.com/watch?v=OMown2cpa_E";s:13:"td_last_video";s:43:"https://www.youtube.com/watch?v=OMown2cpa_E";}'
-  - 'a:2:{s:8:"td_video";s:43:"https://www.youtube.com/watch?v=OMown2cpa_E";s:13:"td_last_video";s:43:"https://www.youtube.com/watch?v=OMown2cpa_E";}'
-  - 'a:2:{s:8:"td_video";s:43:"https://www.youtube.com/watch?v=OMown2cpa_E";s:13:"td_last_video";s:43:"https://www.youtube.com/watch?v=OMown2cpa_E";}'
+tag:
+  - General
 categories:
   - Money
 description: ""

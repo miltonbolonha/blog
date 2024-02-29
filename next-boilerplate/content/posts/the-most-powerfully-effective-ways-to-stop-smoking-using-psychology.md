@@ -16,7 +16,7 @@ Smoking is an extremely destructive habit that has a plethora of negative effect
 
 But of course, you knew that already. The issue is that you don’t know how to go about making it happen.
 
-![](../uploads/2020/12/smoking-1024x683.jpg)How can you kick smoking to the curb when it’s both psychologically and physically addictive? How can you succeed where so many others have failed? What strategies and tricks can help you to take back your control and destroy this ugly habit?
+![](/posts/smoking.jpg)How can you kick smoking to the curb when it’s both psychologically and physically addictive? How can you succeed where so many others have failed? What strategies and tricks can help you to take back your control and destroy this ugly habit?
 
 ## Over-exposure
 

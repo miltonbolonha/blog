@@ -2,7 +2,8 @@
 title: "What You Need to Know About Credit Cards"
 date: "2015-05-20 08:33:12"
 author: "Greyson F"
-tag: []
+tag:
+  - General
 categories:
   - Credit
 description: ""

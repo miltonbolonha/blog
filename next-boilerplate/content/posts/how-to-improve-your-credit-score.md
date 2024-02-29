@@ -18,7 +18,7 @@ Getting out of debt should be the number one priority for anyone who wants to st
 
 If you have been struggling with a low credit score, then you might find that it not only causes you a lot of stress, but also has a huge knock-on effect that impacts your ability to save money and pay off debt.
 
-![](../uploads/2020/04/Credit-score.jpg)
+![](/posts/Credit-score.jpg)
 
 With a bad credit score, you won’t be able to get a loan at a reasonable rate. This, can make everything from getting a home, to driving a car, much more difficult. And seeing as these expenses aren’t avoidable, it ultimately leads to spiraling debt and a seemingly inescapable situation.
 

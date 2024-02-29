@@ -2,9 +2,10 @@
 title: "Rent Prices Plummet During Poor Economic Conditions"
 date: "2020-09-01 18:24:36"
 author: "Deanna Madera"
-tag: []
+tag:
+  - General
 categories:
-  - Sponsored
+  - General
 description: ""
 layout: post
 image: 1200x620_hero_aerialhomes.jpg
@@ -12,7 +13,9 @@ image: 1200x620_hero_aerialhomes.jpg
 
 As evidenced by a recent rental survey<sup>1</sup>, rent prices are plummeting and there’s never been a better time to check prices of new rentals in your area. According to Zumper’s National Rent Report, “demand for rentals in expensive markets is falling while there is increased demand in neighboring, less expensive cities.” While this downturn might be hurting landlord’s pocket books, the silver lining is it might be one of the best times for renters to search for better prices in their area.
 
-## <div class="f14"><label>Related Topics (Ads)</label></div><div class="cta-btn-wrap" data-mobile-sponsoredads="no">[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Apartment Prices</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Apartments Near Me</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Rental Prices Near Me</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Houses For Rent</div>](#)</div>![](../uploads/2020/07/1200x620_hero_aerialhomes.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes"> [<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Apartment Prices</div>](#) </div>Tenants Are In The Driver’s Seat
+## <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
+
+[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Apartment Prices</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Apartments Near Me</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Rental Prices Near Me</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Houses For Rent</div>](#)</div>![](/posts/1200x620_hero_aerialhomes.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes"> [<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Apartment Prices</div>](#) </div>Tenants Are In The Driver’s Seat
 
 Tenants seem to now have an upper hand in snatching up some great deals across major US cities. This is the ripe time to find some affordable, below market rentals since landlords are seeing their vacancies rise. Landlords need to make deals since many employees have lost their job and have vacated their apartments. Many tenants have fled out of town. That flight has pushed down rental prices across major US metropolitan cities.
 
@@ -50,43 +53,45 @@ Many brokers are predicting that rental prices in downtown urban areas will cont
 
 </div>Space and affordability are two things that many metro areas are not known for. However, the time has changed and renters are in the driver’s seat. Now is your opportunity to tap in to the market. Enjoy a comfortable lifestyle. You deserve it. The window for these rental prices might be closing soon, so don’t wait.
 
-<div class="f14"><label>Related Topics (Ads)</label></div><div class="cta-btn-wrap" data-mobile-sponsoredads="no">[<div style="flex: 1;margin-right:18px;line-height:21px;">Apartments For Rent Near Me</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Apartment Prices</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Townhome Prices</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Houses For Rent Near Me</div>](#)</div><div class="ad-hide">RunIt Code Here</div>  <script>
+<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
+
+[<div style="flex: 1;margin-right:18px;line-height:21px;">Apartments For Rent Near Me</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Apartment Prices</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Townhome Prices</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Houses For Rent Near Me</div>](#)</div><div class="ad-hide">RunIt Code Here</div> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '531314677258366'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript>   <script>
+</script> <noscript>![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '438385429848061'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript>    <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>   <script type="text/javascript">
-  window._tfa = window._tfa || [];
-  window._tfa.push({notify: 'event', name: 'page_view', id: 1087586});
-  !function (t, f, a, x) {
-         if (!document.getElementById(x)) {
-            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
-         }
-  }(document.createElement('script'),
-  document.getElementsByTagName('script')[0],
-  '//cdn.taboola.com/libtrc/unip/1087586/tfa.js',
-  'tb_tfa_script');
-</script> <noscript> ![](//trc.taboola.com/1087586/log/3/unip?en=page_view) </noscript>   <script>
-    fbq('track', 'ViewContent', {
-        currency: 'USD'
-    });
+</script> <noscript>![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
+window.\_tfa = window.\_tfa || [];
+window.\_tfa.push({notify: 'event', name: 'page_view', id: 1087586});
+!function (t, f, a, x) {
+if (!document.getElementById(x)) {
+t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+}
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'//cdn.taboola.com/libtrc/unip/1087586/tfa.js',
+'tb_tfa_script');
+</script> <noscript> ![](//trc.taboola.com/1087586/log/3/unip?en=page_view) </noscript> <script>
+fbq('track', 'ViewContent', {
+currency: 'USD'
+});
 </script> <script type="text/javascript">
-    function runIt() {
-        fbq('track', 'AddToCart', {
-            currency: 'USD',
-            content_name: 'rentals'
-        });
+function runIt() {
+fbq('track', 'AddToCart', {
+currency: 'USD',
+content_name: 'rentals'
+});
 
         window.dotq = window.dotq || [];
         window.dotq.push(

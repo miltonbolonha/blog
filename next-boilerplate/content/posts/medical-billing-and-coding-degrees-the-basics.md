@@ -19,7 +19,7 @@ Medical billing and coding is a qualification that many people won’t have hear
 
 A medical coder is someone who takes a doctor’s notes and then enters them into a huge database. If you have never considered this job role before, then it may not have occurred to you that all that information needs to be logged!
 
-![](../uploads/2020/05/woman-medical-assistant-physician-skin-Pharmacy-technician-service-1605139-pxhere.com-1.jpg)
+![](/posts/woman-medical-assistant-physician-skin-Pharmacy-technician-service-1605139-pxhere.com-1.jpg)
 
 In the US, categorizing and logging patient data is extremely important for insurance purposes. This way, the correct bill can be provided in order to cover the cost of treatment – this is medical billing. Coding meanwhile ensures that a patient’s personal medical history is kept accurate and up-to-date. For instance, a physician might not that a particular patient exhibited signs of an allergic reaction to penicillin. By ensuring that this information is correctly logged, future doctors treating the same patient can avoid making the same mistake. Such information can be life-saving.
 

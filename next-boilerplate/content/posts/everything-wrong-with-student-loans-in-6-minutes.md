@@ -2,12 +2,8 @@
 title: "Everything Wrong With Student Loans in 6 Minutes"
 date: "2015-06-14 15:24:39"
 author: "Deanna Madera"
-tag: []
-td_post_video:
-  - 'a:2:{s:8:"td_video";s:43:"https://www.youtube.com/watch?v=0IBbMZ2UvVE";s:13:"td_last_video";s:43:"https://www.youtube.com/watch?v=0IBbMZ2UvVE";}'
-  - 'a:2:{s:8:"td_video";s:43:"https://www.youtube.com/watch?v=0IBbMZ2UvVE";s:13:"td_last_video";s:43:"https://www.youtube.com/watch?v=0IBbMZ2UvVE";}'
-  - 'a:2:{s:8:"td_video";s:43:"https://www.youtube.com/watch?v=0IBbMZ2UvVE";s:13:"td_last_video";s:43:"https://www.youtube.com/watch?v=0IBbMZ2UvVE";}'
-  - 'a:2:{s:8:"td_video";s:43:"https://www.youtube.com/watch?v=0IBbMZ2UvVE";s:13:"td_last_video";s:43:"https://www.youtube.com/watch?v=0IBbMZ2UvVE";}'
+tag:
+  - General
 categories:
   - Career
   - Video

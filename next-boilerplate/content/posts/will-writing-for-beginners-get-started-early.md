@@ -2,7 +2,8 @@
 title: "Will Writing for Beginners &#8211; Get Started Early!"
 date: "2015-05-19 10:53:25"
 author: "Kimberly Landess"
-tag: []
+tag:
+  - General
 categories:
   - Money
 description: ""

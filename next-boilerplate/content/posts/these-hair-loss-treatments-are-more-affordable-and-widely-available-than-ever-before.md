@@ -17,7 +17,7 @@ image: Hair-loss.jpg
 
 Losing your hair can be a highly distressing feeling and one that brings you a lot of stress. Losing hair can damage your self-image, your confidence and more. In short it’s something that most people want to reverse, delay, or at least cover up when it happens. Unfortunately, many of us equate a head of luscious hair with youthful vigor and energy. When we start receding, we see it as the beginning of the end, and a constant reminder of our mortality. Thankfully, there are options – and they’re more affordable than they ever have been!
 
-## ![](../uploads/2021/01/Hair-loss-1024x683.jpg)Hair Loss Options Are Now Cheaper Than Ever Before
+## ![](/posts/Hair-loss.jpg)Hair Loss Options Are Now Cheaper Than Ever Before
 
 Hair loss options include the likes of hair implants, hair extensions, grafting and more. Any of these can restore a full head of hair, with varying degrees of success. The great news is that these options are also cheaper than ever before – which means that they are also available to _more people_ than ever before.
 

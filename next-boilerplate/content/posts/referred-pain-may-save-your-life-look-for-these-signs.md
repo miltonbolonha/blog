@@ -18,7 +18,7 @@ image: bigstock-Migraine-and-headache-people-48848513.png
 
 ### Referred pain
 
-![referred pain brain freeze](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Woman-With-Hypersensitive-Teet-31611314-1024x683.jpg)  
+![referred pain brain freeze](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Woman-With-Hypersensitive-Teet-31611314.jpg)  
 We all go through life experiencing many aches and pains, and many of them can be attributed to a slip and fall, over indulging, or being a weekend warrior, so we ignore them for our body has a great mechanism to heal itself. Not every pain is a cause of panic. But there are some mystery pains that we should never ignore, and many are signs to seek immediate medical help, just to be sure. Pay attention to these telltale signs and messages that a referred pain is signaling you.
 
 Ever get a “brain freeze” or an ice-cream headache? This is called a referred pain. Referred pain means that a problem exists somewhere else in the body other than where you feel the pain, according to WebMd. For example, your pancreas is located in the upper middle part of the abdomen. When it becomes inflamed (called pancreatitis), it becomes a potentially serious disorder. Many patients feel radiating pain in their back or in some cases the left shoulder. This is because the nerves fibers of the pancreas and left shoulder piggyback each other and travel together over the same route. You may not associate a jaw pain with heart attack and you’ll probably dismiss it as usual random pain. But a painful jaw may mean that your heart is stressed, and a heart attack may be imminent.
@@ -27,7 +27,7 @@ The following are some examples of referred pain, and it is not an exhaustive li
 
 ### Shoulder Pain
 
-![Shoulder referred pain](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Woman-With-Pain-In-Shoulder-P-98598713-1024x683.jpg)  
+![Shoulder referred pain](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Woman-With-Pain-In-Shoulder-P-98598713.jpg)  
 Causes of shoulder pain may be attributable to many other health problems including:
 
 - Abdominal problems, including gallstones and pancreatitis
@@ -37,7 +37,7 @@ Causes of shoulder pain may be attributable to many other health problems includ
 
 ### Jaw Pain
 
-![jaw referred pain](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Jaw-Pain-In-Older-Man-69029920-1024x683.jpg)  
+![jaw referred pain](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Jaw-Pain-In-Older-Man-69029920.jpg)  
 A dull, vague pain on the lower left side of your jaw should never be ignored. This pain may increase and decrease over the course of a few minutes. In addition, the pain may move around so you may not be able to pinpoint exactly where it bothers you. This referred pain sensation occurs when the nerves surrounding the heart become agitated, sending pain through the nerves in the spine to the left jaw, shoulder and arm. Jaw pain that happens in the morning can be an instance of referred pain and serves as a warning sign that you may be at risk for a heart attack. Your blood is thicker in the morning, which causes blood pressure to surge, increasing heart attack risk as pointed out by Dr. Oz. You may also get additional classic heart attack signs such as shortness of breath, dizziness or nausea. In this case, see a doctor immediately.
 
 ### Ear Pain
@@ -52,7 +52,7 @@ The causes of ear pain may stem from other parts of your body. According to one 
 
 ### Back Pain
 
-![back referred pain](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Backache-concept-bending-over-96285692-1024x683.jpg)  
+![back referred pain](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Backache-concept-bending-over-96285692.jpg)  
 Back pain is a symptom of an underlying cause. While it may be due to some heavy weekend lifting, it may also be a result of having:
 
 - Appendicitis

@@ -1,5 +1,5 @@
 ---
-title: "8 Ways to Live a Fulfilling, Debt-Free Life&#8230;You&#8217;ll Like #6"
+title: "8 Ways to Live a Fulfilling, Debt-Free Life&#8230;You'll Like #6"
 date: "2016-11-08 11:08:54"
 author: "Greyson F"
 tag:

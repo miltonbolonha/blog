@@ -2,9 +2,8 @@
 title: "The Top 3 Secured Credit Cards for 2018"
 date: "2015-04-29 08:35:12"
 author: "Deanna Madera"
-tag: []
-tdc_google_fonts:
-  - "a:0:{}"
+tag:
+  - General
 categories:
   - Credit
 description: ""

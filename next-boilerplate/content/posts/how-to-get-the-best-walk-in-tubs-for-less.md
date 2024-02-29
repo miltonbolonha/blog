@@ -19,7 +19,7 @@ A walk-in bathtub is an upright bath that you can simply walk into without needi
 
 Keep in mind that this doesn’t mean a walk-in tub is only an option for those too elderly or unwell to be self-sufficient. A walk-in tub can actually be an important tool for people of any age. That’s firstly because a walk-in tub can be a preventative measure against accidents. Falling in the shower and bath are common occurrences, and by choosing a walk-in tub, you’ll be limiting that possibility significantly.
 
-![](../uploads/2020/04/Walkin-tub.jpg)
+![](/posts/Walkin-tub.jpg)
 
 At the same time, some people might find that climbing in and out of a bathtub can be painful or difficult on their joints and back. Again, this can make a walk-in bathtub a great solution.
 

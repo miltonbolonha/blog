@@ -3,7 +3,7 @@ title: "The Most Stressful Jobs &#8211; Are They Worth it?"
 date: "2016-06-07 14:29:17"
 author: "Deanna Madera"
 tag:
-  - JOBS
+  - Jobs
   - Stress
 categories:
   - Career

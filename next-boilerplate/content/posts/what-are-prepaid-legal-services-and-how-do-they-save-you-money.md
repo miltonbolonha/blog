@@ -14,7 +14,7 @@ image: Prepaid-legal.jpg
 
 A prepaid legal service is essentially like a form of legal insurance. In fact, the product is even sometimes referred to as personal legal insurance! This basically involves paying up-front, in order to gain protection later. As we will see in the course of this article, that can save you a lot of money directly, and indirectly.
 
-![](../uploads/2020/12/Prepaid-legal-1024x595.jpg)Here’s what you need to know.
+![](/posts/Prepaid-legal-1024x595.jpg)Here’s what you need to know.
 
 ## How Prepaid Legal Services Save You Money
 

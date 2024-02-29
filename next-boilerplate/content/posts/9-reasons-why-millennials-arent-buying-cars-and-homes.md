@@ -1,5 +1,5 @@
 ---
-title: "9 Reasons Why Millennials Aren&#8217;t Buying Cars And Homes..#6 Makes Perfect Sense!"
+title: "9 Reasons Why Millennials Aren't Buying Cars And Homes..#6 Makes Perfect Sense!"
 date: "2018-03-28 11:59:27"
 author: "Greyson F"
 tag:

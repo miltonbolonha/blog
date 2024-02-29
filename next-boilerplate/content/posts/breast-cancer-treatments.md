@@ -19,7 +19,7 @@ Breast cancer is one of the most common forms of cancer in the world. It is the 
 
 In this post, we will examine those things in detail.
 
-![](../uploads/2020/05/Breast-cancer.jpg)
+![](/posts/Breast-cancer.jpg)
 
 Breast cancer is extremely common in women then, and is also the second most common cause of cancer death in women (behind lung cancer). A woman diagnosed with breast cancer has a 2.6% mortality rate (meaning there is a 1 in 38 chance of it being fatal)<sup>1</sup>.
 

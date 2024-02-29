@@ -17,7 +17,7 @@ image: Auto-loan-car-of-your-dreams.jpg
 
 For most of us to get the cars and vehicles we want, auto financing is an absolute necessity. While some of us might have enough capital to buy a car outright (or certainly a used car), very few of us will have the amount of money necessary to outright buy the cars we **really want**. And this is a real shame, when you consider the huge amount of time most of us spend in our cars (not to mention how important it is that they be completely safe). So why not use auto financing and car loans to afford a vehicle that will be safer, and that will make you happier?
 
-![](../uploads/2020/05/Auto-loan-car-of-your-dreams.jpg)
+![](/posts/Auto-loan-car-of-your-dreams.jpg)
 
 Read on and learn more about how all this works.
 

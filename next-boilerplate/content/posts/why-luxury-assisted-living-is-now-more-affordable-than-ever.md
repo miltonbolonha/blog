@@ -20,7 +20,7 @@ Luxury assisted living may sound like a little bit of marketing hyperbole, but i
 
 If you’re interested in luxury assisted living and you don’t want to break the bank, this is definitely the time to consider getting a place.
 
-![](../uploads/2020/04/Senior-living.jpg)
+![](/posts/Senior-living.jpg)
 
 The reason for this is that at the moment, the supply greatly outstrips the demand. This is owing to a huge boom in development for these types of properties and living arrangements, with many companies and organizations investing heavily in senior accommodation.
 

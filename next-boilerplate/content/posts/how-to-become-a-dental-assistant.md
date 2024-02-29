@@ -20,7 +20,7 @@ As a dental assistant, you’ll enjoy a job that is always in demand, that has a
 
 The role of a dental assistant is to help assist the dentist in any way they can. This can involve a number of key roles, ranging from basic admin (arranging and managing appointments, dealing with patient records, and ordering supplies) to clinical duties. Clinical duties can involve handling tools, sterilizing equipment, operating suction devices and others, processing x-rays, making impressions to be used for dental fixtures, and putting the patient at ease during their visit.
 
-![](../uploads/2020/04/Dental-Assistant.jpg)
+![](/posts/Dental-Assistant.jpg)
 
 The skills that are required for a dental technician therefore include:
 

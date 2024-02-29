@@ -16,7 +16,7 @@ image: Re-fi-house.jpg
 
 With interest rates at a true low point, NOW is the time to consider consolidating your debt or refinancing your home. This article will provide you with an understanding of these solutions, why now, and how they can save you a lot of money in the long term.
 
-![](../uploads/2020/04/Re-fi-house.jpg)
+![](/posts/Re-fi-house.jpg)
 
 ## Why NOW is the Time to Refinance
 

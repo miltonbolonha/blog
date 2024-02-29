@@ -1,5 +1,5 @@
 ---
-title: "How To Box Your Way Out Of Parkinson&#8217;s (VIDEO)"
+title: "How To Box Your Way Out Of Parkinson's (VIDEO)"
 date: "2016-02-25 10:03:15"
 author: "Deanna Madera"
 tag:

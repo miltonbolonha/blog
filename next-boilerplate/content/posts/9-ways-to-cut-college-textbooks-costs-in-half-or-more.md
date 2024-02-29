@@ -17,7 +17,7 @@ image: bigstock-Upset-Student-Before-Exam-43397851.jpg
 
 ### Don’t Purchase College Textbooks Until After The Course Starts
 
-![class starts college textbooks](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Students-In-Class-Paying-Atten-3917132-1024x683.jpg)  
+![class starts college textbooks](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Students-In-Class-Paying-Atten-3917132.jpg)  
 According to College Board, the average student in the U.S. spends $1,200 a year on college textbooks or about $5,000 for a 4-year degree. One book can cost as much as $200. According to a U.S. Prig report,struggling students are doing things to undermine their education to deal with the rising costs of college textbooks. The report highlighted that 65 percent of the students surveyed said they had decided not to purchase a textbook due to its high price. 94 percent of students who skipped buying a required text said they were concerned that doing this may hurt their grade in that class. So what can be done to help reduce the cost of textbooks?
 
 Some incoming freshmen rush to the college bookstore and purchase their textbooks before classes start. They want to be prepared. However, waiting until after their first class starts is a wiser choice for several reasons. The professor will provide the student insight as to what books are required, and what are optional. Secondly, the student may decide to drop the course after a week or so and then be strapped with the cost of the books.
@@ -31,12 +31,12 @@ Email or ask the professor if an older edition of the book is acceptable. If so,
 
 ### Visit College Library
 
-![college textbooks in library](http://moderntips.com/wp-content/uploads/2016/02/bigstock-people-knowledge-education-a-86349014-1024x683.jpg)  
+![college textbooks in library](http://moderntips.com/wp-content/uploads/2016/02/bigstock-people-knowledge-education-a-86349014.jpg)  
 For some courses, such as literature or history, you may be able to check out some of the books from the college library. If they are available, then it’s free! Many libraries allow you to check out the book more than once.
 
 ### Rent College Textbooks
 
-![rent textbooks](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Euphoric-Woman-Searching-Job-W-92315747-1024x683.jpg)  
+![rent textbooks](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Euphoric-Woman-Searching-Job-W-92315747.jpg)  
 Many on-line sites for college textbooks including [Chegg](http://www.chegg.com/), offer textbook rentals rather than purchases. A student pays a lower price to rent than purchase the same textbook. When done, just send back the book at the end of the course. Besides saving of over 50 percent, you don’t have to hassle with re-selling your textbook at the end of your semester.
 
 ### eBooks

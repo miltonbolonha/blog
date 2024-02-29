@@ -59,11 +59,11 @@ export const getStaticProps = async context => {
 
 export const getStaticPaths = async () => {
   const posts = getAllPosts();
-  const categories = posts.map(({ frontmatter }) =>
+  const categories = posts?.map(({ frontmatter }) =>
     slugify(frontmatter?.categories[0] || "general").toLowerCase()
   );
   const uniqueCategories = _.uniq(categories);
-  const uniqueCategoriesMap = uniqueCategories.map(category => {
+  const uniqueCategoriesMap = uniqueCategories?.map(category => {
     return {
       params: { slug: category },
     };

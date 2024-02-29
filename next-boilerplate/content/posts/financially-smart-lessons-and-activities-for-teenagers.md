@@ -33,7 +33,7 @@ Perhaps your teenager often says “I know, I know, I know!” So what advise ca
 
 ### CREDIT CARD PRIMER
 
-![Financially Smart credit card](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Piggy-bank-or-credit-card-21749537-1024x683.jpg)  
+![Financially Smart credit card](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Piggy-bank-or-credit-card-21749537.jpg)  
 **Financially Smart Lesson**: Avoid using a credit card to buy something you can’t afford
 
 **Activities to reach milestone**:
@@ -45,7 +45,7 @@ Perhaps your teenager often says “I know, I know, I know!” So what advise ca
 
 ### TAXES
 
-![Financially Smart taxes](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Take-Some-Money-1612736-1024x683.jpg)  
+![Financially Smart taxes](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Take-Some-Money-1612736.jpg)  
 **Financially Smart Lesson**: What is take-home pay?
 
 **Activities to reach milestone**:
@@ -57,7 +57,7 @@ Perhaps your teenager often says “I know, I know, I know!” So what advise ca
 
 ### IRA ACCOUNT
 
-![Financially Smart IRA ](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Young-people-putting-money-in-23704928-1024x683.jpg)  
+![Financially Smart IRA ](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Young-people-putting-money-in-23704928.jpg)  
 **Financially Smart Lesson**: A great place to save and invest earnings is in a Roth IRA.
 
 **Activities to reach milestone**:

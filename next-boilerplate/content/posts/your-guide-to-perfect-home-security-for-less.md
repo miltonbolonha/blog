@@ -14,7 +14,7 @@ layout: post
 image: alarm-pad.png
 ---
 
-![](../uploads/2020/02/alarm-pad.png)
+![](/posts/alarm-pad.png)
 
 Looking for a way to upgrade your home? Investing in better home security systems is very often the best use of your capital and a great way to ensure that your property will be safe from intruders and that you won’t lose your belongings to theft or vandalism.
 

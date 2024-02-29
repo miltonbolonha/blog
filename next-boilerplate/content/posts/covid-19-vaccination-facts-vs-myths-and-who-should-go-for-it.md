@@ -4,8 +4,7 @@ date: "2021-04-30 09:01:00"
 author: "Rene Williams"
 tag:
   - Covid-19
-  - "J&amp;J"
-  - "Johnson &amp; Johnson"
+  - "Johnson n Johnson"
   - Moderna
   - Pfizer
   - vaccine
@@ -16,11 +15,13 @@ layout: post
 image: corona-vaccination-health-hand-human-body-neck-1640988-pxhere.com_.jpg
 ---
 
-A little over a year into the COVID-19 pandemic and the virus still lingers on. But the CDC has authorized the use of three vaccines, Pfizer-BioNTech, Moderna, and Johnson &amp; Johnson to curb the impact of the virus.
+A little over a year into the COVID-19 pandemic and the virus still lingers on. But the CDC has authorized the use of three vaccines, Pfizer-BioNTech, Moderna, and Johnson n Johnson to curb the impact of the virus.
 
 According to NPR<sup>1</sup>, around 64.4 million Americans have been vaccinated with about 171 million doses being administered. That is about 20% of the country’s population. Another research<sup>2</sup>, mentions that around 85% of the population needs to be vaccinated before the virus stops spreading. The country still has a long way to go to reach that mark.
 
-<figure class="wp-block-image size-large">[![](../uploads/2021/04/corona-vaccination-health-hand-human-body-neck-1640988-pxhere.com_-1024x683.jpg)](https://moderntips.com/wp-content/uploads/2021/04/corona-vaccination-health-hand-human-body-neck-1640988-pxhere.com_.jpg)</figure>To help you understand a bit more about the three vaccines currently being rolled out, we discuss facts and myths around them.
+[![](/posts/corona-vaccination-health-hand-human-body-neck-1640988-pxhere.com_.jpg)](/posts/corona-vaccination-health-hand-human-body-neck-1640988-pxhere.com_.jpg)
+
+To help you understand a bit more about the three vaccines currently being rolled out, we discuss facts and myths around them.
 
 ## Myth: The vaccine can potentially make you sick with COVID-19
 
@@ -30,7 +31,7 @@ The vaccine, essentially, teaches your immune system how to identify, react, and
 
 Immunity takes time, usually a few weeks. So, you can get infected even after you get vaccinated. That is why you need to continue to wear a mask, wash your hands, be vigilant and remain safe.
 
-Each of the three vaccines has a different efficacy rate, Pfizer-BioNTech is around 94%, Modern around 90%, and Johnson &amp; Johnson around 72%.
+Each of the three vaccines has a different efficacy rate, Pfizer-BioNTech is around 94%, Modern around 90%, and Johnson n Johnson around 72%.
 
 However, all three vaccines will enhance your immune system enough to lower the effectiveness of the virus. The vaccine works to curb the virus so if you are infected after being vaccinated, at most you have minor symptoms and just need to isolate<sup>3</sup>. Hospitalization and death by the virus will virtually be off the table for any individual that has received either of the three vaccines.
 
@@ -48,7 +49,7 @@ The quick spread of the virus prompted pharmaceuticals to speed up the developme
 
 ## Myth: The vaccine will alter your DNA
 
-**Fact**: All three vaccines are effective because they result in the development of spike protein to protect against the virus. Pfizer-BioNTech and Moderna have the instructions on an mRNA while Johnson &amp; Johnson uses double-stranded DNA. This has caused a lot of chatter about the vaccines altering an individual’s DNA.
+**Fact**: All three vaccines are effective because they result in the development of spike protein to protect against the virus. Pfizer-BioNTech and Moderna have the instructions on an mRNA while Johnson n Johnson uses double-stranded DNA. This has caused a lot of chatter about the vaccines altering an individual’s DNA.
 
 The mRNA in the vaccine consisting of the instructions just provides cells the guidance on how to develop the spike protein that will render the virus useless against the cell. The mRNA does not get into the central part of the cell where the DNA is present, hence, it doesn’t form any type of alteration or mutation.
 

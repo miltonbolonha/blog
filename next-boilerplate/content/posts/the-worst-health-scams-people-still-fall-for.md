@@ -2,11 +2,8 @@
 title: "The Worst Health Scams People STILL Fall For"
 date: "2020-02-05 16:08:10"
 author: "Kelly F"
-tag: []
-tdc_google_fonts:
-  - "a:0:{}"
-td_post_video:
-  - 'a:2:{s:8:"td_video";s:5:"scams";s:13:"td_last_video";s:5:"scams";}'
+tag:
+  - General
 categories:
   - Health
 description: ""
@@ -14,7 +11,7 @@ layout: post
 image: Pill-Health-Scams.png
 ---
 
-![](../uploads/2020/02/Pill-Health-Scams.png)Health scams are a particularly unscrupulous form of con. These prey on our desire to feel and look our best, and in many cases even go after those of us suffering with serious illnesses.
+![](/posts/Pill-Health-Scams.png)Health scams are a particularly unscrupulous form of con. These prey on our desire to feel and look our best, and in many cases even go after those of us suffering with serious illnesses.
 
 The problem is that people are so ready to believe alternative cures and “weird tricks,” at the same time as dismissing the advice from their healthcare professionals. The human desire for an easy fix – especially during the hardest times – is an extremely strong drive. And where there’s a powerful human impulse, there are people rubbing their hands together ready to make money from us.
 

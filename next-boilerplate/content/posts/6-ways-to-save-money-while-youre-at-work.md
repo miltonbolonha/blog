@@ -1,8 +1,9 @@
 ---
-title: "6 Ways to Save Money While You&#8217;re at Work"
+title: "6 Ways to Save Money While You're at Work"
 date: "2015-06-12 14:09:34"
 author: "Deanna Madera"
-tag: []
+tag:
+  - General
 categories:
   - Frugality
 description: ""

@@ -7,6 +7,7 @@ import rehypeRaw from "rehype-raw";
 import { unified } from "unified";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeSlug from "rehype-slug";
+import rehypeFigure from "rehype-figure";
 
 // import html from "remark-html";
 import headings from "remark-autolink-headings";
@@ -20,6 +21,7 @@ export default async function markdownToHtml(markdown) {
     .use(remarkParse)
     .use(supersub)
     .use(remarkRehype, { allowDangerousHtml: true })
+    .use(rehypeFigure, { className: "my-figure" })
     .use(remarkOembed)
     // .use(remarkGfm)
     .use(rehypeAutolinkHeadings)

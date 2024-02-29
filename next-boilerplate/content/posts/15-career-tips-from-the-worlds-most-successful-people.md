@@ -1,5 +1,5 @@
 ---
-title: "15 Career Tips from the World&#8217;s Most Successful People"
+title: "15 Career Tips from the World's Most Successful People"
 date: "2016-09-01 15:39:16"
 author: "Greyson F"
 tag:

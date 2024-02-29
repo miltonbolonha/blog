@@ -2,7 +2,8 @@
 title: "How to Turn Down a Job Offer Like a Boss"
 date: "2016-04-03 13:20:41"
 author: "Deanna Madera"
-tag: []
+tag:
+  - General
 categories:
   - Career
 description: ""

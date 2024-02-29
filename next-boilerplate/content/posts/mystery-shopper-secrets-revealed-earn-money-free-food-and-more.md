@@ -14,7 +14,7 @@ layout: post
 image: bigstock-Shopping-woman-sending-a-text-33837461.jpg
 ---
 
-### Work With Reputable Company![Mystery shopper fraud](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Swearing-an-oath-with-fingers-39094954-1024x683.jpg)
+### Work With Reputable Company![Mystery shopper fraud](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Swearing-an-oath-with-fingers-39094954.jpg)
 
 When exploring ways to earn extra money, becoming a mystery shopper is on the top of the list. Many people may not be sure the best way to get started or what to expect. There are 3 key factors to consider before making a commitment, as reported by Lauren Greutman.
 
@@ -24,7 +24,7 @@ All mystery shopping sites are not alike. There are hundreds of scam sites just 
 - Volition – View the [get paid forums](http://www.volition.com/getpaid.html) at Volition.com. “There are sites that claim to pay us for everything. Here we discuss which are worthwhile and which are scams. If you are interested in learning about Mystery Shopping, this is where you need to look.”
 - BestMark – [Bestmark](http://www.bestmark.com/) has been “providing over 30 years of innovative and reliable mystery shopping and customer experience solutions for industry-leading organizations.”
 
-  ### Mystery Shopper Expectations![mystery shopper at restaurant](http://moderntips.com/wp-content/uploads/2016/01/bigstock-woman-at-restaurant-chef-pour-15609941-1024x683.jpg)
+  ### Mystery Shopper Expectations![mystery shopper at restaurant](http://moderntips.com/wp-content/uploads/2016/01/bigstock-woman-at-restaurant-chef-pour-15609941.jpg)
 
   After selecting the sites you want to work with, have some reasonable expectations on how much money you will earn. Each job that is contracted pays the same fee regardless of experience. Greutman reported that:
 

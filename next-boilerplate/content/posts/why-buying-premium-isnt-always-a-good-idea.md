@@ -2,7 +2,8 @@
 title: "Why Buying Premium Isn’t Always a Good Idea"
 date: "2015-04-12 14:25:56"
 author: "Deanna Madera"
-tag: []
+tag:
+  - General
 categories:
   - Frugality
 description: ""

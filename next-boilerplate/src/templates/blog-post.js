@@ -83,7 +83,7 @@ const BlogPost = ({ post }) => {
     featuredImage: `${website.siteUrl}/brandimages/posts/${post?.frontmatter?.image}`,
     datePublished: website.datePublished,
     i18n: website.i18n,
-    keywords: website.keywords,
+    keywords: post?.frontmatter?.tag || website.keywords,
     questions: index.faq,
     topology: null,
     articleUrl: `${website.siteUrl}/${index?.slug}`,

@@ -15,7 +15,7 @@ image: Social-work.jpg
 
 Studying social work gives you the opportunity to make a genuine and positive impact on the lives of people and communities. It’s also a fascinating course that will provide you with a range of amazing and in-demand skills. You’ll find plenty of great employment opportunities lining up, and you’ll earn a healthy salary.
 
-![](../uploads/2020/12/Social-work-1024x681.jpg)Let’s take a look at the benefits of an online social work degree, what it involves, and whether it is right for you.
+![](/posts/Social-work-1024x681.jpg)Let’s take a look at the benefits of an online social work degree, what it involves, and whether it is right for you.
 
 ## What You Will Learn
 

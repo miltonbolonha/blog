@@ -16,7 +16,7 @@ image: Nurse.jpg
 
 Becoming a nurse is an extremely rewarding job that will put you in direct contact with patients as you help them to get through difficult times in their lives. You will be responsible for carrying out many medical procedures, while keeping them calm and at ease, and assisting doctors in their treatments. This is a job that will always be in demand, and that is growing increasingly in-demand. With that in mind, read on and learn everything you need to know about nursing degrees and whether they are right for you.
 
-![](../uploads/2020/04/Nurse.jpg)
+![](/posts/Nurse.jpg)
 
 ## Nursing Degrees 101
 

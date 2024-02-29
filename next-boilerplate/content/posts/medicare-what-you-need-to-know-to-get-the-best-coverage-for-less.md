@@ -19,7 +19,7 @@ Medicare is a form of health insurance available from the federal government. It
 
 Medicare is available to those that are 65 or older, as well as certain individuals with specific disabilities, and those with End-Stage Renal Disease (ESRD – a form of kidney failure that requires dialysis or transplant)<sup>1</sup>.
 
-![](../uploads/2021/01/Medicare-1024x682.jpg)Most people using Medicare will fall into the over 65’s camp however, and so that is the group we will be focussing on here.
+![](/posts/Medicare-1024x682.jpg)Most people using Medicare will fall into the over 65’s camp however, and so that is the group we will be focussing on here.
 
 ## The Basics: Parts
 

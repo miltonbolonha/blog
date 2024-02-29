@@ -1,5 +1,5 @@
 ---
-title: "The 10 Most Notable Don&#8217;ts for Investing in 2016"
+title: "The 10 Most Notable Don'ts for Investing in 2016"
 date: "2016-07-04 10:36:03"
 author: "Greyson F"
 tag:

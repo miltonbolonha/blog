@@ -2,21 +2,10 @@
 title: "Why Now Is The Best Time to Take A Cruise"
 date: "2020-09-13 17:00:43"
 author: "Deanna Madera"
-tag: []
-outbound_country_links_0_country_code:
-  - GB
-outbound_country_links_3_country_code:
-  - NZ
-outbound_country_links_4_country_code:
-  - CA
-outbound_country_links_4_outbound_link:
-  - "http://www.a-snag-ukcruise.fyi?subid={utm_source}&subid2={utm_medium}&ref={encodedrefurl}&compkey={encodedctatext}&tbid=1087587&tbserp=search&fbid=531314677258366&fbserp=cruise+search&fbclick=cruise+click"
-fallback_country_links_4_fallback_country_code:
-  - CA
-fallback_country_links_4_fallback_country_link:
-  - "http://www.a-snag-ukcruise.fyi?subid=1010&subid2=organic&ref={encodedrefurl}&compkey={encodedctatext}&tbid=1087587&tbserp=search&fbid=531314677258366&fbserp=cruise+search&fbclick=cruise+click"
+tag:
+  - General
 categories:
-  - Sponsored
+  - General
 description: ""
 layout: post
 image: 1200x627_cruises_old_coupleselfie.jpg
@@ -24,7 +13,9 @@ image: 1200x627_cruises_old_coupleselfie.jpg
 
 <ins>2020</ins> has been stressful to say the least<ins> – with 2021 now here,</ins> <ins>wouldn</ins>’t you love to be relaxing somewhere right now holding one of those tiny umbrella drinks? That doesn’t have to be a pipedream. It can be your reality with a little bit of planning and research. Because of the economic slowdown, there has literally never been a better time to check for prices of unsold cruise cabins. There are plenty of options and a ton of savings out there if you do enough research.
 
-<div class="f14"><label>Related Topics (Ads)</label></div><div class="cta-btn-wrap" data-mobile-sponsoredads="no">[<div style="flex: 1;margin-right:18px;line-height:21px;">Affordable Cruises</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Cruise Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Cheap Last Minute Cruises</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Caribbean Cruises</div>](#)</div><figure class="wp-block-image" style="margin-top:25px">![](http://moderntips.com/wp-content/uploads/2018/01/1200x627_cruises_old_coupleselfie.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;">Cruise Offers</div>](#)</div>You might think that there’s no way you could afford a cruise…But now it’s easier than ever to get a great deal thanks to the growing supply of cruise ships – and the shrinking demand for cruises.
+<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
+
+[<div style="flex: 1;margin-right:18px;line-height:21px;">Affordable Cruises</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Cruise Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Cheap Last Minute Cruises</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Caribbean Cruises</div>](#)</div><figure class="wp-block-image" style="margin-top:25px">![](http://moderntips.com/wp-content/uploads/2018/01/1200x627_cruises_old_coupleselfie.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;">Cruise Offers</div>](#)</div>You might think that there’s no way you could afford a cruise…But now it’s easier than ever to get a great deal thanks to the growing supply of cruise ships – and the shrinking demand for cruises.
 
 ## Why Is Now The Best Time to Take A Cruise?
 
@@ -64,43 +55,45 @@ On top of a bumpy economic ride, the cruise industry has struggled to get Millen
 
 Now you know why there’s never been a better time to go on a cruise, so set sail for adventure!
 
-<div class="f14"><label>Related Topics (Ads)</label></div><div class="cta-btn-wrap" data-mobile-sponsoredads="no">[<div style="flex: 1;margin-right:18px;line-height:21px;">Affordable Cruises</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Cruise Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Cheap Last Minute Cruises</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Caribbean Cruises</div>](#)</div><div class="ad-hide">RunIt Code Here</div>  <script>
+<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
+
+[<div style="flex: 1;margin-right:18px;line-height:21px;">Affordable Cruises</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Cruise Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Cheap Last Minute Cruises</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Caribbean Cruises</div>](#)</div><div class="ad-hide">RunIt Code Here</div> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '531314677258366'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript>   <script>
+</script> <noscript>![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '438385429848061'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript>    <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>   <script type="text/javascript">
-  window._tfa = window._tfa || [];
-  window._tfa.push({notify: 'event', name: 'page_view', id: 1087587});
-  !function (t, f, a, x) {
-         if (!document.getElementById(x)) {
-            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
-         }
-  }(document.createElement('script'),
-  document.getElementsByTagName('script')[0],
-  '//cdn.taboola.com/libtrc/unip/1087587/tfa.js',
-  'tb_tfa_script');
-</script> <noscript> ![](//trc.taboola.com/1087587/log/3/unip?en=page_view) </noscript>   <script>
-    fbq('track', 'ViewContent', {
-        currency: 'USD'
-    });
+</script> <noscript>![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
+window.\_tfa = window.\_tfa || [];
+window.\_tfa.push({notify: 'event', name: 'page_view', id: 1087587});
+!function (t, f, a, x) {
+if (!document.getElementById(x)) {
+t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+}
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'//cdn.taboola.com/libtrc/unip/1087587/tfa.js',
+'tb_tfa_script');
+</script> <noscript> ![](//trc.taboola.com/1087587/log/3/unip?en=page_view) </noscript> <script>
+fbq('track', 'ViewContent', {
+currency: 'USD'
+});
 </script> <script type="text/javascript">
-    function runIt() {
-        fbq('track', 'AddToCart', {
-            currency: 'USD',
-            content_name: 'cruise'
-        });
+function runIt() {
+fbq('track', 'AddToCart', {
+currency: 'USD',
+content_name: 'cruise'
+});
 
         window.dotq = window.dotq || [];
         window.dotq.push(

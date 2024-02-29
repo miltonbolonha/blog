@@ -16,7 +16,7 @@ image: dental-medicare.jpg
 
 Medicare is a program that offers medical coverage for those over 65. This can cover a number of medical expenses, including hospital bills, prescription medications, and more. But while Medicare is a useful and important tool for looking after your health as you age, it is far from comprehensive. Importantly: it doesn’t cover the cost of dental care.
 
-While some people will tell you that dental care is covered by Medicare, the truth is that the majority of procedures, supplies, and services are not included in Medicare. This information comes direct from the official government Medicare website, so you shouldn’t trust sources that claim otherwise<sup>1</sup>.![](../uploads/2020/04/dental-medicare.jpg)
+While some people will tell you that dental care is covered by Medicare, the truth is that the majority of procedures, supplies, and services are not included in Medicare. This information comes direct from the official government Medicare website, so you shouldn’t trust sources that claim otherwise<sup>1</sup>.![](/posts/dental-medicare.jpg)
 
 There are some exceptions to this rule however. The only medical services that are covered by Medicare Part A insurance are those that are carried out in hospital. This can include the removal of very difficult teeth (usually after a failed attempt by a dentist), oral surgeries for tumors and other issues spotted by dentists, and others. You pay 100% for non-covered services, so you should be prepared to pay for these services if you need them.
 

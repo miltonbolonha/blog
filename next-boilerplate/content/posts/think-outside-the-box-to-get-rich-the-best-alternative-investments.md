@@ -21,7 +21,7 @@ Investing is the secret sauce that separates the extremely rich. It doesn’t ma
 
 Exploring the world of alternative investments can be daunting, but fortunately there’s many alternative investment opportunities that can be taken advantage of if you’re not looking for your cash to sit in a savings account.
 
-![](../uploads/2020/07/Think-outside-the-box.jpg)
+![](/posts/Think-outside-the-box.jpg)
 
 Investing is something that everyone should consider once they start to build up a certain amount of cash in the bank. If you let it sit in an ISA or savings account, you’ll be making miniscule interest when you could be increasing its value by a lot more.
 

@@ -2,7 +2,8 @@
 title: "Banks Vs. Credit Unions &#8211; Which is Better?"
 date: "2015-06-19 10:56:35"
 author: "Deanna Madera"
-tag: []
+tag:
+  - General
 categories:
   - Money
 description: ""

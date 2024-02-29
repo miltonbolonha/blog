@@ -22,7 +22,7 @@ You may have been bombarded with many bank ads and it is hard to figure out whic
 
 When it comes to choosing a checking account, there are several key factors to look for. Let’s consider each of them and break them all down.
 
-![](../uploads/2020/04/Checking-account.jpg)
+![](/posts/Checking-account.jpg)
 
 **Interest Rates**
 

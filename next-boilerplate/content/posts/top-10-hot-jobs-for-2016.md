@@ -27,7 +27,7 @@ While demand for electrical engineers is expected to be strongest in Chicago, Ho
 
 ### GENERAL AND OPERATIONS MANAGER
 
-![ops manager](http://moderntips.com/wp-content/uploads/2015/11/ops-manager-1024x683.jpg)  
+![ops manager](http://moderntips.com/wp-content/uploads/2015/11/ops-manager.jpg)  
 To meet the expected 12.4 percent growth in demand that the U.S. Bureau of Labor Statistics anticipates by 2022, recruiters will have to get busy soon. That growth rate translates into 613,000 open positions to fill for general and operations managers over the next seven years.
 
 ### HOME HEALTH AID
@@ -47,7 +47,7 @@ With the explosive growth in digital marketing and an already high average annua
 
 ### MEDICAL SERVICES MANAGER
 
-![jobs](http://moderntips.com/wp-content/uploads/2015/11/med-services-2-1024x683.jpg)  
+![jobs](http://moderntips.com/wp-content/uploads/2015/11/med-services-2.jpg)  
 The requirements for this position overlap the nation’s highest labor shortage industries, as estimated by U.S. Bureau of Labor Statistics: health care, social assistance and professional business services. The BLS projects 73,300 new hires will be needed in the field by 2022, and predicts a 23 percent overall increase in employment.
 
 ### PHYSICAL THERAPIST JOBS
@@ -57,10 +57,10 @@ The American Physical Therapy Association estimates that in 2016, demand for ful
 
 ### REGISTERED NURSE
 
-![nurse](http://moderntips.com/wp-content/uploads/2015/11/nurse-1024x683.jpg)  
+![nurse](http://moderntips.com/wp-content/uploads/2015/11/nurse.jpg)  
 The U.S. Bureau of Labor Statistics projects a 19 percent growth rate by 2022, but it also estimates that 525,000 currently working registered nurses will have to be replaced due to retirements, which puts the total number of new hires anticipated at 1.05 million over the next seven years. In addition, the average age of working nurses is expected to rise to 44.6 from the current 42.7.
 
 ### SOFTWARE ENGINEER JOBS
 
-![sw engineer](http://moderntips.com/wp-content/uploads/2015/11/sw-engineer-1024x683.jpeg)  
+![sw engineer](http://moderntips.com/wp-content/uploads/2015/11/sw-engineer.jpeg)  
 The Conference Board estimates there will be three jobs available for every new college graduate from a computer science program in 2016. There are many positions available as a remote or [virtual office worker](/70-companies-hire-remote-workers-virtual-jobs-uncovered). Not surprising, since the U.S. Bureau of Labor Statistics estimates 222,600 software engineering jobs will need to be filled by 2022.

@@ -1,5 +1,5 @@
 ---
-title: "Financial Lessons For 3-5 Year Olds  &#8211; It&#8217;s Never Too Early To Start"
+title: "Financial Lessons For 3-5 Year Olds  &#8211; It's Never Too Early To Start"
 date: "2016-01-31 12:07:41"
 author: "Deborah Woehr"
 tag:
@@ -17,7 +17,7 @@ image: bigstock-Father-And-Children-Spending-T-91615382.jpg
 
 ### Money Primer
 
-![Financial lessons 3-5 year old](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Family-Looking-At-Clothes-On-R-92606243-1024x683.jpg)  
+![Financial lessons 3-5 year old](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Family-Looking-At-Clothes-On-R-92606243.jpg)  
 A child is never too young to start teaching financial lessons. An initiative from the President’s Advisory Council on Financial Capability, _Money as You Grow_, provides parents with financial lessons and activities to teach their children. The financial lessons and activities on the following pages are recommended for 3-5 year olds. They’re based on years of research, and drawn from dozens of standards and academic studies.
 
 Here’s the first of 4 financial lessons and activities to teach your child why you need money to buy things.
@@ -32,7 +32,7 @@ Here’s the first of 4 financial lessons and activities to teach your child why
 
 ### How Do You Earn Money
 
-![financial lessons for 3-5 year olds](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Children-selling-lemonade-in-f-31898984-1024x683.jpg)  
+![financial lessons for 3-5 year olds](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Children-selling-lemonade-in-f-31898984.jpg)  
 **Financial Lesson**: The way to earn money is to work
 
 **Activities to reach milestone**:

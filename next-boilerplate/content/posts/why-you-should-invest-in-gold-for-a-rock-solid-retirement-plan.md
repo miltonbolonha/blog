@@ -18,7 +18,7 @@ A gold IRA may just offer one of the most reliable, profitable, and financially-
 
 Countless people have faced the terrible reality of losing the savings they worked for all their lives as a result of our unstable economy. These people have been left with nothing and are often forced to work well past their retirement age just to make ends meet.
 
-![](../uploads/2020/05/gold-163519.jpg)
+![](/posts/gold-163519.jpg)
 
 With threats like hyperinflation and the falling US dollar to contend with, there are increasingly few safe options for keeping your assets secured. Fortunately, one good choice still exists: which is to put your money into a gold IRA.
 

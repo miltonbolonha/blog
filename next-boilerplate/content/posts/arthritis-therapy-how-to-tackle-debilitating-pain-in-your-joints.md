@@ -18,7 +18,7 @@ Arthritis is a highly painful and disruptive disability that affects millions of
 
 Unfortunately though, arthritis is also a highly misunderstood problem. Many people do not recognize the severity of arthritis for instance, writing it off merely as ‘joint pain’. Likewise, many people fail to recognize the huge variety of conditions that can fall under the broad umbrella term ‘arthritis’. Actually, there are over 100 different forms of the condition, all of which range in severity and vary in terms of the area they affect. This makes arthritis particularly hard to manage and unfortunately, there is currently no known ‘cure’ for most forms of the condition.
 
-![](../uploads/2020/04/Arthritis.jpg)
+![](/posts/Arthritis.jpg)
 
 But just because there’s no cure, that does not mean that you have to struggle alone with the condition. Arthritis therapy is a form of therapy provided by physiotherapists and which can provide significant relief. If you are suffering with arthritis pain, then it’s important that you recognize the nature and seriousness of the problem and seek medical attention as soon as possible.
 

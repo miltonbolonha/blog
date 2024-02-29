@@ -23,7 +23,7 @@ A word of caution before you read further. Do not ingest hydrogen peroxide. It c
 
 ### Medicinal Uses
 
-![hydrogen peroxide feeling great](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Surprised-woman-90570578-1024x683.jpg)
+![hydrogen peroxide feeling great](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Surprised-woman-90570578.jpg)
 
 - **Fights foot fungus**– There are reports that many people have successfully reduced foot fungus infections by mixing an equal part of hydrogen peroxide and water and spraying that solution on their feet every night. Let your feet dry after spraying.
 - **Cleans ear wax**– Before you consider removing your ear wax with hydrogen peroxide, make sure you do not have an ongoing ear infection, a perforated eardrum, severe ear pain or hearing impairment. Warm the hydrogen peroxide and olive oil bottles in a bowl of warm water to make ear wax removal more comfortable. To clean out ear wax, add a couple of drops of olive oil in your ear, and then follow it up with a couple drops of hydrogen peroxide. Keep your head tilted for about a minute, and then tilt it back the other way and let the mixture drain out. You may also want to gently flush your ear out with warm water.
@@ -36,7 +36,7 @@ A word of caution before you read further. Do not ingest hydrogen peroxide. It c
 
 ### Household Uses
 
-![hydrogen peroxide- cleaning ](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Woman-Cleaning-Kitchen-Counter-66185035-1024x683.jpg)
+![hydrogen peroxide- cleaning ](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Woman-Cleaning-Kitchen-Counter-66185035.jpg)
 
 - **Disinfects counter tops**– Mix hydrogen peroxide with an equal amount of water in a spray bottle, and apply it directly to all counter surfaces. Wipe down with a sponge.
 - **Kills mold** -Apply hydrogen peroxide directly to mold, and then wipe it clean. Hydrogen peroxide is effective against many different types of [mold](/7-houseplants-that-improve-your-health-and-clean-pollutants-from-your-home), and can help to clean and detoxify a wide variety of surfaces.
@@ -49,7 +49,7 @@ A word of caution before you read further. Do not ingest hydrogen peroxide. It c
 
 ### Kitchen Area And Food
 
-![hydrogen peroxide food prep](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Crazy-Housewife-Cook-In-Kitche-106096160-1024x683.jpg)
+![hydrogen peroxide food prep](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Crazy-Housewife-Cook-In-Kitche-106096160.jpg)
 
 - **Cleans cutting boards**– Rinse off your cutting board after you use it, then spray with hydrogen peroxide to kill germs before they get into other foods are being preparing.
 - **Cleans refrigerators** -Get rid of unpleasant odors and germs in your fridge and also disinfect everything by wiping down the shelves and inside doors with hydrogen peroxide.
@@ -60,7 +60,7 @@ A word of caution before you read further. Do not ingest hydrogen peroxide. It c
 
 ### Children items
 
-![toys in mouth](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Boy-And-Girl-Playing-Flute-111165845-1024x683.jpg)
+![toys in mouth](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Boy-And-Girl-Playing-Flute-111165845.jpg)
 
 - **Disinfects children toys** – Use hydrogen peroxide to occasionally wipe down toys and play areas. Since it has been shown not to cause lung irritations, it is a safer cleaning product than many commercial cleaners.
 - **Disinfects children lunchboxes –**Where has your child’s lunchbox been when he/she goes to school? Use hydrogen peroxide to disinfect the inside and outside a child’s lunchbox to keep your child healthy.
@@ -73,7 +73,7 @@ A word of caution before you read further. Do not ingest hydrogen peroxide. It c
 
 ### Pets
 
-[![hydrogen peroxide cat and dog](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Cat-And-Dog-Together-Lying-On-79909624-1024x683.jpg)](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Cat-And-Dog-Together-Lying-On-79909624.jpg)
+[![hydrogen peroxide cat and dog](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Cat-And-Dog-Together-Lying-On-79909624.jpg)](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Cat-And-Dog-Together-Lying-On-79909624.jpg)
 
 - **Treats wounds in animals** -Just as hydrogen peroxide can be used to treat human wounds, you can also use it to treat wounds on your pets.
 

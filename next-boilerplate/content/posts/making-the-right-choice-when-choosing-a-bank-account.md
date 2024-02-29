@@ -2,7 +2,8 @@
 title: "Making the Right Choice When Choosing a Bank Account"
 date: "2015-04-19 10:54:56"
 author: "Deanna Madera"
-tag: []
+tag:
+  - General
 categories:
   - Money
 description: ""

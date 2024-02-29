@@ -16,7 +16,7 @@ image: Medigap.jpg
 
 As you reach your senior years, the likelihood that you will need expensive medical care increases. This is something none of us like to think about, and so in many cases _we don’t_. Rather than face our mortality, we would rather bury our heads in the sand and hope that everything turns out okay. But as with many things, it is far better to have medical insurance and not need it than it is to need it and not have it! In fact, the latter can lead to extreme levels of discomfort, pain, embarrassment, and poverty. This should be your absolute priority, and Medigap is one of the key things you need to think about as you reach your late 60s.
 
-## ![](../uploads/2021/01/Medigap-1024x684.jpg)About Medicare
+## ![](/posts/Medigap-1024x684.jpg)About Medicare
 
 So just what is Medigap? In order to understand precisely what this is, it’s important to first understand Medicare.
 

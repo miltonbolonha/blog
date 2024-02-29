@@ -16,7 +16,7 @@ image: dental-implants.jpg
 
 Dental implants are permanent fixtures that a dentist will attach to your gums and jawbone in order to replace missing or damaged teeth. This can provide a permanent solution to many dental health issues for senior patients, making it a popular procedure despite the invasive nature and cost. In short, dental implants can make you feel much younger and improve your life in countless ways.
 
-## ![](../uploads/2020/12/dental-implants-1024x768.jpg)What Are Dental Implants?
+## ![](/posts/dental-implants-1024x768.jpg)What Are Dental Implants?
 
 Dental implants involve drilling into the gums and jaws in order to create pegs. These pegs then allow new false teeth to be screwed into place, where they will remain permanently. As the patient, you will be able to choose precisely how you want your new smile to look, and that will extend to selecting the color of your implants.
 

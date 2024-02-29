@@ -14,7 +14,7 @@ image: MBA-Degree.jpg
 
 If you’re looking for a way to advance your career, then you may have considered taking an online MBA. An MBA (Master of Business Administration,) is widely considered to be the most sought-after qualifications in business. With this qualification under your belt, you will be able to walk into a large number of management roles, and will likely enjoy an increased salary at your current place of work. Thanks to the web, it’s possible to get this prestigious qualification from the comfort of your own home, working on a part-time basis!
 
-![](../uploads/2020/12/MBA-Degree-1024x681.jpg)But what exactly does an MBA entail? Just how much of a commitment are you making? And how do you get started? This post will tell you everything you need to get started with an online MBA, and whether it’s a smart option to supercharge your career.
+![](/posts/MBA-Degree-1024x681.jpg)But what exactly does an MBA entail? Just how much of a commitment are you making? And how do you get started? This post will tell you everything you need to get started with an online MBA, and whether it’s a smart option to supercharge your career.
 
 ## What is an MBA? Is it Hard?
 

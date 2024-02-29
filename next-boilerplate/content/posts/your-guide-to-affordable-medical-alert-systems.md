@@ -19,7 +19,7 @@ Medical alert systems, also called medical alarm systems, are devices that can s
 
 Essentially, medical alert systems work like small alarms that can detect falls, accidents, and even heart attacks. These then call for help by contacting either the primary care giver, or a medical service that is available around the clock.
 
-![](../uploads/2020/04/stairs-932806_1920.jpg)
+![](/posts/stairs-932806_1920.jpg)
 
 While some people will be resistant to the idea of using medical alert systems – seeing them as a loss of independence – the truth is that this technology actually allows people to _continue_ being independent, while also providing a better quality-of-life for their loved ones.
 

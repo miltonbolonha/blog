@@ -17,7 +17,7 @@ Lung cancer is one of the most common forms of cancer. In fact, 14% of all new c
 
 That 61% survival rate statistic refers specifically to localized lung cancer. This means cancer that only affects the lung, and that has not spread into the bones, blood, or nearby organs. For regional lung cancer that has spread to surrounding tissue, the survival rate is only 35%, and this falls even further for the “Distant” SEER (Surveillance, Epidemiology, and End Results) stage down to 6%. The 5-year relative survival rate for all SEER stages is 24%.
 
-![](../uploads/2020/04/Lung-cancer.jpg)
+![](/posts/Lung-cancer.jpg)
 
 The survival rates for small cell cancer are lower again.
 

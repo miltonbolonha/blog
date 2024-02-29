@@ -34,7 +34,7 @@ The benefits of some indoor houseplants not only detoxifies the air breath, but 
 
 English Ivy is the number one plant endorsed by the NASA study, as it may help respiratory problems and asthma. This plant has a purifying score of 7.8 and it is the most effective plant when it comes to absorbing formaldehyde, commonly found in cleaning products, toilet paper, tissues and personal care products. English Ivy has been known to reduce airborne mold by 78% and fecal matter particles by 58%. Be cautious where you place English ivy in your home, since it is toxic if ingested.
 
-### Aloe Vera[![aloe vera one of many houseplants that improve your helath](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Spa-woman-with-aloe-vera-67106671-1024x683.jpg)](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Spa-woman-with-aloe-vera-67106671.jpg)
+### Aloe Vera[![aloe vera one of many houseplants that improve your helath](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Spa-woman-with-aloe-vera-67106671.jpg)](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Spa-woman-with-aloe-vera-67106671.jpg)
 
 The Aloe Vera plant has many healing properties and can help clear the air of pollutants found in chemical cleaning products, such as formaldehyde and benzene.
 
@@ -56,7 +56,7 @@ The Peace Lily plant is at the top of NASA’s list for removing formaldehyde, b
 
 The Bamboo Palm is one of NASA’s top clean air plants with a purifying score of 8.4. It’s also particularly effective at removing benzene and trichloroethylene from the air in our homes.
 
-### Golden pothos![Golden pothos is one of many houseplants that can improve your health](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Devil-s-ivy-plant-Scientific-103965527-1024x683.jpg)
+### Golden pothos![Golden pothos is one of many houseplants that can improve your health](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Devil-s-ivy-plant-Scientific-103965527.jpg)
 
 According to NASA’s study, the Golden Pothos plant clear formaldehyde from the air.
 

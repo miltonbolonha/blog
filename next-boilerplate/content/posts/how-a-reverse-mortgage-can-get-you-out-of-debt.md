@@ -18,7 +18,7 @@ If you’re looking for a way to get out of debt and to gain financial independe
 
 So what precisely is a reverse mortgage? Essentially, this is a loan that is available to a homeowner that is over 62 years of age<sup>1</sup>. As the name implies, this works a little like a home loan in reverse. Because the homeowner will have equity in their property, they will be able to borrow against that value in exchange for a lump sum.
 
-![](../uploads/2020/04/Reverse-mortgage.jpg)
+![](/posts/Reverse-mortgage.jpg)
 
 What makes a reverse mortgage unique though, is that you won’t need to make loan repayments. Instead, the entire loan balance becomes due all at once – at the moment that the borrower either dies, moves out of their current home, or sells their property. At this point, the lender seizes the property and thereby pays off the outstanding debt.
 

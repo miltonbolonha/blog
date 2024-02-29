@@ -2,7 +2,8 @@
 title: "Can I Make a Living by Working from Home?"
 date: "2015-05-20 13:17:25"
 author: "Deanna Madera"
-tag: []
+tag:
+  - General
 categories:
   - Career
 description: ""

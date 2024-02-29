@@ -17,7 +17,7 @@ image: Jobs.jpg
 
 There are lots of good reasons to go to further your education. But while learning about yourself and expanding your mind important factors, the primary goal most people have for their degree is to earn a healthy income after graduating. Let’s learn about some of the highest paid undergraduate degrees that you can take online, that will set you up for a life of success and wealth.
 
-## ![](../uploads/2020/06/Jobs.jpg)
+## ![](/posts/Jobs.jpg)
 
 ## Does a Degree Increase Your Income?
 

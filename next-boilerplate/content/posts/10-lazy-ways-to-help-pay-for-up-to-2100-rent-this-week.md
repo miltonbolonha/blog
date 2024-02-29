@@ -2,15 +2,16 @@
 title: "10 Lazy Ways to Help Pay for Up to $2100 Rent This Week"
 date: "2022-03-03 10:49:46"
 author: mt2
-tag: []
+tag:
+  - General
 categories:
-  - Sponsored
+  - General
 description: ""
 image: investment-growth-for-small-investor.jpg
 layout: post
 ---
 
-<figure class="wp-block-image size-large">[![](../uploads/2018/01/1200x628_seniordiscounts_cashtakingsurveys.-1024x536.jpg)](https://moderntips.com/wp-content/uploads/2018/01/1200x628_seniordiscounts_cashtakingsurveys..jpg)</figure>Feel like your money goes down the drain week after week? It’s alright, we’ve all been there and we’re here to help.
+<figure class="wp-block-image size-large">[![](/posts/1200x628_seniordiscounts_cashtakingsurveys.-1024x536.jpg)](https://moderntips.com/wp-content/uploads/2018/01/1200x628_seniordiscounts_cashtakingsurveys..jpg)</figure>Feel like your money goes down the drain week after week? It’s alright, we’ve all been there and we’re here to help.
 
 We’ve done the research and found some of the best ways to help stack your bank account before Saturday. Some of these these apps help you save, others will help you earn extra cash to pad your bank account right away.
 

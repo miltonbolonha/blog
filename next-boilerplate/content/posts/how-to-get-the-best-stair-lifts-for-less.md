@@ -15,7 +15,7 @@ image: walking-up-stairsjpg.jpg
 
 Stair lifts can become a necessity for many people once they reach a certain age. These are of course platforms that can carry an individual up and down a flight of stairs, thereby allowing them to change floor with the use of a wheelchair, or without needing to place a lot of extra weight on their knees.
 
-![](../uploads/2020/12/walking-up-stairsjpg-1024x763.jpg)There are many considerations to take into account when choosing a stair lift. For example, you need to ensure that the stair lift is going to provide easy access for you, as well as for anyone else who may **not** require the lift in order to get up and down. Likewise, you need to consider the amount of time it takes to travel from the top of the stairs to the bottom (and vice versa), as well as whether the same stair lift is likely to be suitable for you in 10 years’ time.
+![](/posts/walking-up-stairsjpg-1024x763.jpg)There are many considerations to take into account when choosing a stair lift. For example, you need to ensure that the stair lift is going to provide easy access for you, as well as for anyone else who may **not** require the lift in order to get up and down. Likewise, you need to consider the amount of time it takes to travel from the top of the stairs to the bottom (and vice versa), as well as whether the same stair lift is likely to be suitable for you in 10 years’ time.
 
 ## Some Important Points About Stair Lifts
 

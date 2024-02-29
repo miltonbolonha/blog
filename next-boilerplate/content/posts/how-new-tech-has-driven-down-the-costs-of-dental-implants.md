@@ -19,7 +19,7 @@ Dental implants have the potential to completely transform your health, your psy
 
 When any new technology is introduced, it will invariably come with a high price tag. This is understandable, as the tech will usually only be available from a limited number of suppliers. Moreover, the novel and new nature of the tech makes it inherently more desirable and interesting.
 
-![](../uploads/2021/01/New-tech-dental-1024x714.jpg)Then there is the matter of maturity. A new technology is less refined than an established one, and will therefore be a more expensive and involved process. As technologies develop, we begin to see them refined as newer methods, tools, and systems are introduced. This helps to lower the price and improve the efficiency of the technology.
+![](/posts/New-tech-dental-1024x714.jpg)Then there is the matter of maturity. A new technology is less refined than an established one, and will therefore be a more expensive and involved process. As technologies develop, we begin to see them refined as newer methods, tools, and systems are introduced. This helps to lower the price and improve the efficiency of the technology.
 
 Then there is the matter of competition. New technologies will usually only be offered by one or a few providers. This of course keeps the supply low, while driving up demand. Those few companies that offer the service can now choose how much they want to charge for the process.
 

@@ -1,5 +1,5 @@
 ---
-title: "Factors That Effect Change In A Stock&#8217;s Price"
+title: "Factors That Effect Change In A Stock's Price"
 date: "2019-02-13 10:15:44"
 author: "Deanna Madera"
 tag:

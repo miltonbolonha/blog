@@ -19,7 +19,7 @@ As you get older and you begin to lose your health and mobility, it can be extre
 
 But what defines your us is how we cope with adversity. And there are two ways you can react to this painful situation. Either, you can bask in the injustice of it all and stubbornly refuse to accept your current situation, or you can adapt and continue. If you choose to do the latter, then the next step for you is to invest in a mobility scooter.
 
-## ![](../uploads/2020/04/mobility-scooter-1372965_1920.jpg)
+## ![](/posts/mobility-scooter-1372965_1920.jpg)
 
 ## Mobility Scooter Basics
 

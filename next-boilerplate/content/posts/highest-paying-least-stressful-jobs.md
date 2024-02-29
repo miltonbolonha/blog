@@ -3,7 +3,7 @@ title: "Highest Paying Least Stressful Jobs"
 date: "2016-05-26 16:09:04"
 author: "Deanna Madera"
 tag:
-  - JOBS
+  - Jobs
   - money
   - Stress
   - "work life balance"

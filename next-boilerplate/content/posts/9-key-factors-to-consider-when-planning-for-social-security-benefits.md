@@ -17,7 +17,7 @@ image: ss-key.jpg
 
 ### Social Security Milestones
 
-![milestone](http://mt2.wpengine.com/wp-content/uploads/2015/11/milestone-300x300.jpg)
+![milestone](http://mt2.wpengine.com/wp-content/uploads/2015/11/milestone.jpg)
 
 - Age 62 is the minimum age at which anyone can draw from their Social Security retirement account, though many sometimes confuse it with 59 1/2, which is the minimum age an individual may tap into many IRAs and retirement accounts without penalty.
 - Age 65, 66 or 67, depending on your birth date, is the age at which a person can claim full retirement benefit amounts.

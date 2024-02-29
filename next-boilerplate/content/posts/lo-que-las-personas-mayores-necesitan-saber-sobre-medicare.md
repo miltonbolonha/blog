@@ -2,9 +2,10 @@
 title: "Lo que las personas mayores de <state>EE. UU.</state> necesitan saber sobre Medicare"
 date: "2020-10-15 15:58:41"
 author: "Deanna Madera"
-tag: []
+tag:
+  - General
 categories:
-  - Sponsored
+  - General
 description: ""
 layout: post
 image: 1200x628_seniordiscounts_eyeexammedicare.jpg
@@ -12,7 +13,9 @@ image: 1200x628_seniordiscounts_eyeexammedicare.jpg
 
 El período de inscripción abierta de Medicare ya casi está aquí. Las inscripciones abiertas se mantendrán desde el 15 de octubre hasta el 7 de diciembre<sup>1</sup>. Este es el único momento del año en el que las personas mayores podrán realizar cambios a su Medicare de manera sencilla, por lo que es importante estar consciente de estas fechas. Antes de que pueda tomar alguna decisión con respecto a su seguro de salud, lo mejor es estudiar todas las diferentes opciones que Medicare puede ofrecer.
 
-<div class="f14"><label>Related Topics (Ads)</label></div><div class="cta-btn-wrap" data-mobile-sponsoredads="no">[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Plans And Changes</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Plans Cost</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Supplement Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Options</div>](#)</div>![](../uploads/2018/01/1200x628_seniordiscounts_eyeexammedicare-1024x536.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Plans And Changes</div>](#)</div>Tómese un tiempo para pensar sobre lo que usted necesita de Medicare. Considere su seguro actual, sus gastos médicos, y las opciones de Medicare que tiene para elegir.
+<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
+
+[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Plans And Changes</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Plans Cost</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Supplement Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Options</div>](#)</div>![](/posts/1200x628_seniordiscounts_eyeexammedicare-1024x536.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Plans And Changes</div>](#)</div>Tómese un tiempo para pensar sobre lo que usted necesita de Medicare. Considere su seguro actual, sus gastos médicos, y las opciones de Medicare que tiene para elegir.
 
 ## **\*\***¿Soy elegible para Medicare?**\*\***
 
@@ -76,43 +79,45 @@ El período de inscripción abierta de Medicare se mantendrá desde el 15 de oct
 
 Recuerde, si usted lo deja hasta después de que termine el período de inscripción abierta, se le podría cobrar una comisión. Si se pierde este período, podría tener que esperar otro año o pagar una multa, siendo ambas opciones costosas. Así que, ¡marque en su calendario el período de inscripción abierta!
 
-<div class="f14"><label>Related Topics (Ads)</label></div><div class="cta-btn-wrap" data-mobile-sponsoredads="no">[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Plan F Replacement</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Supplement Rates</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">2020 Changes To Medicare</div>](#)</div><div class="ad-hide">RunIt Code Here</div>  <script>
+<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
+
+[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Plan F Replacement</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Supplement Rates</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">2020 Changes To Medicare</div>](#)</div><div class="ad-hide">RunIt Code Here</div> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '531314677258366'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript>   <script>
+</script> <noscript>![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '438385429848061'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript>    <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>   <script type="text/javascript">
-  window._tfa = window._tfa || [];
-  window._tfa.push({notify: 'event', name: 'page_view', id: 1087586});
-  !function (t, f, a, x) {
-         if (!document.getElementById(x)) {
-            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
-         }
-  }(document.createElement('script'),
-  document.getElementsByTagName('script')[0],
-  '//cdn.taboola.com/libtrc/unip/1087586/tfa.js',
-  'tb_tfa_script');
-</script> <noscript> ![](//trc.taboola.com/1087586/log/3/unip?en=page_view) </noscript>   <script>
-    fbq('track', 'ViewContent', {
-        currency: 'USD'
-    });
+</script> <noscript>![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
+window.\_tfa = window.\_tfa || [];
+window.\_tfa.push({notify: 'event', name: 'page_view', id: 1087586});
+!function (t, f, a, x) {
+if (!document.getElementById(x)) {
+t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+}
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0],
+'//cdn.taboola.com/libtrc/unip/1087586/tfa.js',
+'tb_tfa_script');
+</script> <noscript> ![](//trc.taboola.com/1087586/log/3/unip?en=page_view) </noscript> <script>
+fbq('track', 'ViewContent', {
+currency: 'USD'
+});
 </script> <script type="text/javascript">
-    function runIt() {
-        fbq('track', 'AddToCart', {
-            currency: 'USD',
-            content_name: 'medicare'
-        });
+function runIt() {
+fbq('track', 'AddToCart', {
+currency: 'USD',
+content_name: 'medicare'
+});
 
         window.dotq = window.dotq || [];
         window.dotq.push(

@@ -1,5 +1,5 @@
 ---
-title: "10 Ways You&#8217;re Sabotaging Your Financial Future (#6 May Surprise You)"
+title: "10 Ways You're Sabotaging Your Financial Future (#6 May Surprise You)"
 date: "2016-12-06 08:28:54"
 author: "Sarah H"
 tag:

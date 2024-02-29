@@ -22,6 +22,8 @@ Raising children isn’t cheap. That said, they are a necessity for some parents
 
 Grandmothers and grandfathers relish in the opportunity to bond with other family members. By enlisting their help, you get to kill two birds with one stone: you’re able to have your children taken care of as well as help the two bond. In exchange, you might want to offer to foot their fuel or transportation costs or even offer free lunch and dinner as an extra incentive.
 
+[![](/posts/1080x1080_psoriasis_scalpcream.jpg)](/posts/1080x1080_psoriasis_scalpcream.jpg)
+
 ## Look Into Daycare Centers that Receive Grants
 
 Daycare centers, especially those that are in big cities [receive grants from the government](https://www.mcf.gov.bc.ca/childcare/operating.htm) meant to improve service delivery. As a result of these grants, these centers are able to keep their costs low, making them a much cheaper option. If you have a choice of government-funded daycare centers to choose from, make sure to check out their policies on things like sick days so you know whether your child is also eligible for free care should they fall sick.

@@ -16,7 +16,7 @@ image: Psoriasis.jpg
 
 Psoriasis is an annoying condition that is associated with dry and flaky skin. This can be painful in some rare cases, but is primarily a frustrating and aesthetic issue for many people. A psoriasis “flare up” can be highly embarrassing, covering the face, arms, and torso with flaky patches of red skin. Sufferers struggle to find the best treatments. The good news is that it CAN be treated, and if you know how to approach psoriasis management, you can enjoy healthy, smooth skin once again. Tired of your treatment, then read on and discover some of the latest advancements.
 
-![](../uploads/2020/04/Psoriasis.jpg)
+![](/posts/Psoriasis.jpg)
 
 The issue is that psoriasis is a more complex issue that it might initially seem. This is an autoimmune disease for starters, rather than an issue related to dry or oily skin. It is actually caused by an increased rate of production of the skin cells, and can be triggered by wound repair. In most people, skin cells are replaced at around 28-30 days. In psoriasis however, this process ramps all the way up to every 3-5 days<sup>1</sup>!
 

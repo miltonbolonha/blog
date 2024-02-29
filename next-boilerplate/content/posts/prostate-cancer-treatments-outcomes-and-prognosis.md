@@ -18,7 +18,7 @@ There are few things more frightening, stressful, or life-life changing than a c
 
 The 5-year survival rate for men with prostate cancer discovered in the local or regional state (which accounts for 90% of cases) has a 5-year survival rate of nearly 100%. Those are exceptionally good odds. For those cases where the cancer has begun to spread to neighboring regions, this number falls to 30%.
 
-![](../uploads/2020/04/Prostate-cancer.jpg)
+![](/posts/Prostate-cancer.jpg)
 
 In other words, the single most important factor when dealing with prostate cancer, is how quickly it is discovered. As long as the cancer is found before it has a chance to spread, then it can be effectively treated. This article will examine the nature of prostate cancer, and the treatment options.
 

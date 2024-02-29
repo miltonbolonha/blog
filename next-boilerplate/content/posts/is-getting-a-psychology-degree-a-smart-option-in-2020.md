@@ -19,7 +19,7 @@ Psychology is the study of the human mind, and is a particularly fascinating top
 
 But before you go ahead and sign yourself up, it’s important to understand more about what a psychology degree will actually entail. What career opportunities will this qualification provide? Is it a sought after degree? And what skills and knowledge will you gain?
 
-![](../uploads/2020/05/Psychology-degree.jpg)
+![](/posts/Psychology-degree.jpg)
 
 Read on, and we’ll address everything you need to know about getting a psychology degree in 2020.
 

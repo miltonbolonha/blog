@@ -17,7 +17,7 @@ image: Prepper-investment.jpg
 
 Investing is inherently risky, which means that you face the very real possibility of losing your hard earned cash. If you’re someone who believes in preparing for the worst – a so-called “prepper” – then what investments can you make that will allow you to sleep easy at night? In this post, we will examine this in detail.
 
-![](../uploads/2020/05/Prepper-investment-scaled.jpg)
+![](/posts/Prepper-investment-scaled.jpg)
 
 A prepper is someone who has taken it upon themselves to prepare for the worst outcomes. Be it a pandemic, nuclear war, an outbreak of disease, or another economic crash; the prepper is ready for the unexpected – whether that means stockpiling food, or keeping their investments secure.
 

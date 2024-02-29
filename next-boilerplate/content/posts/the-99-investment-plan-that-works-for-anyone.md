@@ -2,7 +2,8 @@
 title: "The $99 Investment Plan that Works for Anyone"
 date: "2015-05-20 12:42:37"
 author: "Deanna Madera"
-tag: []
+tag:
+  - General
 categories:
   - Investing
 description: ""

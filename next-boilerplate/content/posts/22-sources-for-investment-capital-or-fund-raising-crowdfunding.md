@@ -1,5 +1,5 @@
 ---
-title: "22 Sources For Investment Capital Or Fund Raising  &#8211; Crowdfunding"
+title: "22 Sources For Investment Capital Or Fund Raising  - Crowdfunding"
 date: "2016-02-16 09:23:47"
 author: "Deanna Madera"
 tag:

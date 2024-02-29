@@ -1,8 +1,9 @@
 ---
-title: "Retire By 29- It Ain&#8217;t That Hard if You Plan!"
+title: "Retire By 29- It Ain't That Hard if You Plan!"
 date: "2015-04-19 10:50:34"
 author: "Deanna Madera"
-tag: []
+tag:
+  - General
 categories:
   - Money
 description: ""

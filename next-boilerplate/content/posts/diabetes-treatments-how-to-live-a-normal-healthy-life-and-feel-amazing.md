@@ -16,7 +16,7 @@ image: Diabetes.jpg
 
 Suffering with diabetes is no joke. You feel constantly low on energy and can never eat the things you want to eat. Not only that but you’re at constant risk of multiple health complications including impaired eyesight, heart problems and even amputations. It’s a serious nightmare and anyone who has experienced it will know just how much it can interfere with your life. That’s why it’s so important to get on top of this condition as soon as you can, and to fight back. If you do that, you can still enjoy a great quality of life and even reverse some of the damage.
 
-![](../uploads/2020/05/Diabetes.jpg)
+![](/posts/Diabetes.jpg)
 
 Unfortunately, there is no cure for diabetes. Once you’ve been diagnosed, this is a lifelong condition. Diabetes treatments are centered around managing the symptoms then, but if you get this right, you can take better control of your life.
 

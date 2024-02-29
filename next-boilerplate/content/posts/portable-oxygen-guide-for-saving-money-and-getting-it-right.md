@@ -18,7 +18,7 @@ A portable oxygen generator is a device that can be used to provide oxygen thera
 
 This can be useful for those with asthma, chest infections, and a host of other breathing conditions. If you don’t know when you are going to suffer breathing difficulties, then having a portable oxygen generator (also called a portable oxygen concentrator) may be the difference between life and death.
 
-![](../uploads/2021/01/Oxygen-1024x683.jpg)That of course means that you don’t want to cut corners and end up investing in a sub-par product. But seeing as these are expensive and heavy devices, you also need to think carefully about what you can do to get the best deal possible.
+![](/posts/Oxygen.jpg)That of course means that you don’t want to cut corners and end up investing in a sub-par product. But seeing as these are expensive and heavy devices, you also need to think carefully about what you can do to get the best deal possible.
 
 Read on and we’ll take a look at some of the best tips for choosing a portable oxygen generator that will do a great job without breaking the bank.
 

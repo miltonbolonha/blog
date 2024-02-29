@@ -18,7 +18,7 @@ With a degree in criminal justice, you’ll be prepared for a number of exciting
 
 Don’t know what a criminal justice degree can do for you? Essentially, this is the degree you will take if you are interested in advancing a career in law enforcement. For those finishing school, this is a great choice for entering the force at a higher level, and receiving better pay and more interesting work as a result. For those already working as police officers or in related roles, this can be a great option for career advancement.
 
-![](../uploads/2020/12/crim-justice-1024x683.jpg)And because it’s not possible to get a criminal justice degree online, that means it’s more than possible to “learn while you earn.”
+![](/posts/crim-justice.jpg)And because it’s not possible to get a criminal justice degree online, that means it’s more than possible to “learn while you earn.”
 
 But just how much of a commitment will you be making? How intensive is this degree? And can it really make a big difference to your salary and prospects?
 

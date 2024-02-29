@@ -14,7 +14,7 @@ image: Cv-business.jpg
 
 Thanks to the internet, it’s now possible for anyone to become qualified in practically anything. This gives those willing to take the initiative the opportunity to make themselves significantly more competitive and employable. Why wait for your employer to send you on a training course, when you can study from the comfort of your own home? With an online business degree, you’ll be able to stand out in nearly any industry.
 
-![](../uploads/2021/01/Cv-business-1024x680.jpg)A business degree will teach you the fundamental basics of business. That means you’ll be able to perform better in any role, in any industry. You’ll understand why people buy products, you’ll know how to motivate your team, and you’ll be familiar with concepts like MVP, BOM, USP, and breakeven.
+![](/posts/Cv-business-1024x680.jpg)A business degree will teach you the fundamental basics of business. That means you’ll be able to perform better in any role, in any industry. You’ll understand why people buy products, you’ll know how to motivate your team, and you’ll be familiar with concepts like MVP, BOM, USP, and breakeven.
 
 In a time when employees will rarely stick with one employer for their entire careers, it’s increasingly unprofitable for organizations to pay for additional training for their staff. Thus, careers remain stifled and stagnant. By taking initiative and gaining online training, you can demonstrate your commitment, while also opening yourself up to other opportunities and higher-paid positions.
 

@@ -1,5 +1,5 @@
 ---
-title: "12 Signs You&#8217;ll Be Rich One Day"
+title: "12 Signs You'll Be Rich One Day"
 date: "2016-08-07 03:50:31"
 author: "Greyson F"
 tag:

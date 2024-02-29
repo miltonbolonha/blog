@@ -39,7 +39,7 @@ Glassdoor.com’s methodology to determine its ranking is “Based on a comparis
 
 ### Kansas City, Missouri
 
-![Kansas City best cities for jobs](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Kansas-City-Skyline-6101967-1024x683.jpg)  
+![Kansas City best cities for jobs](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Kansas-City-Skyline-6101967.jpg)  
 Kansas City, or K.C., is the largest city, and second largest metropolitan area, in the state of Missouri. The 18th and Vine Neighborhood gave birth to the musical styles of Kansas City jazz and Kansas City blues. It is also known for Kansas City-style barbecue.
 
 - Kansas City Job Openings 28,786
@@ -51,7 +51,7 @@ Kansas City, or K.C., is the largest city, and second largest metropolitan area,
 
 ### Oklahoma City, Oklahoma
 
-![Oklahoma city best cities for jobs](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Downtown-Oklahoma-City-29355374-1024x683.jpg)  
+![Oklahoma city best cities for jobs](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Downtown-Oklahoma-City-29355374.jpg)  
 Oklahoma City is the capital and largest city of the state of Oklahoma. Oklahoma City features one of the largest livestock markets in the world. Oil, natural gas, petroleum products and related industries are the largest sector of the local economy. Oklahoma City made the list of the best cities for jobs.
 
 - Oklahoma City Job Openings 16,759
@@ -63,7 +63,7 @@ Oklahoma City is the capital and largest city of the state of Oklahoma. Oklahoma
 
 ### Austin, Texas
 
-![Austin best cities for jobs](http://moderntips.com/wp-content/uploads/2016/01/bigstock-a-nice-clear-day-by-the-lake-austin-18985760-1024x683.jpg)  
+![Austin best cities for jobs](http://moderntips.com/wp-content/uploads/2016/01/bigstock-a-nice-clear-day-by-the-lake-austin-18985760.jpg)  
 Austin, the capital of Texas, is the 11th-most populous city in the U.S. and the fourth-most populous city in Texas. A number of Fortune 500 companies have headquarters or regional offices in Austin including Advanced Micro Devices, Apple Inc., Cisco, eBay, Google, IBM, Intel, Texas Instruments, 3M, Oracle Corporation and Whole Foods Market. Dell’s worldwide headquarters is located in nearby Round Rock, a suburb of Austin. No wonder Austin is one of the best cities for jobs.
 
 - Austin Job Openings 33,198

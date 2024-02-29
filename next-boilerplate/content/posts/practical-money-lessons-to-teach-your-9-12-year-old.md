@@ -33,7 +33,7 @@ Let’s start with a “savings” lesson and activities.
 
 ### Personal Information
 
-![Practical money lessons - personal information](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Mother-looking-after-son-doing-87393188-10-year-old-1024x683.jpg)  
+![Practical money lessons - personal information](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Mother-looking-after-son-doing-87393188-10-year-old.jpg)  
 **Practical Money Lesson**: Entering personal information, such as a bank or credit card number, on-line is very risky because someone could steal it.
 
 **Activities to reach milestone**:
@@ -58,7 +58,7 @@ Let’s start with a “savings” lesson and activities.
 
 ### Credit Card
 
-![Practical money lessons - credit card](http://moderntips.com/wp-content/uploads/2016/01/bigstock-A-young-buyer-with-colored-bag-107959439-1024x683.jpg)  
+![Practical money lessons - credit card](http://moderntips.com/wp-content/uploads/2016/01/bigstock-A-young-buyer-with-colored-bag-107959439.jpg)  
 **Practical Money Lesson**: Using a credit card is like taking out a loan. If you don’t pay your bill in full every month, you’ll be charged interest and owe more than you originally spent.
 
 **Activities to reach milestone**:

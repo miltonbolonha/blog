@@ -1,5 +1,5 @@
 ---
-title: "Don&#8217;t Give Away Your Old Jeans &#8211; Inventive Ways To Renew Old Jeans"
+title: "Don't Give Away Your Old Jeans &#8211; Inventive Ways To Renew Old Jeans"
 date: "2016-01-25 12:34:49"
 author: "Deanna Madera"
 tag:
@@ -14,7 +14,7 @@ layout: post
 image: bigstock-Naughty-Girl-96911699.jpg
 ---
 
-### Distressing![distressed jeans](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Woman-in-blue-jeans-on-bed-top-108075803-1024x683.jpg)
+### Distressing![distressed jeans](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Woman-in-blue-jeans-on-bed-top-108075803.jpg)
 
 Jeans are a special piece of clothing that can be worn for many occasions. While they usually wear great, they may get worn, lose their shape, or just go out of style. Before deciding to give away some of your favorite denims, you may want to consider some inventive and easy DIY ways to renew and make them again fashionable.
 
@@ -30,7 +30,7 @@ Distressing your old pair of denims is easily done at home with just a few simpl
 
 Embellish your old jeans or shorts with lace on the cuffs or the bottoms. Sew on beads and sequins in a fun pattern, or use fabric paint with a cute stencil design and decorate your shorts.
 
-### Create Shorts![jean shorts](http://moderntips.com/wp-content/uploads/2016/01/bigstock-blue-denim-shorts-on-a-hanger-86986409-1024x683.jpg)
+### Create Shorts![jean shorts](http://moderntips.com/wp-content/uploads/2016/01/bigstock-blue-denim-shorts-on-a-hanger-86986409.jpg)
 
 If the bottoms of your favorite jeans are permanently stained or worn beyond repair, consider making shorts. The best denims to choose from should fit comfortably in the hips, butt and thighs. Remember that baggy jeans will just become baggy shorts, and tight jeans will be still be tight shorts. Stretch jeans are not the best candidates to turn into shorts since they have rubber sew in the material. Decide what length you want:
 

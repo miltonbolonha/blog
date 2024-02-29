@@ -18,7 +18,7 @@ If you’re looking to save cash on bills, then reducing your cable and internet
 
 The truth is that a LOT of people pay by far over the odds for their internet and are still unhappy with the outcome! There are better deals out there, so keep reading.
 
-![](../uploads/2020/05/Cable-and-internet-scaled.jpg)
+![](/posts/Cable-and-internet-scaled.jpg)
 
 ## How to Get Cheaper Internet
 

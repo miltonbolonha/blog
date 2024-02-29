@@ -18,7 +18,7 @@ Looking to upgrade your personal transport? In this post, you’ll discover some
 
 When it comes to saving money on automobiles, many of us instantly assume that the best strategy will be to find a second-hand vehicle. Cars lose their value the moment they are driven out of the showroom, which means you can often get a great deal even if the car has done barely any miles! Most people are therefore _not_ looking for a new car when they’re trying to save cash.
 
-![](../uploads/2020/04/Best-New-2020-cars.jpg)
+![](/posts/Best-New-2020-cars.jpg)
 
 But this isn’t always the best strategy. In fact, buying new comes with a number of great advantages.
 

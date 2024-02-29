@@ -1041,3 +1041,8 @@ ins {
     display: flex;
   }
 }
+
+pre,
+code {
+  display: none !important;
+}

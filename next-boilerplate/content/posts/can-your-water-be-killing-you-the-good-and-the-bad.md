@@ -32,7 +32,7 @@ Distilled water has some great benefits when used in steam irons and humidifiers
 
 ### Bottled Water
 
-![Bottled water](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Image-of-many-plastic-bottles-13784084-1024x683.jpg)Are they all the same? Purified, mineral, and spring water? Bottle labels make claims such as “purified through a rigorous process,” “enhanced with minerals,” “purity guaranteed,” or “water filtered through mineral rich layers.” So what are the best bottled water brands and the ones that are best for your body? Facing a slump in sales of carbonated soft drinks due to health concerns, beverage companies are increasingly relying on bottled water revenue. According to the International Bottled Water Association (IBWA), total 2014 sales revenues for US bottled water were $13 billion in wholesale dollars. Americans consumed 12 billion gallons of bottled water, or about 34 gallons per person. The three largest beverage companies are:
+![Bottled water](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Image-of-many-plastic-bottles-13784084.jpg)Are they all the same? Purified, mineral, and spring water? Bottle labels make claims such as “purified through a rigorous process,” “enhanced with minerals,” “purity guaranteed,” or “water filtered through mineral rich layers.” So what are the best bottled water brands and the ones that are best for your body? Facing a slump in sales of carbonated soft drinks due to health concerns, beverage companies are increasingly relying on bottled water revenue. According to the International Bottled Water Association (IBWA), total 2014 sales revenues for US bottled water were $13 billion in wholesale dollars. Americans consumed 12 billion gallons of bottled water, or about 34 gallons per person. The three largest beverage companies are:
 
 - Nestlé – They produce bottled water under various brand names depending on the region. These brands include Arrowhead, Calistoga, Deer Park, Ice Mountain, Ozarka, Poland Spring, Pure Life, and Zephyrhills. Nestle says its Pure Life water is purified through a 12-step process, including reverse osmosis and distillation.
 - PepsiCo – Produces Aquafina. New labels will spell out _“public water source,”_ acknowledging the bottled brand’s shared origin with tap water. Aquafina is then purified through a seven-step process, stripping it of minerals and other contents commonly found in municipal water supply.
@@ -68,7 +68,7 @@ Bottled water with low pH levels (5.0 or under) include: Vitaminwater 3.4, Prope
 
 ### Filtered Water
 
-![Water filters](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Filter-system-for-water-treatm-60280706-1024x683.jpg)
+![Water filters](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Filter-system-for-water-treatm-60280706.jpg)
 
 Water filtered through reverse osmosis tends to be neutral and is acceptable for regular use provided minerals are supplemented.
 

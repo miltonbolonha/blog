@@ -19,7 +19,7 @@ Health insurance is something that everyone should have, no matter what age. Whe
 
 The older you become, the more important health insurance becomes. Unfortunately, risk of countless illnesses and conditions increases as you age, and so it’s crucial to ensure that you’re able to prepare for that. In this post, you’ll learn how to prepare for old age while looking after your health.
 
-![](../uploads/2021/01/health-ins-facts-1024x683.jpg)Here are the top health insurance facts seniors need to know.
+![](/posts/health-ins-facts.jpg)Here are the top health insurance facts seniors need to know.
 
 ## Health Insurance Gets More Expensive
 

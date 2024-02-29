@@ -16,7 +16,7 @@ image: 1200x628_voip_zoomonnumbers.jpg
 
 Most of us spend a lot of money on our phone bills, but don’t see any way to untether ourselves. These days, communication is constant and fundamental to our personal and business lives, and people expect to be able to get hold of us 24/7.
 
-![](../uploads/2019/02/1200x628_voip_zoomonnumbers.jpg)
+![](/posts/1200x628_voip_zoomonnumbers.jpg)
 
 But what if I told you there was a way to be just as available, while drastically lowering the amount you spend on your phone bill each month? The answer is VoIP or “Voice over Internet Protocol.” This basically means that you will be using WiFi to make calls instead of your phone plan, which in turn can save you a lot of money – especially when calling abroad.
 

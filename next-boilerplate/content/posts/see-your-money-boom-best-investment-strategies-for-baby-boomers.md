@@ -17,7 +17,7 @@ image: Baby-Boomers-investing.jpg
 
 If you are a “classic baby boomer,” then you are likely a committed and steady adult with a healthy amount of savings in the bank for a rainy day. In that case, this article should appeal to your sensibilities as an investor, while also providing the best potential outcomes for growing your pot.
 
-![](../uploads/2020/06/Baby-Boomers-investing.jpg)
+![](/posts/Baby-Boomers-investing.jpg)
 
 While the differences between millennials and baby boomers may sometimes be exaggerated, the truth is that the two generations certainly have very different approaches to careers, money, and investing. What this means, among other things, is that the ideal investment strategies for each group are going to be different. Baby boomers are considered to be wealthy, committed, steady, and competitive, especially when compared to their “flaky” and non-committal millennial counterparts.
 

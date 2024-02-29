@@ -18,7 +18,7 @@ If you want to save money, enjoy a luxurious ride, and get to experience the thr
 
 Why buy a new SUV in 2020? How is this a great deal? Keep reading and we’ll explore the answers to these questions.
 
-## ![](../uploads/2020/05/SUV-2-scaled.jpg)
+## ![](/posts/SUV-2-scaled.jpg)
 
 ## Why It Makes Financial and Practical Sense to Buy a New SUV in 2020
 

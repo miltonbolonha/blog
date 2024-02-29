@@ -27,7 +27,7 @@ image: hacker-cyber-criminal.jpg
 
 The new EVM credit cards being issued provide more security because the computer chip creates and encrypts a new number every time the card is used. The older cards stores payment data in the magnetic stripe on the back of the card. The magnetic stripe is easy to steal, replicate, and put on fake cards. Since everyone has not received a new card, credit card scams are poised to take advantage.
 
-<figure aria-describedby="caption-attachment-3291" class="wp-caption alignnone" id="attachment_3291" style="width: 640px">![EMV Credit Card Chip](http://moderntips.com/wp-content/uploads/2015/12/EMV-credit-card-1024x683.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3291">EMV Credit Card Chip</figcaption></figure>
+<figure aria-describedby="caption-attachment-3291" class="wp-caption alignnone" id="attachment_3291" style="width: 640px">![EMV Credit Card Chip](http://moderntips.com/wp-content/uploads/2015/12/EMV-credit-card.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3291">EMV Credit Card Chip</figcaption></figure>
 
 #### New Credit Card Chip Email Scam
 
