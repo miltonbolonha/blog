@@ -11,7 +11,7 @@ tag:
 description: ""
 layout: post
 categories:
-  - Health
+  - Frugality
   - Investing
   - Money
 ---

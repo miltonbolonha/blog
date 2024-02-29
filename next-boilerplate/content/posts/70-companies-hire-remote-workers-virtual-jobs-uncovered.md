@@ -12,7 +12,7 @@ tag:
 description: ""
 layout: post
 categories:
-  - Health
+  - Career
 ---
 
 A lot of people dream about working from home. There are many benefits including less wasted and unproductive time commuting to and from work. [Virtual jobs ](http://moderntips.com/the-virtual-office-and-why-youre-missing-out)provide the opportunity to work in the peace and harmony of your home. No more annoying office disruptions or having your boss look over your shoulder.

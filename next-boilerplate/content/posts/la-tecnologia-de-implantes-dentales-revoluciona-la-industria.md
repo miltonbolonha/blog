@@ -11,7 +11,7 @@ tdm_grid_status:
 description: ""
 layout: post
 categories:
-  - Health
+  - Sponsored
 ---
 
 Los avances actuales en la tecnología de implantes dentales han reducido el costo de fabricación y los han hecho más fuertes que nunca. Hace 15 años, sólo las partes dentales podrían costarle a su dentista más de $ 1000 por diente-hoy en día el mismo implante es más fuerte, dura más tiempo, puede ser modelado por computadora para que coincida con su tono y color y le cuesta al dentista sólo $150<sup>1</sup>

@@ -119,17 +119,10 @@ const SinglePostBlock = ({
                   className='excerpt'
                   dangerouslySetInnerHTML={{ __html: excerpt }}
                 />
-                <div id='rampjs_slot1'></div>
-
-                <a
-                  href='#'
-                  className='read-more'
-                  onClick={() => setReadMore(true)}
-                >
-                  Read More
-                </a>
               </>
-            ) : (
+            ) : null}
+            <div id='rampjs_slot1'></div>
+            {!promoNOread ? (
               <>
                 <Row
                   opt={{
@@ -169,13 +162,21 @@ const SinglePostBlock = ({
                 layoutKey="-6t+ed+2i-1n-4w"
               /> */}
 
-                <div id='rampjs_slot1'></div>
                 <div
                   className='post-article-content'
                   dangerouslySetInnerHTML={{ __html: replacedHtml }}
                 ></div>
               </>
-            )}
+            ) : null}
+            {promoNOread ? (
+              <a
+                href='#'
+                className='read-more'
+                onClick={() => setReadMore(true)}
+              >
+                Read More
+              </a>
+            ) : null}
           </div>
           <section className={`right-column ${promoNOread ? "none" : ""}`}>
             <div
@@ -246,7 +247,9 @@ const SinglePostBlock = ({
               />
             ) : null}
           </div>
-          <div className={`footer-highlights ${promoNEVERread ? "none" : ""}`}>
+          <div
+            className={`footer-highlights ${promoNEVERread || relatedPosts.length >= 5 ? "none" : ""}`}
+          >
             <h2>Explore</h2>
             <hr className='small-row' />
             <div className='inner-footer-highlights'>

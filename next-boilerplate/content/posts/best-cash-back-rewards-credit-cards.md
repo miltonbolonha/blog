@@ -10,7 +10,7 @@ tag:
 description: ""
 layout: post
 categories:
-  - Health
+  - Credit
 ---
 
 There are many factors to consider when selecting the best cash back rewards credit card. Credit card companies change their plans frequently, and most give the consumer a short window of opportunity to select their promotional plan.
