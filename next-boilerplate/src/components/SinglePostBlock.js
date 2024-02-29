@@ -62,7 +62,7 @@ const SinglePostBlock = ({
       <section>
         <div className={`main-post ${promoNOread ? "promoVisit" : ""}`}>
           <div className={`left-column ${promoNOread ? "none" : ""}`}>
-            <div className={`${promoNEVERread ? "none" : ""}`}>
+            <div className={`${promoNOread ? "none" : ""}`}>
               <TOCContainer
                 tocs={postHeadings}
                 // gtag={gtag}
@@ -194,7 +194,7 @@ const SinglePostBlock = ({
               ) : null}
             </div>
             <div
-              className={`desktop-only ${promoNEVERread || relatedPosts.length <= 1 ? "none" : ""}`}
+              className={`desktop-only ${promoNOread || relatedPosts.length <= 1 ? "none" : ""}`}
             >
               <h2>Related Posts</h2>
               <hr className='small-row' />
@@ -250,7 +250,7 @@ const SinglePostBlock = ({
             ) : null}
           </div>
           <div
-            className={`footer-highlights ${promoNEVERread || relatedPosts.length <= 6 ? "none" : ""}`}
+            className={`footer-highlights ${promoNOread || relatedPosts.length <= 6 ? "none" : ""}`}
           >
             <h2>Explore</h2>
             <hr className='small-row' />
