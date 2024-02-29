@@ -1,5 +1,5 @@
 ---
-title: "70 Companies That Hire Remote Workers &#8211; Virtual Jobs Uncovered"
+title: "70 Companies That Hire Remote Workers Virtual Jobs Uncovered"
 date: "2016-01-31 12:21:29"
 author: "Deanna Madera"
 image: bigstock-Young-Couple-Working-From-Home-12264929.jpg
@@ -12,7 +12,7 @@ tag:
 description: ""
 layout: post
 categories:
-  - Career
+  - Health
 ---
 
 A lot of people dream about working from home. There are many benefits including less wasted and unproductive time commuting to and from work. [Virtual jobs ](http://moderntips.com/the-virtual-office-and-why-youre-missing-out)provide the opportunity to work in the peace and harmony of your home. No more annoying office disruptions or having your boss look over your shoulder.

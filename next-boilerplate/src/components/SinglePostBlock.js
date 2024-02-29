@@ -11,20 +11,24 @@ import mainConfigs from "../configs/main-infos.json";
 import TOCContainer from "../containers/TOCContainer";
 import { Adsense } from "@ctrl/react-adsense";
 
-const X = () => (
+const RelatedPostsContainer = ({ slug, image, category, title }) => (
   <div id={`item-2`} className={`post column-post`}>
-    <a href={"/category"} className='media'>
+    <a href={"/" + slug} className='media'>
       <div
         className='media'
-        style={{ backgroundImage: `url(/posts/post-image.jpg)` }}
+        style={{ backgroundImage: `url(/posts/${image})` }}
       ></div>
     </a>
     <div className='main-post-inner caption'>
-      <a href={"category"} alt={"category"} className='post-category author'>
-        category
+      <a
+        href={slugify(category).toLowerCase()}
+        alt={category}
+        className='post-category author'
+      >
+        {category}
       </a>
-      <a href={"/cat"} className='post-link'>
-        <h2 className='title'>Here’s What You Need to Know About Medigap</h2>
+      <a href={"/" + slug} className='post-link'>
+        <h2 className='title'>{title}</h2>
       </a>
     </div>
   </div>
@@ -50,6 +54,8 @@ const SinglePostBlock = ({
   toggle,
   timeToRead,
   replacedHtml,
+  relatedPosts,
+  city,
 }) => {
   return (
     <article>
@@ -190,10 +196,22 @@ const SinglePostBlock = ({
               <h2>Related Posts</h2>
               <hr className='small-row' />
               <div className='inner-right-column'>
-                <X />
-                <X />
-                <X />
-                <X />
+                {relatedPosts.map((rp, rind) => {
+                  if (rind >= 0 && rind <= 4) {
+                    return (
+                      <RelatedPostsContainer
+                        slug={rp.slug}
+                        image={rp.image}
+                        category={rp.category}
+                        title={rp?.title?.replace(
+                          "{{city}}",
+                          city || "Los Angeles"
+                        )}
+                        key={rind}
+                      />
+                    );
+                  }
+                })}
               </div>
             </div>
 
@@ -232,10 +250,22 @@ const SinglePostBlock = ({
             <h2>Explore</h2>
             <hr className='small-row' />
             <div className='inner-footer-highlights'>
-              <X />
-              <X />
-              <X />
-              <X />
+              {relatedPosts.map((rp, rind) => {
+                if (rind >= 5 && rind <= 8) {
+                  return (
+                    <RelatedPostsContainer
+                      slug={rp.slug}
+                      image={rp.image}
+                      category={rp.category}
+                      title={rp?.title?.replace(
+                        "{{city}}",
+                        city || "Los Angeles"
+                      )}
+                      key={rind}
+                    />
+                  );
+                }
+              })}
             </div>
           </div>
         </div>

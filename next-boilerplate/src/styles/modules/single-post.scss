@@ -353,7 +353,7 @@
       font-weight: 300;
       color: $black;
       max-width: $page__size;
-      margin: 0 auto;
+      margin: 10px auto 0;
       @media (min-width: $media960) {
         width: 100%;
       }
@@ -381,6 +381,9 @@
       }
       em {
         font-style: italic;
+      }
+      ul {
+        margin-bottom: 20px;
       }
       ul.toc-list li,
       ul li {
@@ -495,4 +498,8 @@
       line-height: 23px;
     }
   }
+}
+
+.single-post header .main-header {
+  margin-bottom: 20px;
 }

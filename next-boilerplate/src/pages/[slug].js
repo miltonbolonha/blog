@@ -32,10 +32,24 @@ export const getStaticProps = async context => {
     throw new Error("Error: No !content!");
   }
 
+  const allPosts = getAllPosts();
+  if (allPosts === "") {
+    throw new Error("Error: No !allPosts!");
+  }
+  const thePost = allPosts.filter(function f(o) {
+    return o.slug === context.params.slug;
+  });
+  // console.log("o.slug");
+  // console.log(thePost);
+  const categoriesPosts = allPosts.filter(
+    p => p.frontmatter.categories[0] === thePost[0]?.frontmatter?.categories[0]
+  );
+
   return {
     props: {
       ...post,
       content,
+      categoriesPosts,
       // nextPost,
       // prevPost,
       // categoryIndex,

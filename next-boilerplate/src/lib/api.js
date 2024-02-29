@@ -12,8 +12,7 @@ const postsDirectory = join(process.cwd(), "content/posts");
 export function getPostBySlug(slug) {
   if (!slug) return null;
   const slugIncludes = slug.includes(".md", "");
-  console.log(slugIncludes);
-  console.log(slug);
+
   const realSlug = slugIncludes ? slug.replace(/\.md$/, "") : slug;
   const fullPath = join(postsDirectory, `${realSlug}.md`) || null;
 

@@ -29,6 +29,14 @@ const BlogPost = ({ post }) => {
   const pSelect = doc?.querySelector("p");
   const excerpt = pSelect?.childNodes[0]?._rawText;
 
+  let categoriesPosts = post.categoriesPosts.map(cat => ({
+    date: cat.date,
+    title: cat.frontmatter.title,
+    image: cat.frontmatter.image,
+    category: cat.frontmatter.categories[0],
+    slug: cat.slug,
+  }));
+
   const title = post?.frontmatter?.title.replace(
     "{{city}}",
     city || "Los Angeles"
@@ -153,6 +161,8 @@ const BlogPost = ({ post }) => {
             topic={post?.frontmatter?.tag[0]}
             excerpt={excerpt}
             parseContent={doc}
+            relatedPosts={categoriesPosts}
+            city={city}
           />
         ) : null}
 

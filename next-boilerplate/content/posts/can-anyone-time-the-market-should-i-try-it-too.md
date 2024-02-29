@@ -7,7 +7,7 @@ tag: []
 description: ""
 layout: post
 categories:
-  - Investing
+  - Health
 ---
 
 ![market timing](http://mt2.wpengine.com/wp-content/uploads/2015/03/market-timing.jpg)

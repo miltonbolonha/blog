@@ -16,6 +16,8 @@ const SinglePostBlock = ({
   topic,
   excerpt,
   parseContent,
+  relatedPosts,
+  city,
 }) => {
   const [toggle, setToggle] = useState(false);
   const doc = parseContent;
@@ -28,7 +30,7 @@ const SinglePostBlock = ({
     return setToggle(!toggle);
   }
   const reduce = postHeadings?.length >= 4 ? postHeadings?.length - 3 : 2;
-  const timeToRead = (text) => {
+  const timeToRead = text => {
     const words = text.split(" ");
     const minutes = Math.floor(words.length / 200);
     return minutes;
@@ -40,12 +42,13 @@ const SinglePostBlock = ({
   const replacedHtml = searchReplace
     ? html.replace(
         searchReplace,
-        `${ReactDOMServer.renderToString(<div id="rampjs_slot2"></div>)}${searchReplace}`,
+        `${ReactDOMServer.renderToString(<div id='rampjs_slot2'></div>)}${searchReplace}`
       )
     : html;
   const promoNOread = promoVisitState === true && readMore === false;
   const promoNEVERread = promoVisitState === true && readMore !== null;
   const noPromoNEVERread = promoVisitState === false && readMore === null;
+
   return (
     <SinglePost
       highlightImage={highlightImage}
@@ -67,6 +70,8 @@ const SinglePostBlock = ({
       timeToRead={timeToRead(doc.text)}
       toggle={toggle}
       replacedHtml={replacedHtml}
+      relatedPosts={relatedPosts}
+      city={city}
     />
   );
 };
