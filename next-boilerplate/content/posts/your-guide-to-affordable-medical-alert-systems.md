@@ -2,15 +2,17 @@
 title: "Your Guide to Affordable Medical Alert Systems"
 date: "2020-04-30 09:33:05"
 author: "Greyson F"
-image: stairs-932806_1920.jpg
 tag:
   - elderly
   - emergency
   - "Medical alert"
-description: ""
-layout: post
+tdc_google_fonts:
+  - "a:0:{}"
 categories:
   - Frugality
+description: ""
+layout: post
+image: stairs-932806_1920.jpg
 ---
 
 Medical alert systems, also called medical alarm systems, are devices that can save lives and provide peace of mind – especially for those who are living with chronic illness or mobility issues.

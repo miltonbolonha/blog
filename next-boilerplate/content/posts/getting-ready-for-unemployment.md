@@ -2,12 +2,12 @@
 title: "Getting Ready for Unemployment"
 date: "2016-03-31 13:28:01"
 author: "Deanna Madera"
-image: unemployed.jpg
 tag: []
-description: ""
-layout: post
 categories:
   - Career
+description: ""
+layout: post
+image: unemployed.jpg
 ---
 
 ![unemployed](http://mt2.wpengine.com/wp-content/uploads/2015/03/unemployed.jpg)

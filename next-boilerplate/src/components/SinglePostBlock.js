@@ -193,7 +193,9 @@ const SinglePostBlock = ({
                 />
               ) : null}
             </div>
-            <div className={`desktop-only ${promoNEVERread ? "none" : ""}`}>
+            <div
+              className={`desktop-only ${promoNEVERread || relatedPosts.length <= 1 ? "none" : ""}`}
+            >
               <h2>Related Posts</h2>
               <hr className='small-row' />
               <div className='inner-right-column'>
@@ -248,7 +250,7 @@ const SinglePostBlock = ({
             ) : null}
           </div>
           <div
-            className={`footer-highlights ${promoNEVERread || relatedPosts.length >= 5 ? "none" : ""}`}
+            className={`footer-highlights ${promoNEVERread || relatedPosts.length <= 6 ? "none" : ""}`}
           >
             <h2>Explore</h2>
             <hr className='small-row' />

@@ -2,16 +2,16 @@
 title: "La tecnología de implantes dentales revoluciona la industria"
 date: "2020-09-09 11:22:23"
 author: "Deanna Madera"
-image: 1200x628_dentures_techleft_rightinstall.jpg
 tag: []
 tdm_status:
   - ""
 tdm_grid_status:
   - ""
-description: ""
-layout: post
 categories:
   - Sponsored
+description: ""
+layout: post
+image: 1200x628_dentures_techleft_rightinstall.jpg
 ---
 
 Los avances actuales en la tecnología de implantes dentales han reducido el costo de fabricación y los han hecho más fuertes que nunca. Hace 15 años, sólo las partes dentales podrían costarle a su dentista más de $ 1000 por diente-hoy en día el mismo implante es más fuerte, dura más tiempo, puede ser modelado por computadora para que coincida con su tono y color y le cuesta al dentista sólo $150<sup>1</sup>

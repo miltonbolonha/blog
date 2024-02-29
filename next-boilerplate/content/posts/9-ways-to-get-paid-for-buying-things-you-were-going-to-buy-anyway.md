@@ -2,14 +2,16 @@
 title: "9 Ways to Get Paid for Buying Things You were Going to Buy Anyway"
 date: "2016-07-05 04:11:58"
 author: "Greyson F"
-image: featured-get-paid.jpg
 tag:
   - "get paid"
   - "make money"
-description: ""
-layout: post
+tdc_google_fonts:
+  - "a:0:{}"
 categories:
   - Frugality
+description: ""
+layout: post
+image: featured-get-paid.jpg
 ---
 
 ### Ebates

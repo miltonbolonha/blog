@@ -2,18 +2,20 @@
 title: "10 Money Tips from Warren Buffet"
 date: "2018-12-11 15:01:40"
 author: "Greyson F"
-image: Warren_Buffett-e1476226482436.jpg
 tag:
   - billionaire
   - tips
   - "warren buffet"
   - wealth
-description: ""
-layout: post
+tdc_google_fonts:
+  - "a:0:{}"
 categories:
   - Frugality
   - Investing
   - Money
+description: ""
+layout: post
+image: Warren_Buffett-e1476226482436.jpg
 ---
 
 ### Buying Stocks in New Companies

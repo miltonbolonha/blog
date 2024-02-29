@@ -2,17 +2,17 @@
 title: "How To Get Free Baby Diapers And More"
 date: "2016-02-07 12:08:53"
 author: "Deanna Madera"
-image: diapers.jpg
 tag:
   - diapers
   - free
   - "free diapers"
   - parents
   - "save money"
-description: ""
-layout: post
 categories:
   - Frugality
+description: ""
+layout: post
+image: diapers.jpg
 ---
 
 ![Free diapers](http://mt2.wpengine.com/wp-content/uploads/2015/12/diapers-1024x685.jpg)The number of diapers a baby goes through until they are potty trained is staggering, only to be surpassed by the cost. Parents spend an average of $3,300 on disposable baby diapers and wipes by the time their child reaches 3, according to BabyCenter’s baby calculator. Here’s how to snag some free diapers, wipes and save money.

@@ -1,8 +1,7 @@
 ---
-title: "12 Signs You'll Be Rich One Day"
+title: "12 Signs You&#8217;ll Be Rich One Day"
 date: "2016-08-07 03:50:31"
 author: "Greyson F"
-image: 6-Cheers-rich.jpg
 tag:
   - attractive
   - blonde
@@ -13,10 +12,13 @@ tag:
   - Russian
   - "top signs"
   - "you'll be rich"
-description: ""
-layout: post
+tdc_google_fonts:
+  - "a:0:{}"
 categories:
   - Money
+description: ""
+layout: post
+image: 6-Cheers-rich.jpg
 ---
 
 ### Being Attractive Helps
@@ -88,6 +90,6 @@ This is specifically for women, but blonde women make about seven percent more t
 
 ### Ditch the Cigs
 
-![12 Ditch the Cigs rich - http://www.shutterstock.com/pic-110076689/stock-photo-concept-photo-of-a-man-quitting-smoking-by-breaking-a-cigarette.html](/posts/12-Ditch-the-Cigs-rich.jpg)
+<figure aria-describedby="caption-attachment-4002" class="wp-caption alignnone" id="attachment_4002" style="width: 700px">![12 Ditch the Cigs rich](http://moderntips.com/wp-content/uploads/2016/07/12-Ditch-the-Cigs-rich.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4002">[ChameleonsEye](http://www.shutterstock.com/pic-110076689/stock-photo-concept-photo-of-a-man-quitting-smoking-by-breaking-a-cigarette.html)</figcaption></figure>
 
 If you currently smoke, it might be time to quit. Non-smokers have a net worth of 50 percent more than light smokers and make 100 percent more than heavy smokers. If your health isn’t a factor in helping you quit smoking, the amount of money you miss out on should be. This is one of the factors you do have a say in.

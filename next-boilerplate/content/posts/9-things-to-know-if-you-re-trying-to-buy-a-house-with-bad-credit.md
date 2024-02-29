@@ -1,19 +1,21 @@
 ---
-title: "9 Things to Know If You're Trying to Buy a House with Bad Credit"
+title: "9 Things to Know If You&#8217;re Trying to Buy a House with Bad Credit"
 date: "2016-07-12 05:48:15"
 author: "Sarah H"
-image: 5-You’ll-have-less-purchasing-power-bad-credit.jpg
 tag:
   - credit
   - "credit score"
   - "home buying"
   - mortgage
-description: ""
-layout: post
+tdc_google_fonts:
+  - "a:0:{}"
 categories:
   - Credit
   - Investing
   - Money
+description: ""
+layout: post
+image: 5-You’ll-have-less-purchasing-power-bad-credit.jpg
 ---
 
 ### Finding a mortgage will be hard

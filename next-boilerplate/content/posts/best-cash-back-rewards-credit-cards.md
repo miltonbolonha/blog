@@ -2,15 +2,15 @@
 title: "Best Cash Back Rewards Credit Cards"
 date: "2016-02-02 09:44:02"
 author: "Deanna Madera"
-image: bigstock-shopping-sale-banking-money-75180361.jpg
 tag:
   - "cash back card"
   - "Credit card"
   - "rewards program"
-description: ""
-layout: post
 categories:
   - Credit
+description: ""
+layout: post
+image: bigstock-shopping-sale-banking-money-75180361.jpg
 ---
 
 There are many factors to consider when selecting the best cash back rewards credit card. Credit card companies change their plans frequently, and most give the consumer a short window of opportunity to select their promotional plan.

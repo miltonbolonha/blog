@@ -2,12 +2,12 @@
 title: "Can Anyone Time the Market? Should I Try it Too?"
 date: "2016-05-05 12:46:31"
 author: "Deanna Madera"
-image: market-timing.jpg
 tag: []
-description: ""
-layout: post
 categories:
   - Investing
+description: ""
+layout: post
+image: market-timing.jpg
 ---
 
 ![market timing](http://mt2.wpengine.com/wp-content/uploads/2015/03/market-timing.jpg)

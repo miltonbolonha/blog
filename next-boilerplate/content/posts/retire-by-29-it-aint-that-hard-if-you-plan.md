@@ -1,14 +1,16 @@
 ---
-title: "Retire By 29- It Ain't That Hard if You Plan!"
+title: "Retire By 29- It Ain&#8217;t That Hard if You Plan!"
 date: "2015-04-19 10:50:34"
 author: "Deanna Madera"
-image: early-retirement.jpg
 tag: []
-description: ""
-layout: post
 categories:
   - Money
+description: ""
+layout: post
+image: early-retirement.jpg
 ---
+
+![early retirement](http://mt2.wpengine.com/wp-content/uploads/2015/03/early-retirement.jpg)
 
 The word retirement send shivers up the spines of most people because of the amount of time and effort it will take most, if not all of us to get there. This traditional-based kind of thinking shouldn’t be something that limits you. Retiring early, even in your thirties is possible, as long as you make some smart decisions earlier on in life. In this post, we’ll take a look at some vital tips to help you retire in your thirties.
 

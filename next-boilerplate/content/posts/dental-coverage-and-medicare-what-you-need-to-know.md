@@ -2,14 +2,16 @@
 title: "Dental Coverage and Medicare: What You Need to Know"
 date: "2020-04-08 12:41:49"
 author: "Deborah Woehr"
-image: dental-medicare.jpg
 tag:
   - "dental plan"
   - medicare
-description: ""
-layout: post
+tdc_google_fonts:
+  - "a:0:{}"
 categories:
   - Health
+description: ""
+layout: post
+image: dental-medicare.jpg
 ---
 
 Medicare is a program that offers medical coverage for those over 65. This can cover a number of medical expenses, including hospital bills, prescription medications, and more. But while Medicare is a useful and important tool for looking after your health as you age, it is far from comprehensive. Importantly: it doesn’t cover the cost of dental care.
