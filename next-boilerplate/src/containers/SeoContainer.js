@@ -47,7 +47,7 @@ const SeoContainer = ({ data, killSeo = true }) => {
     {
       "@type": "WebSite",
       "@context": "https://schema.org",
-      name: data?.title,
+      name: data?.brandName,
       description: data?.brandDescription,
       url: data?.siteUrl,
       keywords: [data?.keywords.map(e => e)],
@@ -55,7 +55,7 @@ const SeoContainer = ({ data, killSeo = true }) => {
       copyrightYear: new Date().getFullYear(),
       datePublished: data?.dateCreated,
       dateModified: data?.dateNow,
-      image: data?.featuredImage || data?.brandCardImage,
+      image: data?.brandCardImage,
       sameAs: socialValues,
     },
   ];

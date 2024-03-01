@@ -63,17 +63,18 @@ const BlogPost = ({ post }) => {
     brandPhone: business.brandPhone,
     brandDescription: business.brandDescription,
     brandLogo: `${website.siteUrl}/${business.brandLogo}`,
-    brandCardImage: `${website.siteUrl}/brandimages/pages/${business.brandCardImage}`,
-    featuredImage: `${website.siteUrl}/brandimages/posts/${post?.frontmatter?.image}`,
+    brandCardImage: `${website.siteUrl}/${business.brandCardImage}`,
+    featuredImage: `${website.siteUrl}/posts/${post?.frontmatter?.image}`,
     datePublished: website.datePublished,
     i18n: website.i18n,
     keywords: post?.frontmatter?.tag || website.keywords,
     questions: [],
-    topology: null,
+    topology: "pages",
     articleUrl: `${website.siteUrl}/${index?.slug}`,
     themeColor: website.themeColor,
     sameAs: business.sameAs,
     twitter: business.shortName,
+    articleBody: post?.content,
   };
 
   useEffect(() => {
