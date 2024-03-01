@@ -7,13 +7,13 @@
     "siteUrl": "https://develop.moderntips.com",
     "author": "Modern Tips",
     "i18n": "en-US",
-    "themeColor": "#f26500",
+    "themeColor": "#3cb8ff",
     "postsToShow": 9,
     "keywords": ["Modern Tips"],
     "questions": [
       "What is Modern Tips?:Modern Tips is a strategic design agency."
     ],
-    "datePublished": "02/01/2024",
+    "datePublished": "03/01/2024",
     "errorMessage": "Hmm... something is wrong, try again later or e-mail us: general@moderntipss.com",
     "successMessage": "Thank you for your message. We will reach you soon."
   },
@@ -51,10 +51,10 @@
     "hasMenu": true,
     "index": {
       "feedBackSubject": "Modern Tips - Message Request",
-      "feedbackEmail": "renato.quintal@moderntips.com",
+      "feedbackEmail": "general@moderntips.com",
       "calendlyLink": null,
       "topRibbon": {
-        "text": "Let's make your business stand out?",
+        "text": "Label text?",
         "highlight": "Click here",
         "linkHighlight": "/#explore",
         "arrow": true
@@ -65,29 +65,17 @@
       "headline": "Design that has real impact",
       "slug": "/",
       "featureImage": "cover.png",
-      "secondHeadline": "Design isn't merely about creating visually appealing boards. It's about delivering tangible results for brands.",
+      "secondHeadline": "Modern Tips.",
       "footerHighlight": {
         "title": "Design that has real impact",
-        "paragraph": "<strong>Design isn't merely about creating visually appealing boards. it's about delivering tangible results for brands.</strong><br />",
+        "paragraph": "<strong>Modern Tips.</strong><br />",
         "cta": false,
-        "blckBtn": "Explore our services"
+        "blckBtn": "Label for Black BTN"
       },
       "faq": [
         {
-          "q": "Do we provide other services?",
-          "a": "Yes we can do any type of graphic design service, per request."
-        },
-        {
-          "q": "Who is going to be my POC during the process?",
-          "a": "The person who's going to follow your process and maintain regular contact with you, depends on the process. Renato is in charge of CRO clients and Inês is in charge of SMM clients."
-        },
-        {
-          "q": "Do you offer free consultation or audits before starting a project?",
-          "a": "When you jump on a call with us, we can make a high-level audit about your specific situation if we see that's needed. But if you need a deep audit and a comprehensive report you will have to buy our services."
-        },
-        {
-          "q": "What kind of support or maintenance do you offer post-implementation of CRO strategies or Social Media Management?",
-          "a": "Unfortanelly, we can only provide maintenance or customized support as long as we are providing the services to you. That's why we have monthly on-going services. But you can always count on Renato and Inês for business advice or any question you may have on the future."
+          "q": "q?",
+          "a": "Yes."
         }
       ]
     }

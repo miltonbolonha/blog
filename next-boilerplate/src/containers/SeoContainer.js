@@ -1,7 +1,7 @@
 import React from "react";
 import SEO from "../components/SEO";
 import Head from "next/head";
-
+import mainInfos from "../configs/main-infos.json";
 const SeoContainer = ({ data, killSeo = true }) => {
   // const isBrowser = () => typeof window !== "undefined";
   // if (!isBrowser) {
@@ -50,7 +50,7 @@ const SeoContainer = ({ data, killSeo = true }) => {
       name: data?.brandName,
       description: data?.brandDescription,
       url: data?.siteUrl,
-      keywords: [data?.keywords.map(e => e)],
+      keywords: [mainInfos?.website.keywords.map(e => e)],
       inLanguage: data?.i18n,
       copyrightYear: new Date().getFullYear(),
       datePublished: data?.dateCreated,
