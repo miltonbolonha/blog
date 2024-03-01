@@ -7,6 +7,7 @@ tag:
 categories:
   - General
 description: ""
+image: money-cars.jpg
 layout: post
 ---
 

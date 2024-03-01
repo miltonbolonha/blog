@@ -1,5 +1,5 @@
 ---
-title: "What <state></state> Seniors Need To Know About Medicare"
+title: "What Seniors Need To Know About Medicare"
 date: "2020-10-16 08:45:47"
 author: "Deanna Madera"
 tag:
