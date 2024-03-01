@@ -25,7 +25,9 @@ Over the last few years, developers have been building senior communities in ant
 
 ![](/posts/1080x1080_trendycommunity.jpg)</div><div class="cta-textcover">Senior Living Homes</div>](#)</div><figure class="wp-block-image" style="margin-top:25px">
 
-![](/posts/1200x628_seniordiscounts_eatingrestaurantseniors.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">
+![](/posts/1200x628_seniordiscounts_eatingrestaurantseniors.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
+
+[<div class="cta-imagecover">
 
 ![](/posts/1080x1080_seniorliving_woodkitchen.jpg)</div><div class="cta-textcover"><city></city> Senior Living Offers</div>](#)</div>**Drastic Overbuilding Is Common Across the Country**
 

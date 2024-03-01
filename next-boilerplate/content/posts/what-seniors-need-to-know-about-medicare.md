@@ -17,7 +17,9 @@ Medicare open enrollment period is here. Open enrollment runs from October 15 to
 
 [<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Options</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Plans Cost</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Supplement Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Offers</div>](#)</div>
 
-![](/posts/1200x628_seniordiscounts_eyeexammedicare.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Plans And Changes</div>](#)</div>Take some time to think about what you need from Medicare. Consider your current insurance, health expenses, and the Medicare options to choose between.
+![](/posts/1200x628_seniordiscounts_eyeexammedicare.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
+
+[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Plans And Changes</div>](#)</div>Take some time to think about what you need from Medicare. Consider your current insurance, health expenses, and the Medicare options to choose between.
 
 ## **Am I Eligible for Medicare?**
 

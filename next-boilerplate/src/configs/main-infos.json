@@ -18,6 +18,9 @@
     "successMessage": "Thank you for your message. We will reach you soon."
   },
   "business": {
+    "ramp": {
+      "testMode": true
+    },
     "adClient": "ca-pub-4309295381222992",
     "gaID": "G-WFBMSN7KBE",
     "brandPerson": "Modern Tips",

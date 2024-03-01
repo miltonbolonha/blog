@@ -17,7 +17,9 @@ image: 1200x627_cruises_old_coupleselfie.jpg
 
 [<div style="flex: 1;margin-right:18px;line-height:21px;">Affordable Cruises</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Cruise Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Cheap Last Minute Cruises</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Caribbean Cruises</div>](#)</div><figure class="wp-block-image" style="margin-top:25px">
 
-![](/posts/1200x627_cruises_old_coupleselfie.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;">Cruise Offers</div>](#)</div>You might think that there’s no way you could afford a cruise…But now it’s easier than ever to get a great deal thanks to the growing supply of cruise ships – and the shrinking demand for cruises.
+![](/posts/1200x627_cruises_old_coupleselfie.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
+
+[<div style="flex: 1;margin-right:18px;line-height:21px;">Cruise Offers</div>](#)</div>You might think that there’s no way you could afford a cruise…But now it’s easier than ever to get a great deal thanks to the growing supply of cruise ships – and the shrinking demand for cruises.
 
 ## Why Is Now The Best Time to Take A Cruise?
 

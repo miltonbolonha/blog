@@ -27,7 +27,9 @@ Today’s breakthroughs in dental implant technology have driven down the cost t
 
 ![](/posts/1200x628_dentures_techleft_rightinstall.jpg)### **The Old Dental Implant Industry**
 
-<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">
+<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
+
+[<div class="cta-imagecover">
 
 ![](/posts/1080x1080_bluebg_fullmouth.jpg)</div><div class="cta-textcover">Dental Implants Near Me</div>](#)</div>In the early 2000s, the implants your dentist would purchase could cost $600 for the implant, $300 for stock abutments, and $50 for a healing abutment. The implant manufacturers would even charge $50 for a single screw cover. $50 sounds crazy for the cost of a single screw.
 

@@ -28,7 +28,9 @@ Regardless of why you need an attorney, it’s important that you find an afford
 
 Specialization matters. You can start by asking for referrals from friends and family members, but you need to know the type of attorney you need. Do you need a criminal attorney? Or a divorce attorney? Some attorneys specialize in different things, but they will rarely take cases outside their specialization. No attorney can know everything about everything, and you need the best attorney possible to represent you.
 
-<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">
+<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
+
+[<div class="cta-imagecover">
 
 ![](/posts/1080x1080_attorney_attorneynearme.jpg)</div><div class="cta-textcover">Attorney Near <city>Me</city></div>](#)</div>What if no one you know is able to recommend an attorney? You can go through your local bar association.
 

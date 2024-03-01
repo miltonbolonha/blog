@@ -19,7 +19,9 @@ You should never think TV advertised prices are the lowest – many new car deal
 
 ## <div class="cta-btn-wrap" data-mobile-sponsoredads="no"> [<div style="flex: 1;margin-right:18px;line-height:21px;">2019 Luxury SUV Offers</div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">SUV Price 2020</div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">2019 SUV Offers </div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">2020 SUV Pricing</div>](#) </div><figure class="wp-block-image" style="margin-top:25px">
 
-![](/posts/cars.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> SUV Offers</div>](#)</div>Supply and Demand
+![](/posts/cars.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
+
+[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> SUV Offers</div>](#)</div>Supply and Demand
 
 Let’s face it, in today’s economy, SUV sales have been down in the wake of The Great Recession. As the economy slowly got better, SUV sales picked up a little. However, that growth is now stalled and the industry is believed to have already peaked. GM and Ford, the two largest automakers in the U.S., both saw declining sales last year<sup>1</sup>.
 

@@ -30,7 +30,9 @@ COVID has impacted every aspect of our lives. For those trying to complete their
 
 ![](/posts/1080x1080_onlinedegree_education_teacherwithstudents.jpg)</div><div class="cta-textcover">Online Education Degree</div>](#)[<div class="cta-imagecover">
 
-![](/posts/1080x1080_onlinedegree_nurse.jpg)</div><div class="cta-textcover">Nursing Programs Online</div>](#)</div><figure class="wp-block-image size-large" style="margin-top:30px">[![](/posts/1200x628_ondeg_university_steps.jpg)](/posts/1200x628_ondeg_university_steps.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;">Online Schools</div>](#)</div>**Added Convenience**
+![](/posts/1080x1080_onlinedegree_nurse.jpg)</div><div class="cta-textcover">Nursing Programs Online</div>](#)</div><figure class="wp-block-image size-large" style="margin-top:30px">[![](/posts/1200x628_ondeg_university_steps.jpg)](/posts/1200x628_ondeg_university_steps.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
+
+[<div style="flex: 1;margin-right:18px;line-height:21px;">Online Schools</div>](#)</div>**Added Convenience**
 
 Online degree programs offer a level of convenience that on-campus classes don’t. There is no commute to and from class. Students can attend from almost anywhere and if they are already employed, can continue to work their regular schedule. Online courses also provide additional resources students can refer back to if they have questions or are looking for suggestions on how to complete an assignment. The online learning platform makes it easy for them to communicate with faculty members or find out when assignments are due.
 

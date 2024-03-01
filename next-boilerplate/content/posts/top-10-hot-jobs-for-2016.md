@@ -22,7 +22,7 @@ Roughly 6,000 companies are expected to hire for an estimated 4.4 million IT job
 
 ### ELECTRICAL ENGINEER JOBS
 
-![Electrical-Engineering- jobs](/posts/Electrical-Engineering--1024x685.jpg)  
+![Electrical-Engineering- jobs](/posts/Electrical-Engineering-.jpg)  
 While demand for electrical engineers is expected to be strongest in Chicago, Houston and San Diego, the greatest supply of candidates will likely be in Los Angeles and New York, thus creating an imbalance, reported Randstad US, which also estimates that there are currently 17 openings for every electrical engineering candidate.
 
 ### GENERAL AND OPERATIONS MANAGER

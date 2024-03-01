@@ -17,7 +17,9 @@ El período de inscripción abierta de Medicare ya casi está aquí. Las inscrip
 
 [<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Plans And Changes</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Plans Cost</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Supplement Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Options</div>](#)</div>
 
-![](/posts/1200x628_seniordiscounts_eyeexammedicare.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Plans And Changes</div>](#)</div>Tómese un tiempo para pensar sobre lo que usted necesita de Medicare. Considere su seguro actual, sus gastos médicos, y las opciones de Medicare que tiene para elegir.
+![](/posts/1200x628_seniordiscounts_eyeexammedicare.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
+
+[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Plans And Changes</div>](#)</div>Tómese un tiempo para pensar sobre lo que usted necesita de Medicare. Considere su seguro actual, sus gastos médicos, y las opciones de Medicare que tiene para elegir.
 
 ## **\*\***¿Soy elegible para Medicare?**\*\***
 

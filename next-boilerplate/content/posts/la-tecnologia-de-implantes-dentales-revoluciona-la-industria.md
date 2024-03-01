@@ -27,7 +27,9 @@ Los avances actuales en la tecnología de implantes dentales han reducido el cos
 
 ![](/posts/1200x628_dentures_techleft_rightinstall.jpg)**La industria de implantes dentales antigua**
 
-<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">
+<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
+
+[<div class="cta-imagecover">
 
 ![](/posts/1080x1080_bluebg_fullmouth.jpg)</div><div class="cta-textcover">Dental Implants Near Me</div>](#)</div>A principios de la década del 2000, los implantes que su dentista compraría podrían costar $600 por el implante, $300 por los pilares estándar y $50 por un pilar de curación – ¡y luego los dentistas tienen que hacer dinero, por lo que podrían haberle cobrado cerca de $2500 por diente! ¿Cómo es posible que alguien pueda pagar eso? ¿Te imaginas? ¡Te costaría más de $80,000 ponerte implantes en todos los dientes! Los dentistas se encontraban en una mala situación – querían ayudar a sus pacientes, pero el costo de los implantes reales era tan alto y necesitaban ganar dinero en el procedimiento por lo que simplemente no era accesible a menos que usted fuera rico.
 

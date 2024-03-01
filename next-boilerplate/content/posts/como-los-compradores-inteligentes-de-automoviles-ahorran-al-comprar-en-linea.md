@@ -25,7 +25,9 @@ image: cars.jpg
 
 ![](/posts/1080x1080_SUV_aeril_dealer.jpg)</div><div class="cta-textcover">Unsold SUV Offers</div>](#)</div>
 
-![](/posts/cars.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">
+![](/posts/cars.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
+
+[<div class="cta-imagecover">
 
 ![](/posts/1080x1080_newcar_wrapped_ontrain.jpg)</div><div class="cta-textcover">Unsold 2020 SUV Pricing</div>](#)</div>Si vas a un concesionario de autos pensando que el precio más bajo es el que se anuncia en la televisión, lo más probable es que vas a terminar pagando miles más de lo que necesitas.
 

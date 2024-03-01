@@ -25,7 +25,9 @@ Individuals with diabetes now have more options than ever before when it comes t
 
 ![](/posts/1080x1080_diabetestreatment_feetbottoms.jpg)</div><div class="cta-textcover">First Signs of Diabetes Type 2 and Treatment</div>](#)</div>
 
-![](/posts/1200x627_diabetestreatment_usbwithpancreas-1.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">
+![](/posts/1200x627_diabetestreatment_usbwithpancreas-1.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
+
+[<div class="cta-imagecover">
 
 ![](/posts/1080x1080_diabetestreatment_insulindiagram.jpg)</div><div class="cta-textcover">A1C Level Treatments for Type 2 Diabetes</div>](#)</div>In the past, there were only a few proven methods patients could confidently use to manage the symptoms they experienced. But now, people who have been diagnosed with Type 2 diabetes can find treatment options that work best for their individual diagnosis. Working with their doctor will allow them to try different options to see which one (or two) works best for them.
 

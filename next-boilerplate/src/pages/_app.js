@@ -51,7 +51,7 @@ function App({ Component, pageProps }) {
           __html: `
           (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
             arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-            _rampJs({testMode: true});
+            _rampJs({testMode: ${mainInfos.website.ramp.testMode}});
         `,
         }}
       />

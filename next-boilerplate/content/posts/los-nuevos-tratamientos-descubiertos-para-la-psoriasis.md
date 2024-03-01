@@ -23,7 +23,9 @@ Ya se están usando unas opciones innovadoras de tratamientos para mantener la p
 
 ![](/posts/1080x1080_psoriasis_laserface.jpg)</div><div class="cta-textcover">Skin Care for Psoriasis on Face</div>](#)[<div class="cta-imagecover">
 
-![](/posts/1080x1080_psoriasis_dandruffscalp.jpg)</div><div class="cta-textcover">Treatment for Scalp Psoriasis</div>](#)</div><figure class="wp-block-image size-large" style="margin-top:25px">[![](/posts/1200x630_psoriasis_women_itchy_arm.jpg)](/posts/1200x630_psoriasis_women_itchy_arm.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">
+![](/posts/1080x1080_psoriasis_dandruffscalp.jpg)</div><div class="cta-textcover">Treatment for Scalp Psoriasis</div>](#)</div><figure class="wp-block-image size-large" style="margin-top:25px">[![](/posts/1200x630_psoriasis_women_itchy_arm.jpg)](/posts/1200x630_psoriasis_women_itchy_arm.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
+
+[<div class="cta-imagecover">
 
 ![](/posts/1080x1080_psoriasis_elbow_applyincream.jpg)</div><div class="cta-textcover">Best Treatment for Psoriasis <city></city></div>](#)</div>La psoriasis a menudo es caracterizada por parches rojizos de piel cubiertos por escamas de tono blanquizo que se laminan a medida en que la piel se seca. Es un trastorno autoinmune crónico<sup>1</sup> que afecta las capas superficiales de la piel. La psoriasis causa que el cuerpo produzca células de piel de manera muy veloz. Las células no tienen el tiempo suficiente para cumplir con su ciclo mensual antes de que aparezcan más células y tomen su lugar. Esta gruesa acumulación de células causa comezón, enrojecimiento, y la apariencia de escamas secas.
 

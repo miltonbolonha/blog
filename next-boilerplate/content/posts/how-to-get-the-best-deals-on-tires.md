@@ -18,7 +18,9 @@ Retail tire stores are notorious for charging you MSRP when the same tire can pu
 
 [<div style="flex: 1;margin-right:18px;line-height:21px;">Offers To Buy 2 Tires Get 2 Free</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Tire Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Offers To Buy 4 New Tires</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Tire Offers Near Me</div>](#)</div>
 
-![](/posts/1200x630_tire_hero.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Tire Offers</div>](#)</div>The Importance of Good Tires
+![](/posts/1200x630_tire_hero.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
+
+[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Tire Offers</div>](#)</div>The Importance of Good Tires
 
 One of the major parts of any car is its tires. Tires are continuously in contact with the pavement and provide performance, reliability, and safety to the driver. Unfortunately, a driver never knows what they may encounter when driving – from hitting a pothole, to running over nails, hitting an object on the road, and more. These situations can happen at any time and without warning. Over time, tires can become under-inflated and then they are more prone to blow-outs, which could be disastrous to you, your passengers, and other vehicles around you.
 
