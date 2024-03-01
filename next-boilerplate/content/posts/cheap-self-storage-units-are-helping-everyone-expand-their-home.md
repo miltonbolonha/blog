@@ -15,8 +15,6 @@ Are your closets, rooms, attic space, or basement bursting at the seams? It alwa
 
 **Solution: Rent a self-storage unit! It’s a low-cost fix and a convenient space to secure all your valuable items, without attempting to fit them in every nook and cranny in your house.**
 
-## <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
-
 [<div style="flex: 1;margin-right:18px;line-height:21px;">Cheap Storage Units Near Me</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Affordable Self Storage Near Me</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Self Storage</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Storage Units</div>](#)</div>
 
 ![](/posts/1200x630_storage_hero.jpg)What is a Self-Storage Unit?

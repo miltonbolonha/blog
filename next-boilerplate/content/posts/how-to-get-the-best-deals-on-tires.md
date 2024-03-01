@@ -15,8 +15,6 @@ A some point, most drivers will need to buy a new set of tires. For the safety o
 
 Retail tire stores are notorious for charging you MSRP when the same tire can purchased online for less. You probably won’t want to spend hundreds or possibly thousands of dollars on a new set of quality tires when there are many deals and offers available if you research and shop online.
 
-## <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
-
 [<div style="flex: 1;margin-right:18px;line-height:21px;">Offers To Buy 2 Tires Get 2 Free</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Tire Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Offers To Buy 4 New Tires</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Tire Offers Near Me</div>](#)</div>
 
 ![](/posts/1200x630_tire_hero.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">

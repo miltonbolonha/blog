@@ -13,8 +13,6 @@ image: 1200x628_seniordiscounts_eatingrestaurantseniors.jpg
 
 Over the last few years, developers have been building senior communities in anticipation of the aging baby boomer generation. However, there’s simply too many (especially right now in 2021) which means there is a great deal to be had for you or a loved one. Make sure to check all available offers across senior living communities to make sure you get the best fit for your lifestyle and price that matches your budget!
 
-## <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
-
 [<div class="cta-imagecover">
 
 ![](/posts/1080x1080_seniorliving_woodkitchen.jpg)</div><div class="cta-textcover"><city></city> Senior Living Offers</div>](#)[<div class="cta-imagecover">

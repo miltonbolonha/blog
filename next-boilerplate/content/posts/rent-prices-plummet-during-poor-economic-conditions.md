@@ -13,8 +13,6 @@ image: 1200x620_hero_aerialhomes.jpg
 
 As evidenced by a recent rental survey<sup>1</sup>, rent prices are plummeting and there’s never been a better time to check prices of new rentals in your area. According to Zumper’s National Rent Report, “demand for rentals in expensive markets is falling while there is increased demand in neighboring, less expensive cities.” While this downturn might be hurting landlord’s pocket books, the silver lining is it might be one of the best times for renters to search for better prices in their area.
 
-## <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
-
 [<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Apartment Prices</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Apartments Near Me</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Rental Prices Near Me</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Houses For Rent</div>](#)</div>
 
 ![](/posts/1200x620_hero_aerialhomes.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes"> [<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> Apartment Prices</div>](#) </div>Tenants Are In The Driver’s Seat

@@ -14,8 +14,6 @@ image: alarm-pad.jpg
 
 Regardless of why you need an attorney, it’s important that you find an affordable and reputable one. Attorneys are held to extremely high standards, but that doesn’t always mean that _any_ attorney will be able to represent you well. Some attorneys specialize in certain areas — such as personal liability, estate law, or business law — while other attorneys may have a more general practice. Attorneys exist on a fairly wide spectrum so how can you make sure you’re getting the highest quality and lowest cost option? You have to begin your search to compare all attorneys in your area.
 
-## <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
-
 [<div class="cta-imagecover">
 
 ![](/posts/1080x1080_attorney_attorneynearme.jpg)</div><div class="cta-textcover">Attorney Near <city>Me</city></div>](#)[<div class="cta-imagecover">

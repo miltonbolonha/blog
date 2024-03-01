@@ -17,7 +17,7 @@ If you go to the dealership thinking the lowest price is the one they advertised
 
 You should never think TV advertised prices are the lowest – many new car dealers advertise internet only prices which can save you money (plus this is best time of year to be searching when dealers are left with no choice but to sell their unsold inventory).
 
-## <div class="cta-btn-wrap" data-mobile-sponsoredads="no"> [<div style="flex: 1;margin-right:18px;line-height:21px;">2019 Luxury SUV Offers</div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">SUV Price 2020</div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">2019 SUV Offers </div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">2020 SUV Pricing</div>](#) </div><figure class="wp-block-image" style="margin-top:25px">
+[<div style="flex: 1;margin-right:18px;line-height:21px;">2019 Luxury SUV Offers</div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">SUV Price 2020</div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">2019 SUV Offers </div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">2020 SUV Pricing</div>](#) </div><figure class="wp-block-image" style="margin-top:25px">
 
 ![](/posts/cars.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
 
