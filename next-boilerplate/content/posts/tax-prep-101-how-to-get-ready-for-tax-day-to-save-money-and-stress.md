@@ -4,8 +4,6 @@ date: "2020-02-21 17:16:22"
 author: "Kimberly Landess"
 tag:
   - taxes
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Money
 description: ""

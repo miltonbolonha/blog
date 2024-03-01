@@ -5,8 +5,6 @@ author: "Kimberly Landess"
 tag:
   - alarm
   - "home security"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
 description: ""

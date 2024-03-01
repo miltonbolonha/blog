@@ -6,8 +6,6 @@ tag:
   - Medical
   - "Medical biller"
   - "Medical coder"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Career
 description: ""

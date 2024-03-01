@@ -17,14 +17,14 @@ image: woman-walking-alone-night-426705.jpg
 
 ### Panic Button – iUDAME (Ayudame is Spanish for “help me”)
 
-![iudame life saving apps](http://moderntips.com/wp-content/uploads/2015/11/iudame.png)  
+![iudame life saving apps](/posts/iudame.png)  
 Ever been walking around late at night and felt unsafe, your child is late coming home and you’re panicked, or you are faced with a life-threatening situation? There are apps that may give you some peace of mind and worth putting on your smartphone’s front screen
 
 When pressed, iUDAME calls 911 and up to five contacts stored. Available for [iPhone](https://itunes.apple.com/us/app/iudame/id1049683304?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.iudame) devices. Free 30-day trial. Some features includes: If you’re in trouble, alerts your personal contacts with text, email, and robocall with the push of a button; shares your GPS [location](http://moderntips.com/4-cheap-survival-tools-and-tips-that-can-save-your-life-these-should-be-in-every-car) with personal contacts and 911 even when in reduced 3/4G service area; sends an alert to 911 when you can’t talk, text, or speak; and parents can keep track of their child’s location. Activate the app for your child remotely in an emergency. **Cost: Free 30-day trial, thereafter $1.99 per month.**
 
 ### One Touch 911 -RapidSOS-Available in 2016
 
-![rapid sos life saving apps](http://moderntips.com/wp-content/uploads/2015/11/RapidSOS.png)  
+![rapid sos life saving apps](/posts/RapidSOS.png)  
 [RapidSOS](http://rapidsos.com/) will use cloud telecommunications and data analytics to push essential information, including a user’s exact location, into the 911 system. With the tap of an icon on a smartphone’s front screen, the call is connected to the nearest three-digit emergency number, so it will work in North America and also in 135 countries, and it can also transmit via Wi-Fi. Included in the free app are features to send medical information and pictures and video, language translation aids and geography-based alerts that provide instructions for users in emergency situations. **Cost: not known at this time**
 
 ### Panic Button – LifeLine

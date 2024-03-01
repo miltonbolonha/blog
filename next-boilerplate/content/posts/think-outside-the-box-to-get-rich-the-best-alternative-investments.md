@@ -8,8 +8,6 @@ tag:
   - palladium
   - platinum
   - silver
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Investing
 description: ""

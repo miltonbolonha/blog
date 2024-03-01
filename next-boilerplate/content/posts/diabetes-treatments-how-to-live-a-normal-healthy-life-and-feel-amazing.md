@@ -5,8 +5,6 @@ author: "Kimberly Landess"
 tag:
   - "diabetes treatment"
   - health
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Health
 description: ""

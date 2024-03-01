@@ -6,8 +6,6 @@ tag:
   - college
   - debt
   - textbooks
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
 description: ""
@@ -17,31 +15,31 @@ image: bigstock-Upset-Student-Before-Exam-43397851.jpg
 
 ### Don’t Purchase College Textbooks Until After The Course Starts
 
-![class starts college textbooks](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Students-In-Class-Paying-Atten-3917132.jpg)  
+![class starts college textbooks](/posts/bigstock-Students-In-Class-Paying-Atten-3917132.jpg)  
 According to College Board, the average student in the U.S. spends $1,200 a year on college textbooks or about $5,000 for a 4-year degree. One book can cost as much as $200. According to a U.S. Prig report,struggling students are doing things to undermine their education to deal with the rising costs of college textbooks. The report highlighted that 65 percent of the students surveyed said they had decided not to purchase a textbook due to its high price. 94 percent of students who skipped buying a required text said they were concerned that doing this may hurt their grade in that class. So what can be done to help reduce the cost of textbooks?
 
 Some incoming freshmen rush to the college bookstore and purchase their textbooks before classes start. They want to be prepared. However, waiting until after their first class starts is a wiser choice for several reasons. The professor will provide the student insight as to what books are required, and what are optional. Secondly, the student may decide to drop the course after a week or so and then be strapped with the cost of the books.
 
 ### Check Course Syllabus
 
-![college textbooks](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Teacher-with-Course-Requiremen-81662462-951x1024.jpg)  
-Most class syllabi indicate which books are required reading and which ones are just optional. The syllabus should also provide the book’s ISBN code (The International Standard Book Number), a 10 or 13 digit code which correlates to the edition of the book. You can perform a [ISBN search](http://www.isbnsearch.org/) for a particular book by using the ISBN number, title, or author and find the cost and where it can be purchased.![ISBN college textbook search](http://moderntips.com/wp-content/uploads/2016/02/ISBN-lookup.png)
+![college textbooks](/posts/bigstock-Teacher-with-Course-Requiremen-81662462-951x1024.jpg)  
+Most class syllabi indicate which books are required reading and which ones are just optional. The syllabus should also provide the book’s ISBN code (The International Standard Book Number), a 10 or 13 digit code which correlates to the edition of the book. You can perform a [ISBN search](http://www.isbnsearch.org/) for a particular book by using the ISBN number, title, or author and find the cost and where it can be purchased.![ISBN college textbook search](/posts/ISBN-lookup.png)
 
 Email or ask the professor if an older edition of the book is acceptable. If so, what editions would be acceptable. You may find the cost for an older edition is less expensive.
 
 ### Visit College Library
 
-![college textbooks in library](http://moderntips.com/wp-content/uploads/2016/02/bigstock-people-knowledge-education-a-86349014.jpg)  
+![college textbooks in library](/posts/bigstock-people-knowledge-education-a-86349014.jpg)  
 For some courses, such as literature or history, you may be able to check out some of the books from the college library. If they are available, then it’s free! Many libraries allow you to check out the book more than once.
 
 ### Rent College Textbooks
 
-![rent textbooks](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Euphoric-Woman-Searching-Job-W-92315747.jpg)  
+![rent textbooks](/posts/bigstock-Euphoric-Woman-Searching-Job-W-92315747.jpg)  
 Many on-line sites for college textbooks including [Chegg](http://www.chegg.com/), offer textbook rentals rather than purchases. A student pays a lower price to rent than purchase the same textbook. When done, just send back the book at the end of the course. Besides saving of over 50 percent, you don’t have to hassle with re-selling your textbook at the end of your semester.
 
 ### eBooks
 
-![digital textbooks](http://moderntips.com/wp-content/uploads/2016/02/bigstock-E-learning-education-internet-89116919-1024x768.jpg)  
+![digital textbooks](/posts/bigstock-E-learning-education-internet-89116919-1024x768.jpg)  
 eBooks typically cost less than hard bound textbooks. Digital books may be a viable alternative if you are comfortable using an eReader (Kindle, Nook) or a laptop when reading an entire textbook or other required readings. A hidden advantage of an eBook is the ability to search for terms or phrases.
 
 ### Buy Used College Textbooks
@@ -50,7 +48,7 @@ If renting a book is not a viable alternative, then consider purchasing a used t
 
 ### Sell College Textbooks At End Of Semester
 
-![sell college textbooks](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Student-Books-82168352-865x1024.jpg)  
+![sell college textbooks](/posts/bigstock-Student-Books-82168352-865x1024.jpg)  
 If you’re sure that you don’t want to keep your books, use student-to-student sites such as text.com, Craigslist, Chegg, Amazon or other sites and sell your books. Don’t wait too long or the books may become outdated.
 
 ### Occupy The Bookstore
@@ -59,7 +57,7 @@ Occupy The Bookstore claims to “Save hundreds right on your school’s booksto
 
 ### Text.com
 
-![textbooks](http://moderntips.com/wp-content/uploads/2016/02/textbooks-1-1024x396.png)  
+![textbooks](/posts/textbooks-1-1024x396.png)  
 Text.com [student to student marketplace ](http://texts.com/)providing students with the ability to:
 
 - Buy or rent textbooks on-line directly from other students.

@@ -5,8 +5,6 @@ author: "Deborah Woehr"
 tag:
   - "dental plan"
   - medicare
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Health
 description: ""

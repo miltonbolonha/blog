@@ -6,8 +6,6 @@ tag:
   - elderly
   - emergency
   - "Medical alert"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
 description: ""

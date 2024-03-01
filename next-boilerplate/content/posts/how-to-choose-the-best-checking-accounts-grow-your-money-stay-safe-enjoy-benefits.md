@@ -5,8 +5,6 @@ author: "Rene Williams"
 tag:
   - "checking account"
   - "save money"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Money
 description: ""

@@ -5,8 +5,6 @@ author: "Deanna Madera"
 tag:
   - "Happy Meal"
   - "McDonald's"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
   - Money

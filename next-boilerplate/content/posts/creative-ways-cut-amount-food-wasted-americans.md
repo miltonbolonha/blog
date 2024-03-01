@@ -5,8 +5,6 @@ author: "Deanna Madera"
 tag:
   - "food wasted"
   - thanksgiving
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
   - Video

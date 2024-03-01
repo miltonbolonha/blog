@@ -15,7 +15,19 @@ Over the last few years, developers have been building senior communities in ant
 
 ## <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
 
-[<div class="cta-imagecover">![](/posts/1080x1080_seniorliving_woodkitchen.jpg)</div><div class="cta-textcover"><city></city> Senior Living Offers</div>](#)[<div class="cta-imagecover">![](/posts/1080x1080_senlivi_oceanfront.jpg)</div><div class="cta-textcover">Independent Assisted Living</div>](#)[<div class="cta-imagecover">![](/posts/1080x1080_senlivi_whitekitchen.jpg)</div><div class="cta-textcover">Active Senior Living Community</div>](#)[<div class="cta-imagecover">![](/posts/1080x1080_trendycommunity.jpg)</div><div class="cta-textcover">Senior Living Homes</div>](#)</div><figure class="wp-block-image" style="margin-top:25px">![](http://moderntips.com/wp-content/uploads/2018/01/1200x628_seniordiscounts_eatingrestaurantseniors.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">![](/posts/1080x1080_seniorliving_woodkitchen.jpg)</div><div class="cta-textcover"><city></city> Senior Living Offers</div>](#)</div>**Drastic Overbuilding Is Common Across the Country**
+[<div class="cta-imagecover">
+
+![](/posts/1080x1080_seniorliving_woodkitchen.jpg)</div><div class="cta-textcover"><city></city> Senior Living Offers</div>](#)[<div class="cta-imagecover">
+
+![](/posts/1080x1080_senlivi_oceanfront.jpg)</div><div class="cta-textcover">Independent Assisted Living</div>](#)[<div class="cta-imagecover">
+
+![](/posts/1080x1080_senlivi_whitekitchen.jpg)</div><div class="cta-textcover">Active Senior Living Community</div>](#)[<div class="cta-imagecover">
+
+![](/posts/1080x1080_trendycommunity.jpg)</div><div class="cta-textcover">Senior Living Homes</div>](#)</div><figure class="wp-block-image" style="margin-top:25px">
+
+![](/posts/1200x628_seniordiscounts_eatingrestaurantseniors.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">
+
+![](/posts/1080x1080_seniorliving_woodkitchen.jpg)</div><div class="cta-textcover"><city></city> Senior Living Offers</div>](#)</div>**Drastic Overbuilding Is Common Across the Country**
 
 Developers and senior community development owners have added thousands of new locations across the country in anticipation for the upcoming senior boom. It’s true – soon seniors will make up a large portion of the population as the Baby Boomer generation matures. And, these developers, hoping to capitalize on that increasing need, have built a large number of senior living communities.
 
@@ -45,7 +57,15 @@ Right now, prices remain competitively low. As demand for senior living communit
 
 <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
 
-[<div class="cta-imagefull">![](/posts/1200x628_seniorliving_woodkitchen-300x157.jpg)</div><div class="cta-textfull"><city></city> Senior Living Offers</div>](#)[<div class="cta-imagefull">![](/posts/1200x628_senlivi_oceanfront-300x157.jpg)</div><div class="cta-textfull">Independent Assisted Living</div>](#)[<div class="cta-imagefull">![](/posts/1200x628_senlivi_whitekitchen-300x157.jpg)</div><div class="cta-textfull">Active Senior Living Community</div>](#)[<div class="cta-imagefull">![](/posts/1200x628_trendycommunity-300x157.jpg)</div><div class="cta-textfull">Senior Living Homes</div>](#)</div><div class="ad-hide">RunIt Senior Living Code Here</div> <script>
+[<div class="cta-imagefull">
+
+![](/posts/1200x628_seniorliving_woodkitchen-300x157.jpg)</div><div class="cta-textfull"><city></city> Senior Living Offers</div>](#)[<div class="cta-imagefull">
+
+![](/posts/1200x628_senlivi_oceanfront-300x157.jpg)</div><div class="cta-textfull">Independent Assisted Living</div>](#)[<div class="cta-imagefull">
+
+![](/posts/1200x628_senlivi_whitekitchen-300x157.jpg)</div><div class="cta-textfull">Active Senior Living Community</div>](#)[<div class="cta-imagefull">
+
+![](/posts/1200x628_trendycommunity-300x157.jpg)</div><div class="cta-textfull">Senior Living Homes</div>](#)</div><div class="ad-hide">RunIt Senior Living Code Here</div> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -53,7 +73,9 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '531314677258366'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
+</script> <noscript>
+
+![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -61,7 +83,9 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '438385429848061'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
+</script> <noscript>
+
+![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
 window.\_tfa = window.\_tfa || [];
 window.\_tfa.push({notify: 'event', name: 'page_view', id: 1331939});
 !function (t, f, a, x) {

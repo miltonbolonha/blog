@@ -6,8 +6,6 @@ tag:
   - "Baby boomers"
   - Gold
   - investments
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Investing
 description: ""

@@ -17,7 +17,7 @@ image: bigstock-Father-And-Children-Spending-T-91615382.jpg
 
 ### Money Primer
 
-![Financial lessons 3-5 year old](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Family-Looking-At-Clothes-On-R-92606243.jpg)  
+![Financial lessons 3-5 year old](/posts/bigstock-Family-Looking-At-Clothes-On-R-92606243.jpg)  
 A child is never too young to start teaching financial lessons. An initiative from the President’s Advisory Council on Financial Capability, _Money as You Grow_, provides parents with financial lessons and activities to teach their children. The financial lessons and activities on the following pages are recommended for 3-5 year olds. They’re based on years of research, and drawn from dozens of standards and academic studies.
 
 Here’s the first of 4 financial lessons and activities to teach your child why you need money to buy things.
@@ -32,7 +32,7 @@ Here’s the first of 4 financial lessons and activities to teach your child why
 
 ### How Do You Earn Money
 
-![financial lessons for 3-5 year olds](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Children-selling-lemonade-in-f-31898984.jpg)  
+![financial lessons for 3-5 year olds](/posts/bigstock-Children-selling-lemonade-in-f-31898984.jpg)  
 **Financial Lesson**: The way to earn money is to work
 
 **Activities to reach milestone**:
@@ -44,7 +44,7 @@ Here’s the first of 4 financial lessons and activities to teach your child why
 
 ### May Not Be Able To Get It Now
 
-![financial lessons 3-5 year old](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Little-Girl-Child-Is-Crying-An-94407440-1024x755.jpg)  
+![financial lessons 3-5 year old](/posts/bigstock-Little-Girl-Child-Is-Crying-An-94407440-1024x755.jpg)  
 **Financial Lesson**: You may have to wait to buy something you want
 
 **Activities to reach milestone**:
@@ -55,7 +55,7 @@ Here’s the first of 4 financial lessons and activities to teach your child why
 
 ### Need v. Want
 
-![financial lessosn 3-5 year olds](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Happy-family-choosing-dairy-pr-98402117-1024x695.jpg)  
+![financial lessosn 3-5 year olds](/posts/bigstock-Happy-family-choosing-dairy-pr-98402117-1024x695.jpg)  
 **Financial Lesson**: There is a difference between “need” and “want”  
 **Activities to reach milestone**:
 

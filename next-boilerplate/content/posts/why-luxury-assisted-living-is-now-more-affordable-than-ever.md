@@ -5,8 +5,6 @@ author: "Deborah Woehr"
 tag:
   - "assisted living"
   - retirement
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
 description: ""

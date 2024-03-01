@@ -24,7 +24,7 @@ How well do we prepare ourselves before we go out for a casual drive and then al
 
 An ordinary flashlight will not due in case of an emergency. Having a compact and very highly efficient LED in your glove compartment, center console, on your belt, or any other convenient place near your side may save your life. Several manufactures market a flashlight with with variable setting including high, medium, low, SOS, and strobe modes. The SOS mode may used to signal a distress and alert rescuers; the strobe mode may be used to disorient an imminent threat; a zoom feature may be used to highlight or focus on a distant object. These types of flashlights cost about $50.
 
-![LED Variable Mode Flashlight](http://moderntips.com/wp-content/uploads/2015/11/flashlight.png)
+![LED Variable Mode Flashlight](/posts/flashlight.png)
 
 ### Car Escape Tool
 

@@ -686,6 +686,13 @@ h1.cro-heading {
 
 .post.column-post {
   margin-bottom: 32px;
+  align-items: center;
+  @media (min-width: $media960) {
+    max-width: 450px;
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+  }
   h2 {
     font-size: 16px;
     line-height: 24px;

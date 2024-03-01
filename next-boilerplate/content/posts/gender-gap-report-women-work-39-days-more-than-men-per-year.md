@@ -5,8 +5,6 @@ author: "Deanna Madera"
 tag:
   - "Gender gap"
   - women
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Career
   - Video

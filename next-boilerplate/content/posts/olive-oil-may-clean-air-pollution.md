@@ -18,7 +18,7 @@ layout: post
 image: bigstock-Young-woman-in-apron-on-modern-56347427.jpg
 ---
 
-![Olive oil](http://moderntips.com/wp-content/uploads/2016/02/bigstock-picture-of-beautiful-woman-wit-41377942-1024x671.jpg)Extra virgin olive oil is an excellent source of omega-9 fats. Studies have long shown that adding olive oil to a diet can lower risk of developing heart disease, stroke, some cancers, dementia, and can improve an individual’s life expectancy. New research now shows a new benefit of adding olive oil to an individual’s diet: it may counteract the harmful effects of air pollution.
+![Olive oil](/posts/bigstock-picture-of-beautiful-woman-wit-41377942-1024x671.jpg)Extra virgin olive oil is an excellent source of omega-9 fats. Studies have long shown that adding olive oil to a diet can lower risk of developing heart disease, stroke, some cancers, dementia, and can improve an individual’s life expectancy. New research now shows a new benefit of adding olive oil to an individual’s diet: it may counteract the harmful effects of air pollution.
 
 A study conducted by the U.S. Environmental Protection Agency (EPA), explained that exposure to airborne “particulate matter” can lead to heart and lung diseases. Particulate matter is a mixture of the small particles and liquid droplets in the air that includes soil or dust particles, organic chemicals, acids, and metals. When the cells that line the interior surface of blood and lymphatic vessels (known as endothelial cells) are not functioning properly, it may lead to hardening of the arteries and a risk for other [cardiovascular diseases](http://moderntips.com/referred-pain-may-save-your-life-look-for-these-signs). So what can be done to thwart the effect of air pollution?
 

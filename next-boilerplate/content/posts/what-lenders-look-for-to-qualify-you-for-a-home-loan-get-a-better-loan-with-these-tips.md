@@ -5,8 +5,6 @@ author: "Deanna Madera"
 tag:
   - "home loan"
   - lenders
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Credit
 description: ""

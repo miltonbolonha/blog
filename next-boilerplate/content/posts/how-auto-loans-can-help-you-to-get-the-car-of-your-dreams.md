@@ -6,8 +6,6 @@ tag:
   - auto
   - car
   - loan
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Money
 description: ""

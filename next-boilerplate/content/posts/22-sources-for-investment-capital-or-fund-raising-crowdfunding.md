@@ -32,6 +32,6 @@ There are other alternatives to consider. Many individuals look to the Internet 
 2. [Indiegogo](https://www.indiegogo.com/about/our-story) – A very **popular fund raising site for profit and non-profit** had over 275,000 campaigns launched. Pricing is similar to Kickstarter.
 3. [GoFundMe](https://www.gofundme.com/) – For those individuals who are looking to raise money for **medical bills, educational expenses, memorials, volunteer trips, and youth sports**. Cost: GoFundMe deducts a 5% fee from each donation that you receive plus a 3% processing fee.
 
-Navigate through the following chart to see which of 22 crowdfunding sites may be the best solution for you or click [here](http://www.inc.com/magazine/201306/eric-markowitz/how-to-choose-a-crowdfunder.html).![Raising money - Crowdfunding sites](http://moderntips.com/wp-content/uploads/2015/11/inc-magazine-crowdfunding-infographic-june-2013_26652-807x1024.jpg)
+Navigate through the following chart to see which of 22 crowdfunding sites may be the best solution for you or click [here](http://www.inc.com/magazine/201306/eric-markowitz/how-to-choose-a-crowdfunder.html).![Raising money - Crowdfunding sites](/posts/inc-magazine-crowdfunding-infographic-june-2013_26652-807x1024.jpg)
 
 _Note: As with any investment, perform your due diligence and research. As an example, Quirky, one of the leading companies shown in the above Inc Magazine article, ran out of money and filed for bankruptcy._

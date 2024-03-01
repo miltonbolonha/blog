@@ -5,8 +5,6 @@ author: "Deanna Madera"
 tag:
   - "debt free"
   - JOBS
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Career
   - Video

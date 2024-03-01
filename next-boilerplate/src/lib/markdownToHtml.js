@@ -36,7 +36,6 @@ export default async function markdownToHtml(markdown) {
       },
     })
     .process(markdown);
-  // console.log("result");
-  // console.log(result);
+
   return String(result) || markdown;
 }

@@ -35,7 +35,7 @@ Full retirement age, also known as “normal retirement age” had been 65 for m
 
 Social Security is a safety net for many families whose spouse dies suddenly or becomes disabled. It is also the place where you apply for Medicare at the age of 65, regardless of one’s retirement age. An adult child may want to review their parents’ statements to insure its accuracy, especially if their parents are unable to do so.
 
-Page two of an individual’s Social Security statement provides taxpayers with “Your Estimated Benefits.”![Social security statement](http://moderntips.com/wp-content/uploads/2015/11/SSA_Stmt-estimates-e1457074528862.jpg)
+Page two of an individual’s Social Security statement provides taxpayers with “Your Estimated Benefits.”![Social security statement](/posts/SSA_Stmt-estimates-e1457074528862.jpg)
 
 For this exercise, the statement may look something like this:
 

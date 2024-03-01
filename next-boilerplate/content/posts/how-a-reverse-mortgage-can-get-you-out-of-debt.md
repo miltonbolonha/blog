@@ -5,8 +5,6 @@ author: "Deanna Madera"
 tag:
   - debt
   - "reverse mortgage"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Money
 description: ""

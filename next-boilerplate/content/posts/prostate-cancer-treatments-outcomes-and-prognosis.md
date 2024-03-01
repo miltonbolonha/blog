@@ -5,8 +5,6 @@ author: "Deborah Woehr"
 tag:
   - cancer
   - Prostrate
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Health
 description: ""

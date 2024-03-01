@@ -6,8 +6,6 @@ tag:
   - "Barclay Bank"
   - "Barclays Bank"
   - "mortgage fraud"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Investing
   - Money

@@ -5,8 +5,6 @@ author: "Rene Williams"
 tag:
   - "dental assistant"
   - job
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Career
 description: ""

@@ -15,17 +15,17 @@ layout: post
 image: group-of-workers-e1450729551944.png
 ---
 
-[![](http://moderntips.com/wp-content/uploads/2015/12/group-of-workers-e1450729551944.png)](http://moderntips.com/wp-content/uploads/2015/12/group-of-workers-e1450729551944.png)Is it possible to obtain a high paying job without having to spend 4 years or more at a traditional college in the U.S.? The answer is yes. Although there are ways to [save money on college](/way-too-easy-strategies-to-reduce-the-cost-of-college), many people are opting out for Plan B: skipping the longer path of a 4 year college degree and still wind up with a high paying position.
+[![](/posts/group-of-workers-e1450729551944.png)](/posts/group-of-workers-e1450729551944.png)Is it possible to obtain a high paying job without having to spend 4 years or more at a traditional college in the U.S.? The answer is yes. Although there are ways to [save money on college](/way-too-easy-strategies-to-reduce-the-cost-of-college), many people are opting out for Plan B: skipping the longer path of a 4 year college degree and still wind up with a high paying position.
 
 #### Plan B
 
 Without obtaining a bachelor’s degree (B.A. or B.S.), Plan B students are still able to earn more money than many four year college graduates. Many four year college graduates have difficulty finding a job, some individuals who major in fields such as humanities make less money than their peers, and many students obtaining degrees in math, engineering, science or technology are not employed in the fields they studied in college.
 
-So what is Plan B? Plan B students take programs in a trade or vocational school. These schools focus on putting their students on a more defined track to succeed in the job market. Many of the high paying entry level jobs can be attained in two years or less.![trade school](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Young-adults-in-business-train-12524651.jpg)
+So what is Plan B? Plan B students take programs in a trade or vocational school. These schools focus on putting their students on a more defined track to succeed in the job market. Many of the high paying entry level jobs can be attained in two years or less.![trade school](/posts/bigstock-Young-adults-in-business-train-12524651.jpg)
 
 #### Technical vs. Vocational Schools
 
-Technical schools teach the “science” behind the occupation, while vocational schools focus on hands-on application of skills needed to do the job. You may earn a diploma or a certificate, prepare for a licensing exam, or study to begin work as an apprentice or journeyman in a skilled trade.![Vocational training](http://moderntips.com/wp-content/uploads/2015/12/bigstock-Vocational-education-student-l-69006538.jpg)
+Technical schools teach the “science” behind the occupation, while vocational schools focus on hands-on application of skills needed to do the job. You may earn a diploma or a certificate, prepare for a licensing exam, or study to begin work as an apprentice or journeyman in a skilled trade.![Vocational training](/posts/bigstock-Vocational-education-student-l-69006538.jpg)
 
 #### Careers To Consider
 

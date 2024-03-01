@@ -4,7 +4,7 @@ import Post from "../components/Post";
 
 const BlogList = ({ posts, postsToShow, city }) => {
   const sortedPosts = posts.sort((post1, post2) =>
-    new Date(post1.date) > new Date(post2.date) ? -1 : 1,
+    new Date(post1.date) > new Date(post2.date) ? -1 : 1
   );
 
   const [count] = useState({
@@ -12,8 +12,6 @@ const BlogList = ({ posts, postsToShow, city }) => {
     next: 10,
   });
   const [current] = useState(sortedPosts.slice(count.prev, count.next));
-  // console.log("current");
-  // console.log(current);
 
   return (
     <>

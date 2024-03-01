@@ -6,8 +6,6 @@ tag:
   - "good credit score"
   - "rewards credit cards"
   - "top 10"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Credit
 description: ""
@@ -15,7 +13,7 @@ layout: post
 image: bigstock-A-young-buyer-with-colored-bag-107959439.jpg
 ---
 
-![child with credit card](http://moderntips.com/wp-content/uploads/2016/01/bigstock-A-young-buyer-with-colored-bag-107959439.jpg)
+![child with credit card](/posts/bigstock-A-young-buyer-with-colored-bag-107959439.jpg)
 
 ### Chase Sapphire Preferred Card
 

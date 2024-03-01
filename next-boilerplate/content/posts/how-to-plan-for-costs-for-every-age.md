@@ -15,7 +15,7 @@ layout: post
 image: every-age.jpg
 ---
 
-![plan for costs at every age](http://moderntips.com/wp-content/uploads/2015/03/every-age.jpg)
+![plan for costs at every age](/posts/every-age.jpg)
 
 Going through life with sound financial backing is becoming more of a challenge for most people. After the 2008 economic crash, a lot of us realized that we were not taking note of our finances and plan for costs as we should. As a result, many Americans decided that things needed to change from a personal standpoint if we were going to have any semblance of a good retirement after decades of hard working. In this post, we’ll take a look at some of the vital financial decisions you’ll need to make during key stages of your life.
 

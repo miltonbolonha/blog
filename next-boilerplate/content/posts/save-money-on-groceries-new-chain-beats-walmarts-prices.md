@@ -15,7 +15,7 @@ layout: post
 image: bigstock-Happy-Woman-with-Tablet-Shoppi-92132837.jpg
 ---
 
-![Save money on groceries](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Happy-young-woman-with-grocery-114856625-1024x512.jpg)Everyone is looking for ways to save money on groceries since it is one of our largest expenses. Walmart has a reputation for being a low-price leader. That’s not the case anymore when it comes to purchasing grocery items, according to a new cost comparison survey. The price check shows that a new supermarket chain was about 30% cheaper than Walmart.
+![Save money on groceries](/posts/bigstock-Happy-young-woman-with-grocery-114856625-1024x512.jpg)Everyone is looking for ways to save money on groceries since it is one of our largest expenses. Walmart has a reputation for being a low-price leader. That’s not the case anymore when it comes to purchasing grocery items, according to a new cost comparison survey. The price check shows that a new supermarket chain was about 30% cheaper than Walmart.
 
 The German based Aldi supermarket chain, parent company of Trader Joe’s, has emerged as a low-price leader in many categories. Aldi is short for Albrecht Discount. Business Insider compared the prices of 34 items at an Aldi store in Richmond, VA to an identical set of items at a nearby Walmart store. The findings: Aldi’s shopping cart was approximately 30% less expensive than Walmart’s cart. Also, blogger Erin Kelly conducted a price check at an Aldi market in Manhattan, KS and found Aldi was 22% less expensive than WalMart. “With the exception of the milk and eggs, which usually are cheaper at Aldi, every single item was cheaper at Aldi than Wal-Mart,” Kelly wrote on her blog. “Every penny adds up.”
 

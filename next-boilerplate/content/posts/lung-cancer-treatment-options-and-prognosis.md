@@ -4,8 +4,6 @@ date: "2020-06-10 09:00:34"
 author: "Kelly F"
 tag:
   - "Lung cancer"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Health
 description: ""

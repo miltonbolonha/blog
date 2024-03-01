@@ -4,8 +4,6 @@ date: "2020-12-01 11:52:36"
 author: "Kimberly Landess"
 tag:
   - mattress
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Health
 description: ""

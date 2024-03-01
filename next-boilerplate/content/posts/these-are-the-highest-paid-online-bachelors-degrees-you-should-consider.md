@@ -6,8 +6,6 @@ tag:
   - "college degree"
   - "highest paying job"
   - JOBS
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Career
 description: ""

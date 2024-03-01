@@ -6,8 +6,6 @@ tag:
   - breast
   - "breast cancer"
   - cancer
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Health
 description: ""

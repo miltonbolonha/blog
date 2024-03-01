@@ -5,8 +5,6 @@ author: "Deanna Madera"
 tag:
   - "Alkaline Water"
   - "pH level"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Health
 description: ""
@@ -18,7 +16,9 @@ Water is a big deal, especially when it comes it health. We consume about 3 quar
 
 ### Alkaline pH Level
 
-<figure aria-describedby="caption-attachment-3624" class="wp-caption alignnone" id="attachment_3624" style="width: 700px">![alkaline water test](http://moderntips.com/wp-content/uploads/2016/06/alkaline-water-test.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3624">[Shutterstock- sirirak kaewgorn](http://www.shutterstock.com/pic.mhtml?id=349337957)</figcaption></figure>
+<figure aria-describedby="caption-attachment-3624" class="wp-caption alignnone" id="attachment_3624" style="width: 700px">
+
+![alkaline water test](/posts/alkaline-water-test.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3624">[Shutterstock- sirirak kaewgorn](http://www.shutterstock.com/pic.mhtml?id=349337957)</figcaption></figure>
 
 One reason behind drinking alkaline water is that it helps the body get rid of toxins. The toxins we are referring to are acids, those foods with a high acidic content high, especially meats, breads, pasta, soft drinks, seafood, jams and jellies to name a few. To maintain the right pH balance while detoxifying, you need to consume foods and drinks with an abundance of alkaline buffers. Most noteworthy is alkaline water. Water high in alkaline contains magnesium, potassium, calcium, silica, and bicarbonate which helps buffers a body’s acidity level.
 

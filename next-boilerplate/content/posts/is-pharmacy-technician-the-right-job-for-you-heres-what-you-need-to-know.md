@@ -5,8 +5,6 @@ author: "Sarah H"
 tag:
   - "health career"
   - pharmacy
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Career
 description: ""

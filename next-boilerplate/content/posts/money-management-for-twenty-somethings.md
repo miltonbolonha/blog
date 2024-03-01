@@ -15,7 +15,7 @@ layout: post
 image: twenty-something.jpg
 ---
 
-![twenty-something](http://moderntips.com/wp-content/uploads/2015/05/twenty-something.jpg)Your twenties are an exciting time, full of promise and possibility. You’ve just graduated [college](/way-too-easy-strategies-to-reduce-the-cost-of-college), and are looking to approach life with gusto and enthusiasm. This is all good and dandy, but the truth is that not having your financial priorities in check will have you reeling in shock as you go through one of the most important decades of your life due to poor money choices. In this post, we’ll take a look at a few financial commandments you should follow to the letter if you’d like to sail on, stress free, into your thirties.
+![twenty-something](/posts/twenty-something.jpg)Your twenties are an exciting time, full of promise and possibility. You’ve just graduated [college](/way-too-easy-strategies-to-reduce-the-cost-of-college), and are looking to approach life with gusto and enthusiasm. This is all good and dandy, but the truth is that not having your financial priorities in check will have you reeling in shock as you go through one of the most important decades of your life due to poor money choices. In this post, we’ll take a look at a few financial commandments you should follow to the letter if you’d like to sail on, stress free, into your thirties.
 
 ## Establish an Emergency Fund
 

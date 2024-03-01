@@ -11,8 +11,6 @@ tag:
   - reading
   - Sing
   - Talk
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Career
   - Health

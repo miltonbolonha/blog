@@ -6,8 +6,6 @@ tag:
   - college
   - "college degree"
   - psychology
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Career
 description: ""

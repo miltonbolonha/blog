@@ -4,8 +4,6 @@ date: "2016-12-20 12:24:45"
 author: "Deanna Madera"
 tag:
   - "lightweight luggage"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
   - Video

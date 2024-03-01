@@ -1,5 +1,5 @@
 ---
-title: "Find An Affordable and Reputable Attorney Near <city>You</city>"
+title: "Find An Affordable and Reputable Attorney Near {{city}}"
 date: "2021-03-11 11:14:31"
 author: "Deanna Madera"
 tag:
@@ -9,17 +9,28 @@ categories:
   - Sponsored
 description: ""
 layout: post
+image: alarm-pad.jpg
 ---
 
 Regardless of why you need an attorney, it’s important that you find an affordable and reputable one. Attorneys are held to extremely high standards, but that doesn’t always mean that _any_ attorney will be able to represent you well. Some attorneys specialize in certain areas — such as personal liability, estate law, or business law — while other attorneys may have a more general practice. Attorneys exist on a fairly wide spectrum so how can you make sure you’re getting the highest quality and lowest cost option? You have to begin your search to compare all attorneys in your area.
 
 ## <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
 
-[<div class="cta-imagecover">![](/posts/1080x1080_attorney_attorneynearme.jpg)</div><div class="cta-textcover">Attorney Near <city>Me</city></div>](#)[<div class="cta-imagecover">![](/posts/1080x1080_attorney_injuryattorney.jpg)</div><div class="cta-textcover">Injury Attorney</div>](#)[<div class="cta-imagecover">![](/posts/1080x1080_attorney_autoaccidentattorney.jpg)</div><div class="cta-textcover">Auto Accident Attorney</div>](#)[<div class="cta-imagecover">![](/posts/1080x1080_attorney_medicalmalpractice.jpg)</div><div class="cta-textcover">Medical Malpractice Lawyer</div>](#)</div><figure class="wp-block-image size-large" style="margin-top:25px">[![](/posts/1200x620_attorney_ladyjustice.jpg)](https://moderntips.com/wp-content/uploads/2021/03/1200x620_attorney_ladyjustice.jpg)</figure>Finding the Right Attorney
+[<div class="cta-imagecover">
+
+![](/posts/1080x1080_attorney_attorneynearme.jpg)</div><div class="cta-textcover">Attorney Near <city>Me</city></div>](#)[<div class="cta-imagecover">
+
+![](/posts/1080x1080_attorney_injuryattorney.jpg)</div><div class="cta-textcover">Injury Attorney</div>](#)[<div class="cta-imagecover">
+
+![](/posts/1080x1080_attorney_autoaccidentattorney.jpg)</div><div class="cta-textcover">Auto Accident Attorney</div>](#)[<div class="cta-imagecover">
+
+![](/posts/1080x1080_attorney_medicalmalpractice.jpg)</div><div class="cta-textcover">Medical Malpractice Lawyer</div>](#)</div><figure class="wp-block-image size-large" style="margin-top:25px">[![](/posts/1200x620_attorney_ladyjustice.jpg)]/posts/1200x620_attorney_ladyjustice.jpg)</figure>Finding the Right Attorney
 
 Specialization matters. You can start by asking for referrals from friends and family members, but you need to know the type of attorney you need. Do you need a criminal attorney? Or a divorce attorney? Some attorneys specialize in different things, but they will rarely take cases outside their specialization. No attorney can know everything about everything, and you need the best attorney possible to represent you.
 
-<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">![](/posts/1080x1080_attorney_attorneynearme.jpg)</div><div class="cta-textcover">Attorney Near <city>Me</city></div>](#)</div>What if no one you know is able to recommend an attorney? You can go through your local bar association.
+<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">
+
+![](/posts/1080x1080_attorney_attorneynearme.jpg)</div><div class="cta-textcover">Attorney Near <city>Me</city></div>](#)</div>What if no one you know is able to recommend an attorney? You can go through your local bar association.
 
 Your bar association will have a website that lists everyone currently registered with the bar. In other words, all active attorneys in your area. You can search by specialization and start calling around for a consultation. Most attorneys will have a nominal consultation fee or even a free consultation. If your budget is a concern, you can continue to call around until you find someone who might offer a free consultation or who may operate on a sliding scale.
 
@@ -55,7 +66,15 @@ But as long as you do the legwork, check their reviews and testimonials., and ot
 
 <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
 
-[<div class="cta-imagefull">![](/posts/1200x627_attorney_attorneynearme-300x157.jpg)</div><div class="cta-textfull">Attorney Near <city>Me</city></div>](#)[<div class="cta-imagefull">![](/posts/1200x627_attorney_injuryattorney-300x157.jpg)</div><div class="cta-textfull">Injury Attorney</div>](#)[<div class="cta-imagefull">![](/posts/1200x627_attorney_autoaccidentattorney-300x157.jpg)</div><div class="cta-textfull">Auto Accident Attorney</div>](#)[<div class="cta-imagefull">![](/posts/1200x627_attorney_medicalmalpractice-300x157.jpg)</div><div class="cta-textfull">Medical Malpractice Lawyer</div>](#)</div><div class="ad-hide">RunIt Code Here</div> <script>
+[<div class="cta-imagefull">
+
+![](/posts/1200x627_attorney_attorneynearme-300x157.jpg)</div><div class="cta-textfull">Attorney Near <city>Me</city></div>](#)[<div class="cta-imagefull">
+
+![](/posts/1200x627_attorney_injuryattorney-300x157.jpg)</div><div class="cta-textfull">Injury Attorney</div>](#)[<div class="cta-imagefull">
+
+![](/posts/1200x627_attorney_autoaccidentattorney-300x157.jpg)</div><div class="cta-textfull">Auto Accident Attorney</div>](#)[<div class="cta-imagefull">
+
+![](/posts/1200x627_attorney_medicalmalpractice-300x157.jpg)</div><div class="cta-textfull">Medical Malpractice Lawyer</div>](#)</div><div class="ad-hide">RunIt Code Here</div> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -63,7 +82,9 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '531314677258366'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
+</script> <noscript>
+
+![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -71,7 +92,9 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '438385429848061'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
+</script> <noscript>
+
+![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
 window.\_tfa = window.\_tfa || [];
 window.\_tfa.push({notify: 'event', name: 'page_view', id: 1087586});
 !function (t, f, a, x) {

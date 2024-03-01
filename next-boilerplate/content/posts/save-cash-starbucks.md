@@ -5,8 +5,6 @@ author: "Greyson F"
 tag:
   - "save money"
   - Starbucks
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
   - Money
@@ -15,7 +13,9 @@ layout: post
 image: Untitled-design.jpg
 ---
 
-<figure aria-describedby="caption-attachment-4636" class="wp-caption alignnone" id="attachment_4636" style="width: 700px">![starbucks](http://moderntips.com/wp-content/uploads/2017/10/Untitled-design.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4636">[Ko Backpacko](https://www.shutterstock.com/image-photo/latte-art-coffee-152662685)</figcaption></figure>
+<figure aria-describedby="caption-attachment-4636" class="wp-caption alignnone" id="attachment_4636" style="width: 700px">
+
+![starbucks](/posts/Untitled-design.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4636">[Ko Backpacko](https://www.shutterstock.com/image-photo/latte-art-coffee-152662685)</figcaption></figure>
 
 Sometimes there’s nothing like a Starbucks. However, if you visit the coffee shop a few times a week it can really add up. Thankfully, there are a handful of ways to save money on each and every trip you make. Here are six easy tips to follow in order to save some cash on your next Starbucks run.
 

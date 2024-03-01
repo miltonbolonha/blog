@@ -21,7 +21,7 @@ const RelatedPostsContainer = ({ slug, image, category, title }) => (
     </a>
     <div className='main-post-inner caption'>
       <a
-        href={slugify(category).toLowerCase()}
+        href={"/" + slugify(category).toLowerCase()}
         alt={category}
         className='post-category author'
       >

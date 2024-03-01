@@ -6,8 +6,6 @@ tag:
   - halloween
   - tips
   - "trick or treat"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Health
   - Video

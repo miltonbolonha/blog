@@ -4,8 +4,6 @@ date: "2019-05-05 14:49:54"
 author: "Greyson F"
 tag:
   - cruises
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
   - Money
@@ -14,7 +12,7 @@ layout: post
 image: Cruise-ship-1-e1491952699586.jpg
 ---
 
-![](http://moderntips.com/wp-content/uploads/2017/04/Cruise-ship-1-e1491952699586.jpg)  
+![](/posts/Cruise-ship-1-e1491952699586.jpg)  
 **ATM Fees**  
 Want to save cash on your cruise? One of the best ways to do that is to ditch all the crazy ATM fees! Nobody likes paying money just to access their money. So how do you avoid this? Grab your cash on the shore when you make port. Use a local bank ATM. You’ll save all sorts of cash!
 

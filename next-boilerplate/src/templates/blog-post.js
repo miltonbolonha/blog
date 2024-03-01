@@ -29,13 +29,7 @@ const BlogPost = ({ post }) => {
   const pSelect = doc?.querySelector("p");
   const excerpt = pSelect?.childNodes[0]?._rawText;
 
-  let categoriesPosts = post.categoriesPosts.map(cat => ({
-    date: cat.date,
-    title: cat.frontmatter.title,
-    image: cat.frontmatter.image,
-    category: cat.frontmatter.categories[0],
-    slug: cat.slug,
-  }));
+  let categoriesPosts = post.categoriesPosts.filter(pc => pc.slug != post.slug);
 
   const title = post?.frontmatter?.title.replace(
     "{{city}}",
@@ -57,16 +51,6 @@ const BlogPost = ({ post }) => {
     return setCity(data?.geo?.city || "Los Angeles");
   };
 
-  // const cookies = new Cookies();
-  // const hasSuccessCookies =
-  //   cookies.get("locationValue") ||
-  //   cookies.set("locationValue", null, {
-  //     path: "/",
-  //   });
-  // console.log("hasSuccessCookieshasSuccessCookies");
-  // console.log(hasSuccessCookies);
-  // Pass data to the page via props
-
   const infos = {
     slug: index?.slug,
     title: `${title} - ${business.brandName}`,
@@ -84,7 +68,7 @@ const BlogPost = ({ post }) => {
     datePublished: website.datePublished,
     i18n: website.i18n,
     keywords: post?.frontmatter?.tag || website.keywords,
-    questions: index.faq,
+    questions: [],
     topology: null,
     articleUrl: `${website.siteUrl}/${index?.slug}`,
     themeColor: website.themeColor,

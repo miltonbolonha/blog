@@ -14,7 +14,7 @@ layout: post
 image: childcare.jpg
 ---
 
-[![saving on childcare](http://moderntips.com/wp-content/uploads/2015/03/childcare.jpg)](http://mt2.wpengine.com/wp-content/uploads/2015/03/childcare.jpg)
+[![saving on childcare](/posts/childcare.jpg)](http://mt2.wpengine.com/wp-content/uploads/2015/03/childcare.jpg)
 
 Raising children isn’t cheap. That said, they are a necessity for some parents who have busy schedules but wouldn’t think of leaving their children with someone who they don’t trust or isn’t accountable. Daycare centers, however, aren’t the only places that know how to care for children. If you’re on a very tight budget or are living frugally, you need something that works for a much lesser cost. In this post, we’ll take a look at some of the ways for saving on childcare costs.
 

@@ -15,8 +15,6 @@ tag:
   - soap
   - sunscreen
   - toothpaste
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Health
 description: ""
@@ -24,7 +22,7 @@ layout: post
 image: bigstock-Comparison-Portraits-Beautiful-104042825-e1464374398643.jpg
 ---
 
-![skin care](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Comparison-Portraits-Beautiful-104042825-e1464374398643.jpg)  
+![skin care](/posts/bigstock-Comparison-Portraits-Beautiful-104042825-e1464374398643.jpg)  
 Many of us read box labels of food ingredients to make sure that what we ingest doesn’t contain additives that may be unhealthy or things we are trying to cut down on, such as carbs. However, many of us often overlook the ingredients contained in skin care and other personal care products. We often assume the ingredients are being regulated by some governmental agency.
 
 Moisturizers, soap, lip balm, sunscreen, cosmetics, perfumes, colognes, toothpaste, nail polish, shampoos and conditioners all penetrate our skin and enter our blood and lymphatic system. Just looking for a sunscreen with a high UVA and UVB protection is not enough. Some of these skin care products’ ingredients probably are not as safe as you would hope.
@@ -39,14 +37,16 @@ Do you know what’s in the products you purchase, how safe these ingredients ar
 
 [Click here for shopping tips](http://www.ewg.org/skindeep/top-tips-for-safer-products/) by age, gender, product type, or product ingredient.
 
-![Shopping Tips](http://moderntips.com/wp-content/uploads/2016/02/Shopping-Tips.png)
+![Shopping Tips](/posts/Shopping-Tips.png)
 
 ##### <span style="text-decoration: underline;">DATABASE SEARCH- OVER 60,000 SKIN CARE AND PERSONAL CARE PRODUCTS</span>
 
 [Search by product, ingredient, or company, and find a safer alternative](http://www.ewg.org/skindeep/). Get better informed and see if a particular skin care or personal care product ingredient is safe or if you are allergic. See how a particular manufacturer compares with their competition and view their products rating. EWG’s database ranks ingredients on a hazard score from 1 to 10 to reflects known and suspected hazards of ingredients.
 
-![Search](http://moderntips.com/wp-content/uploads/2016/02/Search.png)  
-<span style="text-decoration: underline;">WE PERFORMED A SEARCH FOR “DOVE WHITE MOISTURIZING CREAM BAR” – WHAT’S REALLY IN THAT SOFT, SILKY, AND CREAMY SKIN CARE BAR? HERE’S THE SHOCKING RESULTS:</span>![Dove](http://moderntips.com/wp-content/uploads/2016/02/Dove.png)  
+![Search](/posts/Search.png)  
+<span style="text-decoration: underline;">WE PERFORMED A SEARCH FOR “DOVE WHITE MOISTURIZING CREAM BAR” – WHAT’S REALLY IN THAT SOFT, SILKY, AND CREAMY SKIN CARE BAR? HERE’S THE SHOCKING RESULTS:</span>
+
+![Dove](/posts/Dove.png)  
 <span style="text-decoration: underline;">SEARCH RESULTS ALSO REVEALED THE “INGREDIENTS CONCERNS” -THE TOP 3 OF 17 ARE SHOWN BELOW</span>  
-![Dove-Ingredients-Concern](http://moderntips.com/wp-content/uploads/2016/02/Dove-Ingredients-Concern.png)  
+![Dove-Ingredients-Concern](/posts/Dove-Ingredients-Concern.png)  
 Check out your favorite hair care product, body lotion, perfume, makeup or other personal care item so you are better informed.

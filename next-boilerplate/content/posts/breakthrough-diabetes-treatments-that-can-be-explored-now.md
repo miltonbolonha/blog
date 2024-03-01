@@ -15,7 +15,19 @@ Individuals with diabetes now have more options than ever before when it comes t
 
 <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
 
-[<div class="cta-imagecover">![](/posts/1080x1080_diabetestreatment_insulindiagram.jpg)</div><div class="cta-textcover">A1C Level Treatments for Type 2 Diabetes</div>](#)[<div class="cta-imagecover">![](/posts/1080x1080_diabetestreatment_legstraps.jpg)</div><div class="cta-textcover">Diabetes Type 2 Early Symptoms and Treatments</div>](#)[<div class="cta-imagecover">![](/posts/1080x1080_diabetestreatment_fingernails.jpg)</div><div class="cta-textcover">Early Signs Type 2 Diabetes and Treatment</div>](#)[<div class="cta-imagecover">![](/posts/1080x1080_diabetestreatment_feetbottoms.jpg)</div><div class="cta-textcover">First Signs of Diabetes Type 2 and Treatment</div>](#)</div>![](/posts/1200x627_diabetestreatment_usbwithpancreas-1-1024x535.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">![](/posts/1080x1080_diabetestreatment_insulindiagram.jpg)</div><div class="cta-textcover">A1C Level Treatments for Type 2 Diabetes</div>](#)</div>In the past, there were only a few proven methods patients could confidently use to manage the symptoms they experienced. But now, people who have been diagnosed with Type 2 diabetes can find treatment options that work best for their individual diagnosis. Working with their doctor will allow them to try different options to see which one (or two) works best for them.
+[<div class="cta-imagecover">
+
+![](/posts/1080x1080_diabetestreatment_insulindiagram.jpg)</div><div class="cta-textcover">A1C Level Treatments for Type 2 Diabetes</div>](#)[<div class="cta-imagecover">
+
+![](/posts/1080x1080_diabetestreatment_legstraps.jpg)</div><div class="cta-textcover">Diabetes Type 2 Early Symptoms and Treatments</div>](#)[<div class="cta-imagecover">
+
+![](/posts/1080x1080_diabetestreatment_fingernails.jpg)</div><div class="cta-textcover">Early Signs Type 2 Diabetes and Treatment</div>](#)[<div class="cta-imagecover">
+
+![](/posts/1080x1080_diabetestreatment_feetbottoms.jpg)</div><div class="cta-textcover">First Signs of Diabetes Type 2 and Treatment</div>](#)</div>
+
+![](/posts/1200x627_diabetestreatment_usbwithpancreas-1.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">
+
+![](/posts/1080x1080_diabetestreatment_insulindiagram.jpg)</div><div class="cta-textcover">A1C Level Treatments for Type 2 Diabetes</div>](#)</div>In the past, there were only a few proven methods patients could confidently use to manage the symptoms they experienced. But now, people who have been diagnosed with Type 2 diabetes can find treatment options that work best for their individual diagnosis. Working with their doctor will allow them to try different options to see which one (or two) works best for them.
 
 ## DMR or Duodenal Mucosal Resurfacing
 
@@ -41,7 +53,15 @@ Exercise burns calories. It also lowers blood glucose levels. The foods you eat 
 
 <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
 
-[<div class="cta-imagefull">![](/posts/1200x627_diabetestreatment_insulindiagram-300x157.jpg)</div><div class="cta-textfull">A1C Level Treatments for Type 2 Diabetes</div>](#)[<div class="cta-imagefull">![](/posts/1200x627_diabetestreatment_legstraps-300x157.jpg)</div><div class="cta-textfull">Diabetes Type 2 Early Symptoms and Treatments</div>](#)[<div class="cta-imagefull">![](/posts/1200x627_diabetestreatment_fingernails-300x157.jpg)</div><div class="cta-textfull">Early Signs Type 2 Diabetes and Treatment</div>](#)[<div class="cta-imagefull">![](/posts/1200x627_diabetestreatment_pancreaseductsandparts-300x157.jpg)</div><div class="cta-textfull">First Signs of Diabetes Type 2 and Treatment</div>](#)</div><div class="ad-hide">RunIt Code Here</div> <script>
+[<div class="cta-imagefull">
+
+![](/posts/1200x627_diabetestreatment_insulindiagram-300x157.jpg)</div><div class="cta-textfull">A1C Level Treatments for Type 2 Diabetes</div>](#)[<div class="cta-imagefull">
+
+![](/posts/1200x627_diabetestreatment_legstraps-300x157.jpg)</div><div class="cta-textfull">Diabetes Type 2 Early Symptoms and Treatments</div>](#)[<div class="cta-imagefull">
+
+![](/posts/1200x627_diabetestreatment_fingernails-300x157.jpg)</div><div class="cta-textfull">Early Signs Type 2 Diabetes and Treatment</div>](#)[<div class="cta-imagefull">
+
+![](/posts/1200x627_diabetestreatment_pancreaseductsandparts-300x157.jpg)</div><div class="cta-textfull">First Signs of Diabetes Type 2 and Treatment</div>](#)</div><div class="ad-hide">RunIt Code Here</div> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -49,7 +69,9 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '531314677258366'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
+</script> <noscript>
+
+![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -57,7 +79,9 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '438385429848061'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
+</script> <noscript>
+
+![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
 window.\_tfa = window.\_tfa || [];
 window.\_tfa.push({notify: 'event', name: 'page_view', id: 1087586});
 !function (t, f, a, x) {

@@ -14,7 +14,7 @@ layout: post
 image: bigstock-Ginger-Lemon-And-Garlic-Con-101103908-e1457983272346.jpg
 ---
 
-![lemon garlic ginger drink lower cholesterol levels](http://moderntips.com/wp-content/uploads/2016/03/shutterstock_362905634-1024x768.jpg)Drinking a lemon, garlic, and ginger beverage can have very positive health effects on our body. These three super healthy foods have many benefits.
+![lemon garlic ginger drink lower cholesterol levels](/posts/shutterstock_362905634-1024x768.jpg)Drinking a lemon, garlic, and ginger beverage can have very positive health effects on our body. These three super healthy foods have many benefits.
 
 **Garlic**– There have been numerous cites, dating back to ancient history, that demonstrated the use of garlic for medicinal purposes. Several studies have shown that garlic reduces the bad (LDL) cholesterol levels. The jury is still out as to whether garlic really prevents heart disease.
 

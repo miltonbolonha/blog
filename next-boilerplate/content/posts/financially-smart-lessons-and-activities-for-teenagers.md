@@ -17,7 +17,7 @@ image: bigstock-summer-sport-dancing-and-tee-66550336.jpg
 
 ### COLLEGE SHOPPING
 
-![Financially Smart College shopping](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Perspective-Students-83957537-1024x681.jpg)  
+![Financially Smart College shopping](/posts/bigstock-Perspective-Students-83957537-1024x681.jpg)  
 Perhaps your teenager often says “I know, I know, I know!” So what advise can you tell your teen that he or she doesn’t already know? This is the appropriate age to guide your child in the cost of college, credit cards, taxes, and IRA’s. _Money as You Grow_, an initiative from the President’s Advisory Council on Financial Capability, provides parents with financially smart lessons with associated activities that children need to learn. The financially smart lessons and activities on the following pages are based on years of research, and drawn from dozens of academic studies.
 
 **Financially Smart Lesson**: Cost is a major factor to consider when comparing colleges.
@@ -33,7 +33,7 @@ Perhaps your teenager often says “I know, I know, I know!” So what advise ca
 
 ### CREDIT CARD PRIMER
 
-![Financially Smart credit card](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Piggy-bank-or-credit-card-21749537.jpg)  
+![Financially Smart credit card](/posts/bigstock-Piggy-bank-or-credit-card-21749537.jpg)  
 **Financially Smart Lesson**: Avoid using a credit card to buy something you can’t afford
 
 **Activities to reach milestone**:
@@ -45,7 +45,7 @@ Perhaps your teenager often says “I know, I know, I know!” So what advise ca
 
 ### TAXES
 
-![Financially Smart taxes](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Take-Some-Money-1612736.jpg)  
+![Financially Smart taxes](/posts/bigstock-Take-Some-Money-1612736.jpg)  
 **Financially Smart Lesson**: What is take-home pay?
 
 **Activities to reach milestone**:
@@ -57,7 +57,7 @@ Perhaps your teenager often says “I know, I know, I know!” So what advise ca
 
 ### IRA ACCOUNT
 
-![Financially Smart IRA ](http://moderntips.com/wp-content/uploads/2016/02/bigstock-Young-people-putting-money-in-23704928.jpg)  
+![Financially Smart IRA ](/posts/bigstock-Young-people-putting-money-in-23704928.jpg)  
 **Financially Smart Lesson**: A great place to save and invest earnings is in a Roth IRA.
 
 **Activities to reach milestone**:

@@ -13,8 +13,6 @@ tag:
   - "product recall"
   - stock
   - "stock price"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Investing
 description: ""

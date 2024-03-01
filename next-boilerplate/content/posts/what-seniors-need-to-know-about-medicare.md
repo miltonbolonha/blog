@@ -15,7 +15,9 @@ Medicare open enrollment period is here. Open enrollment runs from October 15 to
 
 <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
 
-[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Options</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Plans Cost</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Supplement Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Offers</div>](#)</div>![](/posts/1200x628_seniordiscounts_eyeexammedicare-1024x536.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Plans And Changes</div>](#)</div>Take some time to think about what you need from Medicare. Consider your current insurance, health expenses, and the Medicare options to choose between.
+[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Options</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Plans Cost</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Supplement Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Offers</div>](#)</div>
+
+![](/posts/1200x628_seniordiscounts_eyeexammedicare.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Plans And Changes</div>](#)</div>Take some time to think about what you need from Medicare. Consider your current insurance, health expenses, and the Medicare options to choose between.
 
 ## **Am I Eligible for Medicare?**
 
@@ -89,7 +91,9 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '531314677258366'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
+</script> <noscript>
+
+![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -97,7 +101,9 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '438385429848061'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
+</script> <noscript>
+
+![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
 window.\_tfa = window.\_tfa || [];
 window.\_tfa.push({notify: 'event', name: 'page_view', id: 1087586});
 !function (t, f, a, x) {

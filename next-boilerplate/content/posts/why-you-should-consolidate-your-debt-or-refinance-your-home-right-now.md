@@ -5,8 +5,6 @@ author: "Deborah Woehr"
 tag:
   - "consolidate debt"
   - "refinance house"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Money
 description: ""

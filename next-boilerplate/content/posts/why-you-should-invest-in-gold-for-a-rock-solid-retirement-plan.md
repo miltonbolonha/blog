@@ -5,8 +5,6 @@ author: "Kelly F"
 tag:
   - Gold
   - retirement
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Investing
 description: ""

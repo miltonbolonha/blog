@@ -21,7 +21,7 @@ Many consumers are enticed with emails and mailers from credit card companies th
 
 Obtaining money back or points from a credit card company is a great enticement to use your credit card more often. Before making that large purchase, be sure there will be sufficient money in your checking or savings account to pay off your monthly credit card bill. Credit card companies’ reward programs differ from one card to another. One size does not fit all. Check cardratings.com and compare which card gives you the most back when you spend money on groceries, gas, restaurants, and other purchases.
 
-The following are the two “overall winners” for February 2016, but check their website to see which cash back rewards card is best suited for you.![cash back rewards card bofa](http://moderntips.com/wp-content/uploads/2015/12/bofa.png)![cash back rewards card chase](http://moderntips.com/wp-content/uploads/2015/12/chase.png)
+The following are the two “overall winners” for February 2016, but check their website to see which cash back rewards card is best suited for you.![cash back rewards card bofa](/posts/bofa.png)![cash back rewards card chase](/posts/chase.png)
 
 ##### Evaluation Criteria
 

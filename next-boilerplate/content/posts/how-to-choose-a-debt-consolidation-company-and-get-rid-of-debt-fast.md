@@ -6,8 +6,6 @@ tag:
   - "consolidate debt"
   - debt
   - "debt free"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Credit
 description: ""

@@ -39,11 +39,18 @@ export const getStaticProps = async context => {
   const thePost = allPosts.filter(function f(o) {
     return o.slug === context.params.slug;
   });
-  // console.log("o.slug");
-  // console.log(thePost);
-  const categoriesPosts = allPosts.filter(
-    p => p.frontmatter.categories[0] === thePost[0]?.frontmatter?.categories[0]
+
+  const categoriesPostsFilter = allPosts.filter(
+    p =>
+      p?.frontmatter?.categories[0] === thePost[0]?.frontmatter?.categories[0]
   );
+  let categoriesPosts = categoriesPostsFilter?.map(cat => ({
+    date: cat?.date || new Date(),
+    title: cat?.frontmatter?.title || "title",
+    image: cat?.frontmatter?.image || "plaholder.jpg",
+    category: cat?.frontmatter?.categories[0] || "general",
+    slug: cat?.slug,
+  }));
 
   return {
     props: {

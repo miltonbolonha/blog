@@ -5,8 +5,6 @@ author: "Deanna Madera"
 tag:
   - Psoriasis
   - skin
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Health
 description: ""

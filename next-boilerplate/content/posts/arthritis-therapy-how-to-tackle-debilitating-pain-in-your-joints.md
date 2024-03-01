@@ -5,8 +5,6 @@ author: "Deanna Madera"
 tag:
   - Arthritis
   - "joint pain"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Health
 description: ""

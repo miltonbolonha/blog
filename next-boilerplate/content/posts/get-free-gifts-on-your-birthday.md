@@ -11,8 +11,6 @@ tag:
   - "ice cream"
   - restaurants
   - retailers
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
   - Money

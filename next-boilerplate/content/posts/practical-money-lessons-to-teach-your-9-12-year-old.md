@@ -17,7 +17,7 @@ image: bigstock-family-child-technology-mon-97891379.jpg
 
 ### Savings Primer
 
-![Practical money lessons - Save money 9 year old](http://moderntips.com/wp-content/uploads/2016/01/bigstock-education-school-and-money-sa-70932742-1024x833.jpg)  
+![Practical money lessons - Save money 9 year old](/posts/bigstock-education-school-and-money-sa-70932742-1024x833.jpg)  
 As a child grows, parents strive to teach age appropriate lessons to their children. _Money as You Grow_, an initiative from the President’s Advisory Council on Financial Capability, provides parents with practical money lessons with associated activities that children need to learn. The financial management lessons and activities on the following pages are based on more than a year of research, and drawn from dozens of standards, curricula, and academic studies.
 
 Let’s start with a “savings” lesson and activities.
@@ -33,7 +33,7 @@ Let’s start with a “savings” lesson and activities.
 
 ### Personal Information
 
-![Practical money lessons - personal information](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Mother-looking-after-son-doing-87393188-10-year-old.jpg)  
+![Practical money lessons - personal information](/posts/bigstock-Mother-looking-after-son-doing-87393188-10-year-old.jpg)  
 **Practical Money Lesson**: Entering personal information, such as a bank or credit card number, on-line is very risky because someone could steal it.
 
 **Activities to reach milestone**:
@@ -46,7 +46,7 @@ Let’s start with a “savings” lesson and activities.
 
 ### How Savings Can Grow
 
-![Practical money lessons - grow money](http://moderntips.com/wp-content/uploads/2016/01/bigstock-Growing-money-in-flowerpots-on-92069222-1024x703.jpg)  
+![Practical money lessons - grow money](/posts/bigstock-Growing-money-in-flowerpots-on-92069222-1024x703.jpg)  
 **Practical Money Lesson**: The sooner you save, the faster your money can grow by using compound interest.
 
 **Activities to reach milestone**:
@@ -58,7 +58,7 @@ Let’s start with a “savings” lesson and activities.
 
 ### Credit Card
 
-![Practical money lessons - credit card](http://moderntips.com/wp-content/uploads/2016/01/bigstock-A-young-buyer-with-colored-bag-107959439.jpg)  
+![Practical money lessons - credit card](/posts/bigstock-A-young-buyer-with-colored-bag-107959439.jpg)  
 **Practical Money Lesson**: Using a credit card is like taking out a loan. If you don’t pay your bill in full every month, you’ll be charged interest and owe more than you originally spent.
 
 **Activities to reach milestone**:

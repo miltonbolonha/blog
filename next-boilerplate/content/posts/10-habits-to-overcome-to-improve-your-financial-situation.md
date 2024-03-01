@@ -6,8 +6,6 @@ tag:
   - money
   - tips
   - wealth
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Money
 description: ""
@@ -15,7 +13,7 @@ layout: post
 image: financial-planning.jpg
 ---
 
-![](http://moderntips.com/wp-content/uploads/2016/08/financial-planning.jpg)
+![](/posts/financial-planning.jpg)
 
 ### Lack of Planning
 

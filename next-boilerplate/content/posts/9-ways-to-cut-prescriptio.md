@@ -11,8 +11,6 @@ tag:
   - "over the counter"
   - "prescription costs"
   - samples
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
   - Health

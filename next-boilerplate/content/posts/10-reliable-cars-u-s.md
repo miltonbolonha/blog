@@ -5,8 +5,6 @@ author: "Deanna Madera"
 tag:
   - cars
   - Reliability
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
   - Investing

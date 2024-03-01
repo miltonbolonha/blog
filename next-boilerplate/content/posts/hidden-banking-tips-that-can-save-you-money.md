@@ -22,18 +22,18 @@ Banks are imposing such fees because they’re offering more services to the con
 
 To help assist their customers, many financial institutions have web-based tools to help better manage their accounts and can email or text alerts before it’s too late. Every financial institution has their alerts page displayed in a different part of their web site and the consumer’s challenge is to search and find where this page is hidden. It gets very frustrating when having more than one bank account. Before getting too frustrated, call your financial institution web support line to better assist you.
 
-For example, **Bank of America** has their alert menu under the customer’s “Profile &amp; Settings” tab (located to the right of your name). Then click “Account Settings” and “Alert Settings” and you’ll be connected to the alert page.![bofa](http://moderntips.com/wp-content/uploads/2015/11/bofa.png)  
-**CitiBank**: Click “Account Management” tab, then “Enroll-in or Manage Alerts” under the “Account Services &amp; Enrollments” tab to connect you to the alert page.![citi2](http://moderntips.com/wp-content/uploads/2015/11/citi2.png)
+For example, **Bank of America** has their alert menu under the customer’s “Profile &amp; Settings” tab (located to the right of your name). Then click “Account Settings” and “Alert Settings” and you’ll be connected to the alert page.![bofa](/posts/bofa.png)  
+**CitiBank**: Click “Account Management” tab, then “Enroll-in or Manage Alerts” under the “Account Services &amp; Enrollments” tab to connect you to the alert page.![citi2](/posts/citi2.png)
 
 #### **<span style="text-decoration: underline;">WHAT TYPE OF ALERTS CAN BET SET UP?</span>**
 
 Financial institutions have many types of alerts to help assist their customers. While there aren’t any universal standards, the following demonstrates what some banks have set up for their clients.
 
-**<span style="text-decoration: underline;">Balance Alerts</span>** – [Banking](/banks-vs-credit-unions-which-is-better) alerts include balance and low balance alerts.![balance-alerts](http://moderntips.com/wp-content/uploads/2015/11/balance-alerts.png)  
-**<span style="text-decoration: underline;">Activity Alerts</span>**– These alerts includes deposits made greater than a particular amount, specific check numbers, if a check was cashed within a certain number of days, and a debit card transaction exceeded a certain amount of money.![activity-alert](http://moderntips.com/wp-content/uploads/2015/11/activity-alert.png)
+**<span style="text-decoration: underline;">Balance Alerts</span>** – [Banking](/banks-vs-credit-unions-which-is-better) alerts include balance and low balance alerts.![balance-alerts](/posts/balance-alerts.png)  
+**<span style="text-decoration: underline;">Activity Alerts</span>**– These alerts includes deposits made greater than a particular amount, specific check numbers, if a check was cashed within a certain number of days, and a debit card transaction exceeded a certain amount of money.![activity-alert](/posts/activity-alert.png)
 
-**<span style="text-decoration: underline;">Payments, eBills, and funds transfer alerts</span> –** Alerts notifying customers what bill payments are coming due and those that haven’t cleared, insufficient funds, past due eBills, and upcoming fund transfers.![payment-alert](http://moderntips.com/wp-content/uploads/2015/11/payment-alert.png)
+**<span style="text-decoration: underline;">Payments, eBills, and funds transfer alerts</span> –** Alerts notifying customers what bill payments are coming due and those that haven’t cleared, insufficient funds, past due eBills, and upcoming fund transfers.![payment-alert](/posts/payment-alert.png)
 
-**<span style="text-decoration: underline;">Credit card alerts</span>** – When a credit card is reaching a credit limit or a [credit card](/what-you-need-to-know-about-credit-cards) balance exceeds a particular threshold, a transaction exceeded a particular dollar amount, and a payment is past due or is coming due.![credit-card-alerts](http://moderntips.com/wp-content/uploads/2015/11/credit-card-alerts.png)
+**<span style="text-decoration: underline;">Credit card alerts</span>** – When a credit card is reaching a credit limit or a [credit card](/what-you-need-to-know-about-credit-cards) balance exceeds a particular threshold, a transaction exceeded a particular dollar amount, and a payment is past due or is coming due.![credit-card-alerts](/posts/credit-card-alerts.png)
 
 Now that you are aware of these tips and alerts, take these steps now to take better control of your money. Don’t let the bank charge you unnecessary fees.

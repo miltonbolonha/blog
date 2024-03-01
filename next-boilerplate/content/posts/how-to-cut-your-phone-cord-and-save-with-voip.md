@@ -5,8 +5,6 @@ author: "Deborah Woehr"
 tag:
   - phone
   - voip
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
 description: ""

@@ -17,7 +17,9 @@ If you go to the dealership thinking the lowest price is the one they advertised
 
 You should never think TV advertised prices are the lowest – many new car dealers advertise internet only prices which can save you money (plus this is best time of year to be searching when dealers are left with no choice but to sell their unsold inventory).
 
-## <div class="cta-btn-wrap" data-mobile-sponsoredads="no"> [<div style="flex: 1;margin-right:18px;line-height:21px;">2019 Luxury SUV Offers</div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">SUV Price 2020</div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">2019 SUV Offers </div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">2020 SUV Pricing</div>](#) </div><figure class="wp-block-image" style="margin-top:25px">![](http://moderntips.com/wp-content/uploads/2017/03/cars.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> SUV Offers</div>](#)</div>Supply and Demand
+## <div class="cta-btn-wrap" data-mobile-sponsoredads="no"> [<div style="flex: 1;margin-right:18px;line-height:21px;">2019 Luxury SUV Offers</div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">SUV Price 2020</div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">2019 SUV Offers </div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">2020 SUV Pricing</div>](#) </div><figure class="wp-block-image" style="margin-top:25px">
+
+![](/posts/cars.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div style="flex: 1;margin-right:18px;line-height:21px;"><city></city> SUV Offers</div>](#)</div>Supply and Demand
 
 Let’s face it, in today’s economy, SUV sales have been down in the wake of The Great Recession. As the economy slowly got better, SUV sales picked up a little. However, that growth is now stalled and the industry is believed to have already peaked. GM and Ford, the two largest automakers in the U.S., both saw declining sales last year<sup>1</sup>.
 
@@ -51,7 +53,9 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '531314677258366'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
+</script> <noscript>
+
+![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -59,7 +63,9 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '438385429848061'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
+</script> <noscript>
+
+![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
 window.\_tfa = window.\_tfa || [];
 window.\_tfa.push({notify: 'event', name: 'page_view', id: 1087586});
 !function (t, f, a, x) {

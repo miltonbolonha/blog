@@ -4,8 +4,6 @@ date: "2019-01-02 09:03:07"
 author: "Greyson F"
 tag:
   - greyson
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
 description: ""
@@ -13,7 +11,7 @@ layout: post
 image: 396.jpg
 ---
 
-![](http://moderntips.com/wp-content/uploads/2017/06/396.jpg)  
+![](/posts/396.jpg)  
 **1. Color Scheme**  
 Color scheme plays a big role in just about everything restaurants do. This is especially the case when it comes to fast food (have you ever noticed almost all fast food restaurants use the color red?). The colors red and orange can make you feel hungrier. Darker red colors are also attention grabbers and spur action, which is why some of the more expensive offerings are listed with a red title. Additionally, green offers a mental connection to freshness.
 

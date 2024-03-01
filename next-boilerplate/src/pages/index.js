@@ -74,8 +74,7 @@ const Home = ({ posts, searchParams }) => {
     cookies.set("locationValue", null, {
       path: "/",
     });
-  console.log("hasSuccessCookieshasSuccessCookies");
-  console.log(hasSuccessCookies);
+
   // Pass data to the page via props
   const gtagCounter = id => {
     if (btnGClick === null && typeof window !== "undefined") {
@@ -99,7 +98,7 @@ const Home = ({ posts, searchParams }) => {
         })
         .catch(function (error) {
           console.log(
-            "There has been a problem with your fetch operation: " +
+            "There hass been a problem with your fetch operation: " +
               error.message
           );
           return null;

@@ -5,8 +5,6 @@ author: "Kimberly Landess"
 tag:
   - "credit score"
   - "good credit score"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Credit
 description: ""

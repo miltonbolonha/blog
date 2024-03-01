@@ -5,8 +5,6 @@ author: "Missy McKee"
 tag:
   - cars
   - "save money"
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Frugality
 description: ""

@@ -5,8 +5,6 @@ author: "Greyson F"
 tag:
   - Nurse
   - Nursing
-tdc_google_fonts:
-  - "a:0:{}"
 categories:
   - Career
 description: ""

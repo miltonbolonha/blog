@@ -75,9 +75,9 @@ const Seo = ({ children, data = null }) => {
       <script type='application/ld+json' data-schema='Organization'>
         {JSON.stringify(JSON.parse(JSON.stringify(data?.orgSchema)))}
       </script>
-      <script type='application/ld+json'>
+      {/* <script type='application/ld+json'>
         {JSON.stringify(JSON.parse(JSON.stringify(data?.questionSchema)))}
-      </script>
+      </script> */}
       {children}
     </Head>
   );

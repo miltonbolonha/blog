@@ -15,9 +15,21 @@ Today’s breakthroughs in dental implant technology have driven down the cost t
 
 <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
 
-[<div class="cta-imagecover">![](/posts/1080x1080_bluebg_2teeth_1implant.jpg)</div><div class="cta-textcover"><state></state> Dental Implants</div>](#)[<div class="cta-imagecover">![](/posts/1080x1080_bluebg_full4mouth.jpg)</div><div class="cta-textcover">Dental Implants Near Me</div>](#)[<div class="cta-imagecover">![](/posts/1080x1080_bluebg_fullmouth.jpg)</div><div class="cta-textcover"><city></city> Dental Implants</div>](#)[<div class="cta-imagecover">![](/posts/1080x1080_bluebg_gumsdentalimplant.jpg)</div><div class="cta-textcover">Dental Implant Dentists Near Me</div>](#)</div>![](/posts/1200x628_dentures_techleft_rightinstall-1024x536.jpg)### **The Old Dental Implant Industry**
+[<div class="cta-imagecover">
 
-<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">![](/posts/1080x1080_bluebg_fullmouth.jpg)</div><div class="cta-textcover">Dental Implants Near Me</div>](#)</div>In the early 2000s, the implants your dentist would purchase could cost $600 for the implant, $300 for stock abutments, and $50 for a healing abutment. The implant manufacturers would even charge $50 for a single screw cover. $50 sounds crazy for the cost of a single screw.
+![](/posts/1080x1080_bluebg_2teeth_1implant.jpg)</div><div class="cta-textcover"><state></state> Dental Implants</div>](#)[<div class="cta-imagecover">
+
+![](/posts/1080x1080_bluebg_full4mouth.jpg)</div><div class="cta-textcover">Dental Implants Near Me</div>](#)[<div class="cta-imagecover">
+
+![](/posts/1080x1080_bluebg_fullmouth.jpg)</div><div class="cta-textcover"><city></city> Dental Implants</div>](#)[<div class="cta-imagecover">
+
+![](/posts/1080x1080_bluebg_gumsdentalimplant.jpg)</div><div class="cta-textcover">Dental Implant Dentists Near Me</div>](#)</div>
+
+![](/posts/1200x628_dentures_techleft_rightinstall.jpg)### **The Old Dental Implant Industry**
+
+<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">[<div class="cta-imagecover">
+
+![](/posts/1080x1080_bluebg_fullmouth.jpg)</div><div class="cta-textcover">Dental Implants Near Me</div>](#)</div>In the early 2000s, the implants your dentist would purchase could cost $600 for the implant, $300 for stock abutments, and $50 for a healing abutment. The implant manufacturers would even charge $50 for a single screw cover. $50 sounds crazy for the cost of a single screw.
 
 Then at the same time, dentists don’t work for free and have to make money on the procedure so they could have charged a patient close to $2500 per tooth! How’s it possible for anyone to afford that? The average human mouth has 32 teeth so can you imagine it would cost over $80,000 to get your whole mouth done?
 
@@ -53,7 +65,15 @@ Many foods that contain high acid content have the potential to cause dental ena
 
 <div class="cta-btn-wrap" data-mobile-sponsoredads="no">
 
-[<div class="cta-imagefull">![](/posts/1200x628_dentalimplant_gums-300x157.jpg)</div><div class="cta-textfull"><city></city> Dental Implants</div>](#)[<div class="cta-imagefull">![](/posts/1200x627_dentures_4teeth-300x157.jpg)</div><div class="cta-textfull">Full Mouth Dental Implant</div>](#)[<div class="cta-imagefull">![](/posts/1200x627_dentures_seethru-300x157.jpg)</div><div class="cta-textfull">Dental Implants Near Me</div>](#)[<div class="cta-imagefull">![](/posts/1200x628_dentalimplant_parts-1-300x157.jpg)</div><div class="cta-textfull">Dental Implant Dentists Near Me</div>](#)</div><div class="ad-hide">RunIt Code Here</div> <script>
+[<div class="cta-imagefull">
+
+![](/posts/1200x628_dentalimplant_gums-300x157.jpg)</div><div class="cta-textfull"><city></city> Dental Implants</div>](#)[<div class="cta-imagefull">
+
+![](/posts/1200x627_dentures_4teeth-300x157.jpg)</div><div class="cta-textfull">Full Mouth Dental Implant</div>](#)[<div class="cta-imagefull">
+
+![](/posts/1200x627_dentures_seethru-300x157.jpg)</div><div class="cta-textfull">Dental Implants Near Me</div>](#)[<div class="cta-imagefull">
+
+![](/posts/1200x628_dentalimplant_parts-1-300x157.jpg)</div><div class="cta-textfull">Dental Implant Dentists Near Me</div>](#)</div><div class="ad-hide">RunIt Code Here</div> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -61,7 +81,9 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '531314677258366'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
+</script> <noscript>
+
+![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -69,7 +91,9 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
 fbq('init', '438385429848061'); // Insert your pixel ID here.
 fbq('track', 'PageView');
-</script> <noscript>![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
+</script> <noscript>
+
+![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
 window.\_tfa = window.\_tfa || [];
 window.\_tfa.push({notify: 'event', name: 'page_view', id: 1191405});
 !function (t, f, a, x) {
