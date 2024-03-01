@@ -66,14 +66,14 @@ const Seo = ({ children, data = null }) => {
       {/* Schema.org tags */}
       {data?.topology === "pages" ? (
         <script type='application/ld+json' data-schema='Article'>
-          {JSON.stringify(JSON.parse(JSON.stringify(data?.articleSchema)))}
+          {JSON.stringify(data?.articleSchema)}
         </script>
       ) : null}
       <script type='application/ld+json' data-schema='WebSite'>
-        {JSON.stringify(JSON.parse(JSON.stringify(data?.webSiteSchema)))}
+        {JSON.stringify(data?.webSiteSchema)}
       </script>
       <script type='application/ld+json' data-schema='Organization'>
-        {JSON.stringify(JSON.parse(JSON.stringify(data?.orgSchema)))}
+        {JSON.stringify(data?.orgSchema)}
       </script>
       {/* <script type='application/ld+json'>
         {JSON.stringify(JSON.parse(JSON.stringify(data?.questionSchema)))}
