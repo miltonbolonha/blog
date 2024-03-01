@@ -20,8 +20,6 @@ export default class MyDocument extends Document {
     } catch (error) {
       console.log(`Error: ${error}`);
     }
-    onslotchange.log("ctx.req.url");
-    onslotchange.log(ctx.req.url);
   }
 
   render() {

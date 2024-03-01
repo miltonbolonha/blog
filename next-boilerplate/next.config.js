@@ -11,7 +11,7 @@ const cspHeader = `
     frame-ancestors 'none';
     block-all-mixed-content;
     upgrade-insecure-requests;
-`
+`;
 const isProd = process.env.NODE_ENV === "production";
 const nextConfig = {
   reactStrictMode: false,
@@ -26,18 +26,19 @@ const nextConfig = {
   },
 };
 
-module.exports = nextConfig,{
-  async headers() {
-    return [
-      {
-        source: '/(.*)',
-        headers: [
-          {
-            key: 'Content-Security-Policy',
-            value: cspHeader.replace(/\n/g, ''),
-          },
-        ],
-      },
-    ]
-  },
-};
+(module.exports = nextConfig),
+  {
+    async headers() {
+      return [
+        {
+          source: "/(.*)",
+          headers: [
+            {
+              key: "Content-Security-Policy",
+              value: cspHeader.replace(/\n/g, ""),
+            },
+          ],
+        },
+      ];
+    },
+  };
