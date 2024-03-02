@@ -13,9 +13,7 @@ image: gold-163519.jpg
 
 Have you checked the price of gold recently? Well now might be the time to research and find out how to purchase and find the best prices on gold before it keeps on climbing higher. These economic conditions have created a perfect storm for the world’s oldest money to continue increasing in price.
 
-[<div style="flex: 1;margin-right:18px;line-height:21px;">Gold Price Today</div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">Gold Spot Price</div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">Gold Bar Prices</div>](#) [<div style="flex: 1;margin-right:18px;line-height:21px;">Gold Bullion Prices</div>](#) </div>
-
-![](/posts/gold-163519.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes"> [<div style="flex: 1;margin-right:18px;line-height:21px;">Gold Price</div>](#) </div>A Perfect Storm is Brewing
+## A Perfect Storm is Brewing
 
 The United States may be in the midst of a perfect storm as the bond yield plunges, the government’s debt surges, and the economic forecast deteriorates. The net effect is a surge in the price in gold that we haven’t seen in eight years. Some analysts are projecting that the price of gold will continue to climb over the next 12 months<sup>1</sup>.
 
@@ -68,65 +66,3 @@ When the economy is uncertain or there is a pending recession, individuals will 
 Consumers, investment companies, and manufactures have long been and will continue to be in love with gold. The drivers of the price of gold include: personal and industrial demand, the value of the dollar, desire to look at gold as a hedge against inflation, and the quantity of gold being held in the central reserve banks.
 
 </div>Take the first step now and explore how you can preserve your purchasing power, protect your assets, and diversify your portfolio – check prices and the best ways to buy gold online.
-
-<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
-
-[<div style="flex: 1;margin-right:18px;line-height:21px;">Gold Price</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Bullion Price</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Gold Spot Price</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Gold Coin Prices</div>](#)</div><div class="ad-hide">RunIt Code Here</div> <script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '531314677258366'); // Insert your pixel ID here.
-fbq('track', 'PageView');
-</script> <noscript>
-
-![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '438385429848061'); // Insert your pixel ID here.
-fbq('track', 'PageView');
-</script> <noscript>
-
-![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
-window.\_tfa = window.\_tfa || [];
-window.\_tfa.push({notify: 'event', name: 'page_view', id: 1191405});
-!function (t, f, a, x) {
-if (!document.getElementById(x)) {
-t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
-}
-}(document.createElement('script'),
-document.getElementsByTagName('script')[0],
-'//cdn.taboola.com/libtrc/unip/1191405/tfa.js',
-'tb_tfa_script');
-</script> <noscript> ![](//trc.taboola.com/1191405/log/3/unip?en=page_view) </noscript> <script>
-fbq('track', 'ViewContent', {
-currency: 'USD'
-});
-</script> <script type="text/javascript">
-function runIt() {
-fbq('track', 'AddToCart', {
-currency: 'USD',
-content_name: 'gold'
-});
-
-        window.dotq = window.dotq || [];
-        window.dotq.push(
-        {
-            'projectId': '10000',
-            'properties': {
-                'pixelId': '10029827',
-                'qstrings': {
-                    'et': 'custom',
-                    'ea': 'click',
-                    'ec': 'addtocart',
-                    'el': 'gold'
-                }
-        } } );
-    _tfa.push({notify: 'event', name: 'add_to_cart', id: 1191405});
-    }
-
-</script>

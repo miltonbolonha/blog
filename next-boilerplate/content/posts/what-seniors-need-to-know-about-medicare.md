@@ -13,13 +13,9 @@ image: 1200x628_seniordiscounts_eyeexammedicare.jpg
 
 Medicare open enrollment period is here. Open enrollment runs from October 15 to December 7<sup>1</sup>. This is the only time of the year that seniors can easily make changes to their Medicare, so it’s important to be aware of these dates. Before you can make any decision around your health insurance, it’s best to research all the different options Medicare can offer and any changes that are coming up.
 
-<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
+## Medicare Plans And Changes
 
-[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Options</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Plans Cost</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Supplement Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Offers</div>](#)</div>
-
-![](/posts/1200x628_seniordiscounts_eyeexammedicare.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
-
-[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Plans And Changes</div>](#)</div>Take some time to think about what you need from Medicare. Consider your current insurance, health expenses, and the Medicare options to choose between.
+Take some time to think about what you need from Medicare. Consider your current insurance, health expenses, and the Medicare options to choose between.
 
 ## **Am I Eligible for Medicare?**
 
@@ -82,65 +78,3 @@ A supplemental insurance policy, through a private insurance company, can save y
 </div>Don’t worry too much if you miss the open enrollment period. You can leave your Medigap plan and return to original Medicare between January 1 and February 14. You also have until February 14 to sign up for Part D. You can also sign up to Medicare from January 1 to March 31.
 
 Remember, if you leave it until after the open enrollment period, you may be charged a fee. If you miss this period, you may have to wait another year or pay a penalty, both of which are costly options. So, mark the open enrollment period in your calendar!
-
-<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
-
-[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Plan F Replacement</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">Medicare Supplement Rates</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;"><state></state> Medicare Offers</div>](#)[<div style="flex: 1;margin-right:18px;line-height:21px;">2020 Changes To Medicare</div>](#)</div><div class="ad-hide">RunIt Code Here</div> <script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '531314677258366'); // Insert your pixel ID here.
-fbq('track', 'PageView');
-</script> <noscript>
-
-![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '438385429848061'); // Insert your pixel ID here.
-fbq('track', 'PageView');
-</script> <noscript>
-
-![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
-window.\_tfa = window.\_tfa || [];
-window.\_tfa.push({notify: 'event', name: 'page_view', id: 1087586});
-!function (t, f, a, x) {
-if (!document.getElementById(x)) {
-t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
-}
-}(document.createElement('script'),
-document.getElementsByTagName('script')[0],
-'//cdn.taboola.com/libtrc/unip/1087586/tfa.js',
-'tb_tfa_script');
-</script> <noscript> ![](//trc.taboola.com/1087586/log/3/unip?en=page_view) </noscript> <script>
-fbq('track', 'ViewContent', {
-currency: 'USD'
-});
-</script> <script type="text/javascript">
-function runIt() {
-fbq('track', 'AddToCart', {
-currency: 'USD',
-content_name: 'medicare'
-});
-
-        window.dotq = window.dotq || [];
-        window.dotq.push(
-        {
-            'projectId': '10000',
-            'properties': {
-                'pixelId': '10029827',
-                'qstrings': {
-                    'et': 'custom',
-                    'ea': 'click',
-                    'ec': 'addtocart',
-                    'el': 'medicare'
-                }
-        } } );
-    _tfa.push({notify: 'event', name: 'add_to_cart', id: 1087586});
-    }
-
-</script>

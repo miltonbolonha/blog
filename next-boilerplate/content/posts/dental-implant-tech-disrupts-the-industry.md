@@ -55,82 +55,12 @@ While the ultimate goal of dental implants is to achieve bone stability, bone lo
 
 The dentist will first take a 3D image of your mouth and identify the missing or failing teeth that need to be replaced. Because of the advancements in 3D printing, doctors are now able to model the exact size, shape and dimensions and “print” an exact match for your mouth. This offers a simple and effective solution for artificial tooth replacement which reduces the number of visits and painful procedures. That’s why it makes sense that everyone is getting dental implants these days – the industry is supposed to grow to over $8.3 billion by 2025<sup>3</sup>.
 
-### **\*\*\*\***Antibacterial Coatings**\*\*\*\***
+### Antibacterial Coatings
 
 While still not widely available yet, another area where there have been advancements in dental implant technology is the coating materials themselves. There are new antibacterial coatings currently being developed that increase the longevity of the implants.
 
 Many foods that contain high acid content have the potential to cause dental enamel erosion but there are also new coatings that can give patients more freedom to eat and drink what they want without being concerned about damaging their implants<sup>2</sup>.
 
-### **\*\*\*\***Better Fit, Stronger, and Cheaper!**\*\*\*\***
+### Better Fit, Stronger, and Cheaper!
 
 </div>Today’s implants aren’t your grandparents’ kind! Forget the “false teeth” look that patients once had to live with. Today, dentists use computerized images to create a look that is just right for your face and that fit perfectly in your mouth. As technology evolves, implant manufacturers, dental labs, and dentists are all able to pass savings onto patients making care more affordable and improving patient’s lives.
-
-<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
-
-[<div class="cta-imagefull">
-
-![](/posts/1200x628_dentalimplant_gums-300x157.jpg)</div><div class="cta-textfull"><city></city> Dental Implants</div>](#)[<div class="cta-imagefull">
-
-![](/posts/1200x627_dentures_4teeth-300x157.jpg)</div><div class="cta-textfull">Full Mouth Dental Implant</div>](#)[<div class="cta-imagefull">
-
-![](/posts/1200x627_dentures_seethru-300x157.jpg)</div><div class="cta-textfull">Dental Implants Near Me</div>](#)[<div class="cta-imagefull">
-
-![](/posts/1200x628_dentalimplant_parts-1-300x157.jpg)</div><div class="cta-textfull">Dental Implant Dentists Near Me</div>](#)</div><div class="ad-hide">RunIt Code Here</div> <script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '531314677258366'); // Insert your pixel ID here.
-fbq('track', 'PageView');
-</script> <noscript>
-
-![](https://www.facebook.com/tr?id=531314677258366&ev=PageView&noscript=1)</noscript> <script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f.\_fbq)f.\_fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '438385429848061'); // Insert your pixel ID here.
-fbq('track', 'PageView');
-</script> <noscript>
-
-![](https://www.facebook.com/tr?id=438385429848061&ev=PageView&noscript=1)</noscript> <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10029827'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script> <script type="text/javascript">
-window.\_tfa = window.\_tfa || [];
-window.\_tfa.push({notify: 'event', name: 'page_view', id: 1191405});
-!function (t, f, a, x) {
-if (!document.getElementById(x)) {
-t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
-}
-}(document.createElement('script'),
-document.getElementsByTagName('script')[0],
-'//cdn.taboola.com/libtrc/unip/1191405/tfa.js',
-'tb_tfa_script');
-</script> <noscript> ![](//trc.taboola.com/1191405/log/3/unip?en=page_view) </noscript> <script>
-fbq('track', 'ViewContent', {
-currency: 'USD'
-});
-</script> <script type="text/javascript">
-function runIt() {
-fbq('track', 'AddToCart', {
-currency: 'USD',
-content_name: 'dental'
-});
-
-        window.dotq = window.dotq || [];
-        window.dotq.push(
-        {
-            'projectId': '10000',
-            'properties': {
-                'pixelId': '10029827',
-                'qstrings': {
-                    'et': 'custom',
-                    'ea': 'click',
-                    'ec': 'addtocart',
-                    'el': 'dental'
-                }
-        } } );
-    _tfa.push({notify: 'event', name: 'add_to_cart', id: 1191405});
-    }
-
-</script>
