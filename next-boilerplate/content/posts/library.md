@@ -3,9 +3,9 @@ title: "Library"
 date: "2018-03-02 07:40:56"
 author: "Milton Bolonha"
 tag:
-  - admin
+  - hide
 categories:
-  - Admin
+  - Hide
 description: ""
 layout: post
 image: pc.jpg
