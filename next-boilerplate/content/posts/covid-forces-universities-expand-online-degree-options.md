@@ -16,22 +16,6 @@ image: 1200x628_ondeg_university_steps.jpg
 
 COVID has impacted every aspect of our lives. For those trying to complete their education, it has become even harder. Many of the most prestigious colleges and universities have seen significant drops in enrollment numbers. In an attempt to continue to provide students with the best possible education, many have started to offer online degree programs for students who are interested in enrolling. The benefits of this type of learning are extensive and are opening many doors for students who may not have considered attending the school otherwise.
 
-<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
-
-[<div class="cta-imagecover">
-
-![](/posts/1080x1080_onlinedegree_girlredshirt_compstudying.jpg)</div><div class="cta-textcover">Online Schools</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_onlinedegree_business_charts_stock.jpg)</div><div class="cta-textcover">Online Business Degree</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_onlinedegree_psyc_brain.jpg)</div><div class="cta-textcover">Psychology Degrees Online</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_onlinedegree_computercode_screen.jpg)</div><div class="cta-textcover">Online Computer Science Degrees</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_onlinedegree_education_teacherwithstudents.jpg)</div><div class="cta-textcover">Online Education Degree</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_onlinedegree_nurse.jpg)</div><div class="cta-textcover">Nursing Programs Online</div>](#)</div><figure class="wp-block-image size-large" style="margin-top:30px">[![](/posts/1200x628_ondeg_university_steps.jpg)](/posts/1200x628_ondeg_university_steps.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
-
 **Added Convenience**
 
 Online degree programs offer a level of convenience that on-campus classes don’t. There is no commute to and from class. Students can attend from almost anywhere and if they are already employed, can continue to work their regular schedule. Online courses also provide additional resources students can refer back to if they have questions or are looking for suggestions on how to complete an assignment. The online learning platform makes it easy for them to communicate with faculty members or find out when assignments are due.
@@ -52,22 +36,6 @@ Even with social distancing and the use of masks and other PPE, there are severa
 
 Prestigious colleges and universities are offering online degree programs that are accredited both regionally and in specialty areas. This ensures students will get the best possible education from schools and programs that exceed industry standards. It also means that the course has been thoroughly evaluated to ensure that each student is getting the most advanced and up-to-date information possible. They will have everything they need to graduate and feel confident they can accomplish any goal. Accreditation on both the specialty and regional level is an ongoing achievement that many schools of higher learning are committed to. It shows their willingness to ensure the success of their students.
 
-</div>**Begin Your Search For An Online Degree Now**
+**Begin Your Search For An Online Degree Now**
 
 Due to COVID-19, many of the most highly-respected universities and colleges in the country are opening their doors, or online portals, to students who want to attend their degree programs. They receive the same quality education and resources as on-campus students and are able to utilize every asset and resource the school has to offer. Students can choose the school of their dreams that they may not have otherwise been able to attend. The COVID pandemic has changed many things about how colleges and universities are handling their online degree programs. Opening their enrollment to online students is making it possible for more and more students to enroll in the most prestigious schools in the country.
-
-<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
-
-[<div class="cta-imagecover">
-
-![](/posts/1080x1080_onlinedegree_girlredshirt_compstudying.jpg)</div><div class="cta-textcover">Online Schools</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_onlinedegree_business_charts_stock.jpg)</div><div class="cta-textcover">Online Business Degree</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_onlinedegree_psyc_brain.jpg)</div><div class="cta-textcover">Psychology Degrees Online</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_onlinedegree_computercode_screen.jpg)</div><div class="cta-textcover">Online Computer Science Degrees</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_onlinedegree_education_teacherwithstudents.jpg)</div><div class="cta-textcover">Online Education Degree</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_onlinedegree_nurse.jpg)</div><div class="cta-textcover">Nursing Programs Online</div>](#)</div><div class="ad-hide">RunIt Code Here</div>

@@ -17,8 +17,6 @@ If you go to the dealership thinking the lowest price is the one they advertised
 
 You should never think TV advertised prices are the lowest – many new car dealers advertise internet only prices which can save you money (plus this is best time of year to be searching when dealers are left with no choice but to sell their unsold inventory).
 
-![](/posts/cars.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
-
 ## Supply and Demand
 
 Let’s face it, in today’s economy, SUV sales have been down in the wake of The Great Recession. As the economy slowly got better, SUV sales picked up a little. However, that growth is now stalled and the industry is believed to have already peaked. GM and Ford, the two largest automakers in the U.S., both saw declining sales last year<sup>1</sup>.

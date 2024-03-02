@@ -13,23 +13,7 @@ image: 1200x627_diabetestreatment_usbwithpancreas.jpg
 
 Individuals with diabetes now have more options than ever before when it comes to keeping their condition under control. From minimally invasive procedures to simple lifestyle changes, people are learning how easy it is to effectively manage their Type 2 diabetes. Today’s technology allows for many more effective treatment options to be considered.
 
-<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
-
-[<div class="cta-imagecover">
-
-![](/posts/1080x1080_diabetestreatment_insulindiagram.jpg)</div><div class="cta-textcover">A1C Level Treatments for Type 2 Diabetes</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_diabetestreatment_legstraps.jpg)</div><div class="cta-textcover">Diabetes Type 2 Early Symptoms and Treatments</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_diabetestreatment_fingernails.jpg)</div><div class="cta-textcover">Early Signs Type 2 Diabetes and Treatment</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_diabetestreatment_feetbottoms.jpg)</div><div class="cta-textcover">First Signs of Diabetes Type 2 and Treatment</div>](#)</div>
-
-![](/posts/1200x627_diabetestreatment_usbwithpancreas-1.jpg)<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
-
-[<div class="cta-imagecover">
-
-![](/posts/1080x1080_diabetestreatment_insulindiagram.jpg)</div><div class="cta-textcover">A1C Level Treatments for Type 2 Diabetes</div>](#)</div>In the past, there were only a few proven methods patients could confidently use to manage the symptoms they experienced. But now, people who have been diagnosed with Type 2 diabetes can find treatment options that work best for their individual diagnosis. Working with their doctor will allow them to try different options to see which one (or two) works best for them.
+In the past, there were only a few proven methods patients could confidently use to manage the symptoms they experienced. But now, people who have been diagnosed with Type 2 diabetes can find treatment options that work best for their individual diagnosis. Working with their doctor will allow them to try different options to see which one (or two) works best for them.
 
 ## DMR or Duodenal Mucosal Resurfacing
 

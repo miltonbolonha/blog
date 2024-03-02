@@ -13,20 +13,6 @@ layout: post
 
 Groundbreaking treatment options are now being used to keep psoriasis under control and effectively manage its symptoms. Psoriasis is different in each individual. What works for you may not work for others. For many people, it can take months of trial and error before finding the right combination of treatment options for both scalp psoriasis and plaque psoriasis.
 
-<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
-
-[<div class="cta-imagecover">
-
-![](/posts/1080x1080_psoriasis_scalpcream.jpg)</div><div class="cta-textcover">Best Psoriasis Treatment</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_psoriasis_elbow_applyincream.jpg)</div><div class="cta-textcover">Best Treatment for Psoriasis <city></city></div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_psoriasis_laserface.jpg)</div><div class="cta-textcover">Skin Care for Psoriasis on Face</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_psoriasis_dandruffscalp.jpg)</div><div class="cta-textcover">Treatment for Scalp Psoriasis</div>](#)</div><figure class="wp-block-image size-large" style="margin-top:25px">[![](/posts/1200x630_psoriasis_women_itchy_arm.jpg)](/posts/1200x630_psoriasis_women_itchy_arm.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
-
-[<div class="cta-imagecover">
-
 ![](/posts/1080x1080_psoriasis_elbow_applyincream.jpg)</div><div class="cta-textcover">Best Treatment for Psoriasis <city></city></div>](#)</div>Psoriasis is most often characterized by reddened patches of skin covered by whitish scales that flake away as the skin dries out. It is a chronic, auto-immune disorder¹ that affects the surface layers of the skin. Psoriasis causes the body to produce skin cells too quickly. The cells do not have enough time to live out their month-long cycle before more cells appear to take their place. This thick build-up of cells causes itching, redness, and the dry-scaling appearance.
 
 ## Light Therapy

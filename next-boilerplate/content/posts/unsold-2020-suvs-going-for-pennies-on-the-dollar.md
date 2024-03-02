@@ -13,20 +13,6 @@ image: 1200x627_newcar_lot.jpg
 
 Auto dealerships have been forced to reduce prices of current inventory to unprecedented levels. If you are in the market for a new SUV or car, this just might be the best time to buy. Research the many different offers and you are sure to find a lovely new SUV, car or truck that makes financial sense for your unique budget.
 
-<div class="cta-btn-wrap" data-mobile-sponsoredads="no">
-
-[<div class="cta-imagecover">
-
-![](/posts/1080x1080_newcar_wrapped_ontrain.jpg)</div><div class="cta-textcover">Unsold 2020 SUV Pricing</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_SUV_portskyview.jpg)</div><div class="cta-textcover">New Luxury SUV 2020 Offers</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_SUV_carlot.jpg)</div><div class="cta-textcover">Best Mid Size Crossover SUV Offers Senior Should See</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_SUV_aeril_dealer.jpg)</div><div class="cta-textcover">Unsold SUV Offers</div>](#)</div><figure class="wp-block-image size-large" style="margin-top:25px">[![](/posts/1200x627_newcar_lot-1.jpg)](/posts/1200x627_newcar_lot-1.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
-
-[<div class="cta-imagecover">
-
 ![](/posts/1080x1080_newcar_wrapped_ontrain.jpg)</div><div class="cta-textcover">Unsold 2020 SUV Pricing</div>](#)</div>More importantly, this is a golden opportunity to buy or lease a new SUV that is comfortable, loaded with luxurious amenities and is a blast to drive. However, if you were to wait even a couple months, there is no guarantee these fantastic deals will still be available.
 
 ## Why SUV Prices Have Dropped so Low

@@ -13,21 +13,7 @@ image: 1200x628_seniordiscounts_eatingrestaurantseniors.jpg
 
 Over the last few years, developers have been building senior communities in anticipation of the aging baby boomer generation. However, there’s simply too many (especially right now in 2021) which means there is a great deal to be had for you or a loved one. Make sure to check all available offers across senior living communities to make sure you get the best fit for your lifestyle and price that matches your budget!
 
-[<div class="cta-imagecover">
-
-![](/posts/1080x1080_seniorliving_woodkitchen.jpg)</div><div class="cta-textcover"><city></city> Senior Living Offers</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_senlivi_oceanfront.jpg)</div><div class="cta-textcover">Independent Assisted Living</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_senlivi_whitekitchen.jpg)</div><div class="cta-textcover">Active Senior Living Community</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_trendycommunity.jpg)</div><div class="cta-textcover">Senior Living Homes</div>](#)</div><figure class="wp-block-image" style="margin-top:25px">
-
-![](/posts/1200x628_seniordiscounts_eatingrestaurantseniors.jpg)</figure><div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
-
-[<div class="cta-imagecover">
-
-![](/posts/1080x1080_seniorliving_woodkitchen.jpg)</div><div class="cta-textcover"><city></city> Senior Living Offers</div>](#)</div>**Drastic Overbuilding Is Common Across the Country**
+**Drastic Overbuilding Is Common Across the Country**
 
 Developers and senior community development owners have added thousands of new locations across the country in anticipation for the upcoming senior boom. It’s true – soon seniors will make up a large portion of the population as the Baby Boomer generation matures. And, these developers, hoping to capitalize on that increasing need, have built a large number of senior living communities.
 

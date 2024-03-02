@@ -14,23 +14,9 @@ image: alarm-pad.jpg
 
 Regardless of why you need an attorney, it’s important that you find an affordable and reputable one. Attorneys are held to extremely high standards, but that doesn’t always mean that _any_ attorney will be able to represent you well. Some attorneys specialize in certain areas — such as personal liability, estate law, or business law — while other attorneys may have a more general practice. Attorneys exist on a fairly wide spectrum so how can you make sure you’re getting the highest quality and lowest cost option? You have to begin your search to compare all attorneys in your area.
 
-[<div class="cta-imagecover">
-
-![](/posts/1080x1080_attorney_attorneynearme.jpg)</div><div class="cta-textcover">Attorney Near <city>Me</city></div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_attorney_injuryattorney.jpg)</div><div class="cta-textcover">Injury Attorney</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_attorney_autoaccidentattorney.jpg)</div><div class="cta-textcover">Auto Accident Attorney</div>](#)[<div class="cta-imagecover">
-
-![](/posts/1080x1080_attorney_medicalmalpractice.jpg)</div><div class="cta-textcover">Medical Malpractice Lawyer</div>](#)</div><figure class="wp-block-image size-large" style="margin-top:25px">[![](/posts/1200x620_attorney_ladyjustice.jpg)]/posts/1200x620_attorney_ladyjustice.jpg)</figure>Finding the Right Attorney
-
 Specialization matters. You can start by asking for referrals from friends and family members, but you need to know the type of attorney you need. Do you need a criminal attorney? Or a divorce attorney? Some attorneys specialize in different things, but they will rarely take cases outside their specialization. No attorney can know everything about everything, and you need the best attorney possible to represent you.
 
-<div class="mobile-cta-wrap"><div class="cta-btn-wrap" data-mobile-sponsoredads="yes">
-
-[<div class="cta-imagecover">
-
-![](/posts/1080x1080_attorney_attorneynearme.jpg)</div><div class="cta-textcover">Attorney Near <city>Me</city></div>](#)</div>What if no one you know is able to recommend an attorney? You can go through your local bar association.
+What if no one you know is able to recommend an attorney? You can go through your local bar association.
 
 Your bar association will have a website that lists everyone currently registered with the bar. In other words, all active attorneys in your area. You can search by specialization and start calling around for a consultation. Most attorneys will have a nominal consultation fee or even a free consultation. If your budget is a concern, you can continue to call around until you find someone who might offer a free consultation or who may operate on a sliding scale.
 
