@@ -76,6 +76,12 @@
 }
 
 sup {
+  font-weight: 900;
+  vertical-align: super;
+  color: $primary__colorTwo;
+  font-size: 14px;
+  margin-left: -10px;
+  padding: 5px;
   a {
     font-weight: 900;
     vertical-align: super;
