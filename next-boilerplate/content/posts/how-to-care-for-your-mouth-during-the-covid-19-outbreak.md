@@ -18,8 +18,6 @@ The COVID-19 pandemic has people more conscious of their health than ever before
 
 As people focus more on their general health, they tend to overlook oral health. There is no denying that your oral health is linked to your overall health. While ensuring good oral health doesn’t necessarily mean you won’t catch the virus, it does reduce the risk of other health problems such as heart disease<sup>1</sup>.
 
-![](/posts/How-to-care-for-your-teeth-Covid-19.jpg)
-
 Most dental clinics were closed during the pandemic, only entertaining emergency cases. The key to taking care of your mouth during the pandemic is to ensure you take preventative measures. While you can’t go to your dentist for a regular checkup, you can take steps at home to ensure you maintain good oral health. We highlight exactly how you can do that.
 
 ## Make the switch to an electric toothbrush
