@@ -348,7 +348,7 @@
   .container {
     .post-article-content {
       width: 95%;
-      font-size: 19px;
+      font-size: 18px;
       line-height: 28px;
       font-weight: 300;
       color: $black;
@@ -387,9 +387,9 @@
       }
       ul.toc-list li,
       ul li {
-        font-style: italic;
         list-style-type: disc;
         margin-left: 20px;
+        font-size: 18px;
         margin-bottom: 5px;
       }
 
