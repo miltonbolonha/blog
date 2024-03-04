@@ -34,12 +34,6 @@ export default class MyDocument extends Document {
             src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
           /> */}
           <link rel='icon prefetch' href='/favicon.png' sizes='any' />
-          <Script
-            async
-            strategy='beforeInteractive'
-            crossOrigin='anonymous'
-            src='https://identity.netlify.com/v1/netlify-identity-widget.js'
-          />
         </Head>
         <body className='theme-one'>
           <Script

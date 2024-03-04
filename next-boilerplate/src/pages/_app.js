@@ -4,8 +4,10 @@ import "@fontsource-variable/inter";
 import "../styles/styles.scss";
 import Script from "next/script";
 import mainInfos from "../configs/main-infos.json";
+import { usePathname } from "next/navigation";
 
 function App({ Component, pageProps }) {
+  const location = usePathname();
   return (
     <>
       <Script
@@ -54,7 +56,14 @@ function App({ Component, pageProps }) {
         `,
         }}
       />
-
+      {location === "/admin/" ? (
+        <Script
+          async
+          strategy='beforeInteractive'
+          crossOrigin='anonymous'
+          src='https://identity.netlify.com/v1/netlify-identity-widget.js'
+        />
+      ) : null}
       <Component {...pageProps} />
     </>
   );
