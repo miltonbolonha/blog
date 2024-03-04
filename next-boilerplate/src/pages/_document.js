@@ -38,6 +38,7 @@ export default class MyDocument extends Document {
         <body className='theme-one'>
           <Script
             id='googletagmanager'
+            crossOrigin='anonymous'
             strategy='afterInteractive'
             src={`https://www.googletagmanager.com/gtag/js?id=${mainInfos.business.gaID}`}
           />

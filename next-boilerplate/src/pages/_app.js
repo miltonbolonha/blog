@@ -12,17 +12,20 @@ function App({ Component, pageProps }) {
     <>
       <Script
         strategy='afterInteractive'
+        crossOrigin='anonymous'
         src='https://rampjs-cdn.system1.com/ramp.js'
         async
       />
       <Script
         strategy='afterInteractive'
         async
+        crossOrigin='anonymous'
         src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${mainInfos.business.gaID}`}
       />
       <Script
         id='gtag'
         async
+        crossOrigin='anonymous'
         dangerouslySetInnerHTML={{
           __html: `
           window.dataLayer = window.dataLayer || [];
@@ -49,6 +52,7 @@ function App({ Component, pageProps }) {
       <Script
         id='rampjs'
         async
+        crossOrigin='anonymous'
         dangerouslySetInnerHTML={{
           __html: `
           (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
