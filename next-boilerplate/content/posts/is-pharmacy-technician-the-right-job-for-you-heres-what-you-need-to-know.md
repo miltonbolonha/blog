@@ -20,8 +20,6 @@ Let’s explore this high demand job, training required, salary and lifestyle.
 
 Those interested in the medical field will very often focus their efforts on becoming doctors, nurses, or perhaps dental assistants. In reality though, there are many other important jobs that will put an understanding of human biology to good use. A pharmacy technician is just one such role.
 
-![](/posts/Pharmact-tech.jpg)
-
 A pharmacy technician is someone who works in a pharmacy and is responsible for handing out prescriptions. This means they are also required to organize and manage large amounts of inventory, to measure and mix medications, to take notes, and even to provide medical advice in some cases. Depending on the company you work for, you might also be required to offer additional services – even providing basic medical checks!
 
 ## Training
