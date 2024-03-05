@@ -1,7 +1,6 @@
 import React, { useRef, useState, useEffect } from "react";
 import fetch from "cross-fetch";
 import { usePathname, useSearchParams } from "next/navigation";
-import Cookies from "universal-cookie";
 // import VMasker from "vanilla-masker";
 // import moment from "moment";
 // import "moment/locale/pt-br";
@@ -62,26 +61,6 @@ const FeedbackContainer = ({ emailPage, emailFolder, subject, gtag }) => {
   const siteUrlf = "https://moderntips.com";
   const feedbackFolder = emailFolder;
   // find me xxxxx
-  const cookies = new Cookies();
-
-  const hasSuccessCookies =
-    cookies.get("successValue") ||
-    cookies.set("successValue", null, {
-      path: "/",
-    });
-
-  const cookiesValues =
-    cookies.get("submitedValues") && hasSuccessCookies
-      ? cookies.get("submitedValues")
-      : cookies.set("submitedValues", null, {
-          path: "/",
-        });
-
-  const sentMCCookies =
-    cookies.get("cookiesSentMC") ||
-    cookies.set("cookiesSentMC", null, {
-      path: "/",
-    });
 
   const handlePeopleAWhatsChange = peopleAWhatsTyping => {
     setPeopleAWhats(peopleAWhatsTyping);
@@ -176,15 +155,6 @@ const FeedbackContainer = ({ emailPage, emailFolder, subject, gtag }) => {
         msg: peopleAWhats,
       },
     };
-    cookies.remove("submitedValues");
-    cookies.remove("successValue");
-
-    cookies.set("submitedValues", fullUrl, {
-      path: "/",
-    });
-    cookies.set("successValue", false, {
-      path: "/",
-    });
 
     const payload2 = {
       from: emailPage,
@@ -242,9 +212,7 @@ const FeedbackContainer = ({ emailPage, emailFolder, subject, gtag }) => {
           // throw new Error("Bad response from server");
         }
         setLoadingForm(false);
-        cookies.set("successValue", true, {
-          path: "/",
-        });
+
         setSuccess(true);
         return setSuccessMsg(website.successMessage);
       })

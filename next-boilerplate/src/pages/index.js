@@ -1,6 +1,5 @@
 import React, { useRef, useState, useEffect } from "react";
 // import Head from "next/head";
-import Cookies from "universal-cookie";
 import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
 // import { usePathname } from "next/navigation";
@@ -67,13 +66,6 @@ const Home = ({ posts, searchParams }) => {
     setUserInfos(data);
     return setCity(data?.geo?.city || "Los Angeles");
   };
-
-  const cookies = new Cookies();
-  const hasSuccessCookies =
-    cookies.get("locationValue") ||
-    cookies.set("locationValue", null, {
-      path: "/",
-    });
 
   // Pass data to the page via props
   const gtagCounter = id => {
