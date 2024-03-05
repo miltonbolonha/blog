@@ -29,7 +29,9 @@ const BlogPost = ({ post }) => {
   const pSelect = doc?.querySelector("p");
   const excerpt = pSelect?.childNodes[0]?._rawText;
 
-  let categoriesPosts = post.categoriesPosts.filter(pc => pc.slug != post.slug);
+  let categoriesPosts = post?.categoriesPosts?.filter(
+    pc => pc.slug != post.slug
+  );
 
   const title = post?.frontmatter?.title.replace(
     "{{city}}",
@@ -107,7 +109,8 @@ const BlogPost = ({ post }) => {
         });
     }
   }, [city, promoVisitState, getRef]);
-
+  // console.log("postpostpost");
+  // console.log(post);
   return (
     <>
       <div className='single-post post-container'>

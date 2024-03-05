@@ -169,7 +169,8 @@
     .right-column {
       width: 300px;
       h2 {
-        font-size: 20px;
+        font-size: $news_card__heading;
+        line-height: 20px;
       }
       .ads-right-column {
         width: 300px;

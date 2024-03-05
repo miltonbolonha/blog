@@ -211,8 +211,8 @@ Duplicated footnote reference[^second].
 
 ## YouTube Videos
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pBy1zgt0XPc" target="_blank">
-<img src="http://img.youtube.com/vi/pBy1zgt0XPc/0.jpg" alt="IMAGE ALT TEXT HERE" width="540" height="480">
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=pBy1zgt0XPc" target="_blank">
+<img src="https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg" alt="IMAGE ALT TEXT HERE" width="540" height="480">
 </a>
 
 [![IMAGE ALT TEXT HERE](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/512px-YouTube_Logo_%282013-2017%29.svg.png)](https://www.youtube.com/watch?v=pBy1zgt0XPc)

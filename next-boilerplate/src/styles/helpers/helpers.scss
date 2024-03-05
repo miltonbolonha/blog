@@ -700,7 +700,7 @@ h1.cro-heading {
     margin-right: auto;
   }
   h2 {
-    font-size: 16px;
+    font-size: $news_card__heading;
     line-height: 24px;
   }
   .post-category {
@@ -708,6 +708,8 @@ h1.cro-heading {
     margin-bottom: 5px;
     display: block;
     font-weight: 600;
+    letter-spacing: 0.5px;
+    color: $primary__colorOne;
   }
   a.media {
     margin-bottom: 10px;
