@@ -27,7 +27,9 @@ const BlogPost = ({ post }) => {
   const doc = parse(post.content);
   const pSelect = doc?.querySelector("p");
   const excerpt = pSelect?.childNodes[0]?._rawText;
-
+  const killSEO =
+    post?.frontmatter?.categories?.length > 0 &&
+    post?.frontmatter?.categories[0] === "Hide";
   let categoriesPosts = post?.categoriesPosts?.filter(
     pc => pc.slug != post.slug
   );
@@ -54,11 +56,7 @@ const BlogPost = ({ post }) => {
 
   const infos = {
     slug: index?.slug,
-    title:
-      post?.frontmatter?.categories?.length > 0 &&
-      post?.frontmatter?.categories[0] === "Hide"
-        ? "NO SEO"
-        : `${title} - ${business.brandName}`,
+    title: killSEO ? "NO SEO" : `${title} - ${business.brandName}`,
     description: excerpt || post?.frontmatter.description,
     author: website.author,
     brandPerson: website.brandPerson,
@@ -117,15 +115,7 @@ const BlogPost = ({ post }) => {
   return (
     <>
       <div className='single-post post-container'>
-        <SeoContainer
-          killSeo={
-            post?.frontmatter?.categories?.length > 0 &&
-            post?.frontmatter?.categories[0] === "Hide"
-              ? true
-              : false
-          }
-          data={infos}
-        />
+        <SeoContainer killSeo={killSEO ? true : false} data={infos} />
 
         <HeaderContainer
           opt={{
@@ -162,6 +152,7 @@ const BlogPost = ({ post }) => {
             parseContent={doc}
             relatedPosts={categoriesPosts}
             city={city}
+            killSEO={killSEO}
           />
         ) : null}
 

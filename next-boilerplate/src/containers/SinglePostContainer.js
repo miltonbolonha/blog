@@ -18,6 +18,7 @@ const SinglePostBlock = ({
   parseContent,
   relatedPosts,
   city,
+  killSEO,
 }) => {
   const [toggle, setToggle] = useState(false);
   const doc = parseContent;
@@ -45,9 +46,12 @@ const SinglePostBlock = ({
         `${ReactDOMServer.renderToString(<div id='rampjs_slot2'></div>)}${searchReplace}`
       )
     : html;
-  const promoNOread = promoVisitState === true && readMore === false;
-  const promoNEVERread = promoVisitState === true && readMore !== null;
-  const noPromoNEVERread = promoVisitState === false && readMore === null;
+  const promoNOread =
+    killSEO === false && promoVisitState === true && readMore === false;
+  const promoNEVERread =
+    killSEO === false && promoVisitState === true && readMore !== null;
+  const noPromoNEVERread =
+    killSEO === false && promoVisitState === false && readMore === null;
 
   return (
     <SinglePost
