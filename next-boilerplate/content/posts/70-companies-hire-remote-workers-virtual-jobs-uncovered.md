@@ -1,4 +1,5 @@
 ---
+status: true
 title: "70 Companies That Hire Remote Workers &#8211; Virtual Jobs Uncovered"
 date: "2016-01-31 12:21:29"
 author: "Deanna Madera"

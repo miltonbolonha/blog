@@ -1,4 +1,5 @@
 ---
+status: true
 title: "8 Shocking Adult Acne Myths Debunked"
 date: "2016-04-25 17:31:51"
 author: "Deanna Madera"

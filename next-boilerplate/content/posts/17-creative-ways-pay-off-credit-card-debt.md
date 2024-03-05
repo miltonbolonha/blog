@@ -1,4 +1,5 @@
 ---
+status: true
 title: "17 Creative Ways to Pay Off Credit Card Debt in No Time"
 date: "2016-06-30 05:35:36"
 author: "Sarah H"

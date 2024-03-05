@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Cereal: The Good, Bad &#038; Ugly"
 date: "2016-02-16 10:54:12"
 author: "Deanna Madera"

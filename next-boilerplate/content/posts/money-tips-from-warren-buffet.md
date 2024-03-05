@@ -1,4 +1,5 @@
 ---
+status: true
 title: "A Few Money Tips From Warren Buffet"
 date: "2015-05-14 15:01:46"
 author: "Missy McKee"

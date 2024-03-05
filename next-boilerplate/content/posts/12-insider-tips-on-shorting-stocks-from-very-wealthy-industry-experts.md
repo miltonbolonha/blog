@@ -1,4 +1,5 @@
 ---
+status: true
 title: "12 Insider Tips on Shorting Stocks from (Very Wealthy) Industry Experts"
 date: "2017-01-09 04:00:21"
 author: "Greyson F"

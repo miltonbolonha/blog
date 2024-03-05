@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Arthritis Therapy: How to Tackle Debilitating Pain in Your Joints"
 date: "2020-05-17 10:19:15"
 author: "Deanna Madera"

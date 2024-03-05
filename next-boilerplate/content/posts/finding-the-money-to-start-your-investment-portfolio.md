@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Finding the Money to Start Your Investment Portfolio"
 date: "2016-04-07 12:41:03"
 author: "Deanna Madera"

@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Using Student Discounts for Maximum Benefits"
 date: "2015-05-12 14:21:40"
 author: "Rene Williams"

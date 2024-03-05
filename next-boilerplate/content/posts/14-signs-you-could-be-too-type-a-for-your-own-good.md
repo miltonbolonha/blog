@@ -1,4 +1,5 @@
 ---
+status: true
 title: "14 Signs You Could be Too &#8216;Type A' for Your Own Good"
 date: "2016-10-25 11:00:54"
 author: "Greyson F"

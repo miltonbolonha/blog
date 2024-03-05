@@ -44,6 +44,7 @@ export const getStaticProps = async context => {
   const categoriesPostsFilter = allPosts
     .filter(
       p =>
+        p?.frontmatter?.categories[0] &&
         p?.frontmatter?.categories[0] === thePost[0]?.frontmatter?.categories[0]
     )
     .slice(0, 20);

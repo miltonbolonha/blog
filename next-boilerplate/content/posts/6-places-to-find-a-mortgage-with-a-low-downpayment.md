@@ -1,4 +1,5 @@
 ---
+status: true
 title: "6 Places to Find a Mortgage with a Low Down Payment (#4 Surprised Us!)"
 date: "2016-09-01 15:40:25"
 author: "Greyson F"

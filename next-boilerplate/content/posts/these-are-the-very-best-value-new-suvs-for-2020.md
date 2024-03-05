@@ -1,4 +1,5 @@
 ---
+status: true
 title: "These Are the Very Best Value New SUVs for 2020"
 date: "2020-09-06 11:19:05"
 author: "Kelly F"

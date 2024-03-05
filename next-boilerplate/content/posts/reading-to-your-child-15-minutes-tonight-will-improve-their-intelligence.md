@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Reading To Your Child 15 Minutes Tonight Will Improve Their Intelligence"
 date: "2016-03-20 22:23:03"
 author: "Deanna Madera"

@@ -1,4 +1,5 @@
 ---
+status: true
 title: "9 Ways Secondhand Stress at Work Could be Affecting Your Health"
 date: "2016-06-28 09:31:41"
 author: "Greyson F"

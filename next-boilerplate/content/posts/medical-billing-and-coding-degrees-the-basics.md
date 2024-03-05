@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Medical Billing and Coding Degrees – The Basics"
 date: "2020-08-21 06:42:58"
 author: "Greyson F"

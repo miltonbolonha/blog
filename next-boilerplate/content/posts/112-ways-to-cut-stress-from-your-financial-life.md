@@ -1,4 +1,5 @@
 ---
+status: true
 title: "12 Ways to Cut Stress from Your Financial Life (#7 is Great)"
 date: "2016-09-15 13:04:38"
 author: "Greyson F"

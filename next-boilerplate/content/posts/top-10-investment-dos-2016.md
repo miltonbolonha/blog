@@ -1,4 +1,5 @@
 ---
+status: true
 title: "The 10 Most Noteworthy Dos for Investing in 2017"
 date: "2016-09-01 15:15:29"
 author: "Greyson F"

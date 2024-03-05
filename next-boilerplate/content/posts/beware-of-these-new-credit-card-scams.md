@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Beware Of These New Credit Card Scams"
 date: "2016-02-04 11:39:20"
 author: "Deanna Madera"

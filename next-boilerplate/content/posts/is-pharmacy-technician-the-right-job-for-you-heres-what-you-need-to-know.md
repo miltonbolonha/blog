@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Is Pharmacy Technician the Right Job for You? Here’s What You Need to Know"
 date: "2020-07-12 09:18:36"
 author: "Sarah H"

@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Library"
 date: "2018-03-02 07:40:56"
 author: "Milton Bolonha"
@@ -13,17 +14,15 @@ image: pc.jpg
 
 ## Headers
 
-## h1 Heading
-
 ## h2 Heading
 
 ### h3 Heading
 
 #### h4 Heading
 
-## h5 Heading
+##### h5 Heading
 
-### h6 Heading
+###### h6 Heading
 
 ---
 
@@ -53,9 +52,7 @@ _This is italic text_
 
 1. First ordered list item
 2. Another item
-   ⋅⋅\* Unordered sub-list.
 3. Actual numbers don't matter, just that it's a number
-   ⋅⋅1. Ordered sub-list
 4. And another item.
 
 ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
@@ -70,15 +67,15 @@ _This is italic text_
 
 - Or pluses
 
+---
+
 1. Make my changes
    1. Fix bug
    2. Improve formatting
-      - Make the headings bigger
 2. Push my commits to GitHub
 3. Open a pull request
-   - Describe my changes
-   - Mention all the members of my team
-     - Ask for feedback
+
+---
 
 - Create a list by starting a line with `+`, `-`, or `*`
 - Sub-lists are made by indenting 2 spaces:

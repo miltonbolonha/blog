@@ -1,4 +1,5 @@
 ---
+status: true
 title: "15 Habits Of Self-Made Millionaires (#7 is Critical)"
 date: "2018-04-25 05:29:47"
 author: "Deborah Woehr"

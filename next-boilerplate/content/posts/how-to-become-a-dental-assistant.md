@@ -1,4 +1,5 @@
 ---
+status: true
 title: "How to Become a Dental Assistant"
 date: "2020-05-08 09:42:03"
 author: "Rene Williams"

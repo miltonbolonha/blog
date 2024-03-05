@@ -1,4 +1,5 @@
 ---
+status: true
 title: "8 Money Lessons from Game of Thrones"
 date: "2017-01-16 09:00:13"
 author: "Greyson F"

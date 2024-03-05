@@ -405,17 +405,28 @@
         list-style-type: disc;
         margin-left: 20px;
         font-size: $paragraph__fontSize;
+        &:last-of-type {
+          margin-bottom: 0;
+          padding-bottom: 0;
+        }
       }
 
       ol {
         // border-top: 1px solid #000;
         // padding-top: 20px;
+        ul {
+          margin-bottom: 0;
+        }
         li {
           list-style-type: decimal;
           font-size: $paragraph__fontSize;
           font-style: italic;
           margin-left: 20px;
           padding-bottom: 5px;
+          &:last-of-type {
+            margin-bottom: 0;
+            padding-bottom: 0;
+          }
         }
       }
       h1,

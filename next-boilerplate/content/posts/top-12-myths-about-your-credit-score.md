@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Top 12 Myths About Your Credit Score"
 date: "2016-07-13 18:52:58"
 author: "Greyson F"

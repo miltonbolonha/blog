@@ -1,4 +1,5 @@
 ---
+status: true
 title: "What Lenders Look for to Qualify You for a Home Loan – Get a Better Loan with These Tips!"
 date: "2020-10-30 12:29:46"
 author: "Deanna Madera"

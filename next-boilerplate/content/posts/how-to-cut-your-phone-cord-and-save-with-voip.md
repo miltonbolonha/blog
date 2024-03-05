@@ -1,4 +1,5 @@
 ---
+status: true
 title: "How To Cut Your Phone Cord And Save With VoIP"
 date: "2020-02-11 15:33:58"
 author: "Deborah Woehr"

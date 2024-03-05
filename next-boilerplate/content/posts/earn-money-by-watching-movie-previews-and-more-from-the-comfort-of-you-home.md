@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Earn Money By Watching Movie Previews And More"
 date: "2016-02-14 18:43:08"
 author: "Deanna Madera"

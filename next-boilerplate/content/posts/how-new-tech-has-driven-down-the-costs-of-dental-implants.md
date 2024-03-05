@@ -1,4 +1,5 @@
 ---
+status: true
 title: "How New Tech Has Driven Down the Costs of Dental Implants"
 date: "2021-02-08 11:49:00"
 author: "Rene Williams"

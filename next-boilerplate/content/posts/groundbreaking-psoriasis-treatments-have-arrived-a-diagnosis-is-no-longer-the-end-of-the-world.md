@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Groundbreaking Psoriasis Treatments Have Arrived - A Diagnosis Is No Longer The End Of The World"
 date: "2021-04-08 14:52:01"
 author: "Deanna Madera"

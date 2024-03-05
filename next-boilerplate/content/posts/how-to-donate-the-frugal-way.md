@@ -1,4 +1,5 @@
 ---
+status: true
 title: "How To Donate The Frugal Way"
 date: "2015-04-12 13:28:19"
 author: "Deanna Madera"

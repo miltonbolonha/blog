@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Why Luxury Assisted Living Is Now More Affordable Than Ever"
 date: "2020-05-25 12:31:19"
 author: "Deborah Woehr"

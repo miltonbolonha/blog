@@ -1,4 +1,5 @@
 ---
+status: true
 title: "10 Solutions for People Who Sweat More than Others"
 date: "2016-06-28 09:38:33"
 author: "Greyson F"

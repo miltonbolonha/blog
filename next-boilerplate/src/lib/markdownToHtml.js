@@ -2,7 +2,7 @@
 import remarkRehype from "remark-rehype";
 import remarkParse from "remark-parse";
 // import { rehypeExtendedTable } from "rehype-extended-table";
-import remarkGfm from "remark-gfm";
+// import remarkGfm from "remark-gfm";
 import rehypeSanitize from "rehype-sanitize";
 import rehypeRaw from "rehype-raw";
 import { unified } from "unified";

@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Breakthrough Diabetes Treatments That Can Be Explored Now"
 date: "2021-04-05 14:11:45"
 author: "Deanna Madera"

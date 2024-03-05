@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Everything Wrong With Student Loans in 6 Minutes"
 date: "2015-06-14 15:24:39"
 author: "Deanna Madera"

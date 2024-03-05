@@ -1,4 +1,5 @@
 ---
+status: true
 title: "4 Financial Tips for Every Student"
 date: "2015-04-28 13:26:51"
 author: "Deanna Madera"

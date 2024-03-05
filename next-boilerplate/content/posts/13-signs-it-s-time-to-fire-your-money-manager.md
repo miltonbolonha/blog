@@ -1,4 +1,5 @@
 ---
+status: true
 title: "13 Signs It's Time to Fire Your Money Manager"
 date: "2016-07-26 09:45:44"
 author: "Greyson F"

@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Clinton Proposes Plan To Address Mental Health Treatment"
 date: "2016-09-01 14:37:22"
 author: "Deanna Madera"

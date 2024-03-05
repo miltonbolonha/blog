@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Lower Cholesterol &#038; Clean Arteries With 3 Ingredients"
 date: "2016-03-14 17:26:13"
 author: "Deanna Madera"

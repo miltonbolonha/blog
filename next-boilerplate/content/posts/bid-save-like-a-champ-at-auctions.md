@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Bid &#038; Save Like a Champ at Auctions"
 date: "2015-04-12 14:14:10"
 author: "Deanna Madera"

@@ -1,4 +1,5 @@
 ---
+status: true
 title: "10 Ways Rookies Waste Money on a Cruise"
 date: "2019-05-05 14:49:54"
 author: "Greyson F"

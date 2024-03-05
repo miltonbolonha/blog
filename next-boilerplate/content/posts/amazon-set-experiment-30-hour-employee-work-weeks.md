@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Amazon Set To Experiment With 30-Hour Employee Work Weeks"
 date: "2016-09-01 12:53:45"
 author: "Deanna Madera"

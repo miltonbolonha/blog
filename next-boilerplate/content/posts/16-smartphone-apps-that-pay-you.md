@@ -1,4 +1,5 @@
 ---
+status: true
 title: "16 Smartphone Apps That Pay You: Earn Extra Money With A Couple Of Clicks"
 date: "2016-03-10 20:13:36"
 author: "Deanna Madera"

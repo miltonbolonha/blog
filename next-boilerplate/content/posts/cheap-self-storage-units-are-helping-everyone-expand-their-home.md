@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Cheap Self Storage Units Are Helping Everyone Expand Their Home"
 date: "2020-09-09 12:06:29"
 author: "Deanna Madera"

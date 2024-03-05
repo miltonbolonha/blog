@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Life After Debt – What’s Next?"
 date: "2015-05-12 10:53:49"
 author: "Deanna Madera"

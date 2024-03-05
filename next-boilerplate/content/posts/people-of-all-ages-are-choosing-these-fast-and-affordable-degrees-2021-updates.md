@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Seniors Are Choosing These Fast and Affordable Degrees in 2021"
 date: "2021-03-01 15:17:59"
 author: "Deanna Madera"

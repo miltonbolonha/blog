@@ -1,4 +1,5 @@
 ---
+status: true
 title: "9 Ways To Cut College Textbooks Costs In Half&#8230;Or More"
 date: "2016-02-21 12:32:52"
 author: "Deanna Madera"

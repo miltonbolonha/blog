@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Your Guide to Affordable Medical Alert Systems"
 date: "2020-04-30 09:33:05"
 author: "Greyson F"

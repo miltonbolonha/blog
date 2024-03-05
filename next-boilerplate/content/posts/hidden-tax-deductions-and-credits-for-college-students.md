@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Hidden Tax Deductions and Credits for College Students"
 date: "2015-04-20 13:25:14"
 author: "Deanna Madera"

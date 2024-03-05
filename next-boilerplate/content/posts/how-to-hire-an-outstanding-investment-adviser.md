@@ -1,4 +1,5 @@
 ---
+status: true
 title: "How to Hire an Outstanding Investment Adviser"
 date: "2016-03-27 12:39:44"
 author: "Deanna Madera"

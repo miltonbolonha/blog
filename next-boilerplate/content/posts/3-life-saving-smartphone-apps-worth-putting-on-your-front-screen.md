@@ -1,4 +1,5 @@
 ---
+status: true
 title: "3 Life Saving Smartphone Apps Worth Putting On Your Front Screen"
 date: "2016-02-18 11:22:02"
 author: "Deanna Madera"

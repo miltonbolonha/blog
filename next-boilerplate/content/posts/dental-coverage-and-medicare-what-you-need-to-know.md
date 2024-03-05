@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Dental Coverage and Medicare: What You Need to Know"
 date: "2020-04-08 12:41:49"
 author: "Deborah Woehr"

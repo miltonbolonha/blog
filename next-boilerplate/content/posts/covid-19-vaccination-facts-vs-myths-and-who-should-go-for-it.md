@@ -1,4 +1,5 @@
 ---
+status: true
 title: "COVID-19 Vaccination: Facts vs Myths and Who Should Go for it?"
 date: "2021-04-30 09:01:00"
 author: "Rene Williams"

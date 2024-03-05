@@ -1,4 +1,5 @@
 ---
+status: true
 title: "The Worst Health Scams People STILL Fall For"
 date: "2020-02-05 16:08:10"
 author: "Kelly F"

@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Apple: All US Employees Now Receive Equal Pay For Equal Work"
 date: "2016-09-01 13:03:17"
 author: "Deanna Madera"

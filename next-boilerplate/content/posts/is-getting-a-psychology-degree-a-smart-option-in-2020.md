@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Is Getting a Psychology Degree a Smart Option in 2020?"
 date: "2020-10-08 07:59:11"
 author: "Greyson F"

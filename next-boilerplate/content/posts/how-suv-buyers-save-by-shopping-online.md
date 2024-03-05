@@ -1,4 +1,5 @@
 ---
+status: true
 title: "SUV Prices Are Dropping in {{city}}: Find Deals On These Models"
 date: "2020-09-10 13:58:38"
 author: "Deanna Madera"

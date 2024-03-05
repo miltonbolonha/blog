@@ -1,4 +1,5 @@
 ---
+status: true
 title: "5 Ways to Get Your NFL Fix-Without Paying for Cable"
 date: "2019-02-03 11:04:51"
 author: "Greyson F"

@@ -1,4 +1,5 @@
 ---
+status: true
 title: "4 Ways To Save Money On Child Care"
 date: "2016-02-04 11:11:56"
 author: "Kimberly Landess"

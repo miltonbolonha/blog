@@ -1,4 +1,5 @@
 ---
+status: true
 title: "How To Make Free Money By Cashing In On Class Action Lawsuits"
 date: "2016-05-18 23:07:22"
 author: "Greyson F"

@@ -1,4 +1,5 @@
 ---
+status: true
 title: "How to Choose a Debt Consolidation Company and Get Rid of Debt Fast"
 date: "2020-11-23 10:42:04"
 author: "Kelly F"

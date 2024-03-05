@@ -1,4 +1,5 @@
 ---
+status: true
 title: "13 Reasons Your Child Might Be More Successful Without a College Degree (#7 is a Good Point)"
 date: "2018-11-01 13:09:18"
 author: "Sarah H"

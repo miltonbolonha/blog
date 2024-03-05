@@ -1,4 +1,5 @@
 ---
+status: true
 title: "12 Signs You'll Be Rich One Day"
 date: "2016-08-07 03:50:31"
 author: "Greyson F"

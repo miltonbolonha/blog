@@ -1,4 +1,5 @@
 ---
+status: true
 title: "The 10 Favorite Rewards Cards for People Who are Smart About Credit"
 date: "2019-04-28 05:54:26"
 author: "Greyson F"

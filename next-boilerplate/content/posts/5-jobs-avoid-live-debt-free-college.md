@@ -1,4 +1,5 @@
 ---
+status: true
 title: "5 Jobs To Avoid If You Ever Want To Live Debt-Free After College"
 date: "2016-09-13 11:08:14"
 author: "Deanna Madera"

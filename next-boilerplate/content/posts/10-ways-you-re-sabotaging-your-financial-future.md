@@ -1,4 +1,5 @@
 ---
+status: true
 title: "10 Ways You're Sabotaging Your Financial Future (#6 May Surprise You)"
 date: "2016-12-06 08:28:54"
 author: "Sarah H"

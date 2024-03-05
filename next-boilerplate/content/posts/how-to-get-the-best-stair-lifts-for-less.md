@@ -1,4 +1,5 @@
 ---
+status: true
 title: "How to Get the Best Stair Lifts for Less"
 date: "2021-01-04 10:00:00"
 author: "Kelly F"

@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Red Flags that Your Job May Not Exist in Ten Years"
 date: "2019-02-10 15:58:49"
 author: "Greyson F"

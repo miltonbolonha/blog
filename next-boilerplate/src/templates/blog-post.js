@@ -54,7 +54,11 @@ const BlogPost = ({ post }) => {
 
   const infos = {
     slug: index?.slug,
-    title: `${title} - ${business.brandName}`,
+    title:
+      post?.frontmatter?.categories?.length > 0 &&
+      post?.frontmatter?.categories[0] === "Hide"
+        ? "NO SEO"
+        : `${title} - ${business.brandName}`,
     description: excerpt || post?.frontmatter.description,
     author: website.author,
     brandPerson: website.brandPerson,
@@ -113,7 +117,15 @@ const BlogPost = ({ post }) => {
   return (
     <>
       <div className='single-post post-container'>
-        <SeoContainer killSeo={false} data={infos} />
+        <SeoContainer
+          killSeo={
+            post?.frontmatter?.categories?.length > 0 &&
+            post?.frontmatter?.categories[0] === "Hide"
+              ? true
+              : false
+          }
+          data={infos}
+        />
 
         <HeaderContainer
           opt={{

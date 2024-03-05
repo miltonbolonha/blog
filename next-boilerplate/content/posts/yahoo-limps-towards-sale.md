@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Yahoo Limps Towards Sale. What Will Happen to Tumblr?"
 date: "2016-07-20 10:33:00"
 author: "Deborah Woehr"

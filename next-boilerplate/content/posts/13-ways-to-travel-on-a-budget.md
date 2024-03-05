@@ -1,4 +1,5 @@
 ---
+status: true
 title: "13 Ways to Travel on a Budget (#10 Surprised Us)"
 date: "2016-10-04 10:19:53"
 author: "Deborah Woehr"

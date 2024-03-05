@@ -1,4 +1,5 @@
 ---
+status: true
 title: "5 Easy Ways to Improve Upon Your Awesome Resume"
 date: "2016-08-08 11:42:13"
 author: "Greyson F"
