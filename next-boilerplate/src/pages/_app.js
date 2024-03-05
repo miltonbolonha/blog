@@ -17,6 +17,19 @@ function App({ Component, pageProps }) {
         async
       />
       <Script
+        strategy='beforeInteractive'
+        id='rampjs'
+        async
+        crossOrigin='anonymous'
+        dangerouslySetInnerHTML={{
+          __html: `
+          (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
+            arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
+            _rampJs({});
+        `,
+        }}
+      />
+      <Script
         strategy='afterInteractive'
         async
         crossOrigin='anonymous'
@@ -49,18 +62,7 @@ function App({ Component, pageProps }) {
         `,
         }}
       /> */}
-      <Script
-        id='rampjs'
-        async
-        crossOrigin='anonymous'
-        dangerouslySetInnerHTML={{
-          __html: `
-          (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
-            arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-            _rampJs({testMode: true});
-        `,
-        }}
-      />
+
       {location === "/admin/" ? (
         <Script
           async
