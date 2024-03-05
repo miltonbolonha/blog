@@ -11,7 +11,7 @@ function App({ Component, pageProps }) {
   return (
     <>
       <Script
-        strategy='afterInteractive'
+        strategy='beforeInteractive'
         crossOrigin='anonymous'
         src='https://rampjs-cdn.system1.com/ramp.js'
         async
