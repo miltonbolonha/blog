@@ -15,8 +15,6 @@ Are your closets, rooms, attic space, or basement bursting at the seams? It alwa
 
 **Solution: Rent a self-storage unit! It’s a low-cost fix and a convenient space to secure all your valuable items, without attempting to fit them in every nook and cranny in your house.**
 
-![](/posts/1200x630_storage_hero.jpg)
-
 ## What is a Self-Storage Unit?
 
 Self-storage facilities are companies that allocate personal unit(s) for rent, typically on a monthly basis. There is a lot of flexibility – units range in size to meet an individual’s space requirements. Some large units can store an entire room of furniture and more, while others can be rented to store just a few items.

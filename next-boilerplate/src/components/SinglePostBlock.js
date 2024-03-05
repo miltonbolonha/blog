@@ -127,7 +127,7 @@ const SinglePostBlock = ({
                 <Row
                   opt={{
                     numColumns: 2,
-                    classes: "post-author-infos mobile-only",
+                    classes: "post-author-infos",
                     isBoxed: true,
                   }}
                 >

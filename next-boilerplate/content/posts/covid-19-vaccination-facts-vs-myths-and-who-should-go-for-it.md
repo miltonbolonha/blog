@@ -19,8 +19,6 @@ A little over a year into the COVID-19 pandemic and the virus still lingers on. 
 
 According to NPR<sup>1</sup>, around 64.4 million Americans have been vaccinated with about 171 million doses being administered. That is about 20% of the country’s population. Another research<sup>2</sup>, mentions that around 85% of the population needs to be vaccinated before the virus stops spreading. The country still has a long way to go to reach that mark.
 
-[![](/posts/corona-vaccination-health-hand-human-body-neck-1640988-pxhere.com_.jpg)](/posts/corona-vaccination-health-hand-human-body-neck-1640988-pxhere.com_.jpg)
-
 To help you understand a bit more about the three vaccines currently being rolled out, we discuss facts and myths around them.
 
 ## Myth: The vaccine can potentially make you sick with COVID-19

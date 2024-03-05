@@ -16,8 +16,6 @@ If you want to save money, enjoy a luxurious ride, and get to experience the thr
 
 Why buy a new SUV in 2020? How is this a great deal? Keep reading and we’ll explore the answers to these questions.
 
-## ![](/posts/SUV-2.jpg)
-
 ## Why It Makes Financial and Practical Sense to Buy a New SUV in 2020
 
 When it comes to saving money on cars, you probably don’t think of buying new! Buying second hand can greatly reduce the up-front cost of any vehicle, which in turn can make for a tantalizing option.

@@ -27,7 +27,7 @@ export function getPostBySlug(slug) {
     const { data } = fileContents ? matter(fileContents) : null;
     const { content } = fileContents ? matter(fileContents) : null;
 
-    const date = format(new Date(data.date), "MMMM'/'dd'/'yyyy", {
+    const date = format(new Date(data.date), "MMMM' 'dd', 'yyyy", {
       locale: usa,
     });
 
