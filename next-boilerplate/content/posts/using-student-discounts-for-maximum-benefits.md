@@ -11,7 +11,7 @@ layout: post
 image: student.jpg
 ---
 
-[![student](http://mt2.wpengine.com/wp-content/uploads/2015/03/student.jpg)](http://mt2.wpengine.com/wp-content/uploads/2015/03/student.jpg)
+[![student](/student.jpg)](/student.jpg)
 
 Being a student can be challenging, especially when it comes to finances. Your student years are supposed to be your most fun, and money does play a part in most of the things your average student wants to do to max out their time at college. Student discount cards abound, but not a lot of students know how to use them to get the most out of them. In this post, we’ll take a look at the best ways to get you the best deals while using your student card.
 
@@ -22,7 +22,7 @@ If you have a weekend to spare and would like to head out of campus and have som
 Some of the bus companies that accept student discount cards include:
 
 - Greyhound
-- [Amtrak](http://www.amtrak.com/student-discount)
+- [Amtrak](https://www.amtrak.com/student-discount)
 
 ## Shopping
 
@@ -34,7 +34,7 @@ If you feel that you’ve had enough of campus living and would like a larger pl
 
 ## Cell Phone Discounts
 
-If you’re a social butterfly but are worried about racking up a huge phone bill, contacting your carrier can make it possible for you to sign up for a plan that will save you money as well as get you the latest cell phone and related devices. Check out [this Sprint student discount plan](http://mysprint.sprint.com/verify/?ECID=vanity:verify) for more information.
+If you’re a social butterfly but are worried about racking up a huge phone bill, contacting your carrier can make it possible for you to sign up for a plan that will save you money as well as get you the latest cell phone and related devices. Check out [this Sprint student discount plan](https://mysprint.sprint.com/verify/?ECID=vanity:verify) for more information.
 
 ## Limit the Number of Credit Cards You Own
 

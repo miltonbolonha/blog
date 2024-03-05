@@ -14,7 +14,7 @@ layout: post
 image: hero_electricbill.jpg
 ---
 
-[![electric bill](http://mt2.wpengine.com/wp-content/uploads/2015/03/electric-bill.jpg)](http://mt2.wpengine.com/wp-content/uploads/2015/03/electric-bill.jpg)
+[![electric bill](/electric-bill.jpg)](/electric-bill.jpg)
 
 Our energy consumption as a nation keeps growing almost exponentially, necessitating a hunger for energy the likes of which has never seen before in our modern times. At the same time, greenhouse gases caused by burning fossil fuel as well as setting up nuclear power plants has led to the worsening of global warming, which has in turn caused erratic weather patterns and unpredictable events all over the world. It thus makes sense to find ways which we can all chip in and reduce the amount of energy we consume on a daily basis. In this post, we’ll take a look at a few simple and practical ways that will help you cut down on your energy use as well as save you money in the long run.
 
@@ -24,7 +24,7 @@ Plasma and LED screens, gaming devices, DVD players, laptops and stereo systems 
 
 ## Install Ceiling Fans
 
-At any given time, we usually have the AC or heater on to either cool or warm up the house. However, these devices are usually flawed because they don’t cool nor heat your average room in a uniform manner. [Installing ceiling fans](http://www.bobvila.com/articles/2479-how-to-install-a-ceiling-fan/) can help air circulate better which means that cooling devices and heaters don’t have to work so hard while doing their job. A great tip here would be to install a fan that goes either way since hot days require anticlockwise fan movement and cold days, the opposite.
+At any given time, we usually have the AC or heater on to either cool or warm up the house. However, these devices are usually flawed because they don’t cool nor heat your average room in a uniform manner. [Installing ceiling fans](https://www.bobvila.com/articles/2479-how-to-install-a-ceiling-fan/) can help air circulate better which means that cooling devices and heaters don’t have to work so hard while doing their job. A great tip here would be to install a fan that goes either way since hot days require anticlockwise fan movement and cold days, the opposite.
 
 ## Use Mother Nature to Dry Clothes
 

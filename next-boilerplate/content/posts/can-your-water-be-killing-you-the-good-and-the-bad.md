@@ -72,4 +72,4 @@ Bottled water with low pH levels (5.0 or under) include: Vitaminwater 3.4, Prope
 
 Water filtered through reverse osmosis tends to be neutral and is acceptable for regular use provided minerals are supplemented.
 
-![water filter](/posts/EWG-2.png)What is the best water filtered system? EWG, a non-profit and non-partisan organization produced a water [filter buying guide](http://www.ewg.org/research/ewgs-water-filter-buying-guide) so consumers can find the best system based upon cost, effectiveness, water softener agents, and ones that removes specific contaminants.
+![water filter](/posts/EWG-2.jpg)What is the best water filtered system? EWG, a non-profit and non-partisan organization produced a water [filter buying guide](https://www.ewg.org/research/ewgs-water-filter-buying-guide) so consumers can find the best system based upon cost, effectiveness, water softener agents, and ones that removes specific contaminants.

@@ -17,7 +17,7 @@ image: 4-golf-ball-diver-odd-job.jpg
 
 <figure aria-describedby="caption-attachment-3936" class="wp-caption alignnone" id="attachment_3936" style="width: 700px">
 
-![1 odd jobs Ethical Computer Hackers](/posts/1-odd-jobs-Ethical-Computer-Hackers.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3936">[ra2studio](http://www.shutterstock.com/pic-150161624/stock-photo-hacker-programing-in-technology-enviroment-with-cyber-icons-and-symbols.html)
+![1 odd jobs Ethical Computer Hackers](/posts/1-odd-jobs-Ethical-Computer-Hackers.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3936">[ra2studio](https://www.shutterstock.com/pic-150161624/stock-photo-hacker-programing-in-technology-enviroment-with-cyber-icons-and-symbols.html)
 
 </figcaption></figure>
 
@@ -27,7 +27,7 @@ Here’s the first of many unusual jobs that pays well. Companies hire ethical c
 
 <figure aria-describedby="caption-attachment-3937" class="wp-caption alignnone" id="attachment_3937" style="width: 700px">
 
-![2a odd jobs Voice Over Artist](/posts/2a-odd-jobs-Voice-Over-Artist.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3937">[speedkingz](http://www.shutterstock.com/pic-343895033/stock-photo-male-vocalist-singing-into-microphone-in-recording-studio.html)
+![2a odd jobs Voice Over Artist](/posts/2a-odd-jobs-Voice-Over-Artist.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3937">[speedkingz](https://www.shutterstock.com/pic-343895033/stock-photo-male-vocalist-singing-into-microphone-in-recording-studio.html)
 
 </figcaption></figure>
 
@@ -37,7 +37,7 @@ A voice over artist reads a script out loud to provide a “voice” for cartoon
 
 <figure aria-describedby="caption-attachment-3938" class="wp-caption alignnone" id="attachment_3938" style="width: 700px">
 
-![2 odd jobs Sommelier](/posts/2-odd-jobs-Sommelier.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3938">[Olena_Yakobchuk](http://www.shutterstock.com/pic-328279310/stock-photo-close-up-of-skillful-young-sommelier-pouring-red-wine-into-glass-the-woman-is-holding-bottle-and.html)</figcaption></figure>
+![2 odd jobs Sommelier](/posts/2-odd-jobs-Sommelier.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3938">[Olena_Yakobchuk](https://www.shutterstock.com/pic-328279310/stock-photo-close-up-of-skillful-young-sommelier-pouring-red-wine-into-glass-the-woman-is-holding-bottle-and.html)</figcaption></figure>
 
 A sommelier typically works an an upscale restaurant and oversees the business’ wine collection. He/she answers questions or recommends wines that will will pair well with a customer’s meal. In addition, the sommelier may travel to vineyards to identify various wines, purchase them from distributors, oversee the condition of the wine cellar and work with chefs to prepare meals that will complement the different wines that the restaurant sells. A college degree isn’t always required, but training and certification programs can help you break into this field.
 
@@ -45,7 +45,7 @@ A sommelier typically works an an upscale restaurant and oversees the business�
 
 <figure aria-describedby="caption-attachment-3939" class="wp-caption alignnone" id="attachment_3939" style="width: 700px">
 
-![3 odd jobs Embalmers](/posts/3-odd-jobs-Embalmers.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3939">[volt_collection](http://www.shutterstock.com/pic-239410174/stock-photo-man-and-woman-looking-at-caskets.html)
+![3 odd jobs Embalmers](/posts/3-odd-jobs-Embalmers.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3939">[volt_collection](https://www.shutterstock.com/pic-239410174/stock-photo-man-and-woman-looking-at-caskets.html)
 
 </figcaption></figure>
 
@@ -55,7 +55,7 @@ An embalmer is responsible for embalming and preparing the bodies of the decease
 
 <figure aria-describedby="caption-attachment-3940" class="wp-caption alignnone" id="attachment_3940" style="width: 700px">
 
-![4 golf ball diver odd job](/posts/4-golf-ball-diver-odd-job.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3940">[Peteri](http://www.shutterstock.com/pic-100560940/stock-photo-scuba-diver-in-freshwater-diving-in-cold-depth-lake.html?src=TMEN150DP_n1TAxX7_Zmwg-1-5)</figcaption></figure>
+![4 golf ball diver odd job](/posts/4-golf-ball-diver-odd-job.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3940">[Peteri](https://www.shutterstock.com/pic-100560940/stock-photo-scuba-diver-in-freshwater-diving-in-cold-depth-lake.html?src=TMEN150DP_n1TAxX7_Zmwg-1-5)</figcaption></figure>
 
 While being one of many unusual jobs, a golf ball diver is a professional recycler. They retrieve balls from lakes and ponds, which they then clean, repackage and sell. Prior to working, they must meet with the golf course owner or manager establish an agreement. For instance, the course often charges divers a fee for the ball collection. The diver negotiates the price of the service. The diver will work with two other divers for safety reasons, such as wildlife and obstacles that can trap the diver. Golf ball divers must be certified for unrestricted commercial scuba diving. They can earn their certification through an accredited diving program or on-the-job training. Programs typically take 7 to 9 months to complete.
 
@@ -63,7 +63,7 @@ While being one of many unusual jobs, a golf ball diver is a professional recycl
 
 <figure aria-describedby="caption-attachment-3941" class="wp-caption alignnone" id="attachment_3941" style="width: 700px">
 
-![ odd jobs Childbirth Educator](/posts/5-odd-jobs-Childbirth-Educator.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3941">[monkey_business_images](http://www.shutterstock.com/pic-14462401/stock-photo-doctor-with-laptop-and-pregnant-woman-in-doctor-s-office.html)</figcaption></figure>
+![ odd jobs Childbirth Educator](/posts/5-odd-jobs-Childbirth-Educator.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3941">[monkey_business_images](https://www.shutterstock.com/pic-14462401/stock-photo-doctor-with-laptop-and-pregnant-woman-in-doctor-s-office.html)</figcaption></figure>
 
 A childbirth educator develops and implements health education programs that are designed to increase knowledge and awareness to expectant parents. These programs include classes and information on pre-conception, childbirth procedures, and trends in labor and delivery technology. They are typically affiliated with area hospitals and often report to a manager or unit/department head. These men and women usually have college degrees and several years of experience in their field.
 
@@ -71,7 +71,7 @@ A childbirth educator develops and implements health education programs that are
 
 <figure aria-describedby="caption-attachment-3942" class="wp-caption alignnone" id="attachment_3942" style="width: 700px">
 
-![odd job personal shopper](/posts/odd-job-personal-shopper.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3942">[monkey_business_images](http://www.shutterstock.com/pic-284518148/stock-photo-woman-in-shopping-mall-using-mobile-phone.html)</figcaption></figure>
+![odd job personal shopper](/posts/odd-job-personal-shopper.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3942">[monkey_business_images](https://www.shutterstock.com/pic-284518148/stock-photo-woman-in-shopping-mall-using-mobile-phone.html)</figcaption></figure>
 
 Personal shoppers assist people who don’t have time to shop. Clients may need anything from gifts to clothing and household goods. Shoppers can work for a department store, a high-end fashion house, or a grocery store. They may also be self-employed and have a stable of clients. In order to be successful as a shopper, you will need to keep abreast of the latest trends and know exactly what your clients want. You will also have to build relationships with stores, make sure that unsold goods are returned to the right stores and never reveal your clients’ personal information.
 
@@ -79,7 +79,7 @@ Personal shoppers assist people who don’t have time to shop. Clients may need 
 
 <figure aria-describedby="caption-attachment-3943" class="wp-caption alignnone" id="attachment_3943" style="width: 700px">
 
-![6 odd jobs Elevator Inspectors](/posts/6-odd-jobs-Elevator-Inspectors.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3943">[Dmitry_Kalinovsky](http://www.shutterstock.com/pic-100726756/stock-photo-one-machinist-worker-at-work-adjusting-elevator-mechanism-of-lift-with-spanner.html)</figcaption></figure>
+![6 odd jobs Elevator Inspectors](/posts/6-odd-jobs-Elevator-Inspectors.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3943">[Dmitry_Kalinovsky](https://www.shutterstock.com/pic-100726756/stock-photo-one-machinist-worker-at-work-adjusting-elevator-mechanism-of-lift-with-spanner.html)</figcaption></figure>
 
 Elevator inspectors examine a variety of conveying and lifting equipment for elevators, escalators, amusement rides, inclined railways and moving sidewalks. Their job is an important part of the construction field because it ensures public safety. Aspiring inspectors can complete internships to gain experience in this field, since most employers are willing to provide on-the-job training. Eventually, they will have to attain the Qualified Elevator Inspector designation, plus complete additional training to keep their skills current with the advancements in this field.
 
@@ -95,7 +95,7 @@ Sewer inspectors are responsible for making sure that our sewers are constructio
 
 <figure aria-describedby="caption-attachment-3945" class="wp-caption alignnone" id="attachment_3945" style="width: 700px">
 
-![8 odd jobs Crime Scene Cleaners](/posts/8-odd-jobs-Crime-Scene-Cleaners.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3945">[Fer_Gregory](http://www.shutterstock.com/pic-92369299/stock-photo-photo-of-a-fresh-crime-scene.html)</figcaption></figure>
+![8 odd jobs Crime Scene Cleaners](/posts/8-odd-jobs-Crime-Scene-Cleaners.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3945">[Fer_Gregory](https://www.shutterstock.com/pic-92369299/stock-photo-photo-of-a-fresh-crime-scene.html)</figcaption></figure>
 
 Crime scene cleaners are called to remove body fluids, bio-hazardous waste, remains, human waste, blood, and toxic waste once the police have collected all the evidence from a crime scene. They are on call 24 hours a day and are expected to perform a wide variety of cleanups that can include biohazard, meth lab, murder, decomposed body and more. They remove all indicators of the incident and return the area to its original state. Cleaners must undergo extensive training to ensure that all federal and state regulations are met.
 
@@ -103,7 +103,7 @@ Crime scene cleaners are called to remove body fluids, bio-hazardous waste, rema
 
 <figure aria-describedby="caption-attachment-3946" class="wp-caption alignnone" id="attachment_3946" style="width: 700px">
 
-![9 odd jobs Furniture Testers](/posts/9-odd-jobs-Furniture-Testers.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3946">[bluedog_studio](http://www.shutterstock.com/pic-247533472/stock-photo--female-hand-touching-and-testing-bed.html)</figcaption></figure>
+![9 odd jobs Furniture Testers](/posts/9-odd-jobs-Furniture-Testers.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3946">[bluedog_studio](https://www.shutterstock.com/pic-247533472/stock-photo--female-hand-touching-and-testing-bed.html)</figcaption></figure>
 
 Furniture testers are used to test the comfort level of furniture pieces before they are sold to department and furniture stores. Testers will sit on a sofa or armchair and provide feedback to the manufacturers. This feedback includes how high or low the seats should be, what materials they should use, etc.
 
@@ -111,6 +111,6 @@ Furniture testers are used to test the comfort level of furniture pieces before 
 
 <figure aria-describedby="caption-attachment-3947" class="wp-caption alignnone" id="attachment_3947" style="width: 700px">
 
-![10 odd jobs Adult Toy Testers](/posts/10-odd-jobs-Adult-Toy-Testers.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3947">[Yeko_Photo_Studio](http://www.shutterstock.com/pic-71277790/stock-photo-young-and-beautiful-couple-in-bed.html)</figcaption></figure>
+![10 odd jobs Adult Toy Testers](/posts/10-odd-jobs-Adult-Toy-Testers.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3947">[Yeko_Photo_Studio](https://www.shutterstock.com/pic-71277790/stock-photo-young-and-beautiful-couple-in-bed.html)</figcaption></figure>
 
 Manufacturers employ testers to try out their new line of sex toys to see how effective they are. Testers will provide feedback concerning the comfort and ease of use. You don’t need any special training, but you may earn more money by setting up a blog and enrolling in affiliate programs to earn commissions.

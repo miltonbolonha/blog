@@ -23,7 +23,7 @@ Some incoming freshmen rush to the college bookstore and purchase their textbook
 ### Check Course Syllabus
 
 ![college textbooks](/posts/bigstock-Teacher-with-Course-Requiremen-81662462-951x1024.jpg)  
-Most class syllabi indicate which books are required reading and which ones are just optional. The syllabus should also provide the book’s ISBN code (The International Standard Book Number), a 10 or 13 digit code which correlates to the edition of the book. You can perform a [ISBN search](http://www.isbnsearch.org/) for a particular book by using the ISBN number, title, or author and find the cost and where it can be purchased.![ISBN college textbook search](/posts/ISBN-lookup.png)
+Most class syllabi indicate which books are required reading and which ones are just optional. The syllabus should also provide the book’s ISBN code (The International Standard Book Number), a 10 or 13 digit code which correlates to the edition of the book. You can perform a [ISBN search](https://www.isbnsearch.org/) for a particular book by using the ISBN number, title, or author and find the cost and where it can be purchased.![ISBN college textbook search](/posts/ISBN-lookup.jpg)
 
 Email or ask the professor if an older edition of the book is acceptable. If so, what editions would be acceptable. You may find the cost for an older edition is less expensive.
 
@@ -35,7 +35,7 @@ For some courses, such as literature or history, you may be able to check out so
 ### Rent College Textbooks
 
 ![rent textbooks](/posts/bigstock-Euphoric-Woman-Searching-Job-W-92315747.jpg)  
-Many on-line sites for college textbooks including [Chegg](http://www.chegg.com/), offer textbook rentals rather than purchases. A student pays a lower price to rent than purchase the same textbook. When done, just send back the book at the end of the course. Besides saving of over 50 percent, you don’t have to hassle with re-selling your textbook at the end of your semester.
+Many on-line sites for college textbooks including [Chegg](https://www.chegg.com/), offer textbook rentals rather than purchases. A student pays a lower price to rent than purchase the same textbook. When done, just send back the book at the end of the course. Besides saving of over 50 percent, you don’t have to hassle with re-selling your textbook at the end of your semester.
 
 ### eBooks
 
@@ -57,8 +57,8 @@ Occupy The Bookstore claims to “Save hundreds right on your school’s booksto
 
 ### Text.com
 
-![textbooks](/posts/textbooks-1-1024x396.png)  
-Text.com [student to student marketplace ](http://texts.com/)providing students with the ability to:
+![textbooks](/posts/textbooks-1-1024x396.jpg)  
+Text.com [student to student marketplace ](https://texts.com/)providing students with the ability to:
 
 - Buy or rent textbooks on-line directly from other students.
 - Sell textbooks on-line to other students. No charge for listings.

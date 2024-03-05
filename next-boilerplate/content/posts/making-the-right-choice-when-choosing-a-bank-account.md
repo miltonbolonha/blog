@@ -11,8 +11,6 @@ layout: post
 image: choose-bank-accounts.jpg
 ---
 
-![choose bank accounts](http://mt2.wpengine.com/wp-content/uploads/2015/03/choose-bank-accounts.jpg)
-
 There are numerous banking services available to the average individual looking to make sound financial decisions. That being said, not all banks are good for everyone. This is because we all have different financial goals and wants. In this post, we’ll take a look at some of the factors you should consider when looking for a bank that’s right for you.
 
 ## What are Your Financial Goals?
@@ -32,7 +30,7 @@ All these should weigh heavily in your decision since these fees do add up and m
 
 ## Do Your Research and Ask Around
 
-In order to find an ideal bank, you should have [a selection of financial institutions that you can pit against each other](http://banks.credio.com/). This usually means looking into what benefits one bank has over another, as well as each bank’s unique premise. Ask friends about what banks they would recommend, and look into online forums to get different views of what banks are ideal. If you do decide to go by word of mouth, just remember that unhappy customers complain the most, and that this may not be an accurate picture of a bank, especially on online forums as well as social media. Once you’ve done your research, consider approaching each bank with your data and ask if they can match the other bank’s offer. The idea here is to get the best deal by pitting one financial institution against the other.
+In order to find an ideal bank, you should have [a selection of financial institutions that you can pit against each other](https://banks.credio.com/). This usually means looking into what benefits one bank has over another, as well as each bank’s unique premise. Ask friends about what banks they would recommend, and look into online forums to get different views of what banks are ideal. If you do decide to go by word of mouth, just remember that unhappy customers complain the most, and that this may not be an accurate picture of a bank, especially on online forums as well as social media. Once you’ve done your research, consider approaching each bank with your data and ask if they can match the other bank’s offer. The idea here is to get the best deal by pitting one financial institution against the other.
 
 ## FDIC insured Banks Should Be Your Priority
 

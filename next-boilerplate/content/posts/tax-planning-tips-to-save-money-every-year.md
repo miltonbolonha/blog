@@ -11,8 +11,6 @@ layout: post
 image: tax-planning.jpg
 ---
 
-![tax planning](http://mt2.wpengine.com/wp-content/uploads/2015/03/tax-planning.jpg)
-
 Tax season is upon us again, and millions of Americans are rushing to have their affairs in order so they can beat the deadline. That said, there are ways you can shrink your tax bill if you make use of some of the allowances that Uncle Sam has given you that you may not know about. Read on to find out what this year’s tax tips are.
 
 ## Close out Worthless Stock
@@ -25,7 +23,7 @@ A great way of making sure that you’re not taxed to your ears is to squeeze in
 
 ## Gambling Winnings Need to Be Reported
 
-If you’re a Vegas veteran or like to hit up the casino at the mall every so often, you may want to think twice about not reporting your earnings. [Money from gambling winnings is taxable](http://www.foxbusiness.com/personal-finance/2013/09/19/uncle-sam-wants-his-cut-on-your-gambling-winnings/), and should be reported. However, you should look at your gambling activity in its entirety so you can claim only have the winnings taxed and not the losses.
+If you’re a Vegas veteran or like to hit up the casino at the mall every so often, you may want to think twice about not reporting your earnings. [Money from gambling winnings is taxable](https://www.foxbusiness.com/personal-finance/2013/09/19/uncle-sam-wants-his-cut-on-your-gambling-winnings/), and should be reported. However, you should look at your gambling activity in its entirety so you can claim only have the winnings taxed and not the losses.
 
 ## Look Into Fortifying Your Retirement Savings Account
 
@@ -41,6 +39,6 @@ If you telecommute and use a room in your home as your office, you may want to c
 
 ## Energy-Related Tax Deductions
 
-If you’ve jumped on the solar or wind energy bandwagon, we have good news for you; [the government is providing you with up to 30 percent savings](http://energy.gov/savings) when it comes to the total cost of your solar panel or or any other form of renewal energy generator.
+If you’ve jumped on the solar or wind energy bandwagon, we have good news for you; [the government is providing you with up to 30 percent savings](https://energy.gov/savings) when it comes to the total cost of your solar panel or or any other form of renewal energy generator.
 
 These tips can help you offset your tax bill, leaving you with extra money that you can use to invest, or save for a rainy day.

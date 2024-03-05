@@ -17,13 +17,13 @@ There are many factors to consider when selecting the best cash back rewards cre
 
 Many consumers are enticed with emails and mailers from credit card companies that state “sign up now and get 40,000 free points.” A diligent consumer should first spend time researching alternative credit card companies before acting on that special offer. Make the right choice.
 
-##### Cash Back Rewards
+## Cash Back Rewards
 
 Obtaining money back or points from a credit card company is a great enticement to use your credit card more often. Before making that large purchase, be sure there will be sufficient money in your checking or savings account to pay off your monthly credit card bill. Credit card companies’ reward programs differ from one card to another. One size does not fit all. Check cardratings.com and compare which card gives you the most back when you spend money on groceries, gas, restaurants, and other purchases.
 
-The following are the two “overall winners” for February 2016, but check their website to see which cash back rewards card is best suited for you.![cash back rewards card bofa](/posts/bofa.png)![cash back rewards card chase](/posts/chase.png)
+The following are the two “overall winners” for February 2016, but check their website to see which cash back rewards card is best suited for you.![cash back rewards card bofa](/posts/bofa.jpg)![cash back rewards card chase](/posts/chase.jpg)
 
-##### Evaluation Criteria
+## Evaluation Criteria
 
 CardRatings.com offers this advise when analyzing cash back rewards programs.
 

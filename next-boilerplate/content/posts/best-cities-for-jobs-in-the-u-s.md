@@ -20,7 +20,7 @@ image: bigstock-Happy-City-Business-Woman-With-75833632.jpg
 ### Raleigh, North Carolina
 
 ![Raleigh Best Cities for jobs](/posts/bigstock-Raleigh-North-Carolina-USA-d-88437977-1024x684.jpg)  
-Looking to make a change and move to a new city for a [hot job](http://moderntips.com/top-10-hot-jobs-for-2016)? As it turns out, all cities are not created equal for jobs. As part of your decision making process, Glassdoor.com recommends these factors when looking for the best cities for jobs:
+Looking to make a change and move to a new city for a [hot job](/top-10-hot-jobs-for-2016)? As it turns out, all cities are not created equal for jobs. As part of your decision making process, Glassdoor.com recommends these factors when looking for the best cities for jobs:
 
 - Hiring opportunity – How easy is it to obtain a position?
 - Cost of living -How affordable is it to live in this new city?
@@ -28,7 +28,7 @@ Looking to make a change and move to a new city for a [hot job](http://moderntip
 
 Glassdoor.com’s methodology to determine its ranking is “Based on a comparison of the 50 most populated U.S. metros. Glassdoor Job Score based on a 5-point scale, determined by weighting three factors equally: hiring opportunity, cost of living and job satisfaction. Hiring opportunity determined by the ratio of active job openings to population.
 
-##### What are the best cities for jobs that made the top 5? Here’s the first – Raleigh, NC
+## What are the best cities for jobs that made the top 5? Here’s the first – Raleigh, NC
 
 - Number of job openings in Raleigh 24,146
 - Raleigh Population 1,242,974

@@ -11,13 +11,11 @@ layout: post
 image: college-tuition.jpg
 ---
 
-![college tuition](http://mt2.wpengine.com/wp-content/uploads/2015/03/college-tuition.jpg)
-
 For most students, the time before starting college is a carefree one with regard to finances. Parents foot bills without questions asked and give them a hefty allowance. Life is good, and there are no consequences if they decide to go all out with their credit cards. Upon joining college, the song changes due to the various responsibilities and life lessons these students must learn fast if they are going to survive in the real world. Making sound financial decisions while in college can put you on a head start when you finally graduate. In this post, we’ll take a look at a few financial tips every college student should apply for sound financial health.
 
 ## Take Advantage of Student Discounts
 
-Companies all over the country realize that students make up a sizeable majority of the people seeking out their services. Because of this, they have come up with incentives to boost loyalty and keep students spending. Student discounts can be a great way of having essentials subsidized. This may include transport costs, clothing, electronics and phone plans that target students. [Do some basic research into the available student discounts](http://www.bestcollegesonline.com/blog/2012/12/11/100-stores-that-give-a-student-discount/) and ask your friends to recommend some to you.
+Companies all over the country realize that students make up a sizeable majority of the people seeking out their services. Because of this, they have come up with incentives to boost loyalty and keep students spending. Student discounts can be a great way of having essentials subsidized. This may include transport costs, clothing, electronics and phone plans that target students. [Do some basic research into the available student discounts](https://www.bestcollegesonline.com/blog/2012/12/11/100-stores-that-give-a-student-discount/) and ask your friends to recommend some to you.
 
 ## Use the Foolproof Envelope System
 
@@ -37,7 +35,7 @@ Look for banks which provide the following services:
 
 ## Use Credit Responsibly
 
-It’s tempting to apply for the maximum allowed student loan because you can’t wait to live the high life in college. Doing so only starts you off with [a huge burden in life after graduation](http://www.forbes.com/sites/robertfarrington/2014/09/24/the-long-term-impact-of-student-loan-debt-on-universities/) since you’ll have to pay that money back. Base your loan application on the kind of job and commensurate salary you’ll be getting after graduation. Avoid spending your loan money on trivial items that won’t add value to your life such as buying round of drinks for your friends or getting the latest clothes.
+It’s tempting to apply for the maximum allowed student loan because you can’t wait to live the high life in college. Doing so only starts you off with [a huge burden in life after graduation](https://www.forbes.com/sites/robertfarrington/2014/09/24/the-long-term-impact-of-student-loan-debt-on-universities/) since you’ll have to pay that money back. Base your loan application on the kind of job and commensurate salary you’ll be getting after graduation. Avoid spending your loan money on trivial items that won’t add value to your life such as buying round of drinks for your friends or getting the latest clothes.
 
 Lastly, be wary of credit card representatives around campus who may try to get you to sign up for cards that have ridiculous interest fees. As a rule of thumb, always read the fine print if you decide to get one of these.
 

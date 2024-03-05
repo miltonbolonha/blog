@@ -11,9 +11,9 @@ layout: post
 image: auction.jpg
 ---
 
-[![auction](http://mt2.wpengine.com/wp-content/uploads/2015/03/auction-1024x681.jpg)](http://mt2.wpengine.com/wp-content/uploads/2015/03/auction.jpg)
+[![auction](/auction-1024x681.jpg)](/auction.jpg)
 
-Auctions are great places to pick up items that are as good as those you might find at your local Wal-Mart brand new. In addition, the excitement and different types of people will lead you to other interesting finds and deals in other locations if you’re willing to make friends and network. That being said, auctions such as those held at flea markets or a designated auction building can be fraught with many financial and [psychological traps](http://insight.kellogg.northwestern.edu/article/place_your_bids/). In this post, we’ll take a look at some of the things you should do if you’d like to beat the competition as well as get a fair price on the things that you’re looking to bid on.
+Auctions are great places to pick up items that are as good as those you might find at your local Wal-Mart brand new. In addition, the excitement and different types of people will lead you to other interesting finds and deals in other locations if you’re willing to make friends and network. That being said, auctions such as those held at flea markets or a designated auction building can be fraught with many financial and [psychological traps](https://insight.kellogg.northwestern.edu/article/place_your_bids/). In this post, we’ll take a look at some of the things you should do if you’d like to beat the competition as well as get a fair price on the things that you’re looking to bid on.
 
 ## Dress Conservatively and Appropriately
 
@@ -21,7 +21,7 @@ Auction events attract different types of people. However, it’s not uncommon f
 
 ## Do Your Research Beforehand
 
-If you have a list of the items that are going to be bid on, your first port of call should be the internet. If, for example, there’s going to be a ’75 Chevy up for sale at the auction, you should check out various valuation and [price comparison websites](http://www.edmunds.com/) so you can get a good average price. Get to know the features that come with the item so you can negotiate and bid from a place of strength.
+If you have a list of the items that are going to be bid on, your first port of call should be the internet. If, for example, there’s going to be a ’75 Chevy up for sale at the auction, you should check out various valuation and [price comparison websites](https://www.edmunds.com/) so you can get a good average price. Get to know the features that come with the item so you can negotiate and bid from a place of strength.
 
 ## Do Not Show Excitement or Desire
 

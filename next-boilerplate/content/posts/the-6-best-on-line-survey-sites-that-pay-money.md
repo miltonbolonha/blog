@@ -22,12 +22,12 @@ image: surveys.jpg
 ![InBox Dollars survey](/posts/maxresdefault-1024x576.jpg)  
 Taking a survey is an easy way to make some extra money. Signing up with all these survey companies will increase your potential of earning $50 or more per month, assuming that you can complete 1- 2 surveys a month from each company.
 
-InBoxDollars members have earned over $35 million in rewards by taking surveys. Earn cash, not points when taking a survey. They offer $5 sign up bonus. Sign up for [InBoxDollars](http://www.inboxdollars.com/).
+InBoxDollars members have earned over $35 million in rewards by taking surveys. Earn cash, not points when taking a survey. They offer $5 sign up bonus. Sign up for [InBoxDollars](https://www.inboxdollars.com/).
 
 ### SwagBucks
 
 ![swagbucks survey](/posts/SB-Logo-1024x385.jpg)  
-SwagBucks survey members accumulate points that are quickly redeemable for cash from PayPal or free gift cards from Target, Walmart, Amazon, Best Buy and many other companies. Swagbucks offer a $5 sign up bonus. Sign up for [SwagBucks](http://www.swagbucks.com/g/paid-surveys).
+SwagBucks survey members accumulate points that are quickly redeemable for cash from PayPal or free gift cards from Target, Walmart, Amazon, Best Buy and many other companies. Swagbucks offer a $5 sign up bonus. Sign up for [SwagBucks](https://www.swagbucks.com/g/paid-surveys).
 
 ### MintVine
 
@@ -37,7 +37,7 @@ SwagBucks survey members accumulate points that are quickly redeemable for cash 
 ### Harris Poll Online
 
 ![Harris Poll survey](/posts/harris-poll-1024x272.jpg)  
-Harris Poll Online, A Nielsen Company, is one of world’s oldest market research companies. Members receive points which can be redeemed for a variety of rewards from companies including Amazon, iTunes, Home Depot and Walmart. With every survey completed members have a chance to enter a $10,000 sweepstakes. Sign up for [Harris Poll Online](http://www.harrispollonline.com/).
+Harris Poll Online, A Nielsen Company, is one of world’s oldest market research companies. Members receive points which can be redeemed for a variety of rewards from companies including Amazon, iTunes, Home Depot and Walmart. With every survey completed members have a chance to enter a $10,000 sweepstakes. Sign up for [Harris Poll Online](https://www.harrispollonline.com/).
 
 ### My Survey
 
@@ -46,7 +46,7 @@ MySurvey members earn points for every survey taken, even those which you don’
 
 ### PineCone Reaearch
 
-![Pinecone survey](/posts/pinecone-1024x673.png)  
+![Pinecone survey](/posts/pinecone-1024x673.jpg)  
 Pinecone Research survey members get paid cash via PayPal after every survey taken. The surveys pay $3 for each one completed. Sign up for [Pinecone Research](https://www.pineconeresearch.com/).
 
 Have fun and happy money making!

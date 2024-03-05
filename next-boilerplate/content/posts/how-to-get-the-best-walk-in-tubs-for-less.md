@@ -63,5 +63,5 @@ Even with this help though, be sure to treat this as the very important decision
 
 <sup> </sup>
 
-1. [Slide-in Bathtubs: The Basics](http://homeability.com/slide-in-bathtub-buying-guide/)
-2. [Easy guide to VAT exemption on disability goods and services](http://www.disabilityscot.org.uk/easy-guide-to-vat-exemption-on-disability-goods-and-services/)
+1. [Slide-in Bathtubs: The Basics](https://homeability.com/slide-in-bathtub-buying-guide/)
+2. [Easy guide to VAT exemption on disability goods and services](https://www.disabilityscot.org.uk/easy-guide-to-vat-exemption-on-disability-goods-and-services/)

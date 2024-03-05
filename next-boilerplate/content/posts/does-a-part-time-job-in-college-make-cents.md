@@ -11,8 +11,6 @@ layout: post
 image: part-time-job.jpg
 ---
 
-![part time job](http://mt2.wpengine.com/wp-content/uploads/2015/03/part-time-job.jpg)
-
 With tuition and living expenses rising, college students all over the country are looking to make a quick buck. Getting a part-time-job can be a great way of making an extra income without the hassle of full-time employment. That being said, there are various pitfalls you should be aware of if you’d like to have a good work-school balance. This article provides you with actionable advice to help you find, keep and enjoy your part-time job.
 
 ## Look for an On-Campus Job

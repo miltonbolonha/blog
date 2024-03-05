@@ -18,7 +18,7 @@ image: low-stress-high-pay-featured-image.jpg
 
 <figure aria-describedby="caption-attachment-3704" class="wp-caption alignnone" id="attachment_3704" style="width: 700px">
 
-![1 materials scientist low stress](/posts/1-materials-scientist.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3704">[Pressmaster](http://www.shutterstock.com/pic-404537242/stock-photo-laboratory-studies.html)</figcaption></figure>
+![1 materials scientist low stress](/posts/1-materials-scientist.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3704">[Pressmaster](https://www.shutterstock.com/pic-404537242/stock-photo-laboratory-studies.html)</figcaption></figure>
 
 Average Salary: $94,000
 
@@ -28,7 +28,7 @@ With this job, you’ll study and research materials at the molecular and atomic
 
 <figure aria-describedby="caption-attachment-3705" class="wp-caption alignnone" id="attachment_3705" style="width: 700px">
 
-![2 mathmatician low stress](/posts/2-mathmatician.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3705">[Rob Marmion](http://www.shutterstock.com/pic-101698588/stock-photo-math-teacher-doing-a-math-problem-with-black-marker.html)</figcaption></figure>
+![2 mathmatician low stress](/posts/2-mathmatician.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3705">[Rob Marmion](https://www.shutterstock.com/pic-101698588/stock-photo-math-teacher-doing-a-math-problem-with-black-marker.html)</figcaption></figure>
 
 Average Salary: $104,000
 
@@ -38,7 +38,7 @@ There are many different paths a mathematician can follow. This might include im
 
 <figure aria-describedby="caption-attachment-3706" class="wp-caption alignnone" id="attachment_3706" style="width: 700px">
 
-![3 geographer low stress](/posts/3-geographer.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3706">[Pingpao](http://www.shutterstock.com/pic-286820741/stock-photo-travel-concept-with-several-pushpins-on-map-color-filter-effect.html)</figcaption></figure>
+![3 geographer low stress](/posts/3-geographer.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3706">[Pingpao](https://www.shutterstock.com/pic-286820741/stock-photo-travel-concept-with-several-pushpins-on-map-color-filter-effect.html)</figcaption></figure>
 
 Average Salary: $75,000
 
@@ -48,7 +48,7 @@ If you have a passion for nature and enjoy studying the shifts in the earth’s 
 
 <figure aria-describedby="caption-attachment-3707" class="wp-caption alignnone" id="attachment_3707" style="width: 700px">
 
-![4 economist low stress](/posts/4-economist.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3707">[ditty_about_summer](http://www.shutterstock.com/pic-395977438/stock-photo-teamwork-business-meeting-team-working-on-financial-plan.html)</figcaption></figure>
+![4 economist low stress](/posts/4-economist.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3707">[ditty_about_summer](https://www.shutterstock.com/pic-395977438/stock-photo-teamwork-business-meeting-team-working-on-financial-plan.html)</figcaption></figure>
 
 Average Salary: $105,000
 
@@ -58,7 +58,7 @@ Want a job that doesn’t require you to obtain a Ph.D. yet still gives you the 
 
 <figure aria-describedby="caption-attachment-3708" class="wp-caption alignnone" id="attachment_3708" style="width: 700px">
 
-![4a Statistician low stress](/posts/4a-Statistician-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3708">[everything possible](http://www.shutterstock.com/pic-387235312/stock-photo-businessman-working-with-digital-tablet-computer-and-smart-phone-and-laptop-computer-with-digital.html)</figcaption></figure>
+![4a Statistician low stress](/posts/4a-Statistician-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3708">[everything possible](https://www.shutterstock.com/pic-387235312/stock-photo-businessman-working-with-digital-tablet-computer-and-smart-phone-and-laptop-computer-with-digital.html)</figcaption></figure>
 
 Average Salary: $84,000
 
@@ -68,7 +68,7 @@ This is another math-based career path. This is the kind of job you should go af
 
 <figure aria-describedby="caption-attachment-3709" class="wp-caption alignnone" id="attachment_3709" style="width: 700px">
 
-![5 Agricultural Engineer low stress](/posts/5-Agricultural-Engineer-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3709">[photodiem](http://www.shutterstock.com/pic-258345155/stock-photo-junior-agricultural-scientists-researching-plants-and-diseases-in-a-greenhouse-with-cucumbers.html)</figcaption></figure>
+![5 Agricultural Engineer low stress](/posts/5-Agricultural-Engineer-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3709">[photodiem](https://www.shutterstock.com/pic-258345155/stock-photo-junior-agricultural-scientists-researching-plants-and-diseases-in-a-greenhouse-with-cucumbers.html)</figcaption></figure>
 
 Average Salary: $75,00
 
@@ -78,7 +78,7 @@ This it a profession where you work solving different agricultural problems. Thi
 
 <figure aria-describedby="caption-attachment-3710" class="wp-caption alignnone" id="attachment_3710" style="width: 700px">
 
-![6 political scientist low stress](/posts/6-political-scientist-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3710">[sergieiev](http://www.shutterstock.com/pic-86659492/stock-photo-magnifying-glass-is-on-the-news-text.html)</figcaption></figure>
+![6 political scientist low stress](/posts/6-political-scientist-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3710">[sergieiev](https://www.shutterstock.com/pic-86659492/stock-photo-magnifying-glass-is-on-the-news-text.html)</figcaption></figure>
 
 Average Salary: $104,000
 
@@ -88,7 +88,7 @@ If the political system drives you crazy, best to stay out. With the job type yo
 
 <figure aria-describedby="caption-attachment-3711" class="wp-caption alignnone" id="attachment_3711" style="width: 700px">
 
-![7 materials engineer low stress](/posts/7-materials-engineer.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3711">[Dmitry Kalinovsky](http://www.shutterstock.com/pic-344426855/stock-photo-pharmaceutical-scientific-female-researcher-in-protective-uniform-working-with-dissolution-tester.html)</figcaption></figure>
+![7 materials engineer low stress](/posts/7-materials-engineer.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3711">[Dmitry Kalinovsky](https://www.shutterstock.com/pic-344426855/stock-photo-pharmaceutical-scientific-female-researcher-in-protective-uniform-working-with-dissolution-tester.html)</figcaption></figure>
 
 Average Salary: $91,000
 
@@ -98,7 +98,7 @@ Usually if engineer is in the title you will end up making a decent amount of mo
 
 <figure aria-describedby="caption-attachment-3712" class="wp-caption alignnone" id="attachment_3712" style="width: 700px">
 
-![8 biomedical engineer low stress](/posts/8-biomedical-engineer-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3712">[angellodeco](http://www.shutterstock.com/pic-435001489/stock-photo-researcher-working-in-a-biotechnology-lab-biochemical-engineer-working-with-microplate-in-a.html)</figcaption></figure>
+![8 biomedical engineer low stress](/posts/8-biomedical-engineer-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3712">[angellodeco](https://www.shutterstock.com/pic-435001489/stock-photo-researcher-working-in-a-biotechnology-lab-biochemical-engineer-working-with-microplate-in-a.html)</figcaption></figure>
 
 Average Salary: $92,000
 
@@ -108,7 +108,7 @@ In this form of engineering you will work to assist solving problems in the medi
 
 <figure aria-describedby="caption-attachment-3713" class="wp-caption alignnone" id="attachment_3713" style="width: 700px">
 
-![9 Physicist low stress](/posts/9-Physicist-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3713">[indukas](http://www.shutterstock.com/pic-227434291/stock-photo-scientists-working-with-laser-deposition-chamber.html)</figcaption></figure>
+![9 Physicist low stress](/posts/9-Physicist-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3713">[indukas](https://www.shutterstock.com/pic-227434291/stock-photo-scientists-working-with-laser-deposition-chamber.html)</figcaption></figure>
 
 Average Salary: $117,300
 
@@ -118,7 +118,7 @@ This is a position you’ll need to dedicate some time in college for as you rea
 
 <figure aria-describedby="caption-attachment-3714" class="wp-caption alignnone" id="attachment_3714" style="width: 700px">
 
-![10 economics teacher](/posts/10-economics-teacher.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3714">[bikeriderlondon](http://www.shutterstock.com/pic-150215990/stock-photo-professor-pointing-at-college-student-with-hands-raised-in-classroom.html)</figcaption></figure>
+![10 economics teacher](/posts/10-economics-teacher.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3714">[bikeriderlondon](https://www.shutterstock.com/pic-150215990/stock-photo-professor-pointing-at-college-student-with-hands-raised-in-classroom.html)</figcaption></figure>
 
 Average Salary: $102,000
 
@@ -128,7 +128,7 @@ If you enjoy teaching and economics, this is the career path for you. Now, you w
 
 <figure aria-describedby="caption-attachment-3715" class="wp-caption alignnone" id="attachment_3715" style="width: 700px">
 
-![11 astronomer low stress](/posts/11-astronomer-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3715">[goodmoments](http://www.shutterstock.com/pic-410926780/stock-photo-young-smiling-woman-looking-skyward-through-astronomical-telescope-beautiful-girl-looking-through.html)
+![11 astronomer low stress](/posts/11-astronomer-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3715">[goodmoments](https://www.shutterstock.com/pic-410926780/stock-photo-young-smiling-woman-looking-skyward-through-astronomical-telescope-beautiful-girl-looking-through.html)
 
 </figcaption></figure>
 
@@ -140,7 +140,7 @@ If you are a lover of the stars and learning about the galaxy, you may want to c
 
 <figure aria-describedby="caption-attachment-3716" class="wp-caption alignnone" id="attachment_3716" style="width: 700px">
 
-![12 geoscientist low stress](/posts/12-geoscientist-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3716">[adwo](http://www.shutterstock.com/pic-369361106/stock-photo-geologist-examining-a-banded-iron-formation-pilbara-australia.html)</figcaption></figure>
+![12 geoscientist low stress](/posts/12-geoscientist-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3716">[adwo](https://www.shutterstock.com/pic-369361106/stock-photo-geologist-examining-a-banded-iron-formation-pilbara-australia.html)</figcaption></figure>
 
 Average Salary: $105,000
 
@@ -150,7 +150,7 @@ This is a career path that you only need a bachelor’s degree in. As a geoscien
 
 <figure aria-describedby="caption-attachment-3717" class="wp-caption alignnone" id="attachment_3717" style="width: 700px">
 
-![13 law professor](/posts/13-law-professor.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3717">[bikeriderlondon](http://www.shutterstock.com/pic-120907177/stock-photo-mature-teacher-explaining-lesson-in-classroom.html)</figcaption></figure>
+![13 law professor](/posts/13-law-professor.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3717">[bikeriderlondon](https://www.shutterstock.com/pic-120907177/stock-photo-mature-teacher-explaining-lesson-in-classroom.html)</figcaption></figure>
 
 Average Salary: $126,000
 
@@ -160,7 +160,7 @@ Generally, the only way you’ll obtain this job is if you not only have a bache
 
 <figure aria-describedby="caption-attachment-3718" class="wp-caption alignnone" id="attachment_3718" style="width: 700px">
 
-![14 Operations Research Analyst low stress](/posts/14-Operations-Research-Analyst-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3718">[imageflow](http://www.shutterstock.com/pic-300431846/stock-photo-close-up-of-the-businessman-who-points-out-the-growing-arrow-which-symbolises-the-concept-of-the.html)</figcaption></figure>
+![14 Operations Research Analyst low stress](/posts/14-Operations-Research-Analyst-low-stress.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3718">[imageflow](https://www.shutterstock.com/pic-300431846/stock-photo-close-up-of-the-businessman-who-points-out-the-growing-arrow-which-symbolises-the-concept-of-the.html)</figcaption></figure>
 
 Average Salary: $83,000
 

@@ -36,7 +36,7 @@ Is your money working for you? It should be. The extra money you have after payi
 
 <figure aria-describedby="caption-attachment-4284" class="wp-caption alignnone" id="attachment_4284" style="width: 700px">
 
-![college is expensive](/posts/shutterstock_13653856-e1478033541781.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4284">[GWimages](http://www.shutterstock.com/pic-13653856/stock-photo-diploma-with-money.html)</figcaption></figure>
+![college is expensive](/posts/shutterstock_13653856-e1478033541781.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4284">[GWimages](https://www.shutterstock.com/pic-13653856/stock-photo-diploma-with-money.html)</figcaption></figure>
 
 Going to college is expensive. Really expensive. Especially if your best educational option is to head out of state (or go to a private college). This may have left you with tens of thousands, if not nearly $100,000 in debt. Worrying about paying this back is real and simply seeing that giant number is enough to make your head spin. However, if you’re struggling to meet the monthly requirements, don’t just stop paying it. You can’t file for bankruptcy and opt out of student loans (too many people did this a few decades ago so student loans now do not go away when going through bankruptcy). There are income repayment options, and if you contact your student loan provider you can tell them you’re not able to make the payments and, chances are, they will have a reduce payment option (which lasts for six or 12 months).
 
@@ -44,6 +44,6 @@ Going to college is expensive. Really expensive. Especially if your best educati
 
 <figure aria-describedby="caption-attachment-4107" class="wp-caption alignnone" id="attachment_4107" style="width: 700px">
 
-![price range wedding](/posts/shutterstock_418403209.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4107">[wavebreakmedia](http://www.shutterstock.com/pic-418403209/stock-photo-worried-young-couple-discussing-bills-at-home.html)</figcaption></figure>
+![price range wedding](/posts/shutterstock_418403209.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4107">[wavebreakmedia](https://www.shutterstock.com/pic-418403209/stock-photo-worried-young-couple-discussing-bills-at-home.html)</figcaption></figure>
 
 Nearly everything costs more now. iPhones are costing $1,000 and over. Major cell phone providers charge you $100 a month for service. Cable and Internet is probably costing you another nice chunk of change. All of this adds up. Thankfully, you do have options at cutting costs. In terms of bills, consider looking around for a different provider. Many of the discounted cell phone companies actually purchase data and mobile services directly through the larger companies like Sprint, so there isn’t much in terms of service drop off, yet you’ll only spend $40 or so a month (way better than $100). Nix your cable and go with a streaming service (SlingTV only costs $20 a month). Shop around for different insurance providers. If you’re paying for a service, consider if you need it, and if you do, look around to see if you can find it for less.

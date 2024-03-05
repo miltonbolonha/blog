@@ -17,7 +17,7 @@ image: 6-Dont-Bet-Against-the-U.S.-investment.jpg
 
 <figure aria-describedby="caption-attachment-3777" class="wp-caption alignnone" id="attachment_3777" style="width: 700px">
 
-![1 ebates get paid](/posts/1-ebates-get-paid.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3777">[pathdoc](http://www.shutterstock.com/pic-241332013/stock-photo-side-profile-happy-smiling-business-woman-working-online-on-computer-earning-money-dollar-bills.html)</figcaption></figure>
+![1 ebates get paid](/posts/1-ebates-get-paid.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3777">[pathdoc](https://www.shutterstock.com/pic-241332013/stock-photo-side-profile-happy-smiling-business-woman-working-online-on-computer-earning-money-dollar-bills.html)</figcaption></figure>
 
 Is there anything better than discovering you owe something more valuable than what you paid for it? It’s a nice feeling that doesn’t happen as often as most of us would like. Thankfully, you don’t need to go out and start investing in expensive paintings or hold onto dated bottles of wine to realize such an increase in value. You may have something in your wallet that is worth far more than the printed value. Some dollar bills, due to errors in the printing or limited prints can be worth thousands, if not hundreds of thousands. So, before you slide a bill into the vending machine, make sure to give it a once over.
 

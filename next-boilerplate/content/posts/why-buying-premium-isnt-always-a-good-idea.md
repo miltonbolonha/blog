@@ -11,7 +11,7 @@ layout: post
 image: hero_premiumcar.jpg
 ---
 
-[![premium](http://mt2.wpengine.com/wp-content/uploads/2015/03/premium-1024x768.jpg)](http://mt2.wpengine.com/wp-content/uploads/2015/03/premium.jpg)
+[![premium](/premium-1024x768.jpg)](/premium.jpg)
 
 There’s an old adage that has been around since the turn of the last century or maybe even longer. Quality, it seems, is directly proportional to price even when the evidence doesn’t point to this. We have been primed to believe that we’ll get a better quality item if we pony up. A lot of us do so, albeit grudgingly. If you’re living on a tight budget, you may find it hard or close to impossible to pay more for quality. In this post, we’ll give you tips on how to get quality items or services without having to shell out mountains of money.
 
@@ -21,7 +21,7 @@ Patience, especially when it comes to purchasing a coveted item can go a long wa
 
 ## Research and Compare
 
-Due to the massive competition between stores and brands these days, there are always offers flying around to entice buyers to buy a certain brand’s item. [This competition is good for the consumer](http://www.wsj.com/articles/competition-good-for-consumers-less-for-capitalists-letters-to-the-editor-1411158314) since you get to compare prices and choose one that fits your budget. Sign up for reminders on comparison websites, and install browser add-ons that track offers for you so you can get the best deal in the long run.
+Due to the massive competition between stores and brands these days, there are always offers flying around to entice buyers to buy a certain brand’s item. [This competition is good for the consumer](https://www.wsj.com/articles/competition-good-for-consumers-less-for-capitalists-letters-to-the-editor-1411158314) since you get to compare prices and choose one that fits your budget. Sign up for reminders on comparison websites, and install browser add-ons that track offers for you so you can get the best deal in the long run.
 
 ## Set Up a Specific Savings Fund
 
@@ -33,6 +33,6 @@ Branding is big business. At the same time, a certain branded item doesn’t nec
 
 ## Exceptions to the Rule
 
-Sometimes, [it’s a good idea to pay the price if you’re looking to purchase quality](http://moneybulldog.co.uk/the-things-that-are-worth-paying-a-bit-extra-for/). This is especially true of items that you use on a daily basis such as electronics and clothing. These items, if bought for cheap can fall apart in months or less than a year, sending you back to the store to buy more which in the end may ruin your budget.
+Sometimes, [it’s a good idea to pay the price if you’re looking to purchase quality](https://moneybulldog.co.uk/the-things-that-are-worth-paying-a-bit-extra-for/). This is especially true of items that you use on a daily basis such as electronics and clothing. These items, if bought for cheap can fall apart in months or less than a year, sending you back to the store to buy more which in the end may ruin your budget.
 
 By shopping smart, doing your research and refusing to be drawn into the Joneses’ world, you may be able to get all the quality items you need, all the while keeping your budget intact for a long time to come.

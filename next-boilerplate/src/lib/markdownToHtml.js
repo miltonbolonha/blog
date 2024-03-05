@@ -2,7 +2,7 @@
 import remarkRehype from "remark-rehype";
 import remarkParse from "remark-parse";
 // import { rehypeExtendedTable } from "rehype-extended-table";
-// import remarkGfm from "remark-gfm";
+import remarkGfm from "remark-gfm";
 import rehypeSanitize from "rehype-sanitize";
 import rehypeRaw from "rehype-raw";
 import { unified } from "unified";
@@ -25,11 +25,17 @@ export default async function markdownToHtml(markdown) {
     .use(remarkOembed)
     .use(rehypeAutolinkHeadings)
     .use(rehypeRaw)
-    .use(rehypeExternalLinks, { rel: ["nofollow noopener"] })
+    // .use(remarkGfm)
     .use(rehypeSanitize)
     .use(rehypeStringify, { allowDangerousHtml: true })
     .use(rehypeSlug)
-    // .use(remarkGfm)
+    .use(rehypeExternalLinks, {
+      target: "_blank",
+      properties: {
+        class: "external-link",
+      },
+      protocols: ["https"],
+    })
     .use(headings, {
       behavior: "wrap",
       linkProperties: {

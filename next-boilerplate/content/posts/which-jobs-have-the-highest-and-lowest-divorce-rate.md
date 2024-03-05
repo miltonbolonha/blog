@@ -19,7 +19,7 @@ layout: post
 image: divorce-and-happy.png
 ---
 
-![highest or lowest divorce rate job](/posts/divorce-and-happy.png)When [looking for a top job](/top-10-hot-jobs-for-2016/9), we often focus on the pay, benefits, commute time, challenges, opportunities for advancement but often don’t consider how this position may effect the relationship with your significant other. Work-life balance should be part of any decision making process. Which jobs have the highest and lowest divorce rate?
+When [looking for a top job](/top-10-hot-jobs-for-2016/9), we often focus on the pay, benefits, commute time, challenges, opportunities for advancement but often don’t consider how this position may effect the relationship with your significant other. Work-life balance should be part of any decision making process. Which jobs have the highest and lowest divorce rate?
 
 Researchers at the Radford University used census data and a special algorithm to determine the divorce rates for over 500 careers in the U.S. The resulting percentages shown reflect the chances an individual in a particular career to experience divorce.
 

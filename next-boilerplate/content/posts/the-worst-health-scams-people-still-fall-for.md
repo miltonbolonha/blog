@@ -11,7 +11,7 @@ layout: post
 image: Pill-Health-Scams.png
 ---
 
-![](/posts/Pill-Health-Scams.png)Health scams are a particularly unscrupulous form of con. These prey on our desire to feel and look our best, and in many cases even go after those of us suffering with serious illnesses.
+Health scams are a particularly unscrupulous form of con. These prey on our desire to feel and look our best, and in many cases even go after those of us suffering with serious illnesses.
 
 The problem is that people are so ready to believe alternative cures and “weird tricks,” at the same time as dismissing the advice from their healthcare professionals. The human desire for an easy fix – especially during the hardest times – is an extremely strong drive. And where there’s a powerful human impulse, there are people rubbing their hands together ready to make money from us.
 
@@ -99,6 +99,6 @@ What makes homeopathy so dangerous and so despicable is that it claims to be a v
 
 The unfortunate fact of the matter is that this significantly lessens their chance of survival.
 
-1. [Does Ear Candle Earwax Removal Actually Work?](http://www.todayifoundout.com/index.php/2016/11/how-to-remove-earwax/)
+1. [Does Ear Candle Earwax Removal Actually Work?](https://www.todayifoundout.com/index.php/2016/11/how-to-remove-earwax/)
 2. [Is Detoxing Really a Myth?](https://www.huffpost.com/entry/is-detoxing-really-a-myth_b_6385924)
 3. [Homeopathy – Wikipedia](https://en.wikipedia.org/wiki/Homeopathy)

@@ -11,8 +11,6 @@ layout: post
 image: write-a-will.jpg
 ---
 
-![write a will](http://mt2.wpengine.com/wp-content/uploads/2015/03/write-a-will.jpg)
-
 A will is a legal document outlining how your assets will be shared amongst family and friends should you pass on. This is an important piece of paper that requires a lot of forethought and careful planning. Despite the fact that a lot of law experts recommend that you not write your own will without the help of someone who has a firm grasp of the law, you can do so if you have a general idea of what you’d like to say when it comes to your estate. In fact, some websites have prepaid wills that you can simply download and fill in with relevant information. In this post, we’ll take a look at some of the basics of writing a will.
 
 ## Top 4 Reasons to Write a Will:

@@ -21,9 +21,9 @@ image: pc.jpg
 
 #### h4 Heading
 
-##### h5 Heading
+## h5 Heading
 
-###### h6 Heading
+### h6 Heading
 
 ---
 
@@ -118,14 +118,14 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 Or leave it empty and use the [link text itself].
 
 URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
+https://www.example.com or <https://www.example.com> and sometimes
 example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+[1]: https://slashdot.org
+[link text itself]: https://www.reddit.com
 ```
 
 [I'm an inline-style link](https://www.google.com)
@@ -141,14 +141,14 @@ Some text to show that the reference links can follow later.
 Or leave it empty and use the [link text itself].
 
 URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
+https://www.example.com or <https://www.example.com> and sometimes
 example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+[1]: https://slashdot.org
+[link text itself]: https://www.reddit.com
 
 ---
 
@@ -215,4 +215,4 @@ Duplicated footnote reference[^second].
 <img src="https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg" alt="IMAGE ALT TEXT HERE" width="540" height="480">
 </a>
 
-[![IMAGE ALT TEXT HERE](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/512px-YouTube_Logo_%282013-2017%29.svg.png)](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+[![IMAGE ALT TEXT HERE](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/512px-YouTube_Logo_%282013-2017%29.svg.jpg)](https://www.youtube.com/watch?v=pBy1zgt0XPc)

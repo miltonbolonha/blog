@@ -56,4 +56,4 @@ EWG’s analysis of more than 1,500 cereals, including more than 180 kid’s cer
 
 So how do you navigate the [grocery aisle](/can-your-water-be-killing-you-the-good-and-the-bad) to find the least sugary products? Check the list below to see which cereals have most and the least amount of sugar before you heading out. EWG recommends no more than 4 grams (1 teaspoon) of sugar per serving.
 
-![EWG-cereal-survey](/posts/EWG-cereal-survey.png)
+![EWG-cereal-survey](/posts/EWG-cereal-survey.jpg)

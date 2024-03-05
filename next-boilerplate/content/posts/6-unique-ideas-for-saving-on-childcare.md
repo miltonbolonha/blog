@@ -14,7 +14,7 @@ layout: post
 image: childcare.jpg
 ---
 
-[![saving on childcare](/posts/childcare.jpg)](http://mt2.wpengine.com/wp-content/uploads/2015/03/childcare.jpg)
+[![saving on childcare](/posts/childcare.jpg)](/childcare.jpg)
 
 Raising children isn’t cheap. That said, they are a necessity for some parents who have busy schedules but wouldn’t think of leaving their children with someone who they don’t trust or isn’t accountable. Daycare centers, however, aren’t the only places that know how to care for children. If you’re on a very tight budget or are living frugally, you need something that works for a much lesser cost. In this post, we’ll take a look at some of the ways for saving on childcare costs.
 
@@ -38,7 +38,7 @@ If you have a skill that you think will benefit a child care center, offer to pr
 
 ## Flex Scheduling or Working from Home are Options
 
-If you absolutely feel like you and your child would benefit from constant care, you might want to ask your boss if it’s possible for you to come in much later and still work the mandated eight hours. Alternatively, you can [work from home and telecommute](http://www.workflexibility.org/5-benefits-of-telecommuting-for-employers-and-employees/), giving you all the time in the world to care for your child as you work.
+If you absolutely feel like you and your child would benefit from constant care, you might want to ask your boss if it’s possible for you to come in much later and still work the mandated eight hours. Alternatively, you can [work from home and telecommute](https://www.workflexibility.org/5-benefits-of-telecommuting-for-employers-and-employees/), giving you all the time in the world to care for your child as you work.
 
 ## Sign Up for Offers
 

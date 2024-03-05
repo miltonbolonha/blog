@@ -11,8 +11,6 @@ layout: post
 image: worlds-richest-man.jpg
 ---
 
-![worlds richest man](http://mt2.wpengine.com/wp-content/uploads/2015/03/worlds-richest-man.jpg)
-
 A volatile market requires a bit of ingenuity. Naked puts arose because of the need for traders to make gains over a short period of time without having to overthink risk. By definition, naked puts are insurance against traded positions usually provided by a third party. These are vital for individuals who may speculate a fall in share prices and would like to sell, or those that are looking for some kind of buffer on account of the fact that they are holding a large number of shares that they would hate to lose in the event of a financial catastrophe.
 
 Naked puts usually help individuals profit when share or commodity prices are going down. This may seem counter-intuitive, since a lot of traders usually think that you should only buy high and sell low. Naked puts are ideal for high quality shares that you don’t mind having even when prices go down. This kind of thinking allows people make profits on weak shares as well as buy into stronger ones.

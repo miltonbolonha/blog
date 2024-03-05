@@ -11,8 +11,6 @@ layout: post
 image: job-offer.jpg
 ---
 
-![job offer](http://mt2.wpengine.com/wp-content/uploads/2015/03/job-offer.jpg)
-
 Job opportunities are a dime a dozen, and it’s not uncommon for a hiring manager to get in touch with you to see if you’re interested in taking up an offer out of the blue. This could be an internal thing, or an external initiative by an organization that values your skillset and what you can bring to the table. That being said, a lot of people forget about basics such as tact and timing when it comes to accepting or declining these offers. In this post, we’ll highlight some of the ways you can gracefully and politely decline a job offer.
 
 ## Extend a Word of Thanks

@@ -15,7 +15,7 @@ layout: post
 image: group-of-workers-e1450729551944.png
 ---
 
-[![](/posts/group-of-workers-e1450729551944.png)](/posts/group-of-workers-e1450729551944.png)Is it possible to obtain a high paying job without having to spend 4 years or more at a traditional college in the U.S.? The answer is yes. Although there are ways to [save money on college](/way-too-easy-strategies-to-reduce-the-cost-of-college), many people are opting out for Plan B: skipping the longer path of a 4 year college degree and still wind up with a high paying position.
+[![](/posts/group-of-workers-e1450729551944.jpg)](/posts/group-of-workers-e1450729551944.jpg)Is it possible to obtain a high paying job without having to spend 4 years or more at a traditional college in the U.S.? The answer is yes. Although there are ways to [save money on college](/way-too-easy-strategies-to-reduce-the-cost-of-college), many people are opting out for Plan B: skipping the longer path of a 4 year college degree and still wind up with a high paying position.
 
 #### Plan B
 
@@ -95,7 +95,7 @@ Job growth: 10%
 
 #### Looking for a specific high paying job?
 
-Check the U.S. Bureau of Labor Statistics (BLS) [Occupational Outlook Handbook](http://www.bls.gov/ooh/occupation-finder.htm). Details, level of education required, on-the job training requirements, projected number of new jobs, projected growth rate, and median pay.
+Check the U.S. Bureau of Labor Statistics (BLS) [Occupational Outlook Handbook](https://www.bls.gov/ooh/occupation-finder.htm). Details, level of education required, on-the job training requirements, projected number of new jobs, projected growth rate, and median pay.
 
 #### Looking for Federal Student Aid?
 

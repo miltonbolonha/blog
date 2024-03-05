@@ -16,7 +16,7 @@ image: sbatkin-screen.png
 
 <figure aria-describedby="caption-attachment-3132" class="wp-caption alignnone" id="attachment_3132" style="width: 853px">
 
-![Alex Montaldo, co-founder of Rock Steady Boxing with Sandy Batkin, 92](/posts/sbatkin-screen.png)<figcaption class="wp-caption-text" id="caption-attachment-3132">Alex Montaldo, co-founder of Rock Steady Boxing with Sandy Batkin,92</figcaption></figure>
+![Alex Montaldo, co-founder of Rock Steady Boxing with Sandy Batkin, 92](/posts/sbatkin-screen.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3132">Alex Montaldo, co-founder of Rock Steady Boxing with Sandy Batkin,92</figcaption></figure>
 
 Boxers train relentlessly, sometimes to near exhaustion, to be in the best shape to fight their opponent. However, there is a new breed of boxers springing up throughout the country but they are in the ring to fight an opponent they can’t see: Parkinson’s disease, a progressive disorder of the nervous system that affects movement.
 

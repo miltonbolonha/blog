@@ -11,15 +11,13 @@ layout: post
 image: early-retirement.jpg
 ---
 
-![early retirement](http://mt2.wpengine.com/wp-content/uploads/2015/03/early-retirement.jpg)
-
 The word retirement send shivers up the spines of most people because of the amount of time and effort it will take most, if not all of us to get there. This traditional-based kind of thinking shouldn’t be something that limits you. Retiring early, even in your thirties is possible, as long as you make some smart decisions earlier on in life. In this post, we’ll take a look at some vital tips to help you retire in your thirties.
 
 ## Start Saving Early
 
 We realize that this is a given for most people. That being said, a lot of us think that saving usually entails working up towards a goal. Here are some of the things you need to do in order to boost your savings from a young age:
 
-- Invest in [high-yield investments](http://www.forbes.com/sites/lawrencelight/2013/01/07/how-to-find-low-risk-high-return-investments/) that have a 10 to 15 year cash out in your late teens
+- Invest in [high-yield investments](https://www.forbes.com/sites/lawrencelight/2013/01/07/how-to-find-low-risk-high-return-investments/) that have a 10 to 15 year cash out in your late teens
 - Create a budget and stick to it. This will leave you with cash you can save every month
 - Put money into a low fee, high interest savings account
 - Pay off debt early so you have extra cash to save.
@@ -40,6 +38,6 @@ Retiring in your thirties can only be possible if you make some drastic financia
 
 ## Follow Your Passion, However Risky.
 
-A lot of us would rather work in a dead-end job than pursue their passions because they think that it might not work out due to the inherent risks in doing so. The truth is, most people who have been able to retire early followed their passion and made boatloads of money doing so. [By doing what you’re most passionate about](http://zenhabits.net/live-passion/), you’ll be able to provide value as long as you’ve perfected your craft. Most time, people will pay top dollar for your skill, helping you bring in more money than you would have garnered in an average office job.
+A lot of us would rather work in a dead-end job than pursue their passions because they think that it might not work out due to the inherent risks in doing so. The truth is, most people who have been able to retire early followed their passion and made boatloads of money doing so. [By doing what you’re most passionate about](https://zenhabits.net/live-passion/), you’ll be able to provide value as long as you’ve perfected your craft. Most time, people will pay top dollar for your skill, helping you bring in more money than you would have garnered in an average office job.
 
 Other important indices to pay attention to if you’d like to retire early include taking stock of your quarterly net worth, annual investing portfolio return and monthly expenses. These should be revised as needed every couple of months to ensure you’re on target towards reaching your early retirement goal.

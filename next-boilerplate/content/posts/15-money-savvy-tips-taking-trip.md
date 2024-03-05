@@ -18,7 +18,7 @@ image: 795.jpg
 
 <figure aria-describedby="caption-attachment-4547" class="wp-caption alignnone" id="attachment_4547" style="width: 700px">
 
-![airline credit card travel](/posts/469.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4547">[Syda_Productions](http://www.shutterstock.com/pic-209220469/stock-photo-christmas-x-mas-sale-banking-and-travel-concept-smiling-woman-in-red-dress-with-us-dollar.html)</figcaption></figure>
+![airline credit card travel](/posts/469.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4547">[Syda_Productions](https://www.shutterstock.com/pic-209220469/stock-photo-christmas-x-mas-sale-banking-and-travel-concept-smiling-woman-in-red-dress-with-us-dollar.html)</figcaption></figure>
 
 Before you start planning your trip, pick up an airline reward credit card, or at least a travel rewards credit card. With such a card you can start to earn airline miles and save money towards buying a ticket. If you grab a card now, in a few years you might have enough points to pay for the flight completely. Even if you want to take a trip at the end of the year, every little bit helps.
 
@@ -26,7 +26,7 @@ Before you start planning your trip, pick up an airline reward credit card, or a
 
 <figure aria-describedby="caption-attachment-4548" class="wp-caption alignnone" id="attachment_4548" style="width: 700px">
 
-![couch surf travel tips](/posts/372.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4548">[Syda_Productions](http://www.shutterstock.com/pic-307340372/stock-photo-people-rest-comfort-and-leisure-concept-african-american-young-woman-sleeping-on-sofa-at-home.html)</figcaption></figure>
+![couch surf travel tips](/posts/372.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4548">[Syda_Productions](https://www.shutterstock.com/pic-307340372/stock-photo-people-rest-comfort-and-leisure-concept-african-american-young-woman-sleeping-on-sofa-at-home.html)</figcaption></figure>
 
 You’ve probably heard of Airbnb, which is a nice alternative to hotels, but it has reached a point where it isn’t saving you all that much money. It just puts you in a residential home. You can try to go with a hostel, in some places works out well, yet even then you might end up spending too much. Instead, sign up for a Couch Surf account. This is free and it introduces you to people around the world who are willing to let you sleep on their couch for free. it’s a great way to meet people and it really helps save you some money. Now, it generally only works when traveling on your own (it may work as a pair, depending on the location), but it’s hard to beat a free night stay. It is nice to toss a few dollars to the person for their time or using their shower, but even so, it’s a great deal.
 
@@ -96,7 +96,7 @@ Sign up for the skyline miles for the airlines you’re looking at. Then, sign u
 
 <figure aria-describedby="caption-attachment-4556" class="wp-caption alignnone" id="attachment_4556" style="width: 700px">
 
-![ditch rental insurance travel tips](/posts/1022.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4556">[g-stockstudio](http://www.shutterstock.com/pic-218931022/stock-photo-enjoying-road-trip-together-beautiful-young-couple-enjoying-road-trip-in-their-convertible-and.html)</figcaption></figure>
+![ditch rental insurance travel tips](/posts/1022.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4556">[g-stockstudio](https://www.shutterstock.com/pic-218931022/stock-photo-enjoying-road-trip-together-beautiful-young-couple-enjoying-road-trip-in-their-convertible-and.html)</figcaption></figure>
 
 Check with your credit card. You likely already have rental insurance. No need to pay for it twice.
 
@@ -130,7 +130,7 @@ Checking bags is expensive. Pack light and ditch the bags. You’ll save hundred
 
 <figure aria-describedby="caption-attachment-4560" class="wp-caption alignnone" id="attachment_4560" style="width: 700px">
 
-![travel off season travel tips](/posts/795.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4560">[altafulla](http://www.shutterstock.com/pic-114133795/stock-photo-happy-autumn-fall-couple-showing-with-outstretched-arms.html)
+![travel off season travel tips](/posts/795.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4560">[altafulla](https://www.shutterstock.com/pic-114133795/stock-photo-happy-autumn-fall-couple-showing-with-outstretched-arms.html)
 
 </figcaption></figure>
 

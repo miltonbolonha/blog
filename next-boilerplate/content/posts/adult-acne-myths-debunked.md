@@ -35,7 +35,7 @@ image: adult-acne-e1461629279902.jpg
 
 ### Makeup Makes Acne Gets Worse
 
-![makeup causes acne](/posts/makeup-causes-acne-e1461618193717.jpg)Some cosmetic companies still manufacture their products with comedogenic ingredients, which can clog skin pores and make them more susceptible acne breakouts. Look for makeup labeled [non-comedogenic](http://moderntips.com/search-for-skin-care-and-other-personal-care-products-that-are-toxic) and fragrance-free. These products are less likely to clog pores or irritate your skin, thereby reducing bacterial buildup and oil that can may lead to inflammation and acne, according to leading dermatologists. Avoid pressed or caked products since these cosmetics often contain comedogenic ingredients.
+![makeup causes acne](/posts/makeup-causes-acne-e1461618193717.jpg)Some cosmetic companies still manufacture their products with comedogenic ingredients, which can clog skin pores and make them more susceptible acne breakouts. Look for makeup labeled [non-comedogenic](/search-for-skin-care-and-other-personal-care-products-that-are-toxic) and fragrance-free. These products are less likely to clog pores or irritate your skin, thereby reducing bacterial buildup and oil that can may lead to inflammation and acne, according to leading dermatologists. Avoid pressed or caked products since these cosmetics often contain comedogenic ingredients.
 
 Clinicians have found that some makeup ingredients may actually improve acne. Look for powder based mineral foundations since they are great to soak up oil. They typically contain silica. A light and loose dusting is better than a pressed application. Also, don’t apply too much since it may smother and clog your skin pores.
 

@@ -61,7 +61,7 @@ Come up with activities you need to stop doing. Perhaps it is checking social me
 ![tackle what's important productive](/posts/shutterstock_573146803.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4418">  
 [Gustavo Frazao](https://www.shutterstock.com/image-photo/take-action-573146803)</figcaption></figure>
 
-Everything you do has varying importance. Some tasks are more important than others and you need to start your work day off with the important ones. If most of your work comes out of your email, you can use a plugin from Google called “[Boomerang](http://www.boomeranggmail.com).” This categorizes the importance of messages so you know what to focus on first.
+Everything you do has varying importance. Some tasks are more important than others and you need to start your work day off with the important ones. If most of your work comes out of your email, you can use a plugin from Google called “[Boomerang](https://www.boomeranggmail.com).” This categorizes the importance of messages so you know what to focus on first.
 
 ### Do What You Love
 

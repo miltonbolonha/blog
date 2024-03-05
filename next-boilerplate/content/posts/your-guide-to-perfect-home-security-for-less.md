@@ -12,8 +12,6 @@ layout: post
 image: alarm-pad.png
 ---
 
-![](/posts/alarm-pad.png)
-
 Looking for a way to upgrade your home? Investing in better home security systems is very often the best use of your capital and a great way to ensure that your property will be safe from intruders and that you won’t lose your belongings to theft or vandalism.
 
 There are many big advantages to upgrading home security but the most important one is that it can help you and your family to sleep easier at night – which is worth any amount of money. And from a financial standpoint, this can also be a great way to _save_ money on costly repairs, insurance, or replacing your belongings.
