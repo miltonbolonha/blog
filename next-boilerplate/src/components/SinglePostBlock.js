@@ -56,6 +56,7 @@ const SinglePostBlock = ({
   replacedHtml,
   relatedPosts,
   city,
+  killSEO,
 }) => {
   return (
     <article>
@@ -121,7 +122,7 @@ const SinglePostBlock = ({
                 />
               </>
             ) : null}
-            <div id='rampjs_slot1'></div>
+            {!killSEO ? <div id='rampjs_slot1'></div> : null}
             {!promoNOread ? (
               <>
                 <Row
@@ -183,7 +184,7 @@ const SinglePostBlock = ({
               className={`ads ads-right-column ${promoNOread ? "none" : ""}             
               `}
             >
-              {!promoNOread ? (
+              {!promoNOread && !killSEO ? (
                 <Adsense
                   slot={"2083202812"}
                   client={mainConfigs.business.adClient}
@@ -222,7 +223,7 @@ const SinglePostBlock = ({
               className={`ads ads-right-column second ${promoNOread ? "none" : ""}
               ${promoVisitState === false && readMore === true ? "" : "sticky"}`}
             >
-              {!promoNOread ? (
+              {!promoNOread && !killSEO ? (
                 <Adsense
                   slot={"2083202812"}
                   client={mainConfigs.business.adClient}
@@ -239,7 +240,7 @@ const SinglePostBlock = ({
             className={`ads footer-highlights ads-bottom-row ${promoNOread ? "none" : ""}
 `}
           >
-            {!promoNOread ? (
+            {!promoNOread && !killSEO ? (
               <Adsense
                 slot={"2083202812"}
                 client={mainConfigs.business.adClient}
