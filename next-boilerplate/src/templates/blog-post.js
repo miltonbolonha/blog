@@ -114,36 +114,8 @@ const BlogPost = ({ post }) => {
   // console.log(post);
   return (
     <>
-      <ins
-        class='adsbygoogle adsbygoogle-noablate'
-        style={{
-          display: "none !important",
-          width: "100vw !important",
-          height: "100vh !important",
-          inset: "0px auto auto 0px !important",
-          clear: "none !important",
-          float: "none !important",
-          margin: "0px !important",
-          maxHeight: "none !important",
-          maxWidth: "none !important",
-          opacity: "1 !important",
-          overflow: "visible !important",
-          padding: "0px !important",
-          position: "fixed !important",
-          verticalAlign: "baseline !important",
-          visibility: "visible !important",
-          zIndex: "2147483647 !important",
-          background: "transparent !important",
-        }}
-        data-adsbygoogle-status='done'
-        aria-hidden='true'
-        data-vignette-loaded='true'
-        data-ad-status='filled'
-      ></ins>
-
       <div className='single-post post-container'>
         <SeoContainer killSeo={killSEO ? true : false} data={infos} />
-
         <HeaderContainer
           opt={{
             bgOne: "transparent",
