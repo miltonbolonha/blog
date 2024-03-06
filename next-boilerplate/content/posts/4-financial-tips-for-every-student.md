@@ -1,15 +1,16 @@
 ---
-status: true
-title: "4 Financial Tips for Every Student"
-date: "2015-04-28 13:26:51"
-author: "Deanna Madera"
-tag:
-  - General
+title: 4 Financial Tips for Every Student
+date: 2015-04-28 13:26:51
+author: Deanna Madera
 categories:
   - Career
-description: ""
-layout: post
 image: financial-tips.jpg
+layout: post
+status: true
+tag:
+  - General
+  - Financial Tips
+description: ""
 ---
 
 Going off to college can be an exciting and apprehensive time for most students. On one part, we can’t help but be excited about the world that’s about to open to us on account of the different people we’ll meet and the experiences we’ll share, but there’s always that fear of the debt that we’ll rack up post-college. The truth is, with some sound financial tips, you won’t have to worry about the money drain that most students experience during the best years of their lives. In this post, we’ll provide you with quick and easy tips on how to save money as you go through college.
