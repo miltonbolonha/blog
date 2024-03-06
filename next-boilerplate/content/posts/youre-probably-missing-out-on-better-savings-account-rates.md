@@ -11,9 +11,10 @@ tag:
   - What Savings Account Pays The Most Interest In 2024?
   - Best Savings Account Rates
 featuredPost: true
-image: b2956f46-78f4-446c-a54a-e449f2b6e775.webp
+image: b2956f46-78f4-446c-a54a-e449f2b6e775.jpg
 layout: post
 ---
+
 If you've been putting money into a savings account, you could be earning more interest than you are right now. A lot of people in the U.S. might not know they can get more money from their savings. If you look online today, you can find all the details you need to start a savings account that pays you more interest.
 
 ## What's a High Interest Savings Account?
