@@ -9,7 +9,7 @@ categories:
   - Hide
 description: ""
 layout: post
-image: image.jpg
+image: cover.jpg
 ---
 
 ## Headers
