@@ -116,7 +116,25 @@ const BlogPost = ({ post }) => {
     <>
       <ins
         class='adsbygoogle adsbygoogle-noablate'
-        style='display: none !important; width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; clear: none !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; position: fixed !important; vertical-align: baseline !important; visibility: visible !important; z-index: 2147483647 !important; background: transparent !important;'
+        style={{
+          display: "none !important",
+          width: "100vw !important",
+          height: "100vh !important",
+          inset: "0px auto auto 0px !important",
+          clear: "none !important",
+          float: "none !important",
+          margin: "0px !important",
+          maxHeight: "none !important",
+          maxWidth: "none !important",
+          opacity: "1 !important",
+          overflow: "visible !important",
+          padding: "0px !important",
+          position: "fixed !important",
+          verticalAlign: "baseline !important",
+          visibility: "visible !important",
+          zIndex: "2147483647 !important",
+          background: "transparent !important",
+        }}
         data-adsbygoogle-status='done'
         aria-hidden='true'
         data-vignette-loaded='true'
