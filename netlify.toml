@@ -3,6 +3,9 @@
     functions = "next-boilerplate/src/api"
     publish = "next-boilerplate/out"
 
+[plugins.inputs.postBuild]
+ enable = true
+
 [build.environment]
   NODE_VERSION = "20.11.0"
 
