@@ -24,7 +24,8 @@ function App({ Component, pageProps }) {
         id='rampjs'
         async
         crossOrigin='anonymous'
-        onLoad={() => {
+        dangerouslySetInnerHTML={{
+          __html: `
           (function (w, r) {
             (w[r] =
               w[r] ||
@@ -35,6 +36,7 @@ function App({ Component, pageProps }) {
           })(window, "_rampJs");
           _rampJs({});
           console.log("RampJS has initialized 1");
+          `,
         }}
       />
       <Script
@@ -85,9 +87,10 @@ function App({ Component, pageProps }) {
         strategy='afterInteractive'
         async
         crossOrigin='anonymous'
-        onLoad={() => {
-          _rampJs({});
-          console.log("RampJS has initialized 2");
+        dangerouslySetInnerHTML={{
+          __html: `          
+              _rampJs({});
+          `,
         }}
       />
     </>
