@@ -93,10 +93,10 @@
     padding-bottom: 30px;
     background: $background_white;
     position: relative;
-    max-width: $page__size;
+    max-width: 98%;
     margin-left: auto;
     margin-right: auto;
-    width: 98%;
+    width: 100%;
 
     @media (min-width: $media960) {
       max-width: $ext_page__size;
@@ -109,7 +109,7 @@
       }
     }
     .container {
-      width: 96%;
+      width: 98%;
       margin: 0 auto;
       padding-top: 10px;
       @media (min-width: $media960) {
