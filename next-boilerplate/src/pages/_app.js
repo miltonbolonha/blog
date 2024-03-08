@@ -21,11 +21,11 @@ function App({ Component, pageProps }) {
       />
       <Script
         strategy='beforeInteractive'
-        id='rampjs'
+        id='rampjs window attached'
         async
         crossOrigin='anonymous'
         onLoad={() => {
-          console.log("RamJS has initied");
+          console.log("RamJS window attached");
         }}
         dangerouslySetInnerHTML={{
           __html: `

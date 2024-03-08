@@ -61,6 +61,20 @@ export default class MyDocument extends Document {
         `,
             }}
           />
+          <Script
+            strategy='afterInteractive'
+            id='rampjs'
+            async
+            crossOrigin='anonymous'
+            onLoad={() => {
+              console.log("RamJS started");
+            }}
+            dangerouslySetInnerHTML={{
+              __html: `
+            _rampJs({});
+        `,
+            }}
+          />
         </body>
       </Html>
     );
