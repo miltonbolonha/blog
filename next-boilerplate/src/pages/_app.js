@@ -15,12 +15,18 @@ function App({ Component, pageProps }) {
         crossOrigin='anonymous'
         src='https://rampjs-cdn.system1.com/ramp.js'
         async
+        onLoad={() => {
+          console.log("RamJS has loaded");
+        }}
       />
       <Script
         strategy='worker'
         id='rampjs'
         async
         crossOrigin='anonymous'
+        onLoad={() => {
+          console.log("RamJS has initied");
+        }}
         dangerouslySetInnerHTML={{
           __html: `
           (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
