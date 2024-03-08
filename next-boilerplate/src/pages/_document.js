@@ -36,7 +36,7 @@ export default class MyDocument extends Document {
             }}
           />
           <Script
-            strategy='afterInteractive'
+            strategy='beforeInteractive'
             id='rampjs'
             async
             crossOrigin='anonymous'
@@ -50,7 +50,16 @@ export default class MyDocument extends Document {
                   (w[r]["t"] = 1 * new Date());
               })(window, "_rampJs");
               _rampJs({});
-              console.log("RampJS has initialized");
+              console.log("RampJS has initialized 1");
+            }}
+          />
+          <Script
+            strategy='afterInteractive'
+            async
+            crossOrigin='anonymous'
+            onLoad={() => {
+              _rampJs({});
+              console.log("RampJS has initialized 2");
             }}
           />
           {/* <Script
