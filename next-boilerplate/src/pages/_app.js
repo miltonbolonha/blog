@@ -11,34 +11,6 @@ function App({ Component, pageProps }) {
   return (
     <>
       <Script
-        strategy='beforeInteractive'
-        crossOrigin='anonymous'
-        src='https://rampjs-cdn.system1.com/ramp.js'
-        async
-        onLoad={() => {
-          console.log("RamJS has loaded");
-        }}
-      />
-      <Script
-        strategy='worker'
-        id='rampjs'
-        async
-        crossOrigin='anonymous'
-        onLoad={() => {
-          (function (w, r) {
-            (w[r] =
-              w[r] ||
-              function () {
-                (w[r]["q"] = w[r]["q"] || []).push(arguments);
-              }),
-              (w[r]["t"] = 1 * new Date());
-          })(window, "_rampJs");
-          _rampJs({});
-
-          console.log("RamJS has initied");
-        }}
-      />
-      <Script
         strategy='afterInteractive'
         async
         crossOrigin='anonymous'

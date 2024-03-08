@@ -61,6 +61,35 @@ export default class MyDocument extends Document {
         `,
             }}
           />
+          <Script
+            strategy='beforeInteractive'
+            crossOrigin='anonymous'
+            src='https://rampjs-cdn.system1.com/ramp.js'
+            async
+            onLoad={() => {
+              console.log("RamJS has loaded");
+            }}
+          />
+          <Script
+            strategy='worker'
+            id='rampjs'
+            async
+            crossOrigin='anonymous'
+            onLoad={() => {
+              console.log("RamJS has initied");
+            }}
+            onReady={() => {
+              (function (w, r) {
+                (w[r] =
+                  w[r] ||
+                  function () {
+                    (w[r]["q"] = w[r]["q"] || []).push(arguments);
+                  }),
+                  (w[r]["t"] = 1 * new Date());
+              })(window, "_rampJs");
+              _rampJs({});
+            }}
+          />
         </body>
       </Html>
     );
