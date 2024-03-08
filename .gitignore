@@ -13,6 +13,8 @@
 next-boilerplate/.next/
 next-boilerplate/out/
 .next/
+next-boilerplate/public/sitemap-0.xml
+next-boilerplate/public/sitemap.xml
 
 # github workspaces
 ../../node_modules
