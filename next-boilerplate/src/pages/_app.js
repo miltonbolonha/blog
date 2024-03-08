@@ -17,7 +17,7 @@ function App({ Component, pageProps }) {
         async
       />
       <Script
-        strategy='afterInteractive'
+        strategy='lazyOnload'
         id='rampjs'
         async
         crossOrigin='anonymous'
@@ -66,7 +66,7 @@ function App({ Component, pageProps }) {
       {location === "/admin/" ? (
         <Script
           async
-          strategy='lazyOnload'
+          strategy='beforeInteractive'
           crossOrigin='anonymous'
           src='https://identity.netlify.com/v1/netlify-identity-widget.js'
         />
