@@ -184,6 +184,7 @@
     }
     .right-column {
       width: 300px;
+      margin: 0 auto;
       h2 {
         font-size: $news_card__heading;
         line-height: 20px;
@@ -209,6 +210,11 @@
       text-align: center;
       max-width: $page__size;
       height: 120px;
+      @media (max-width: $media960) {
+        width: 300px;
+        margin-right: auto;
+        margin-left: auto;
+      }
     }
     margin-bottom: 20px;
     h2 {
