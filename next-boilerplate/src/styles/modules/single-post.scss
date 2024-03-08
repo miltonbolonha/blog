@@ -185,13 +185,18 @@
     .right-column {
       width: 300px;
       margin: 0 auto;
+      @media (max-width: $media960) {
+        width: 98%;
+        margin-left: auto;
+        margin-right: auto;
+      }
       h2 {
         font-size: $news_card__heading;
         line-height: 20px;
       }
       .ads-right-column {
-        width: 300px;
-        height: 300px;
+        width: 100%;
+        height: auto;
         display: block;
         &.sticky {
           position: sticky;
@@ -208,13 +213,10 @@
   .footer-highlights {
     &.ads-bottom-row {
       text-align: center;
-      max-width: $page__size;
+      max-width: 98%;
       height: 120px;
-      @media (max-width: $media960) {
-        width: 300px;
-        margin-right: auto;
-        margin-left: auto;
-      }
+      margin-right: auto;
+      margin-left: auto;
     }
     margin-bottom: 20px;
     h2 {
