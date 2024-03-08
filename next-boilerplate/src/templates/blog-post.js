@@ -83,6 +83,8 @@ const BlogPost = ({ post }) => {
 
   useEffect(() => {
     if (typeof window !== "undefined") {
+      window?._rampJs || [].push({});
+
       // getRef?.length === 1 ? console.log("arnaldoooooooooooooo") : null;
       getRef?.length === 1 && promoVisitState === null
         ? setPromoVisitState(true)
@@ -113,6 +115,7 @@ const BlogPost = ({ post }) => {
   }, [city, promoVisitState, getRef]);
   // console.log("postpostpost");
   // console.log(post);
+
   return (
     <>
       <Script
@@ -131,6 +134,7 @@ const BlogPost = ({ post }) => {
         `,
         }}
       />
+
       <div className='single-post post-container'>
         <SeoContainer killSeo={killSEO ? true : false} data={infos} />
         <HeaderContainer

@@ -19,7 +19,21 @@ function App({ Component, pageProps }) {
           console.log("RamJS has loaded");
         }}
       />
-
+      <Script
+        strategy='beforeInteractive'
+        id='rampjs'
+        async
+        crossOrigin='anonymous'
+        onLoad={() => {
+          console.log("RamJS has initied");
+        }}
+        dangerouslySetInnerHTML={{
+          __html: `
+          (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
+            arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
+        `,
+        }}
+      />
       <Script
         strategy='afterInteractive'
         async
