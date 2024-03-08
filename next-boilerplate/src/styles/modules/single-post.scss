@@ -122,6 +122,9 @@
       }
       h1 {
         max-width: $page__size;
+        @media (max-width: $media960) {
+          max-width: 98%;
+        }
         margin: 10px auto 10px;
         display: block;
         color: $black;
@@ -196,7 +199,7 @@
       }
       .ads-right-column {
         width: 100%;
-        height: auto;
+        min-height: 250px;
         display: block;
         &.sticky {
           position: sticky;
@@ -379,8 +382,9 @@
       color: $black;
       max-width: $page__size;
       margin: 10px auto 0;
-      @media (min-width: $media960) {
+      @media (max-width: $media960) {
         width: 100%;
+        max-width: 100%;
       }
       sup {
         margin-right: 0;
