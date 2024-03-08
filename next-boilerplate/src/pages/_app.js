@@ -25,9 +25,6 @@ function App({ Component, pageProps }) {
         async
         crossOrigin='anonymous'
         onLoad={() => {
-          console.log("RamJS has initied");
-        }}
-        onReady={() => {
           (function (w, r) {
             (w[r] =
               w[r] ||
@@ -37,6 +34,8 @@ function App({ Component, pageProps }) {
               (w[r]["t"] = 1 * new Date());
           })(window, "_rampJs");
           _rampJs({});
+
+          console.log("RamJS has initied");
         }}
       />
       <Script
