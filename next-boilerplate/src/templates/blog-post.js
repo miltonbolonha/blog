@@ -8,6 +8,7 @@ import HeaderContainer from "../containers/HeaderContainer";
 import SeoContainer from "../containers/SeoContainer";
 import mainMenu from "../configs/main-menu.json";
 import { parse } from "node-html-parser";
+import Script from "next/script";
 
 import BlogList from "../templates/blog-list";
 
@@ -114,6 +115,22 @@ const BlogPost = ({ post }) => {
   // console.log(post);
   return (
     <>
+      <Script
+        strategy='afterInteractive'
+        id='rampjs'
+        async
+        crossOrigin='anonymous'
+        onLoad={() => {
+          console.log("RamJS started");
+        }}
+        dangerouslySetInnerHTML={{
+          __html: `
+          (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
+            arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
+            _rampJs({});
+        `,
+        }}
+      />
       <div className='single-post post-container'>
         <SeoContainer killSeo={killSEO ? true : false} data={infos} />
         <HeaderContainer

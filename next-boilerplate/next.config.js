@@ -23,9 +23,6 @@ const nextConfig = {
     loaderFile: "./src/containers/imgLoaderContainer.js",
     formats: ["image/webp"],
   },
-  experimental: {
-    nextScriptWorkers: true,
-  },
 };
 
 (module.exports = nextConfig),
