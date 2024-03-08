@@ -71,7 +71,7 @@ export default class MyDocument extends Document {
             }}
           />
           <Script
-            strategy='worker'
+            strategy='afterInteractive'
             id='rampjs'
             async
             crossOrigin='anonymous'
