@@ -3,5 +3,5 @@ const mainInfos = require("./src/configs/main-infos.json");
 module.exports = {
   siteUrl: mainInfos.website.siteUrl,
   generateRobotsTxt: false,
-  exclude: ["/hide/", "/hide/*"],
+  exclude: ["/hide/", "/hide/*", "/library", "hide/", "hide/*", "library"],
 };
