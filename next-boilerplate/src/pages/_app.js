@@ -66,7 +66,7 @@ function App({ Component, pageProps }) {
       {location === "/admin/" ? (
         <Script
           async
-          strategy='beforeInteractive'
+          strategy='lazyOnload'
           crossOrigin='anonymous'
           src='https://identity.netlify.com/v1/netlify-identity-widget.js'
         />
