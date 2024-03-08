@@ -26,42 +26,6 @@ export default class MyDocument extends Document {
     return (
       <Html lang='en-US'>
         <Head>
-          <Script
-            strategy='beforeInteractive'
-            crossOrigin='anonymous'
-            src='https://rampjs-cdn.system1.com/ramp.js'
-            async
-            onLoad={() => {
-              console.log("RampJS has loaded");
-            }}
-          />
-          <Script
-            strategy='beforeInteractive'
-            id='rampjs'
-            async
-            crossOrigin='anonymous'
-            onLoad={() => {
-              (function (w, r) {
-                (w[r] =
-                  w[r] ||
-                  function () {
-                    (w[r]["q"] = w[r]["q"] || []).push(arguments);
-                  }),
-                  (w[r]["t"] = 1 * new Date());
-              })(window, "_rampJs");
-              _rampJs({});
-              console.log("RampJS has initialized 1");
-            }}
-          />
-          <Script
-            strategy='afterInteractive'
-            async
-            crossOrigin='anonymous'
-            onLoad={() => {
-              _rampJs({});
-              console.log("RampJS has initialized 2");
-            }}
-          />
           {/* <Script
             async
             strategy='beforeInteractive'

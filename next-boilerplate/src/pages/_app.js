@@ -12,6 +12,33 @@ function App({ Component, pageProps }) {
     <>
       <Script
         strategy='afterInteractive'
+        crossOrigin='anonymous'
+        src='https://rampjs-cdn.system1.com/ramp.js'
+        async
+        onLoad={() => {
+          console.log("RampJS has loaded");
+        }}
+      />
+      <Script
+        strategy='afterInteractive'
+        id='rampjs'
+        async
+        crossOrigin='anonymous'
+        onLoad={() => {
+          (function (w, r) {
+            (w[r] =
+              w[r] ||
+              function () {
+                (w[r]["q"] = w[r]["q"] || []).push(arguments);
+              }),
+              (w[r]["t"] = 1 * new Date());
+          })(window, "_rampJs");
+          _rampJs({});
+          console.log("RampJS has initialized 1");
+        }}
+      />
+      <Script
+        strategy='afterInteractive'
         async
         crossOrigin='anonymous'
         src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${mainInfos.business.gaID}`}
@@ -53,6 +80,16 @@ function App({ Component, pageProps }) {
         />
       ) : null}
       <Component {...pageProps} />
+
+      <Script
+        strategy='afterInteractive'
+        async
+        crossOrigin='anonymous'
+        onLoad={() => {
+          _rampJs({});
+          console.log("RampJS has initialized 2");
+        }}
+      />
     </>
   );
 }
