@@ -17,7 +17,7 @@ function App({ Component, pageProps }) {
         async
       />
       <Script
-        strategy='lazyOnload'
+        strategy='worker'
         id='rampjs'
         async
         crossOrigin='anonymous'
