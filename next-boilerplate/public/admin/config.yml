@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: miltonbolonha/mt
+  repo: schindyguy/mt
   branch: master
   site_domain: https://moderntips.com
 
