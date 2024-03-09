@@ -819,7 +819,11 @@ nav.breadcrumb {
     }
     li {
       padding: 0 5px 0 0;
-
+      white-space: nowrap;
+      span {
+        overflow: hidden;
+        white-space: nowrap;
+      }
       &:nth-child(2) {
         a {
           color: $primary__colorOne;

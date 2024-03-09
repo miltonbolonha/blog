@@ -31,7 +31,6 @@ const SinglePostBlock = ({
           (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
             arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
             _rampJs({ segment: "rsoc.moderntips.001" });
-            console.log('helloooo nerf');
         }
         sa_async_hello();
     })();
@@ -59,7 +58,7 @@ const SinglePostBlock = ({
   function handleToggle() {
     return setToggle(!toggle);
   }
-  const reduce = postHeadings?.length >= 4 ? postHeadings?.length - 3 : 2;
+  const reduce = postHeadings?.length >= 4 ? postHeadings?.length - 3 : 1;
   const timeToRead = text => {
     const words = text.split(" ");
     const minutes = Math.floor(words.length / 200);
