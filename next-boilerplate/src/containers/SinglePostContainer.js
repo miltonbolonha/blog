@@ -25,7 +25,6 @@ const SinglePostBlock = ({
   const rampJSref = useRef(null);
 
   const script = `
-      // Whatever script you want to inject
       <script id="social-annex">
       (function () {
         function sa_async_hello () {
