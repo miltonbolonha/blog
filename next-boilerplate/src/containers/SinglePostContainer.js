@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import ReactDOMServer from "react-dom/server";
 import SinglePost from "../components/SinglePostBlock";
 
@@ -21,6 +21,36 @@ const SinglePostBlock = ({
   killSEO,
 }) => {
   const [toggle, setToggle] = useState(false);
+
+  const rampJSref = useRef(null);
+
+  const script = `
+      // Whatever script you want to inject
+      <script id="social-annex">
+      (function () {
+        function sa_async_hello () {
+          (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
+            arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
+            _rampJs({ segment: "rsoc.moderntips.001" });
+            console.log('helloooo nerf');
+        }
+        sa_async_hello();
+    })();
+      </script>
+  `;
+
+  useEffect(() => {
+    if (rampJSref) {
+      // creates a document range (grouping of nodes in the document). In this case, we instantiate it as empty, on purpose
+      const range = document.createRange();
+      // creates a mini-document (lightweight version), in our range with our script in it
+      const documentFragment = range.createContextualFragment(script);
+      // appends it on the same level of annex div - so that it renders in the correct location
+      rampJSref.current?.appendChild(documentFragment);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [rampJSref]);
+
   const doc = parseContent;
   const postHeadings =
     doc?.querySelectorAll("h2").length > 0
@@ -75,6 +105,7 @@ const SinglePostBlock = ({
       relatedPosts={relatedPosts}
       city={city}
       killSEO={killSEO}
+      rampJSref={rampJSref}
     />
   );
 };

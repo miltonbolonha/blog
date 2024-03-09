@@ -59,9 +59,12 @@ const SinglePostBlock = ({
   relatedPosts,
   city,
   killSEO,
+  rampJSref,
 }) => {
   return (
     <article>
+      <div ref={rampJSref}></div>
+
       <section>
         <div className={`main-post ${promoNOread ? "promoVisit" : ""}`}>
           <div className={`left-column ${promoNOread ? "none" : ""}`}>
