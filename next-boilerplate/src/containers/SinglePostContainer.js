@@ -47,7 +47,7 @@ const SinglePostBlock = ({
       rampJSref.current?.appendChild(documentFragment);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [rampJSref, replacedHtml]);
+  }, [rampJSref]);
 
   const doc = parseContent;
   const postHeadings =

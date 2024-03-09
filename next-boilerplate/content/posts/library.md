@@ -91,41 +91,13 @@ _This is italic text_
 
 You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
 
-```
-Let's rename \*our-new-project\* to \*our-old-project\*.
-```
-
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
 ---
 
 ## Links
 
-```
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-https://www.example.com or <https://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: https://slashdot.org
-[link text itself]: https://www.reddit.com
-```
-
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
