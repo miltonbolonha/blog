@@ -31,7 +31,6 @@ export default async function markdownToHtml(markdown) {
     .use(remarkOembed)
     .use(rehypeAutolinkHeadings)
     .use(rehypeRaw)
-    .use(rehypeAutoAds, options)
     // .use(remarkGfm)
     .use(rehypeSanitize)
     .use(rehypeStringify, { allowDangerousHtml: true })
@@ -49,6 +48,7 @@ export default async function markdownToHtml(markdown) {
         className: "anchor",
       },
     })
+    .use(rehypeAutoAds, options)
     .process(markdown);
 
   return String(result) || markdown;
