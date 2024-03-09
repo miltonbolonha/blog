@@ -1,8 +1,10 @@
 import React, { useState } from "react";
-import ReactDOMServer from "react-dom/server";
+// import ReactDOMServer from "react-dom/server";
+import Script from "next/script";
+
 import Link from "next/link";
 import Image from "next/image";
-import { parse } from "node-html-parser";
+// import { parse } from "node-html-parser";
 import slugify from "slugify";
 // import AdsList from "../components/AdsList";
 import Row from "../containers/RowContainer";
@@ -276,6 +278,19 @@ const SinglePostBlock = ({
           </div>
         </div>
       </section>
+      <Script
+        strategy='afterInteractive'
+        id='rampjs'
+        defer
+        crossOrigin='anonymous'
+        dangerouslySetInnerHTML={{
+          __html: `
+          (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
+            arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
+            _rampJs({});
+        `,
+        }}
+      />
     </article>
   );
 };
