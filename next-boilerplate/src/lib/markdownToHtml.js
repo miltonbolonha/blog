@@ -9,6 +9,7 @@ import { unified } from "unified";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeSlug from "rehype-slug";
 import rehypeExternalLinks from "rehype-external-links";
+import rehypeAutoAds from "rehype-auto-ads";
 
 // import html from "remark-html";
 import headings from "remark-autolink-headings";
@@ -17,6 +18,11 @@ import remarkOembed from "remark-oembed";
 import rehypeStringify from "rehype-stringify";
 import supersub from "remark-supersub";
 
+const options = {
+  adCode: "<div id='rampjs_slot2'></div>",
+  countFrom: 1,
+  paragraphInterval: 4,
+};
 export default async function markdownToHtml(markdown) {
   const result = await unified()
     .use(remarkParse)
@@ -25,6 +31,7 @@ export default async function markdownToHtml(markdown) {
     .use(remarkOembed)
     .use(rehypeAutolinkHeadings)
     .use(rehypeRaw)
+    .use(rehypeAutoAds, options)
     // .use(remarkGfm)
     .use(rehypeSanitize)
     .use(rehypeStringify, { allowDangerousHtml: true })

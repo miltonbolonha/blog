@@ -68,13 +68,7 @@ const SinglePostBlock = ({
     reduce && postHeadings[reduce]?.id
       ? `<h2 id="${postHeadings[reduce]?.id}`
       : null;
-  const replacedHtml =
-    searchReplace && !killSEO
-      ? html.replace(
-          searchReplace,
-          `${ReactDOMServer.renderToString(<div id='rampjs_slot2'></div>)}${searchReplace}`
-        )
-      : html;
+  const replacedHtml = html;
   const promoNOread = promoVisitState === true && readMore === false;
   const promoNEVERread = promoVisitState === true && readMore !== null;
   const noPromoNEVERread = promoVisitState === false && readMore === null;
