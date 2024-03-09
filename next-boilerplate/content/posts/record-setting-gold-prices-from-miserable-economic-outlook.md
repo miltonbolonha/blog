@@ -66,4 +66,4 @@ When the economy is uncertain or there is a pending recession, individuals will 
 
 Consumers, investment companies, and manufactures have long been and will continue to be in love with gold. The drivers of the price of gold include: personal and industrial demand, the value of the dollar, desire to look at gold as a hedge against inflation, and the quantity of gold being held in the central reserve banks.
 
-</div>Take the first step now and explore how you can preserve your purchasing power, protect your assets, and diversify your portfolio – check prices and the best ways to buy gold online.
+Take the first step now and explore how you can preserve your purchasing power, protect your assets, and diversify your portfolio – check prices and the best ways to buy gold online.
