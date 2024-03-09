@@ -20,8 +20,8 @@ import supersub from "remark-supersub";
 
 const options = {
   adCode: "<div id='rampjs_slot2'></div>",
-  countFrom: 1,
-  paragraphInterval: 4,
+  countFrom: 94,
+  paragraphInterval: 99,
 };
 export default async function markdownToHtml(markdown) {
   const result = await unified()
