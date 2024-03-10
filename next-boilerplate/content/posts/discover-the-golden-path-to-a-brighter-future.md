@@ -1,10 +1,10 @@
 ---
 title: Discover How Gold Investment Is The Path to a Brighter Future
-date: 2024-03-06 15:00:53
+date: 2024-03-10 17:05:00
 author: Modern Tips
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Finance
+adsTerms: Test Term 1, Test Term 2, Test Term 3, Test Term 4
 tag:
   - Buy Pure Gold Bars Online (Costco)
   - 1 Oz Gold Bar Closest Location
