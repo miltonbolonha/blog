@@ -21,6 +21,7 @@ const SinglePostBlock = ({
   city,
   killSEO,
   adsTerms,
+  keywords,
 }) => {
   const [toggle, setToggle] = useState(false);
 
@@ -34,17 +35,17 @@ const SinglePostBlock = ({
   function handleToggle() {
     return setToggle(!toggle);
   }
-  const reduce = postHeadings?.length >= 4 ? postHeadings?.length - 3 : 1;
+  // const reduce = postHeadings?.length >= 4 ? postHeadings?.length - 3 : 1;
   const timeToRead = text => {
     const words = text.split(" ");
     const minutes = Math.floor(words.length / 200);
     return minutes;
   };
-  const searchReplace =
-    reduce && postHeadings[reduce]?.id
-      ? `<h2 id="${postHeadings[reduce]?.id}`
-      : null;
-  const replacedHtml = html;
+  // const searchReplace =
+  //   reduce && postHeadings[reduce]?.id
+  //     ? `<h2 id="${postHeadings[reduce]?.id}`
+  //     : null;
+  // const replacedHtml = html;
   const promoNOread = promoVisitState === true && readMore === false;
   const promoNEVERread = promoVisitState === true && readMore !== null;
   const noPromoNEVERread = promoVisitState === false && readMore === null;
@@ -53,35 +54,30 @@ const SinglePostBlock = ({
   let headingsTexts = [];
   postHeadings.forEach(e => (headingsTexts += e.innerText + ","));
   console.log("headingsTexts");
+  // ads terms
   const terms = headingsTexts.slice(0, -1);
-  let script;
-  if (adsTerms === "Test Term 1, Test Term 2, Test Term 3, Test Term 4") {
-    script = `
-        <script id="social-annex">
-        (function () {
-          function ramjsInt () {
-            (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
-              arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-              _rampJs({ terms: "${keywords || terms.replace("Myth: ", "")}", init: {segment: "rsoc.moderntips.001"} });
-          }
-          ramjsInt();
-      })();
-        </script>
-    `;
+  let termsString;
+  if (
+    adsTerms === "Test Term 1, Test Term 2, Test Term 3, Test Term 4" ||
+    adsTerms === "" ||
+    !adsTerms
+  ) {
+    termsString = keywords || terms.replace("Myth: ", "");
   } else {
-    script = `
+    termsString = adsTerms;
+  }
+  const script = `
         <script id="social-annex">
         (function () {
           function ramjsInt () {
             (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
               arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-              _rampJs({ terms: "${adsTerms || keywords || terms.replace("Myth: ", "")}", init: {segment: "rsoc.moderntips.001"} });
+              _rampJs({ terms: "${termsString}", init: {segment: "rsoc.moderntips.001"} });
           }
           ramjsInt();
       })();
         </script>
     `;
-  }
   useEffect(() => {
     if (rampJSref) {
       // creates a document range (grouping of nodes in the document). In this case, we instantiate it as empty, on purpose
@@ -114,7 +110,7 @@ const SinglePostBlock = ({
       handleToggle={handleToggle}
       timeToRead={timeToRead(doc.text)}
       toggle={toggle}
-      replacedHtml={replacedHtml}
+      replacedHtml={html}
       relatedPosts={relatedPosts}
       city={city}
       killSEO={killSEO}
