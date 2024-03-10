@@ -20,11 +20,10 @@ const SinglePostBlock = ({
   city,
   killSEO,
   adsTerms,
-  termsString,
 }) => {
   const [toggle, setToggle] = useState(false);
-
   const rampJSref = useRef(null);
+
   const doc = parseContent;
   const postHeadings =
     doc?.querySelectorAll("h2").length > 0
@@ -71,7 +70,7 @@ const SinglePostBlock = ({
           function ramjsInt () {
             (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
               arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-              _rampJs({ terms: "${termsString}", init: {segment: "rsoc.moderntips.001"} });
+              _rampJs({ terms: "${adsTerms}", init: {segment: "rsoc.moderntips.001"} });
           }
           ramjsInt();
       })();

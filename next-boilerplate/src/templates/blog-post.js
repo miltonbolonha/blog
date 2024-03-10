@@ -61,10 +61,12 @@ const BlogPost = ({ post }) => {
       ? doc?.querySelectorAll("h2")
       : doc?.querySelectorAll("h3");
 
-  console.log("postHeadings");
   let headingsTexts = [];
-  postHeadings.forEach(e => (headingsTexts += e.innerText + ","));
-  console.log("headingsTexts");
+  postHeadings.forEach(
+    e =>
+      (headingsTexts +=
+        e.innerText.replace("Myth: ", "") + ", " || e.innerText + ", ")
+  );
   // ads terms
   const terms = headingsTexts?.slice(0, -1);
   let termsString;
@@ -74,9 +76,7 @@ const BlogPost = ({ post }) => {
     adsTerms === "" ||
     !adsTerms
   ) {
-    termsString = terms?.includes("Myth: ")
-      ? terms?.replace("Myth: ", "")
-      : terms;
+    termsString = terms;
   } else {
     termsString = adsTerms;
   }
@@ -177,7 +177,6 @@ const BlogPost = ({ post }) => {
             keywords={post?.frontmatter?.keywords || []}
             adsTerms={
               termsString ||
-              post?.frontmatter?.adsTerms ||
               "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
             }
             excerpt={excerpt}
