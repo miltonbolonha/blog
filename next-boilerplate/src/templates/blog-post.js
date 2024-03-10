@@ -27,6 +27,18 @@ const BlogPost = ({ post }) => {
   const getRef = useSearchParams().getAll("ref");
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
   const doc = parse(post.content);
+  const strongSelect = doc?.querySelector("strong");
+  console.log("strongSelect");
+  console.log(
+    strongSelect?.childNodes?.forEach(str => {
+      if (str?.innerText?.includes("Fact")) return null;
+    })
+  );
+  console.log("strongSelect");
+
+  // const x = strongSelect.length <= 0
+  // const  y = strongSelect.includes('Myth: ')
+  // const  c = strongSelect.includes('Fact: ')
   const pSelect = doc?.querySelector("p");
   const excerpt = pSelect?.childNodes[0]?._rawText;
   const killSEO =
