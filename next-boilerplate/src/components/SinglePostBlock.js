@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 // import ReactDOMServer from "react-dom/server";
 import Script from "next/script";
+import Head from "next/head";
 
 import Link from "next/link";
 import Image from "next/image";
@@ -60,10 +61,15 @@ const SinglePostBlock = ({
   city,
   killSEO,
   rampJSref,
+  adsTerms,
 }) => {
   return (
     <article>
-      <div ref={rampJSref}></div>
+      {killSEO ? <div ref={rampJSref}></div> : null}
+
+      <Head>
+        <meta name='keywords' content={adsTerms} />
+      </Head>
 
       <section>
         <div className={`main-post ${promoNOread ? "promoVisit" : ""}`}>

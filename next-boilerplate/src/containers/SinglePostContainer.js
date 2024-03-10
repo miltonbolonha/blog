@@ -14,14 +14,13 @@ const SinglePostBlock = ({
   setReadMore,
   readMore,
   topic,
-  topics,
   excerpt,
   parseContent,
   relatedPosts,
   city,
   killSEO,
   adsTerms,
-  keywords,
+  termsString,
 }) => {
   const [toggle, setToggle] = useState(false);
 
@@ -50,22 +49,22 @@ const SinglePostBlock = ({
   const promoNEVERread = promoVisitState === true && readMore !== null;
   const noPromoNEVERread = promoVisitState === false && readMore === null;
 
-  console.log("postHeadings");
-  let headingsTexts = [];
-  postHeadings.forEach(e => (headingsTexts += e.innerText + ","));
-  console.log("headingsTexts");
-  // ads terms
-  const terms = headingsTexts.slice(0, -1);
-  let termsString;
-  if (
-    adsTerms === "Test Term 1, Test Term 2, Test Term 3, Test Term 4" ||
-    adsTerms === "" ||
-    !adsTerms
-  ) {
-    termsString = keywords || terms.replace("Myth: ", "");
-  } else {
-    termsString = adsTerms;
-  }
+  // console.log("postHeadings");
+  // let headingsTexts = [];
+  // postHeadings.forEach(e => (headingsTexts += e.innerText + ","));
+  // console.log("headingsTexts");
+  // // ads terms
+  // const terms = headingsTexts.slice(0, -1);
+  // let termsString;
+  // if (
+  //   adsTerms === "Test Term 1, Test Term 2, Test Term 3, Test Term 4" ||
+  //   adsTerms === "" ||
+  //   !adsTerms
+  // ) {
+  //   termsString = terms.replace("Myth: ", "");
+  // } else {
+  //   termsString = adsTerms;
+  // }
   const script = `
         <script id="social-annex">
         (function () {
@@ -115,6 +114,7 @@ const SinglePostBlock = ({
       city={city}
       killSEO={killSEO}
       rampJSref={rampJSref}
+      adsTerms={adsTerms}
     />
   );
 };

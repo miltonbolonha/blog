@@ -8,7 +8,8 @@ import HeaderContainer from "../containers/HeaderContainer";
 import SeoContainer from "../containers/SeoContainer";
 import mainMenu from "../configs/main-menu.json";
 import { parse } from "node-html-parser";
-import Script from "next/script";
+// import Script from "next/script";
+// import ReactDOMServer from "react-dom/server";
 
 import BlogList from "../templates/blog-list";
 
@@ -55,6 +56,31 @@ const BlogPost = ({ post }) => {
     return setCity(data?.geo?.city || "Los Angeles");
   };
 
+  const postHeadings =
+    doc?.querySelectorAll("h2").length > 0
+      ? doc?.querySelectorAll("h2")
+      : doc?.querySelectorAll("h3");
+
+  console.log("postHeadings");
+  let headingsTexts = [];
+  postHeadings.forEach(e => (headingsTexts += e.innerText + ","));
+  console.log("headingsTexts");
+  // ads terms
+  const terms = headingsTexts?.slice(0, -1);
+  let termsString;
+  const adsTerms = post?.frontmatter?.adsTerms;
+  if (
+    adsTerms === "Test Term 1, Test Term 2, Test Term 3, Test Term 4" ||
+    adsTerms === "" ||
+    !adsTerms
+  ) {
+    termsString = terms?.includes("Myth: ")
+      ? terms?.replace("Myth: ", "")
+      : terms;
+  } else {
+    termsString = adsTerms;
+  }
+
   const infos = {
     slug: index?.slug,
     title: killSEO ? "NO SEO" : `${title} - ${business.brandName}`,
@@ -71,9 +97,9 @@ const BlogPost = ({ post }) => {
     featuredImage: `${website.siteUrl}/posts/${post?.frontmatter?.image}`,
     datePublished: website.datePublished,
     i18n: website.i18n,
-    keywords: post?.frontmatter?.tag || website.keywords,
+    keywords: termsString || post?.frontmatter?.tag || website.keywords,
     questions: [],
-    topology: "pages",
+    topology: "post",
     articleUrl: `${website.siteUrl}/${index?.slug}`,
     themeColor: website.themeColor,
     sameAs: business.sameAs,
@@ -83,7 +109,6 @@ const BlogPost = ({ post }) => {
 
   useEffect(() => {
     if (typeof window !== "undefined") {
-      // getRef?.length === 1 ? console.log("arnaldoooooooooooooo") : null;
       getRef?.length === 1 && promoVisitState === null
         ? setPromoVisitState(true)
         : null;
@@ -151,6 +176,7 @@ const BlogPost = ({ post }) => {
             topic={post?.frontmatter?.tag[0]}
             keywords={post?.frontmatter?.keywords || []}
             adsTerms={
+              termsString ||
               post?.frontmatter?.adsTerms ||
               "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
             }
