@@ -7,6 +7,7 @@ tag:
   - "how to win"
   - "lost account"
   - "your competition"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""

@@ -14,41 +14,17 @@ const SinglePostBlock = ({
   setReadMore,
   readMore,
   topic,
+  topics,
   excerpt,
   parseContent,
   relatedPosts,
   city,
   killSEO,
+  adsTerms,
 }) => {
   const [toggle, setToggle] = useState(false);
 
   const rampJSref = useRef(null);
-
-  const script = `
-      <script id="social-annex">
-      (function () {
-        function sa_async_hello () {
-          (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
-            arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-            _rampJs({ segment: "rsoc.moderntips.001" });
-        }
-        sa_async_hello();
-    })();
-      </script>
-  `;
-
-  useEffect(() => {
-    if (rampJSref) {
-      // creates a document range (grouping of nodes in the document). In this case, we instantiate it as empty, on purpose
-      const range = document.createRange();
-      // creates a mini-document (lightweight version), in our range with our script in it
-      const documentFragment = range.createContextualFragment(script);
-      // appends it on the same level of annex div - so that it renders in the correct location
-      rampJSref.current?.appendChild(documentFragment);
-    }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [rampJSref]);
-
   const doc = parseContent;
   const postHeadings =
     doc?.querySelectorAll("h2").length > 0
@@ -73,6 +49,51 @@ const SinglePostBlock = ({
   const promoNEVERread = promoVisitState === true && readMore !== null;
   const noPromoNEVERread = promoVisitState === false && readMore === null;
 
+  console.log("postHeadings");
+  let headingsTexts = [];
+  postHeadings.forEach(e => (headingsTexts += e.innerText + ","));
+  console.log("headingsTexts");
+  const terms = headingsTexts.slice(0, -1);
+  let script;
+  if (adsTerms === "Test Term 1, Test Term 2, Test Term 3, Test Term 4") {
+    script = `
+        <script id="social-annex">
+        (function () {
+          function ramjsInt () {
+            (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
+              arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
+              _rampJs({ terms: "${terms || keywords}", init: {segment: "rsoc.moderntips.001"} });
+          }
+          ramjsInt();
+      })();
+        </script>
+    `;
+  } else {
+    script = `
+        <script id="social-annex">
+        (function () {
+          function ramjsInt () {
+            (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
+              arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
+              _rampJs({ terms: "${adsTerms || terms || keywords}", init: {segment: "rsoc.moderntips.001"} });
+          }
+          ramjsInt();
+      })();
+        </script>
+    `;
+  }
+  useEffect(() => {
+    if (rampJSref) {
+      // creates a document range (grouping of nodes in the document). In this case, we instantiate it as empty, on purpose
+      const range = document.createRange();
+      // creates a mini-document (lightweight version), in our range with our script in it
+      const documentFragment = range.createContextualFragment(script);
+      // appends it on the same level of annex div - so that it renders in the correct location
+      rampJSref.current?.appendChild(documentFragment);
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [rampJSref]);
+
   return (
     <SinglePost
       highlightImage={highlightImage}
@@ -84,7 +105,7 @@ const SinglePostBlock = ({
       promoVisitState={promoVisitState}
       setReadMore={setReadMore}
       readMore={readMore}
-      topic={topic}
+      topic={topic || "General"}
       excerpt={excerpt}
       promoNOread={promoNOread}
       promoNEVERread={promoNEVERread}

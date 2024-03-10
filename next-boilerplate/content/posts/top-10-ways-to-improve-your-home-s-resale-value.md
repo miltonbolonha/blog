@@ -10,6 +10,7 @@ tag:
   - renovation
   - resale
   - sale
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Money
 description: "If you're thinking of selling your home in the near future, then you know how important it is to get the most money possible. Learn which improvements will earn you the most money."

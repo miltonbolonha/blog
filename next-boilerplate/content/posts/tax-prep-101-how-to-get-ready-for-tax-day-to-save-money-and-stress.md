@@ -5,6 +5,7 @@ date: "2020-02-21 17:16:22"
 author: "Kimberly Landess"
 tag:
   - taxes
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Money
 description: ""

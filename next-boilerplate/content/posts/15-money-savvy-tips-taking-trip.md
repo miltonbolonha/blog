@@ -8,6 +8,7 @@ tag:
   - travel
   - trip
   - "trip of a lifetime"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: "Looking to take a trip but don't have the massive budget to do it? Well, there are plenty of options available to cut the cost. Here are 15 tips to do so."

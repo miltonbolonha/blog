@@ -2,6 +2,7 @@
 title: How to Care for Your Mouth During the COVID-19 Outbreak
 date: 2021-04-05 10:58:00
 author: Greyson F
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 image: How-to-care-for-your-teeth-Covid-19.jpg

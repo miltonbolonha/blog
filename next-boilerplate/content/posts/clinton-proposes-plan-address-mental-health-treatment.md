@@ -5,6 +5,7 @@ date: "2016-09-01 14:37:22"
 author: "Deanna Madera"
 tag:
   - "mental health"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
   - Video

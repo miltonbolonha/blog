@@ -5,6 +5,7 @@ date: "2020-12-01 11:52:36"
 author: "Kimberly Landess"
 tag:
   - mattress
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

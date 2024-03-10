@@ -5,6 +5,7 @@ date: "2018-03-02 07:40:56"
 author: "Milton Bolonha"
 tag:
   - hide
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Hide
 description: ""

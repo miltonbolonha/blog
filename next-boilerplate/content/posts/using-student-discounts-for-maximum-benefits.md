@@ -5,6 +5,7 @@ date: "2015-05-12 14:21:40"
 author: "Rene Williams"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""

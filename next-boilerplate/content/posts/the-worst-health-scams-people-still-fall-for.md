@@ -5,6 +5,7 @@ date: "2020-02-05 16:08:10"
 author: "Kelly F"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

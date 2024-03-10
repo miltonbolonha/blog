@@ -6,6 +6,7 @@ author: "Deanna Madera"
 tag:
   - "Alkaline Water"
   - "pH level"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

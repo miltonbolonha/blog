@@ -3,6 +3,7 @@ title: Groundbreaking Psoriasis Treatments Have Arrived - A Diagnosis Is No
   Longer The End Of The World
 date: 2021-04-08 14:52:01
 author: Deanna Madera
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - General
 image: 1200x630_psoriasis_women_itchy_arm.jpg
@@ -12,6 +13,7 @@ tag:
   - General
 description: ""
 ---
+
 Groundbreaking treatment options are now being used to keep psoriasis under control and effectively manage its symptoms. Psoriasis is different in each individual. What works for you may not work for others. For many people, it can take months of trial and error before finding the right combination of treatment options for both scalp psoriasis and plaque psoriasis.
 
 ![](/posts/1080x1080_psoriasis_elbow_applyincream.jpg)</div><div class="cta-textcover">Best Treatment for Psoriasis <city></city></div>](#)</div>Psoriasis is most often characterized by reddened patches of skin covered by whitish scales that flake away as the skin dries out. It is a chronic, auto-immune disorder¹ that affects the surface layers of the skin. Psoriasis causes the body to produce skin cells too quickly. The cells do not have enough time to live out their month-long cycle before more cells appear to take their place. This thick build-up of cells causes itching, redness, and the dry-scaling appearance.

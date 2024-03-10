@@ -5,6 +5,7 @@ date: "2016-05-05 12:46:31"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
 description: ""

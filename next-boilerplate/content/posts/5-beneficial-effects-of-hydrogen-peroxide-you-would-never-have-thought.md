@@ -6,6 +6,7 @@ author: "Deanna Madera"
 tag:
   - "good health"
   - "hydrogen peroxide"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

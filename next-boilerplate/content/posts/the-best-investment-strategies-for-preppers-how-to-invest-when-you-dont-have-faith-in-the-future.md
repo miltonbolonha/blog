@@ -7,6 +7,7 @@ tag:
   - investment
   - Prepper
   - Risk
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
 description: ""

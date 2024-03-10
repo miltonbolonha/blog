@@ -5,6 +5,7 @@ date: "2019-05-05 14:49:54"
 author: "Greyson F"
 tag:
   - cruises
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
   - Money

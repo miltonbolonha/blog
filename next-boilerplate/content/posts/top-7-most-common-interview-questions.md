@@ -5,6 +5,7 @@ date: "2018-04-04 11:30:55"
 author: "Greyson F"
 tag:
   - "Interview questions"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: "When prepping for an interview it is important to know what the potential job will ask. Here are 7 of the most common interview questions you'll experience."

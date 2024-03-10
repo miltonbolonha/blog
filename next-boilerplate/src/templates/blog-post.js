@@ -149,6 +149,11 @@ const BlogPost = ({ post }) => {
             setReadMore={setReadMore}
             readMore={readMore}
             topic={post?.frontmatter?.tag[0]}
+            keywords={post?.frontmatter?.keywords}
+            adsTerms={
+              post?.frontmatter?.adsTerms ||
+              "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
+            }
             excerpt={excerpt}
             parseContent={doc}
             relatedPosts={categoriesPosts}

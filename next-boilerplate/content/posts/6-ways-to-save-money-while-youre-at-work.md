@@ -5,6 +5,7 @@ date: "2015-06-12 14:09:34"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""

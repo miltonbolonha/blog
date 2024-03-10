@@ -2,6 +2,7 @@
 title: How To Box Your Way Out Of Parkinson's (VIDEO)
 date: 2016-02-25 10:03:15
 author: Deanna Madera
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 image: sbatkin-screen.png

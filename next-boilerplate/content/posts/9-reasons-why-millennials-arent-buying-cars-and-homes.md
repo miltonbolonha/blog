@@ -13,6 +13,7 @@ tag:
   - "own a vehicle"
   - "spending money"
   - "young adults"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: "Millennials are spending their money differently from previous generations. This includes not spending on cars or homes. Here are 9 reasons why."

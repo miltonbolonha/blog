@@ -5,6 +5,7 @@ date: "2020-06-10 09:00:34"
 author: "Kelly F"
 tag:
   - "Lung cancer"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

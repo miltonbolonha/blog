@@ -5,6 +5,7 @@ date: "2015-04-20 13:25:14"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""

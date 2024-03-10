@@ -6,6 +6,7 @@ author: "Greyson F"
 tag:
   - "job loss"
   - work
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""

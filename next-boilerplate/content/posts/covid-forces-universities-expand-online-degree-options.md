@@ -2,6 +2,7 @@
 title: COVID Forces Prestigious Universities To Expand Online Degree Options
 date: 2021-04-26 12:36:01
 author: Deanna Madera
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
   - Frugality
