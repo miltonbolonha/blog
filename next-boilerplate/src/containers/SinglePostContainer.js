@@ -62,7 +62,7 @@ const SinglePostBlock = ({
           function ramjsInt () {
             (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
               arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-              _rampJs({ terms: "${keywords || terms.replace("Myth: ","") || }", init: {segment: "rsoc.moderntips.001"} });
+              _rampJs({ terms: "${keywords || terms.replace("Myth: ", "")}", init: {segment: "rsoc.moderntips.001"} });
           }
           ramjsInt();
       })();
@@ -75,7 +75,7 @@ const SinglePostBlock = ({
           function ramjsInt () {
             (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
               arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-              _rampJs({ terms: "${adsTerms || keywords || terms.replace("Myth: ","")}", init: {segment: "rsoc.moderntips.001"} });
+              _rampJs({ terms: "${adsTerms || keywords || terms.replace("Myth: ", "")}", init: {segment: "rsoc.moderntips.001"} });
           }
           ramjsInt();
       })();
