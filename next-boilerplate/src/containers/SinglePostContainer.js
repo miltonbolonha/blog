@@ -43,12 +43,21 @@ const SinglePostBlock = ({
   //   reduce && postHeadings[reduce]?.id
   //     ? `<h2 id="${postHeadings[reduce]?.id}`
   //     : null;
-  // const replacedHtml = html;
+  const replacedHtml = `${ReactDOMServer.renderToString(<div id='rampjs_slot1'></div>)}${html}`;
   const promoNOread = promoVisitState === true && readMore === false;
   const promoNEVERread = promoVisitState === true && readMore !== null;
   const noPromoNEVERread = promoVisitState === false && readMore === null;
 
-  // console.log("postHeadings");
+  // console.log("replacedHtml");
+  // console.log(replacedHtml);
+  // const replacedHtml =
+  // searchReplace && !killSEO
+  //   ? html.replace(
+  //       searchReplace,
+  //       `${ReactDOMServer.renderToString(<div id='rampjs_slot2'></div>)}${searchReplace}`
+  //     )
+  //   : html;
+
   // let headingsTexts = [];
   // postHeadings.forEach(e => (headingsTexts += e.innerText + ","));
   // console.log("headingsTexts");
@@ -108,7 +117,7 @@ const SinglePostBlock = ({
       handleToggle={handleToggle}
       timeToRead={timeToRead(doc.text)}
       toggle={toggle}
-      replacedHtml={html}
+      replacedHtml={replacedHtml}
       relatedPosts={relatedPosts}
       city={city}
       killSEO={killSEO}
