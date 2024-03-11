@@ -12,7 +12,7 @@ tag:
 image: cover.jpg
 description: ""
 ---
-This is a new sup[^1] test.
+This is a new sup^1^ test.
 
 ## Headers
 
@@ -84,9 +84,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
   * Marker character change forces new list start:
 
     * Ac tristique libero volutpat at
-
     * Facilisis in pretium nisl aliquet
-
     * Nulla volutpat aliquam velit
 * Very easy!
 
