@@ -20,7 +20,7 @@ Have you ever dreamed of making your money grow with something as cool as gold? 
 
 ## What Is Gold Investment?
 
-Think of gold investment like adding a superhero to your team of money-saving heroes. It's not just about having gold bars or coins in your collection. You can also own parts of gold mines or join special clubs (called ETFs or mutual funds) that are all about gold.1
+Think of gold investment like adding a superhero to your team of money-saving heroes. It's not just about having gold bars or coins in your collection. You can also own parts of gold mines or join special clubs (called ETFs or mutual funds) that are all about gold.^1^
 
 Gold is like a strong friend that helps you stay steady when things get wobbly in the money world. It's a good idea to learn more about how this friend can help you navigate the economy in uncertain times.
 
