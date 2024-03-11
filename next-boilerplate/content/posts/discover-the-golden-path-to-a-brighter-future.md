@@ -15,7 +15,6 @@ featuredPost: false
 image: e76adbbb-1b8e-4799-b449-a28f6c5e7ffb.webp
 layout: post
 ---
-
 Have you ever dreamed of making your money grow with something as cool as gold? Now, it's easier than ever to add some sparkle to your savings with gold. Let's dive into the shiny world of gold investments and see how it can make your future brighter.
 
 ## What Is Gold Investment?
@@ -26,7 +25,7 @@ Gold is like a strong friend that helps you stay steady when things get wobbly i
 
 ## Why Gold Can Make Your Savings Shine
 
-Adding gold to your money-saving plan can make it shine like a star. Gold is known for being strong, especially when prices of things go up (also known as inflation), and it's like a safety net when the economy is like a roller coaster.2 Are you interested? You can learn tons more about how gold can make your savings better by looking online.
+Adding gold to your money-saving plan can make it shine like a star. Gold is known for being strong, especially when prices of things go up (also known as inflation), and it's like a safety net when the economy is like a roller coaster.^2^ Are you interested? You can learn tons more about how gold can make your savings better by looking online.
 
 ## Why Putting Gold in Your Plan Is a Smart Move
 
