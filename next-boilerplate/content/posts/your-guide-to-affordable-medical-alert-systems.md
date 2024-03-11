@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Your Guide to Affordable Medical Alert Systems"
 date: "2020-04-30 09:33:05"
 author: "Greyson F"
@@ -6,6 +7,7 @@ tag:
   - elderly
   - emergency
   - "Medical alert"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""

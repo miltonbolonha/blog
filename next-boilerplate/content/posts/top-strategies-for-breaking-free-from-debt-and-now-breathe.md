@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Top Strategies for Breaking Free from Debt – And Now Breathe!"
 date: "2020-10-16 01:24:03"
 author: "Kelly F"
@@ -6,6 +7,7 @@ tag:
   - "consolidate debt"
   - debt
   - "no debt"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Credit
 description: ""

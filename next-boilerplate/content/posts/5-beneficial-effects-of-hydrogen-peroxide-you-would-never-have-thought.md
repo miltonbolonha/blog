@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Amazing Benefits Of Hydrogen Peroxide You May Not Have Thought Of Yet"
 date: "2016-02-11 10:00:07"
 author: "Deanna Madera"
 tag:
   - "good health"
   - "hydrogen peroxide"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

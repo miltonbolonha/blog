@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Beware Of These New Credit Card Scams"
 date: "2016-02-04 11:39:20"
 author: "Deanna Madera"
@@ -14,6 +15,7 @@ tag:
   - skimmers
   - "skimming machines"
   - spyware
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Credit
 description: ""
@@ -21,7 +23,7 @@ layout: post
 image: hacker-cyber-criminal.jpg
 ---
 
-![Credit card scams](/posts/hacker-cyber-criminal-1024x768.jpg)Credit card scams are at an all time high and credit card companies are constantly attempting to close the fraudulent loop holes as fast as new ones surface. The U.S. credit card industry is currently going through a massive change as it switches over to “chip based” cards. The EMV credit cards (the acronym came from “Europay, MasterCard, and Visa”) have been widely used in Europe for many years. Banks have been sending out new credit and debit cards that have an embedded microchip to meet an October 2015 liability change deadline. However, the credit card scammers are still out there.
+Credit card scams are at an all time high and credit card companies are constantly attempting to close the fraudulent loop holes as fast as new ones surface. The U.S. credit card industry is currently going through a massive change as it switches over to “chip based” cards. The EMV credit cards (the acronym came from “Europay, MasterCard, and Visa”) have been widely used in Europe for many years. Banks have been sending out new credit and debit cards that have an embedded microchip to meet an October 2015 liability change deadline. However, the credit card scammers are still out there.
 
 #### New Chip Technology
 
@@ -41,7 +43,7 @@ Scammers are sending out bogus emails pretending to be credit card companies. Th
 
 Skimming machines or “skimmers” have become high tech. Skimmers have been found connected to gas pumps credit card machines and ATMs throughout the U.S. A skimmer is a crude piece of plastic placed directly over the slot where you insert your credit or ATM card into the machine. This piece of plastic is designed to “read” the information off the magnetic strip from the back of the consumer’s card. The skimmer collects credit card data and then transfer to the scammers via Bluetooth, who can then replicate the cards and go on a spending spree.
 
-Less technological skimming tricks include restaurant staff and retail employees skimming your credit card information and then using it to make small purchases that are very often missed by the victim.![Credit card scams, the skimmer](/posts/bigstock-Illustration-of-a-Thief-Instal-85431035-Converted.png)
+Less technological skimming tricks include restaurant staff and retail employees skimming your credit card information and then using it to make small purchases that are very often missed by the victim.![Credit card scams, the skimmer](/posts/bigstock-Illustration-of-a-Thief-Instal-85431035-Converted.jpg)
 
 **Solution**: Look carefully at the ATM or credit card machine that you are using and run your hand firmly over the slot that you insert your card into making sure that it doesn’t wiggle around. If so, don’t use it and report it to the merchant or bank. Also, keep all your credit card receipts in an envelope and check the totals against your monthly credit card statements. [Report any discrepancies](/how-to-dispute-a-credit-card-charge) immediately to your credit card company to avoid fraudulent charges.
 

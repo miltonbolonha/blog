@@ -1,9 +1,11 @@
 ---
+status: true
 title: "Why Now Is The Best Time to Take A Cruise"
 date: "2020-09-13 17:00:43"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - General
 description: ""
@@ -11,9 +13,7 @@ layout: post
 image: 1200x627_cruises_old_coupleselfie.jpg
 ---
 
-<ins>2020</ins> has been stressful to say the least<ins> – with 2021 now here,</ins> <ins>wouldn</ins>’t you love to be relaxing somewhere right now holding one of those tiny umbrella drinks? That doesn’t have to be a pipedream. It can be your reality with a little bit of planning and research. Because of the economic slowdown, there has literally never been a better time to check for prices of unsold cruise cabins. There are plenty of options and a ton of savings out there if you do enough research.
-
-![](/posts/1200x627_cruises_old_coupleselfie.jpg)
+2020 has been stressful to say the least – with 2021 now here, wouldn’t you love to be relaxing somewhere right now holding one of those tiny umbrella drinks? That doesn’t have to be a pipedream. It can be your reality with a little bit of planning and research. Because of the economic slowdown, there has literally never been a better time to check for prices of unsold cruise cabins. There are plenty of options and a ton of savings out there if you do enough research.
 
 You might think that there’s no way you could afford a cruise…But now it’s easier than ever to get a great deal thanks to the growing supply of cruise ships – and the shrinking demand for cruises.
 

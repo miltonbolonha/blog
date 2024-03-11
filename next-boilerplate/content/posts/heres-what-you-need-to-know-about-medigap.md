@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Here’s What You Need to Know About Medigap"
 date: "2021-03-22 09:08:00"
 author: "Kelly F"
@@ -7,6 +8,7 @@ tag:
   - medicare
   - "Medicare Supplement Insurance"
   - Medigap
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""
@@ -16,9 +18,9 @@ image: Medigap.jpg
 
 As you reach your senior years, the likelihood that you will need expensive medical care increases. This is something none of us like to think about, and so in many cases _we don’t_. Rather than face our mortality, we would rather bury our heads in the sand and hope that everything turns out okay. But as with many things, it is far better to have medical insurance and not need it than it is to need it and not have it! In fact, the latter can lead to extreme levels of discomfort, pain, embarrassment, and poverty. This should be your absolute priority, and Medigap is one of the key things you need to think about as you reach your late 60s.
 
-## ![](/posts/Medigap-1024x684.jpg)About Medicare
+## About Medicare
 
-So just what is Medigap? In order to understand precisely what this is, it’s important to first understand Medicare.
+[So just what is Medigap](https://google.com)? In order to understand precisely what this is, it’s important to first understand Medicare.
 
 Medicare is a product offered by the federal government to ensure that older individuals can afford the healthcare they need to live healthy, happy, dignified lives. If you are 65 and over and you are currently enrolled in social security, then you will automatically be placed on Medicare.
 

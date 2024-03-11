@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Is Pharmacy Technician the Right Job for You? Here’s What You Need to Know"
 date: "2020-07-12 09:18:36"
 author: "Sarah H"
 tag:
   - "health career"
   - pharmacy
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""
@@ -19,8 +21,6 @@ Let’s explore this high demand job, training required, salary and lifestyle.
 ## What is a Pharmacy Technician?
 
 Those interested in the medical field will very often focus their efforts on becoming doctors, nurses, or perhaps dental assistants. In reality though, there are many other important jobs that will put an understanding of human biology to good use. A pharmacy technician is just one such role.
-
-![](/posts/Pharmact-tech.jpg)
 
 A pharmacy technician is someone who works in a pharmacy and is responsible for handing out prescriptions. This means they are also required to organize and manage large amounts of inventory, to measure and mix medications, to take notes, and even to provide medical advice in some cases. Depending on the company you work for, you might also be required to offer additional services – even providing basic medical checks!
 

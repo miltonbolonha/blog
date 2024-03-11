@@ -1,10 +1,12 @@
 ---
+status: true
 title: "How to Improve Your Credit Score"
 date: "2020-06-18 11:17:13"
 author: "Kimberly Landess"
 tag:
   - "credit score"
   - "good credit score"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Credit
 description: ""

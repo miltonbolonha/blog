@@ -1,9 +1,11 @@
 ---
+status: true
 title: "The $99 Investment Plan that Works for Anyone"
 date: "2015-05-20 12:42:37"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
 description: ""
@@ -11,13 +13,11 @@ layout: post
 image: investment-plan.jpg
 ---
 
-![](http://mt2.wpengine.com/wp-content/uploads/2015/03/investment-plan-1024x682.jpg)
-
 A lot of us have misconceptions about investing, with one of these being that you need to have a lot of money before even thinking about getting started. To be honest, even a dripping faucet can fill a bathtub. On account of this adage, you should consider investing and think of it as anyone’s game. If you have $100, there are various ventures you can get into which will allow you to make a lot of money in no time. Read on to find out what these easy tips are and how you should get started.
 
 ## Buy Low, Sell High on eBay
 
-EBay is one of the world’s largest ecommerce stores that stocks a variety of goods, both new and pre-owned. If you have $100 to spare, [consider purchasing a few items and then reselling them on the website at a higher price](http://www.ebay.com/gds/How-to-make-money-on-Ebay-Buy-low-sell-high-/10000000002135997/g.html). Given the bidding feature of the site, you’ll always have someone who is more likely to buy what you have at a higher price. Keep at it and compound your profit by sinking it back into the business several times until you reach your goal
+EBay is one of the world’s largest ecommerce stores that stocks a variety of goods, both new and pre-owned. If you have $100 to spare, [consider purchasing a few items and then reselling them on the website at a higher price](https://www.ebay.com/gds/How-to-make-money-on-Ebay-Buy-low-sell-high-/10000000002135997/g.html). Given the bidding feature of the site, you’ll always have someone who is more likely to buy what you have at a higher price. Keep at it and compound your profit by sinking it back into the business several times until you reach your goal
 
 ## Open a Trading Account Without a Broker
 

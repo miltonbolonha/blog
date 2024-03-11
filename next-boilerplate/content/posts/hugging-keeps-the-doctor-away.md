@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Hugging Keeps The Doctor Away"
 date: "2016-04-11 11:53:21"
 author: "Deanna Madera"
@@ -8,6 +9,7 @@ tag:
   - hugging
   - "Immune system"
   - Stress
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

@@ -1,4 +1,20 @@
 .post-container {
+  .post-article-content {
+    ul,
+    ol {
+      margin-bottom: 20px;
+      li {
+        margin-bottom: 10px;
+      }
+      > ul,
+      ol {
+        margin-bottom: 0;
+        li {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
   p {
     text-align: left;
     text-align-last: left;
@@ -77,10 +93,10 @@
     padding-bottom: 30px;
     background: $background_white;
     position: relative;
-    max-width: $page__size;
+    max-width: 98%;
     margin-left: auto;
     margin-right: auto;
-    width: 98%;
+    width: 100%;
 
     @media (min-width: $media960) {
       max-width: $ext_page__size;
@@ -93,7 +109,7 @@
       }
     }
     .container {
-      width: 96%;
+      width: 98%;
       margin: 0 auto;
       padding-top: 10px;
       @media (min-width: $media960) {
@@ -106,6 +122,9 @@
       }
       h1 {
         max-width: $page__size;
+        @media (max-width: $media960) {
+          max-width: 98%;
+        }
         margin: 10px auto 10px;
         display: block;
         color: $black;
@@ -168,12 +187,19 @@
     }
     .right-column {
       width: 300px;
+      margin: 0 auto;
+      @media (max-width: $media960) {
+        width: 98%;
+        margin-left: auto;
+        margin-right: auto;
+      }
       h2 {
-        font-size: 20px;
+        font-size: $news_card__heading;
+        line-height: 20px;
       }
       .ads-right-column {
-        width: 300px;
-        height: 300px;
+        width: 100%;
+        min-height: 250px;
         display: block;
         &.sticky {
           position: sticky;
@@ -190,8 +216,10 @@
   .footer-highlights {
     &.ads-bottom-row {
       text-align: center;
-      max-width: $page__size;
+      max-width: 98%;
       height: 120px;
+      margin-right: auto;
+      margin-left: auto;
     }
     margin-bottom: 20px;
     h2 {
@@ -348,33 +376,34 @@
   .container {
     .post-article-content {
       width: 95%;
-      font-size: 19px;
+      font-size: $paragraph__fontSize;
       line-height: 28px;
       font-weight: 300;
       color: $black;
       max-width: $page__size;
       margin: 10px auto 0;
-      @media (min-width: $media960) {
+      @media (max-width: $media960) {
         width: 100%;
+        max-width: 100%;
       }
       sup {
         margin-right: 0;
-        margin-left: 0px;
+        margin-left: -4px;
       }
       p {
         font-family: $main__font;
-        font-size: 18px;
+        font-size: $paragraph__fontSize;
         line-height: 23px;
         font-weight: 300;
         color: $black;
         margin-bottom: 16px;
       }
       a {
-        color: $black;
+        color: $primary__colorOne;
         text-decoration: none;
         overflow-wrap: break-word;
-        font-weight: 300;
-        font-size: 16px;
+        font-weight: 600;
+        font-size: $paragraph__fontSize;
       }
       strong {
         font-weight: 600;
@@ -382,27 +411,34 @@
       em {
         font-style: italic;
       }
-      ul {
-        margin-bottom: 20px;
-      }
+
       ul.toc-list li,
       ul li {
-        font-style: italic;
         list-style-type: disc;
         margin-left: 20px;
-        margin-bottom: 5px;
+        font-size: $paragraph__fontSize;
+        &:last-of-type {
+          margin-bottom: 0;
+          padding-bottom: 0;
+        }
       }
 
       ol {
-        margin-top: 50px;
-        border-top: 1px solid #000;
-        padding-top: 20px;
+        // border-top: 1px solid #000;
+        // padding-top: 20px;
+        ul {
+          margin-bottom: 0;
+        }
         li {
           list-style-type: decimal;
-          font-size: 16px;
+          font-size: $paragraph__fontSize;
           font-style: italic;
           margin-left: 20px;
           padding-bottom: 5px;
+          &:last-of-type {
+            margin-bottom: 0;
+            padding-bottom: 0;
+          }
         }
       }
       h1,
@@ -416,14 +452,6 @@
         text-transform: capitalize;
         font-weight: 600;
         color: $black;
-        & strong {
-          font-weight: 900;
-        }
-      }
-      h2 {
-        font-size: 24px;
-        line-height: 34px;
-        font-weight: 800;
         &::before {
           content: "";
           display: block;
@@ -433,9 +461,21 @@
           margin-top: -75px;
           visibility: hidden;
         }
+        & strong {
+          font-weight: 900;
+        }
+      }
+      h1 {
+        font-size: 28px;
+        line-height: 34px;
+      }
+      h2 {
+        font-size: 26px;
+        line-height: 34px;
+        font-weight: 800;
       }
       h3 {
-        font-size: 26px;
+        font-size: 24px;
       }
       h4 {
         font-size: 20px;
@@ -450,7 +490,7 @@
         max-width: 100%;
       }
       > blockquote {
-        font-size: 18px;
+        font-size: $paragraph__fontSize;
         font-weight: 400;
         margin: 20px 0;
         padding: 10px 15px;
@@ -459,15 +499,21 @@
           margin-bottom: 0;
         }
         &:nth-of-type(odd) {
-          border-right: 3px solid $primary__colorTwo;
-          margin-left: auto;
-          text-align: right;
-          margin-right: 15px;
+          p {
+            border-right: 3px solid $primary__colorOne;
+            margin-left: auto;
+            text-align: right;
+            text-align-last: right;
+            padding-right: 15px;
+          }
         }
         &:nth-of-type(even) {
-          border-left: 3px solid $primary__colorTwo;
-          text-align: left;
-          margin-left: 15px;
+          p {
+            border-left: 3px solid $primary__colorOne;
+            text-align-last: left;
+            text-align: left;
+            padding-left: 15px;
+          }
         }
         > blockquote {
           border: 0;

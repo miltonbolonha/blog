@@ -1,17 +1,19 @@
 ---
-title: "COVID Forces Prestigious Universities To Expand Online Degree Options"
-date: "2021-04-26 12:36:01"
-author: "Deanna Madera"
-tag:
-  - General
-  - Career
+title: COVID Forces Prestigious Universities To Expand Online Degree Options
+date: 2021-04-26 12:36:01
+author: Deanna Madera
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
   - Frugality
   - Sponsored
-description: ""
-layout: post
 image: 1200x628_ondeg_university_steps.jpg
+layout: post
+status: true
+tag:
+  - General
+  - Career
+description: ""
 ---
 
 COVID has impacted every aspect of our lives. For those trying to complete their education, it has become even harder. Many of the most prestigious colleges and universities have seen significant drops in enrollment numbers. In an attempt to continue to provide students with the best possible education, many have started to offer online degree programs for students who are interested in enrolling. The benefits of this type of learning are extensive and are opening many doors for students who may not have considered attending the school otherwise.

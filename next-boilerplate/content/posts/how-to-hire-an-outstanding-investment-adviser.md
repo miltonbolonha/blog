@@ -1,17 +1,17 @@
 ---
+status: true
 title: "How to Hire an Outstanding Investment Adviser"
 date: "2016-03-27 12:39:44"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
 description: ""
 layout: post
 image: invest-advisor.jpg
 ---
-
-![invest advisor](http://mt2.wpengine.com/wp-content/uploads/2015/03/invest-advisor.jpg)
 
 Investment advisors are a dime a dozen, and they’re not just for millionaires anymore. If you’ve always wanted to get into the money market or trade in securities or simply want to create a good financial plan for the next decade, you may need someone who may have more knowledge on how these things work. Hiring an adviser can be an undertaking fraught with risk, and not doing your homework may see you losing a lot of money. In this post, we’ll take a look at what you should keep in mind when looking to hire an investment advisor.
 
@@ -25,7 +25,7 @@ The average investor usually makes the mistake of thinking that the investor kno
 
 ## Check their Registration Details and Credentials
 
-Blind faith on account of how many letters precede someone’s name shouldn’t be the route you follow if looking to hire an investment adviser. Make sure that their credentials check out by heading over to the Financial Industry Regulatory Authority to see if they’re registered, and also finding out whether they are registered by the [SEC](http://www.sec.gov/) and the NASAA, with the second one catering to brokers who are registered only in North America.
+Blind faith on account of how many letters precede someone’s name shouldn’t be the route you follow if looking to hire an investment adviser. Make sure that their credentials check out by heading over to the Financial Industry Regulatory Authority to see if they’re registered, and also finding out whether they are registered by the [SEC](https://www.sec.gov/) and the NASAA, with the second one catering to brokers who are registered only in North America.
 
 ## Bonus
 

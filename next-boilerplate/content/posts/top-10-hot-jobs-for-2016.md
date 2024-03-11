@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Top 10 Hot Jobs For 2016"
 date: "2016-02-11 10:05:17"
 author: "Deanna Madera"
@@ -8,6 +9,7 @@ tag:
   - LABOR
   - recruiter
   - "U.S. Bureau of Labor Statistics"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""

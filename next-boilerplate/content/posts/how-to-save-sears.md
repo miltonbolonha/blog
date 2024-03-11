@@ -1,4 +1,5 @@
 ---
+status: true
 title: "How To Save At Sears"
 date: "2015-09-08 17:42:18"
 author: "Deanna Madera"
@@ -6,6 +7,7 @@ tag:
   - Dealspotr
   - "Money Saving Coupon"
   - Sears
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""
@@ -13,9 +15,9 @@ layout: post
 image: Sears.jpg
 ---
 
-![Sears](http://mt2.wpengine.com/wp-content/uploads/2015/09/Sears.jpg)Sears has a rich history as one America’s oldest department stores, and its low prices and quality items have been a part of the store since the beginning. Although some Sears locations are criticized for their worn down and old appearance, the store is still beloved by many customers, including bargain hunters.
+Sears has a rich history as one America’s oldest department stores, and its low prices and quality items have been a part of the store since the beginning. Although some Sears locations are criticized for their worn down and old appearance, the store is still beloved by many customers, including bargain hunters.
 
-Dealspotr has put together the following list of ways to save at [Sears](http://dealspotr.com/sears). In no time you’ll be a savvy Sears shopper on the hunt for lots of good deals.
+Dealspotr has put together the following list of ways to save at [Sears](https://dealspotr.com/sears). In no time you’ll be a savvy Sears shopper on the hunt for lots of good deals.
 
 **Join Shop Your Way**
 

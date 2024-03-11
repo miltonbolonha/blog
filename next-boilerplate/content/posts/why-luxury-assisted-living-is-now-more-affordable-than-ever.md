@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Why Luxury Assisted Living Is Now More Affordable Than Ever"
 date: "2020-05-25 12:31:19"
 author: "Deborah Woehr"
 tag:
   - "assisted living"
   - retirement
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""

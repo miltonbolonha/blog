@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Prostate Cancer Treatments, Outcomes, and Prognosis"
 date: "2020-04-22 09:00:58"
 author: "Deborah Woehr"
 tag:
   - cancer
   - Prostrate
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

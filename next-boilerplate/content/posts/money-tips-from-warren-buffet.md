@@ -1,9 +1,11 @@
 ---
+status: true
 title: "A Few Money Tips From Warren Buffet"
 date: "2015-05-14 15:01:46"
 author: "Missy McKee"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Money
 description: ""

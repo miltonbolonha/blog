@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Money Management for Twenty Something’s"
 date: "2015-05-19 10:57:50"
 author: "Deanna Madera"
@@ -8,6 +9,7 @@ tag:
   - "emergency fund"
   - insurance
   - "money management"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Money
 description: ""
@@ -15,11 +17,11 @@ layout: post
 image: twenty-something.jpg
 ---
 
-![twenty-something](/posts/twenty-something.jpg)Your twenties are an exciting time, full of promise and possibility. You’ve just graduated [college](/way-too-easy-strategies-to-reduce-the-cost-of-college), and are looking to approach life with gusto and enthusiasm. This is all good and dandy, but the truth is that not having your financial priorities in check will have you reeling in shock as you go through one of the most important decades of your life due to poor money choices. In this post, we’ll take a look at a few financial commandments you should follow to the letter if you’d like to sail on, stress free, into your thirties.
+Your twenties are an exciting time, full of promise and possibility. You’ve just graduated [college](/way-too-easy-strategies-to-reduce-the-cost-of-college), and are looking to approach life with gusto and enthusiasm. This is all good and dandy, but the truth is that not having your financial priorities in check will have you reeling in shock as you go through one of the most important decades of your life due to poor money choices. In this post, we’ll take a look at a few financial commandments you should follow to the letter if you’d like to sail on, stress free, into your thirties.
 
 ## Establish an Emergency Fund
 
-Life happens, and it does so without warning. The last thing you want to be is unprepared when you’re hit with some kind of en emergency. [An emergency fund](http://www.kiplinger.com/article/saving/T065-C000-S001-why-you-need-an-emergency-fund.html) can stop you from getting deeper into debt by giving you access to a large amount of cash should you need it. You should aim to save anywhere between the equivalent of 3 to 6 months of cumulative salary. This should be enough cash to cover your basics such as rent, food and utilities should you find yourself out of a job. Every time you receive your paycheck or any bonus amount, you should endeavor to save at least 10 percent into your fund. Make sure that it is a high yield easy access savings account for added convenience and savings potential.
+Life happens, and it does so without warning. The last thing you want to be is unprepared when you’re hit with some kind of en emergency. [An emergency fund](https://www.kiplinger.com/article/saving/T065-C000-S001-why-you-need-an-emergency-fund.html) can stop you from getting deeper into debt by giving you access to a large amount of cash should you need it. You should aim to save anywhere between the equivalent of 3 to 6 months of cumulative salary. This should be enough cash to cover your basics such as rent, food and utilities should you find yourself out of a job. Every time you receive your paycheck or any bonus amount, you should endeavor to save at least 10 percent into your fund. Make sure that it is a high yield easy access savings account for added convenience and savings potential.
 
 ## Start Paying off Your Debt
 
@@ -29,6 +31,6 @@ By the time we’re done with college, a lot of us are saddled with debt to our 
 
 You might have been covered by your parent’s insurance when you were growing up, but as an adult, you shouldn’t count on your parents or even siblings to bail you out. Take out health, renters and home insurance to cover some of the most valuable things in your life: your health and your possessions.
 
-Last but not least, list all your expenses and [create a budget](http://www.kiplinger.com/article/credit/T007-C000-S001-how-to-create-a-budget.html) that you can stick to. By seeing where your money goes every month, you’ll have a clearer picture on how to stop any financial hemorrhaging by documenting and sticking to a plan for a month.
+Last but not least, list all your expenses and [create a budget](https://www.kiplinger.com/article/credit/T007-C000-S001-how-to-create-a-budget.html) that you can stick to. By seeing where your money goes every month, you’ll have a clearer picture on how to stop any financial hemorrhaging by documenting and sticking to a plan for a month.
 
 All these tips, if followed closely, can go a long way in ensuring that you make sound financial decisions in your twenties and beyond.

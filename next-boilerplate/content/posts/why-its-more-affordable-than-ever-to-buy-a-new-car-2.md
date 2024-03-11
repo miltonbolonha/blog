@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Why It’s More Affordable Than Ever to Buy a New Car"
 date: "2020-12-07 09:03:38"
 author: "Deanna Madera"
 tag:
   - Affordability
   - "new car"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""

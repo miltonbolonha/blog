@@ -1,9 +1,11 @@
 ---
+status: true
 title: "Banks Vs. Credit Unions &#8211; Which is Better?"
 date: "2015-06-19 10:56:35"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Money
 description: ""
@@ -11,9 +13,7 @@ layout: post
 image: credit-union.jpg
 ---
 
-![advice](http://mt2.wpengine.com/wp-content/uploads/2015/03/credit-union-1024x682.jpg)
-
-Banks have gotten a bad rap over the last 7 years, due in part to [the 2008 financial crisis](http://www.britannica.com/EBchecked/topic/1484264/The-Financial-Crisis-of-2008-Year-In-Review-2008). As a result, a lot of people are looking to alternatives, with credit unions being one of these. Pound for pound, credit unions seem to provide individuals with attractive incentives such as lower banking fees and higher rates. In addition, it’s estimated that there are more than 7,000 credit unions all over the country, serving millions of Americans. In this post, we’ll take a look at some of the advantages and disadvantages of credit unions in comparison to traditional banks.
+Banks have gotten a bad rap over the last 7 years, due in part to [the 2008 financial crisis](https://www.britannica.com/EBchecked/topic/1484264/The-Financial-Crisis-of-2008-Year-In-Review-2008). As a result, a lot of people are looking to alternatives, with credit unions being one of these. Pound for pound, credit unions seem to provide individuals with attractive incentives such as lower banking fees and higher rates. In addition, it’s estimated that there are more than 7,000 credit unions all over the country, serving millions of Americans. In this post, we’ll take a look at some of the advantages and disadvantages of credit unions in comparison to traditional banks.
 
 ## Banking Fees
 
@@ -27,4 +27,4 @@ Banks offer competitive interest rates to encourage us to save. However, their r
 
 Good service is at the heart of every successful banking service. People want to feel that their requests and needs are heard and attended to on a regular basis. Most banks usually cater to tens of thousands of clients which effectively stretches out their resources. You are unlikely to get a listening ear promptly if you decide to go the bank way. Credit unions, however, are the exact opposite given their size. This may change in the future, with banks scaling up their support systems in response to demand. That being said, credit unions take the cup when it comes to customer service for now.
 
-While we would like to advocate that [you consider credit unions](http://www.mycreditunion.gov/about-credit-unions/Pages/default.aspx), please be aware that you have to meet a certain eligibility criteria before being allowed to open an account with them. Some of these qualifications include having a certain form of employment, belonging to a specific religion or cultural affiliation or residential area. Make sure to ask exhaustive questions and check for any flexibility with regard to your choice of credit union so you can get in on the action. At the end of the day, carrying out adequate research and looking at your needs in their entirety will help you make the best decision going forward
+While we would like to advocate that [you consider credit unions](https://www.mycreditunion.gov/about-credit-unions/Pages/default.aspx), please be aware that you have to meet a certain eligibility criteria before being allowed to open an account with them. Some of these qualifications include having a certain form of employment, belonging to a specific religion or cultural affiliation or residential area. Make sure to ask exhaustive questions and check for any flexibility with regard to your choice of credit union so you can get in on the action. At the end of the day, carrying out adequate research and looking at your needs in their entirety will help you make the best decision going forward

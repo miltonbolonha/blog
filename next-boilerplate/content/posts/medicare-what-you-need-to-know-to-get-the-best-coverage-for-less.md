@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Medicare What You Need to Know to Get the Best Coverage for Less"
 date: "2021-03-05 12:16:45"
 author: "Deborah Woehr"
@@ -8,6 +9,7 @@ tag:
   - Medicad
   - medicare
   - Medigap
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

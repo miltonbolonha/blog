@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Practical Money Lessons To Teach Your 11-13 Year Old"
 date: "2016-01-29 01:17:52"
 author: "Deanna Madera"
@@ -8,6 +9,7 @@ tag:
   - "Money as you grow"
   - "save money"
   - savings
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
 description: ""
@@ -28,7 +30,7 @@ Let’s start with a “savings” lesson and activities.
 
 - Encourage your child to always save 10% of the money received, whether it is a gift, allowance, or money earned.
 - Ask your child set a goal to buy something they would like, and have them work toward that amount.
-- Open a [savings account](http://moderntips.com/how-to-get-your-moneys-worth-from-checking-accounts) at a bank. There are many banks that waive fees for children. To encourage savings, go to the bank several times a year with your child to deposit savings into their account. Show them how the balance has grown on each visit.
+- Open a [savings account](/how-to-get-your-moneys-worth-from-checking-accounts) at a bank. There are many banks that waive fees for children. To encourage savings, go to the bank several times a year with your child to deposit savings into their account. Show them how the balance has grown on each visit.
 - Consider contributing to your child’s savings with a “matching plan.” For example, deposit 25 cents for every dollar they save.
 
 ### Personal Information
@@ -42,7 +44,7 @@ Let’s start with a “savings” lesson and activities.
 - Explain that thieves can use their Social Security number or other personal information to open a new credit card or create fake documents with your name.
 - Explain that a company does not give something away for free, without a catch. A free on-line offer, such as games or cell phone ringtones, are typically scams to get people to spend money without realizing it, or provide personal information for phishing.
 - Explain to your child to never reply to an email from someone they don’t know, if the subject matter is inappropriate, and never clicks on pop-up ads.
-- Visit [Federal Trade Commission Identity Theft web site](http://www.consumer.ftc.gov/features/feature-0014-identity-theft) with your child for tips on information security.
+- Visit [Federal Trade Commission Identity Theft web site](https://www.consumer.ftc.gov/features/feature-0014-identity-theft) with your child for tips on information security.
 
 ### How Savings Can Grow
 

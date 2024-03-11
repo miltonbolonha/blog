@@ -1,9 +1,11 @@
 ---
+status: true
 title: "Why Mattresses Need to be Replaced and How to Choose the Perfect Mattress for You"
 date: "2020-12-01 11:52:36"
 author: "Kimberly Landess"
 tag:
   - mattress
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""
@@ -12,8 +14,6 @@ image: Mattress.jpg
 ---
 
 Sleep is one of the single most important factors when it come to our overall health, happiness, and longevity. Simply: if you aren’t getting enough sleep, you aren’t performing optimally in terms of your alertness and focus, _or_ in the gym. Lack of sleep leads to car accidents, arguments with loved ones, impulsive behaviors, impotence, high blood pressure, brain damage, and _much_ more<sup>1</sup>. And while there are countless different hacks and strategies for improving sleep, the best option is still perhaps the most straightforward: invest in a better mattress. And _exchange_ that mattress on a regular basis.
-
-![](/posts/Mattress.jpg)
 
 With the right mattress, you’ll be able to sleep far more comfortably and also more deeply. That means you’ll drift off faster, but also enjoy a more rejuvenating rest. You’ll jump out of bed feeling better than you have done in years.
 

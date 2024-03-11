@@ -1,10 +1,12 @@
 ---
+status: true
 title: "The Best New Cars in 2020 that Won’t Break the Bank"
 date: "2020-08-05 11:27:16"
 author: "Missy McKee"
 tag:
   - cars
   - "save money"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""

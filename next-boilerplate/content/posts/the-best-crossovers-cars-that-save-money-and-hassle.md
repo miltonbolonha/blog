@@ -1,4 +1,5 @@
 ---
+status: true
 title: "The Best Crossovers – Cars That Save Money and Hassle"
 date: "2020-11-05 08:47:01"
 author: "Deborah Woehr"
@@ -6,6 +7,7 @@ tag:
   - cars
   - crossovers
   - "save money"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""

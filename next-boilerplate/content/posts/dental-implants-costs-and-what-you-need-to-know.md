@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Dental Implants: Costs and What You Need to Know"
 date: "2020-12-29 17:25:18"
 author: "Greyson F"
@@ -7,6 +8,7 @@ tag:
   - "dental implant"
   - Denture
   - implants
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

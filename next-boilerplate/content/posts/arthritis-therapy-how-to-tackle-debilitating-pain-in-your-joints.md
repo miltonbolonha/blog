@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Arthritis Therapy: How to Tackle Debilitating Pain in Your Joints"
 date: "2020-05-17 10:19:15"
 author: "Deanna Madera"
 tag:
   - Arthritis
   - "joint pain"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

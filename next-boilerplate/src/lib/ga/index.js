@@ -1,6 +1,7 @@
+import mainConfigs from "../../configs/main-infos.json";
 // log the pageview with their URL
 export const pageview = url => {
-  window.gtag("config", process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS, {
+  window.gtag("config", mainConfigs.business.gaID, {
     page_path: url,
   });
 };

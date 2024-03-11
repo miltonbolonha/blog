@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: miltonbolonha/mt
+  repo: schindyguy/mt
   branch: master
   site_domain: https://moderntips.com
 
@@ -42,6 +42,13 @@ collections:
           name: "categories",
           widget: "list",
           required: true,
+        }
+      - {
+          label: "AdsTerms",
+          name: "adsTerms",
+          widget: "string",
+          required: false,
+          default: "Test Term 1, Test Term 2, Test Term 3, Test Term 4",
         }
       - { label: "Tag", name: "tag", widget: "list" }
       - {

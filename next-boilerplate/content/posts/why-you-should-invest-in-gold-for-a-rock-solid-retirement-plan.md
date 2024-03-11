@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Why You Should Invest in Gold for a Rock Solid Retirement Plan"
 date: "2020-05-14 10:11:22"
 author: "Kelly F"
 tag:
   - Gold
   - retirement
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
 description: ""

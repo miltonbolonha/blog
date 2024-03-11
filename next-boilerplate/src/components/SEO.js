@@ -19,7 +19,9 @@ const Seo = ({ children, data = null }) => {
         content={data?.featuredImage || data?.brandCardImage}
       />
 
-      <meta name='keywords' content={data?.keywords?.map(e => e)} />
+      {data?.topology === "post" ? null : (
+        <meta name='keywords' content={data?.keywords?.map(e => e)} />
+      )}
 
       <meta name='author' content={data?.author} />
       <meta property='article:author' content={data?.siteUrl} />

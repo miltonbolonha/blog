@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Why You Should Consolidate Your Debt or Refinance Your Home Right Now"
 date: "2020-08-13 16:31:31"
 author: "Deborah Woehr"
 tag:
   - "consolidate debt"
   - "refinance house"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Money
 description: ""

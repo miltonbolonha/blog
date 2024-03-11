@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Financial Lessons For 3-5 Year Olds  &#8211; It's Never Too Early To Start"
 date: "2016-01-31 12:07:41"
 author: "Deborah Woehr"
@@ -8,6 +9,7 @@ tag:
   - savings
   - want
   - work
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Money
 description: ""

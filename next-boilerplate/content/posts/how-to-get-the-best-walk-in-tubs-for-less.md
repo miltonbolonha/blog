@@ -1,4 +1,5 @@
 ---
+status: true
 title: "How to Get the Best Walk-In Tubs for Less"
 date: "2020-06-26 09:02:34"
 author: "Missy McKee"
@@ -6,6 +7,7 @@ tag:
   - elderly
   - safety
   - "save money"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""
@@ -63,5 +65,5 @@ Even with this help though, be sure to treat this as the very important decision
 
 <sup> </sup>
 
-1. [Slide-in Bathtubs: The Basics](http://homeability.com/slide-in-bathtub-buying-guide/)
-2. [Easy guide to VAT exemption on disability goods and services](http://www.disabilityscot.org.uk/easy-guide-to-vat-exemption-on-disability-goods-and-services/)
+1. [Slide-in Bathtubs: The Basics](https://homeability.com/slide-in-bathtub-buying-guide/)
+2. [Easy guide to VAT exemption on disability goods and services](https://www.disabilityscot.org.uk/easy-guide-to-vat-exemption-on-disability-goods-and-services/)

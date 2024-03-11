@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Is Getting a Psychology Degree a Smart Option in 2020?"
 date: "2020-10-08 07:59:11"
 author: "Greyson F"
@@ -6,6 +7,7 @@ tag:
   - college
   - "college degree"
   - psychology
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""

@@ -1,10 +1,12 @@
 ---
+status: true
 title: "How to Choose the Best Checking Accounts – Grow Your Money, Stay Safe, Enjoy Benefits!"
 date: "2020-07-04 08:09:23"
 author: "Rene Williams"
 tag:
   - "checking account"
   - "save money"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Money
 description: ""

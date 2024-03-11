@@ -1,17 +1,17 @@
 ---
+status: true
 title: "The Virtual Office and Why You’re Missing Out"
 date: "2015-04-20 13:18:39"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""
 layout: post
 image: virtual-office.jpg
 ---
-
-![virtual office](http://mt2.wpengine.com/wp-content/uploads/2015/03/virtual-office.jpg)
 
 Office rent prices are always rising with each passing year. It is becoming increasingly hard for businesses to hire good talent while at the same time keep their overhead costs low. This is perhaps one of the major reasons why virtual offices have become mainstream over the last decade. Telecommuting, as it is also known is a great way of making sure that employees do the required work without having to worry about added costs such as rent and office furniture and supplies. In this post, we’ll take a look at some of the advantages of having a virtual office compared to a brick-and-mortar one.
 
@@ -25,7 +25,7 @@ Virtual offices are also ideal for certain personalities who would rather work a
 
 ## Hiring Great Talent is Easy
 
-Given the fact that virtual offices don’t require individuals to be in one location, you as the business owner are free to hire people from other parts of the country and [internationally](http://hiring.monster.com/hr/hr-best-practices/monster-training/security-center/hiring-non-us-workers.aspx). This puts you in touch with exceptional talent for a much cheaper price, which in the end boosts your bottom line.
+Given the fact that virtual offices don’t require individuals to be in one location, you as the business owner are free to hire people from other parts of the country and [internationally](https://hiring.monster.com/hr/hr-best-practices/monster-training/security-center/hiring-non-us-workers.aspx). This puts you in touch with exceptional talent for a much cheaper price, which in the end boosts your bottom line.
 
 ## Good for the Environment
 

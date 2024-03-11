@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Medical Billing and Coding Degrees – The Basics"
 date: "2020-08-21 06:42:58"
 author: "Greyson F"
@@ -6,6 +7,7 @@ tag:
   - Medical
   - "Medical biller"
   - "Medical coder"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""

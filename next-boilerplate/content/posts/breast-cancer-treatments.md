@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Breast Cancer Treatments"
 date: "2020-10-24 15:31:58"
 author: "Kimberly Landess"
@@ -6,6 +7,7 @@ tag:
   - breast
   - "breast cancer"
   - cancer
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

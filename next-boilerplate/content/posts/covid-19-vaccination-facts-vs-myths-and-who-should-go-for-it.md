@@ -1,25 +1,25 @@
 ---
 title: "COVID-19 Vaccination: Facts vs Myths and Who Should Go for it?"
-date: "2021-04-30 09:01:00"
-author: "Rene Williams"
+date: 2021-04-30 09:01:00
+author: Rene Williams
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
+categories:
+  - Health
+image: corona-vaccination-health-hand-human-body-neck-1640988-pxhere.com_.jpg
+layout: post
+status: true
 tag:
   - Covid-19
-  - "Johnson n Johnson"
+  - Johnson n Johnson
   - Moderna
   - Pfizer
   - vaccine
-categories:
-  - Health
 description: ""
-layout: post
-image: corona-vaccination-health-hand-human-body-neck-1640988-pxhere.com_.jpg
 ---
 
 A little over a year into the COVID-19 pandemic and the virus still lingers on. But the CDC has authorized the use of three vaccines, Pfizer-BioNTech, Moderna, and Johnson n Johnson to curb the impact of the virus.
 
 According to NPR<sup>1</sup>, around 64.4 million Americans have been vaccinated with about 171 million doses being administered. That is about 20% of the country’s population. Another research<sup>2</sup>, mentions that around 85% of the population needs to be vaccinated before the virus stops spreading. The country still has a long way to go to reach that mark.
-
-[![](/posts/corona-vaccination-health-hand-human-body-neck-1640988-pxhere.com_.jpg)](/posts/corona-vaccination-health-hand-human-body-neck-1640988-pxhere.com_.jpg)
 
 To help you understand a bit more about the three vaccines currently being rolled out, we discuss facts and myths around them.
 

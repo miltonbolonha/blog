@@ -1,9 +1,11 @@
 ---
+status: true
 title: "10 Best Lightweight Luggage Options for Traveling"
 date: "2016-12-20 12:24:45"
 author: "Deanna Madera"
 tag:
   - "lightweight luggage"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
   - Video

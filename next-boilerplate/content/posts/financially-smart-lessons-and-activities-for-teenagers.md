@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Financially Smart Lessons And Activities for Teenagers"
 date: "2016-02-09 10:57:23"
 author: "Deanna Madera"
@@ -8,6 +9,7 @@ tag:
   - IRA
   - taxes
   - teenager
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Money
 description: ""
@@ -27,7 +29,7 @@ Perhaps your teenager often says “I know, I know, I know!” So what advise ca
 - Explain that kids that graduate college can earn about twice as much as money as compared to those who did not receive a college degree.
 - Discuss with your child how much money you can contribute to your child’s college tuition and expenses each year.
 - There are many loans, scholarships, and grants available to your child. Check out [Federal Aid](https://studentaid.ed.gov/sa/). Use their calculators to estimate monthly loan payments.
-- Go on-line with your child and compare [college costs](http://moderntips.com/way-too-easy-strategies-to-reduce-the-cost-of-college), and other factors so you and your child can see the big picture. You will also want to look at the colleges’ graduation rate, average monthly loan payment, loan default rate, and employment prospects. Visit the U.S. Department of Education”[College Scorecard](https://collegescorecard.ed.gov/)“
+- Go on-line with your child and compare [college costs](/way-too-easy-strategies-to-reduce-the-cost-of-college), and other factors so you and your child can see the big picture. You will also want to look at the colleges’ graduation rate, average monthly loan payment, loan default rate, and employment prospects. Visit the U.S. Department of Education”[College Scorecard](https://collegescorecard.ed.gov/)“
 - Since many parents don’t pay the tuition “sticker price,” look for the “net price calculator” on the college’s website.
 - To estimate the parent’s and student’s financial aid, use the Free Application for Federal Student Aid [FAFSA tools](https://fafsa.ed.gov/).
 
@@ -38,10 +40,10 @@ Perhaps your teenager often says “I know, I know, I know!” So what advise ca
 
 **Activities to reach milestone**:
 
-- Teach your child a budget and create an [income and expenses budgeting worksheet](http://www.mymoney.gov/spend/Pages/spend.aspx).
+- Teach your child a budget and create an [income and expenses budgeting worksheet](https://www.mymoney.gov/spend/Pages/spend.aspx).
 - Discuss with your child why having a savings and spending plan in place may help avoid using credit cards.
 - Explain that whenever you use a credit card, try to pay off the balance in full every month. If not, you may be charged a high interest rate on the balance. Also discuss the monetary and credit consequences if your child is late making a payment.
-- Show your child how long it could take to repay a $500 credit card debt by making the minimum monthly payments. [Check out this calculator](http://www.bankrate.com/calculators/credit-cards/credit-card-payoff-calculator.aspx).
+- Show your child how long it could take to repay a $500 credit card debt by making the minimum monthly payments. [Check out this calculator](https://www.bankrate.com/calculators/credit-cards/credit-card-payoff-calculator.aspx).
 
 ### TAXES
 

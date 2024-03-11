@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Diabetes Treatments – How to Live a Normal, Healthy Life and Feel Amazing"
 date: "2020-08-29 09:08:13"
 author: "Kimberly Landess"
 tag:
   - "diabetes treatment"
   - health
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

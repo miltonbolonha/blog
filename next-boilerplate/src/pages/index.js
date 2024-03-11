@@ -1,6 +1,5 @@
 import React, { useRef, useState, useEffect } from "react";
 // import Head from "next/head";
-import Cookies from "universal-cookie";
 import Link from "next/link";
 import { usePathname, useSearchParams } from "next/navigation";
 // import { usePathname } from "next/navigation";
@@ -15,7 +14,6 @@ import Row from "../containers/RowContainer";
 import HeaderContainer from "../containers/HeaderContainer";
 // import TopRibbonContainer from "../containers/TopRibbonContainer";
 // import FAQContainer from "../containers/FAQContainer";
-// import FeedbackContainer from "../containers/FeedbackContainer";
 // import LoadMime from "../containers/LoadMimeContainer";
 // import FooterHighlightContainer from "../containers/FooterHighlightContainer";
 import FooterContainer from "../containers/FooterContainer";
@@ -67,13 +65,6 @@ const Home = ({ posts, searchParams }) => {
     setUserInfos(data);
     return setCity(data?.geo?.city || "Los Angeles");
   };
-
-  const cookies = new Cookies();
-  const hasSuccessCookies =
-    cookies.get("locationValue") ||
-    cookies.set("locationValue", null, {
-      path: "/",
-    });
 
   // Pass data to the page via props
   const gtagCounter = id => {

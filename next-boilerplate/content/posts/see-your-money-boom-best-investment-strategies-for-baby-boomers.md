@@ -1,4 +1,5 @@
 ---
+status: true
 title: "See Your Money Boom: Best Investment Strategies for Baby Boomers"
 date: "2020-11-11 16:12:49"
 author: "Greyson F"
@@ -6,6 +7,7 @@ tag:
   - "Baby boomers"
   - Gold
   - investments
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
 description: ""

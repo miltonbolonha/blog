@@ -1,9 +1,11 @@
 ---
+status: true
 title: "What Are You Exactly Buying When You Buy Stock?"
 date: "2015-04-14 15:21:02"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
 description: ""

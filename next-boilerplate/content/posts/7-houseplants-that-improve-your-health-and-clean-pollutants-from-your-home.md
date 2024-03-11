@@ -1,4 +1,5 @@
 ---
+status: true
 title: "7 Houseplants That Improve Your Health And Clean Pollutants From Your Home"
 date: "2016-02-02 12:18:06"
 author: "Rene Williams"
@@ -13,6 +14,7 @@ tag:
   - pollutants
   - "snake plant"
   - "spider plant"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""
@@ -22,7 +24,7 @@ image: bigstock-Happy-Woman-Breathing-Deep-Fre-61556255.jpg
 
 ### English Ivy![english ivy is one of many houseplants that can improve your health](/posts/bigstock-Ivy-4000424-1024x768.jpg)
 
-##### Houseplants Clean Pollutants
+## Houseplants Clean Pollutants
 
 Clean smells do not always mean clean air. There are many pollutants in the air, and home air filters can only do so much to detoxify what we breath. NASA, in association with the Associated Landscape Contractors of America, studied houseplants as a way to purify the air. The joint study concluded there are many houseplants that filter out chemicals, many of which are found in household cleaning products.
 
@@ -30,7 +32,7 @@ In 2008, Dutch researchers found that hospital patients who had plants in their 
 
 The benefits of some indoor houseplants not only detoxifies the air breath, but it can also can reduce colds, increase brain functions, reduce stress, lower anxiety, and may get you a better night’s sleep. Here are some beautiful plants that have a hidden medicinal effect on you.
 
-##### English Ivy
+## English Ivy
 
 English Ivy is the number one plant endorsed by the NASA study, as it may help respiratory problems and asthma. This plant has a purifying score of 7.8 and it is the most effective plant when it comes to absorbing formaldehyde, commonly found in cleaning products, toilet paper, tissues and personal care products. English Ivy has been known to reduce airborne mold by 78% and fecal matter particles by 58%. Be cautious where you place English ivy in your home, since it is toxic if ingested.
 
@@ -62,5 +64,5 @@ According to NASA’s study, the Golden Pothos plant clear formaldehyde from the
 
 The air in your home will also benefit from these houseplants, since they have some great filtering capabilities: Gardenia, Jasmine, Lavender,and Valerian plant
 
-For a list of some common houseplants that are toxic, please click [here](http://listverse.com/2011/03/22/10-common-plants-you-didnt-know-were-toxic/).  
+For a list of some common houseplants that are toxic, please click [here](https://listverse.com/2011/03/22/10-common-plants-you-didnt-know-were-toxic/).  
 Which houseplants do you have in your home?

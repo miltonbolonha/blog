@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Don't Give Away Your Old Jeans &#8211; Inventive Ways To Renew Old Jeans"
 date: "2016-01-25 12:34:49"
 author: "Deanna Madera"
@@ -7,6 +8,7 @@ tag:
   - jeans
   - lace
   - studs
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""
@@ -18,7 +20,7 @@ image: bigstock-Naughty-Girl-96911699.jpg
 
 Jeans are a special piece of clothing that can be worn for many occasions. While they usually wear great, they may get worn, lose their shape, or just go out of style. Before deciding to give away some of your favorite denims, you may want to consider some inventive and easy DIY ways to renew and make them again fashionable.
 
-Distressing your old pair of denims is easily done at home with just a few simple tools and tricks. American Eagle Outfitters created a great post with [step-by-step directions](http://blog.ae.com/2014/10/10/do-a-distressed-denim-diy/). You will need:
+Distressing your old pair of denims is easily done at home with just a few simple tools and tricks. American Eagle Outfitters created a great post with [step-by-step directions](https://blog.ae.com/2014/10/10/do-a-distressed-denim-diy/). You will need:
 
 - **Sandpaper**– for light distressing and breaking down the denim fabric
 - **Razor blade** – scrapes away surface threads and cuts seams

@@ -1,4 +1,5 @@
 ---
+status: true
 title: "7 Warning Signs of a Bad Financial Advisor"
 date: "2017-02-13 10:29:55"
 author: "Sarah H"
@@ -11,6 +12,7 @@ tag:
   - "need to understand"
   - "returning your calls"
   - "tell you the truth"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
 description: ""

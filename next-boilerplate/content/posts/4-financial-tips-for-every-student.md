@@ -1,23 +1,24 @@
 ---
-title: "4 Financial Tips for Every Student"
-date: "2015-04-28 13:26:51"
-author: "Deanna Madera"
-tag:
-  - General
+title: 4 Financial Tips for Every Student
+date: 2015-04-28 13:26:51
+author: Deanna Madera
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
-description: ""
-layout: post
 image: financial-tips.jpg
+layout: post
+status: true
+tag:
+  - General
+  - Financial Tips
+description: ""
 ---
-
-![financial tips](http://mt2.wpengine.com/wp-content/uploads/2015/03/financial-tips-1024x681.jpg)
 
 Going off to college can be an exciting and apprehensive time for most students. On one part, we can’t help but be excited about the world that’s about to open to us on account of the different people we’ll meet and the experiences we’ll share, but there’s always that fear of the debt that we’ll rack up post-college. The truth is, with some sound financial tips, you won’t have to worry about the money drain that most students experience during the best years of their lives. In this post, we’ll provide you with quick and easy tips on how to save money as you go through college.
 
 ## Opt for Cheap Entertainment Options
 
-You don’t have to go to every concert in town in order to have fun or drink like it’s going out of style to get a good buzz and socialize with your friends. You could decide to [hold poker night](http://uk.askmen.com/money/how_to_150/163_how_to.html) every so often or plan a hike with a few close friends every weekend if you want. In addition, you could do movie nights and ask everyone to bring their own drinks and snacks. This way, you get to slash your entertainment bill without having to worry about missing out on some great college times.
+You don’t have to go to every concert in town in order to have fun or drink like it’s going out of style to get a good buzz and socialize with your friends. You could decide to [hold poker night](https://uk.askmen.com/money/how_to_150/163_how_to.html) every so often or plan a hike with a few close friends every weekend if you want. In addition, you could do movie nights and ask everyone to bring their own drinks and snacks. This way, you get to slash your entertainment bill without having to worry about missing out on some great college times.
 
 ## Look Into Attending Community College
 
@@ -29,7 +30,7 @@ Student discounts may not overtly be advertised by various stores and services. 
 
 ## Look into Merit-Based Scholarships
 
-A lot of us have heard of sports-based scholarships. The truth is that only a very small percentage of individuals who apply for sports-based scholarships eventually qualify for them. If you want to boost your chances, you might want to make sure that your high school academic scores are above average since this is what will most likely garner you a scholarship position. Make sure to explore the different [merits in different subjects and activities](http://www.gocollege.com/financial-aid/scholarships/types/merit-scholarships.html) so you can expand your possibilities.
+A lot of us have heard of sports-based scholarships. The truth is that only a very small percentage of individuals who apply for sports-based scholarships eventually qualify for them. If you want to boost your chances, you might want to make sure that your high school academic scores are above average since this is what will most likely garner you a scholarship position. Make sure to explore the different [merits in different subjects and activities](https://www.gocollege.com/financial-aid/scholarships/types/merit-scholarships.html) so you can expand your possibilities.
 
 ## Bonus Tips
 

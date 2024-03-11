@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Take Your CV to the Next Level with an Online Business Qualification"
 date: "2021-02-25 12:26:00"
 author: "Sarah H"
 tag:
   - "business degree"
   - MBA
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""
@@ -85,7 +87,7 @@ This is really the biggest benefit of online learning: you can find any kind of 
 2. [MBA Degree: Master’s in Business Administration](https://www.edx.org/masters/online-master-business-administration-mba-bux?source=aw&awc=6798_1582027604_f0e0aa94d1a1cdc927cc97e22748c7a6&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=78888_Skimlinks)
 3. [MBA – Warrington College of Business](https://warrington.ufl.edu/mba/program-options/online-mba/online-two-year/courses-and-curriculum/)
 4. [Executive MBA Formats – University of Viginia](https://www.darden.virginia.edu/executive-mba-formats/program-faculty/distance-learning)
-5. [Southern Association of Colleges and Schools Commission on Colleges](http://sacscoc.org/)
+5. [Southern Association of Colleges and Schools Commission on Colleges](https://sacscoc.org/)
 6. [The Association to Advance Collegiate Schools of Business International](https://www.aacsb.edu/)
 7. [Bachelor of Science in Business Management Key West University](https://www.onlinestudies.com/Bachelor-of-Science-in-Business-Management/USA/Key-West-University/)
 8. [Bachelor in Business Management (Online)](<https://www.onlinestudies.com/Bachelor-in-Business-Management-(Online)/Spain/Schellhammer-Business-School/>)[ Schellhammer Business School](<https://www.onlinestudies.com/Bachelor-in-Business-Management-(Online)/Spain/Schellhammer-Business-School/>)

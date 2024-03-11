@@ -1,10 +1,12 @@
 ---
+status: true
 title: "10 Expert Tips To Make 2017 Your Most Productive Year Yet (#4 Is Brilliant!)"
 date: "2017-03-03 12:15:12"
 author: "Greyson F"
 tag:
   - "expert tips"
   - productivity
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: "Looking for ways to make 2017 your most productive year yet? Here are 10 easy tips you can follow and incorporate into your every day life, no matter what."
@@ -61,7 +63,7 @@ Come up with activities you need to stop doing. Perhaps it is checking social me
 ![tackle what's important productive](/posts/shutterstock_573146803.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4418">  
 [Gustavo Frazao](https://www.shutterstock.com/image-photo/take-action-573146803)</figcaption></figure>
 
-Everything you do has varying importance. Some tasks are more important than others and you need to start your work day off with the important ones. If most of your work comes out of your email, you can use a plugin from Google called “[Boomerang](http://www.boomeranggmail.com).” This categorizes the importance of messages so you know what to focus on first.
+Everything you do has varying importance. Some tasks are more important than others and you need to start your work day off with the important ones. If most of your work comes out of your email, you can use a plugin from Google called “[Boomerang](https://www.boomeranggmail.com).” This categorizes the importance of messages so you know what to focus on first.
 
 ### Do What You Love
 

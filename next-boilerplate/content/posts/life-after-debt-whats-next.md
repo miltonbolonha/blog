@@ -1,9 +1,11 @@
 ---
+status: true
 title: "Life After Debt – What’s Next?"
 date: "2015-05-12 10:53:49"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Credit
 description: ""
@@ -11,9 +13,9 @@ layout: post
 image: life-after-debt.png
 ---
 
-[![life after debt](http://mt2.wpengine.com/wp-content/uploads/2015/03/life-after-debt.png)](http://mt2.wpengine.com/wp-content/uploads/2015/03/life-after-debt.png)
+[![life after debt](/life-after-debt.jpg)](/life-after-debt.jpg)
 
-Millions of Americans [owe money to financial institutions in the form of debt](http://www.nerdwallet.com/blog/credit-card-data/average-credit-card-debt-household/). Whether it’s credit card debt, a mortgage or student loans, we all have something that’s holding us back financially, causing us untold misery and sometimes sleepless nights. Being in debt is no fun, so it shouldn’t come as a surprise when you feel like a weight has been lifted off your shoulders the moment you make that last payment to finally make you debt-free. However, existential angst may soon set in, leaving with questions that gnaw at you. What’s next after conquering debt? In this post, we’ll answer this question as well as give you tips to help you go forward in your new life.
+Millions of Americans [owe money to financial institutions in the form of debt](https://www.nerdwallet.com/blog/credit-card-data/average-credit-card-debt-household/). Whether it’s credit card debt, a mortgage or student loans, we all have something that’s holding us back financially, causing us untold misery and sometimes sleepless nights. Being in debt is no fun, so it shouldn’t come as a surprise when you feel like a weight has been lifted off your shoulders the moment you make that last payment to finally make you debt-free. However, existential angst may soon set in, leaving with questions that gnaw at you. What’s next after conquering debt? In this post, we’ll answer this question as well as give you tips to help you go forward in your new life.
 
 ## Set Up an Emergency Fund
 
@@ -25,6 +27,6 @@ Most of us stay in jobs that we don’t particularly like because we have to pay
 
 ## Reward Yourself; You Deserve It!
 
-Positive reinforcement [is at the cornerstone of good human behavior](http://www.simplypsychology.org/operant-conditioning.html). Clearing your debt should send you over the moon, and you should celebrate. Organize a party and call your friends over to celebrate your good news. Offer them tips on how they can do the same, and make the party both fun and educational. You’d be surprised at how many people are in your past situation and how a single word of encouragement can go a long way in helping them finally break free, just like you did.
+Positive reinforcement [is at the cornerstone of good human behavior](https://www.simplypsychology.org/operant-conditioning.html). Clearing your debt should send you over the moon, and you should celebrate. Organize a party and call your friends over to celebrate your good news. Offer them tips on how they can do the same, and make the party both fun and educational. You’d be surprised at how many people are in your past situation and how a single word of encouragement can go a long way in helping them finally break free, just like you did.
 
 Life after debt presents so many opportunities that, if taken seriously, will go a long way in making sure that you never have to go back to your dreaded debt years.

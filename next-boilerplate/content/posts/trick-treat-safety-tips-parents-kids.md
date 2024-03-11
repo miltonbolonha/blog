@@ -1,4 +1,5 @@
 ---
+status: true
 title: "6 Trick-or-Treat Safety Tips for Parents and Kids"
 date: "2016-10-28 17:47:41"
 author: "Deanna Madera"
@@ -6,6 +7,7 @@ tag:
   - halloween
   - tips
   - "trick or treat"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
   - Video

@@ -1,9 +1,11 @@
 ---
+status: true
 title: "The Top 3 Secured Credit Cards for 2018"
 date: "2015-04-29 08:35:12"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Credit
 description: ""
@@ -11,9 +13,7 @@ layout: post
 image: Top-3-Unsecured-Credit-Cards.jpg
 ---
 
-![Top 3 Unsecured Credit Cards](http://mt2.wpengine.com/wp-content/uploads/2015/03/Top-3-Unsecured-Credit-Cards-1024x576.jpg)
-
-[Bad credit can affect your life in more ways than one](http://www.gobankingrates.com/personal-finance/consequences-having-bad-credit/). Luckily, there are things you can do to help build up your credit such as signing up for a secured credit card. This is a simple card that requires you to put down a deposit that more often than not matches your credit limit on the card. Should you fail to make payments, this deposit is taken from a designated account and used to pay off what you owe to the card issuer. In this post, we’ll take a look at the top 5 best secured credit cards for 2018 as well as the unique selling point for each card.
+[Bad credit can affect your life in more ways than one](https://www.gobankingrates.com/personal-finance/consequences-having-bad-credit/). Luckily, there are things you can do to help build up your credit such as signing up for a secured credit card. This is a simple card that requires you to put down a deposit that more often than not matches your credit limit on the card. Should you fail to make payments, this deposit is taken from a designated account and used to pay off what you owe to the card issuer. In this post, we’ll take a look at the top 5 best secured credit cards for 2018 as well as the unique selling point for each card.
 
 ## The Wells Fargo Secured Credit Card
 
@@ -25,6 +25,6 @@ We decided to feature [this card](https://www.bankofamerica.com/credit-cards/pro
 
 ## The Capital One ® Secured Credit Card
 
-[This card is issued by Capital One Financial](http://www.capitalone.com/credit-cards/secured-mastercard/), one of the most recognized and biggest banks in the country. You won’t get charged an application fee, and with a low yearly fee of just $29, it is obviously a winner. The bank also reports automatically to all three major credit bureaus once you start using the card which is essentially a good thing since it’s this kind of prompt reporting that will go a long way in rebuilding your credit score. Lastly, the card is served by a responsive 24 hour customer support team. Your credit line with the Capital One ® secured credit card ranges between $200 to $3,000, and comes with an incredible 50 cents interest charge.
+[This card is issued by Capital One Financial](https://www.capitalone.com/credit-cards/secured-mastercard/), one of the most recognized and biggest banks in the country. You won’t get charged an application fee, and with a low yearly fee of just $29, it is obviously a winner. The bank also reports automatically to all three major credit bureaus once you start using the card which is essentially a good thing since it’s this kind of prompt reporting that will go a long way in rebuilding your credit score. Lastly, the card is served by a responsive 24 hour customer support team. Your credit line with the Capital One ® secured credit card ranges between $200 to $3,000, and comes with an incredible 50 cents interest charge.
 
 Whatever card you choose to pick, please be aware that these cards should be used to specifically build your credit score so you can reclaim the benefits of having a high score.

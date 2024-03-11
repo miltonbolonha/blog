@@ -1,4 +1,5 @@
 ---
+status: true
 title: "10 Ways The Great Depression Shaped Multiple Generations"
 date: "2017-01-26 12:30:51"
 author: "Sarah H"
@@ -8,6 +9,7 @@ tag:
   - repair
   - sales
   - save
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""
@@ -85,7 +87,7 @@ Picnicking and Sunday drives became popular during this era. While wealthy peopl
 
 ![conserve water](/posts/shutterstock_116621380.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4388">[T.Dallas](https://www.shutterstock.com/image-photo/water-saving-116621380)</figcaption></figure>
 
-The Dustbowl and [several other great droughts](http://oldphotoarchive.com/stories/10-things-people-learned-from-the-Great-Depression) made it necessary for families to think about how much water they were using and take steps to conserve it. Today, similar droughts in some areas of the country have caused water bills to skyrocket. While it may not be time to bring out a metal washtub for the whole family to share, it could be a good idea to learn some techniques for saving water.
+The Dustbowl and [several other great droughts](https://oldphotoarchive.com/stories/10-things-people-learned-from-the-Great-Depression) made it necessary for families to think about how much water they were using and take steps to conserve it. Today, similar droughts in some areas of the country have caused water bills to skyrocket. While it may not be time to bring out a metal washtub for the whole family to share, it could be a good idea to learn some techniques for saving water.
 
 ### Never give up
 

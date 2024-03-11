@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Remedies and Treatments for Psoriasis – Enjoy Amazing Skin"
 date: "2020-07-28 12:08:02"
 author: "Deanna Madera"
 tag:
   - Psoriasis
   - skin
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

@@ -1,8 +1,11 @@
 import React, { useState } from "react";
-import ReactDOMServer from "react-dom/server";
+// import ReactDOMServer from "react-dom/server";
+import Script from "next/script";
+import Head from "next/head";
+
 import Link from "next/link";
 import Image from "next/image";
-import { parse } from "node-html-parser";
+// import { parse } from "node-html-parser";
 import slugify from "slugify";
 // import AdsList from "../components/AdsList";
 import Row from "../containers/RowContainer";
@@ -56,9 +59,18 @@ const SinglePostBlock = ({
   replacedHtml,
   relatedPosts,
   city,
+  killSEO,
+  rampJSref,
+  adsTerms,
 }) => {
   return (
     <article>
+      {killSEO ? <div ref={rampJSref}></div> : null}
+
+      <Head>
+        <meta name='keywords' content={adsTerms} />
+      </Head>
+
       <section>
         <div className={`main-post ${promoNOread ? "promoVisit" : ""}`}>
           <div className={`left-column ${promoNOread ? "none" : ""}`}>
@@ -121,13 +133,13 @@ const SinglePostBlock = ({
                 />
               </>
             ) : null}
-            <div id='rampjs_slot1'></div>
+            {!killSEO ? <div id='rampjs_slot1'></div> : null}
             {!promoNOread ? (
               <>
                 <Row
                   opt={{
                     numColumns: 2,
-                    classes: "post-author-infos mobile-only",
+                    classes: "post-author-infos",
                     isBoxed: true,
                   }}
                 >
@@ -183,7 +195,7 @@ const SinglePostBlock = ({
               className={`ads ads-right-column ${promoNOread ? "none" : ""}             
               `}
             >
-              {!promoNOread ? (
+              {!promoNOread && !killSEO ? (
                 <Adsense
                   slot={"2083202812"}
                   client={mainConfigs.business.adClient}
@@ -222,7 +234,7 @@ const SinglePostBlock = ({
               className={`ads ads-right-column second ${promoNOread ? "none" : ""}
               ${promoVisitState === false && readMore === true ? "" : "sticky"}`}
             >
-              {!promoNOread ? (
+              {!promoNOread && !killSEO ? (
                 <Adsense
                   slot={"2083202812"}
                   client={mainConfigs.business.adClient}
@@ -239,7 +251,7 @@ const SinglePostBlock = ({
             className={`ads footer-highlights ads-bottom-row ${promoNOread ? "none" : ""}
 `}
           >
-            {!promoNOread ? (
+            {!promoNOread && !killSEO ? (
               <Adsense
                 slot={"2083202812"}
                 client={mainConfigs.business.adClient}
@@ -275,6 +287,19 @@ const SinglePostBlock = ({
           </div>
         </div>
       </section>
+      <Script
+        strategy='afterInteractive'
+        id='rampjs'
+        defer
+        crossOrigin='anonymous'
+        dangerouslySetInnerHTML={{
+          __html: `
+          (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
+            arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
+            _rampJs({});
+        `,
+        }}
+      />
     </article>
   );
 };

@@ -1,9 +1,11 @@
 ---
+status: true
 title: "Little Known Debt Settlement Drawbacks You Need to Learn Today"
 date: "2015-06-12 13:46:11"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Credit
 description: ""
@@ -11,7 +13,7 @@ layout: post
 image: Debt-Settlement-Companies-Not-a-Good-Idea.jpg
 ---
 
-[![Debt Settlement Companies Not a Good Idea](http://mt2.wpengine.com/wp-content/uploads/2015/03/Debt-Settlement-Companies-Not-a-Good-Idea.jpg)](http://mt2.wpengine.com/wp-content/uploads/2015/03/Debt-Settlement-Companies-Not-a-Good-Idea.jpg)
+[![Debt Settlement Companies Not a Good Idea](/Debt-Settlement-Companies-Not-a-Good-Idea.jpg)](/Debt-Settlement-Companies-Not-a-Good-Idea.jpg)
 
 Debt settlement companies are a dime a dozen. They are often seen on TV ads, heard over the radio or in print media promising heaven when it comes to getting rid of your debt. While this may all sound fine and dandy, these companies have a hidden underbelly that only those who have dealt with them know about. Being debt free brings with it feelings of joy and relief; however, when dealing with a debt settlement company, this relief may morph into dread and regret a few years down the line. In this post, we’ll take a look at some of the reasons why a debt settlement service isn’t always the best idea.
 
@@ -21,7 +23,7 @@ Debt settlement companies reduce your debt by contacting your creditors on your 
 
 ## Credit Settlement and Your FICO Score
 
-In addition, debt settlement companies may severely hurt [your FICO score](http://www.myfico.com/crediteducation/creditscores.aspx) in the long run. By convincing creditors to forgive your debt, your FICO score may plummet since creditors will pass on this information to the major credit bureaus who take into account how a debt was paid off. Most of these debts are usually marked as ‘settled for less than agree’ which will show up in your credit report, subsequently putting a dent on your record for as long as 7 years.
+In addition, debt settlement companies may severely hurt [your FICO score](https://www.myfico.com/crediteducation/creditscores.aspx) in the long run. By convincing creditors to forgive your debt, your FICO score may plummet since creditors will pass on this information to the major credit bureaus who take into account how a debt was paid off. Most of these debts are usually marked as ‘settled for less than agree’ which will show up in your credit report, subsequently putting a dent on your record for as long as 7 years.
 
 ## Inflated Interest Rates
 

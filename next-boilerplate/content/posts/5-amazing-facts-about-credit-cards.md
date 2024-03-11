@@ -1,4 +1,5 @@
 ---
+status: true
 title: "5 Surprising Facts About Credit Cards You Didn’t Know Until Now"
 date: "2019-01-03 11:04:53"
 author: "Greyson F"
@@ -8,6 +9,7 @@ tag:
   - "Credit card"
   - "diner's club"
   - "expiration date"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Credit
   - Frugality
@@ -19,7 +21,7 @@ image: 3-Journey-Student-Rewards-From-Capital-One-credit-card.jpg
 
 <figure aria-describedby="caption-attachment-3858" class="wp-caption alignnone" id="attachment_3858" style="width: 700px">
 
-![](/posts/3-Journey-Student-Rewards-From-Capital-One-credit-card.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3858">[Aleksandra_Gigowska](http://www.shutterstock.com/pic-110115272/stock-photo-closeup-of-blue-credit-card-holded-by-hand-focus-on-card.html)</figcaption></figure>
+![](/posts/3-Journey-Student-Rewards-From-Capital-One-credit-card.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3858">[Aleksandra_Gigowska](https://www.shutterstock.com/pic-110115272/stock-photo-closeup-of-blue-credit-card-holded-by-hand-focus-on-card.html)</figcaption></figure>
 
 ### Credit Card Expiration Date Doesn’t Matter
 

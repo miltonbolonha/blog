@@ -1,10 +1,12 @@
 ---
+status: true
 title: "The Most Stressful Jobs &#8211; Are They Worth it?"
 date: "2016-06-07 14:29:17"
 author: "Deanna Madera"
 tag:
   - Jobs
   - Stress
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
   - Health
@@ -19,7 +21,7 @@ image: stressful-jobs-featured-image.jpg
 
 At some time, most people run across stressful situations at work. It’s inevitable and for many of us it’s difficult to predict when it will happen. It can be related to a particular assignment, your boss, or it can come with the territory. Without a doubt, some positions have a higher level of stress than others. What are the most stressful jobs and why? Are they bad for your health?
 
-CareerCast ranked many jobs using a list of stress factors. They looked at the typical demands imposed on these positions and what type of crisis they may expect to be put under. They determined the following factors evokes stress: physical demands, hazards, life of another at risk, your life at risk, growth potential, deadlines, travel, being in the public eye, competitiveness, environmental conditions, and meeting with the public. Jobs were rated by these 11 factors and ranked accordingly with a score of 0-15 (some were 0-5). The following are CarrerCast’s top list (those with “Stress Level” scores) of the most stressful jobs in addition to other high stress positions that we added. After viewing these positions, you may want to consider looking at the [least stressful jobs](http://moderntips.com/highest-paying-least-stressful-jobs).
+CareerCast ranked many jobs using a list of stress factors. They looked at the typical demands imposed on these positions and what type of crisis they may expect to be put under. They determined the following factors evokes stress: physical demands, hazards, life of another at risk, your life at risk, growth potential, deadlines, travel, being in the public eye, competitiveness, environmental conditions, and meeting with the public. Jobs were rated by these 11 factors and ranked accordingly with a score of 0-15 (some were 0-5). The following are CarrerCast’s top list (those with “Stress Level” scores) of the most stressful jobs in addition to other high stress positions that we added. After viewing these positions, you may want to consider looking at the [least stressful jobs](/highest-paying-least-stressful-jobs).
 
 ### Working Parents
 

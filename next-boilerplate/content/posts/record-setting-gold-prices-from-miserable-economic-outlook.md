@@ -1,9 +1,11 @@
 ---
+status: true
 title: "Record Setting Gold Prices From Miserable Economic Outlook"
 date: "2020-08-31 14:47:07"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - General
 description: ""
@@ -65,4 +67,4 @@ When the economy is uncertain or there is a pending recession, individuals will 
 
 Consumers, investment companies, and manufactures have long been and will continue to be in love with gold. The drivers of the price of gold include: personal and industrial demand, the value of the dollar, desire to look at gold as a hedge against inflation, and the quantity of gold being held in the central reserve banks.
 
-</div>Take the first step now and explore how you can preserve your purchasing power, protect your assets, and diversify your portfolio – check prices and the best ways to buy gold online.
+Take the first step now and explore how you can preserve your purchasing power, protect your assets, and diversify your portfolio – check prices and the best ways to buy gold online.

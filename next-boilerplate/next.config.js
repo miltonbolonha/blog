@@ -9,7 +9,6 @@ const cspHeader = `
     base-uri 'self';
     form-action 'self';
     frame-ancestors 'none';
-    block-all-mixed-content;
     upgrade-insecure-requests;
 `;
 const isProd = process.env.NODE_ENV === "production";

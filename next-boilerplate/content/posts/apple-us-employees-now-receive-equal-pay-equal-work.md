@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Apple: All US Employees Now Receive Equal Pay For Equal Work"
 date: "2016-09-01 13:03:17"
 author: "Deanna Madera"
 tag:
   - apple
   - "equal pay"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
   - Video

@@ -1,4 +1,5 @@
 ---
+status: true
 title: "16 Smartphone Apps That Pay You: Earn Extra Money With A Couple Of Clicks"
 date: "2016-03-10 20:13:36"
 author: "Deanna Madera"
@@ -7,6 +8,7 @@ tag:
   - "cell phone"
   - "make money"
   - smartphone
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
   - Money
@@ -15,7 +17,7 @@ layout: post
 image: Money-from-Smartphone2.jpg
 ---
 
-![Money from Smartphone app](http://mt2.wpengine.com/wp-content/uploads/2015/07/Money-from-Smartphone.jpg)It would be fantastic to turn your smartphone into an ATM machine. Now you can get paid for using your smartphone! There are many apps that will pay you to download and use them.
+It would be fantastic to turn your smartphone into an ATM machine. Now you can get paid for using your smartphone! There are many apps that will pay you to download and use them.
 
 Here are some money making apps that are worth checking out. Start downloading them now to earn extra cash and rewards.
 

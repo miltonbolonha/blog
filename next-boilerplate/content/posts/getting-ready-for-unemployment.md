@@ -1,9 +1,11 @@
 ---
+status: true
 title: "Getting Ready for Unemployment"
 date: "2016-03-31 13:28:01"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""
@@ -11,13 +13,11 @@ layout: post
 image: unemployed.jpg
 ---
 
-![unemployed](http://mt2.wpengine.com/wp-content/uploads/2015/03/unemployed.jpg)
-
 It’s often said that in these modern times, there’s no such thing as job security. Any one of us can be let go of at a moment’s notice and become part of the unemployment line because of internal or external circumstances. Being unemployed can bring with it a lot of stress as well as uncertainty about the future. That being said, there are a few things you can do to make sure that you are fully prepared for any eventuality. In this post, we’ll take a look at a few practical things you can do if you find yourself heading towards the unemployment door.
 
 ## Always Have and Top Up Your Emergency Fund
 
-Due to the unpredictable nature of work these days, [you should always have an emergency fund](http://manvsdebt.com/emergency-fund/) which will help cushion the fall if you suddenly find yourself out of a job. This should ideally be enough to help you pay your bills for a 6 month period. In addition, you should revise your fund every couple of months to make sure that your living estimates take into account things like inflation and rising rent prices.
+Due to the unpredictable nature of work these days, [you should always have an emergency fund](https://manvsdebt.com/emergency-fund/) which will help cushion the fall if you suddenly find yourself out of a job. This should ideally be enough to help you pay your bills for a 6 month period. In addition, you should revise your fund every couple of months to make sure that your living estimates take into account things like inflation and rising rent prices.
 
 A great way of adding to your emergency fund is to take out a bit of cash from your shopping or non-essential part of your budget every time you feel like spending some cash and putting it in a savings account. If you’re doubtful of your willpower, consider a joint savings account with a spouse or trusted friend that can only be accessed when both parties approve access.
 

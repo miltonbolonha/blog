@@ -1,4 +1,5 @@
 ---
+status: true
 title: "8 Shocking Adult Acne Myths Debunked"
 date: "2016-04-25 17:31:51"
 author: "Deanna Madera"
@@ -10,6 +11,7 @@ tag:
   - Stress
   - toothpaste
   - zits
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""
@@ -35,7 +37,7 @@ image: adult-acne-e1461629279902.jpg
 
 ### Makeup Makes Acne Gets Worse
 
-![makeup causes acne](/posts/makeup-causes-acne-e1461618193717.jpg)Some cosmetic companies still manufacture their products with comedogenic ingredients, which can clog skin pores and make them more susceptible acne breakouts. Look for makeup labeled [non-comedogenic](http://moderntips.com/search-for-skin-care-and-other-personal-care-products-that-are-toxic) and fragrance-free. These products are less likely to clog pores or irritate your skin, thereby reducing bacterial buildup and oil that can may lead to inflammation and acne, according to leading dermatologists. Avoid pressed or caked products since these cosmetics often contain comedogenic ingredients.
+![makeup causes acne](/posts/makeup-causes-acne-e1461618193717.jpg)Some cosmetic companies still manufacture their products with comedogenic ingredients, which can clog skin pores and make them more susceptible acne breakouts. Look for makeup labeled [non-comedogenic](/search-for-skin-care-and-other-personal-care-products-that-are-toxic) and fragrance-free. These products are less likely to clog pores or irritate your skin, thereby reducing bacterial buildup and oil that can may lead to inflammation and acne, according to leading dermatologists. Avoid pressed or caked products since these cosmetics often contain comedogenic ingredients.
 
 Clinicians have found that some makeup ingredients may actually improve acne. Look for powder based mineral foundations since they are great to soak up oil. They typically contain silica. A light and loose dusting is better than a pressed application. Also, don’t apply too much since it may smother and clog your skin pores.
 

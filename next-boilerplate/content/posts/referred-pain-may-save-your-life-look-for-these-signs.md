@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Referred Pain May Save Your Life &#8211; Look For These Signs"
 date: "2016-02-02 12:18:22"
 author: "Deanna Madera"
@@ -7,6 +8,7 @@ tag:
   - "ear pain"
   - "referred pain"
   - "shoulder pain"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

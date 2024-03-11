@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Factors That Effect Change In A Stock's Price"
 date: "2019-02-13 10:15:44"
 author: "Deanna Madera"
@@ -13,6 +14,7 @@ tag:
   - "product recall"
   - stock
   - "stock price"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
 description: ""
@@ -20,13 +22,13 @@ layout: post
 image: Investing.jpg
 ---
 
-![Investing](http://mt2.wpengine.com/wp-content/uploads/2015/07/Investing.jpg)As with most things in life, timing is everything.
+As with most things in life, timing is everything.
 
 Thinking about dabbling in the stock market? Wondering when is the best time to invest in a company. Buy now or wait? Own some stock and want to know why it has gone up or down in value. What are the internal or external influences? The list below summarizes some of the top reasons why a company’s stock price goes up or down.
 
 Before getting to the list, understand this first fundamental rule that many individuals forget: The **value** of a company is its **market capitalization**, which is the stock price multiplied by the number of shares outstanding. **Stock price does not equate to value.** For example, Company “X” trades for $100/share and has 10mm shares outstanding has a lesser value than Company “Y” that trades for $50/share and has 50mm shares outstanding. Before you buy, research the company you are thinking about investing. There is a wealth of information available on many financial investment websites.
 
-##### Keep in mind that stock prices are volatile and can change in price extremely rapidly. Now to factors that effect a stock price to change:
+## Keep in mind that stock prices are volatile and can change in price extremely rapidly. Now to factors that effect a stock price to change:
 
 - \***\*Announcement of dividends** –\*\* Always great if it is the same amount as in the past. If lower, why?
 - **Introduction of a new product or a product recall** – Is it a minor or major recall? Can it easily be fixed? Will this affect the company’s reputation?

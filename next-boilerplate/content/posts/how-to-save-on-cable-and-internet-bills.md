@@ -1,10 +1,12 @@
 ---
+status: true
 title: "How to Save on Cable and Internet Bills"
 date: "2020-09-14 01:03:15"
 author: "Kimberly Landess"
 tag:
   - "cable bill"
   - "internet bill"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""

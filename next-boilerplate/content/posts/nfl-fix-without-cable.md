@@ -1,4 +1,5 @@
 ---
+status: true
 title: "5 Ways to Get Your NFL Fix-Without Paying for Cable"
 date: "2019-02-03 11:04:51"
 author: "Greyson F"
@@ -10,6 +11,7 @@ tag:
   - NFL
   - "nfl sunday ticket"
   - "playstation vue"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
   - Money
@@ -40,7 +42,7 @@ There are now other streaming options to consider. SlingTV does work if you want
 
 <figure aria-describedby="caption-attachment-4614" class="wp-caption alignnone" id="attachment_4614" style="width: 700px">
 
-![sports bar cable](/posts/sports-bar-e1505932434379.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4614">[skitown](http://www.skitownrestaurants.com/park-city-slideshow/best-park-city-bars-clubs-nightlife.php)</figcaption></figure>
+![sports bar cable](/posts/sports-bar-e1505932434379.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4614">[skitown](https://www.skitownrestaurants.com/park-city-slideshow/best-park-city-bars-clubs-nightlife.php)</figcaption></figure>
 
 You have your antenna for local broadcasts. That’s great and all, but what about those Monday Night games? Why not go to the sports bar? It’s a nice way to finish up a Monday and watching the game there a few times a month is potentially cheaper than paying for cable all year.
 

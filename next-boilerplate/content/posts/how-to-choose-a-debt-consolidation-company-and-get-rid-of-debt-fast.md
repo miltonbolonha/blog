@@ -1,4 +1,5 @@
 ---
+status: true
 title: "How to Choose a Debt Consolidation Company and Get Rid of Debt Fast"
 date: "2020-11-23 10:42:04"
 author: "Kelly F"
@@ -6,6 +7,7 @@ tag:
   - "consolidate debt"
   - debt
   - "debt free"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Credit
 description: ""
@@ -14,8 +16,6 @@ image: Debt-consolidation.jpg
 ---
 
 If you’re struggling with debt, then this can impact on every single aspect of your life. It’s a constant source of stress that actually makes it much harder to make smart financial decisions going forward. No one will offer you any good rates for loans, and any money you attempt to save will go straight toward paying off bills. Debt consolidation has an answer though, and it’s the first step many people will take to getting out of this seemingly bottomless hole. But only if you choose the right company to help you!
-
-![](/posts/Debt-consolidation.jpg)
 
 So just what is debt consolidation? Essentially, debt consolidation takes all of the outstanding debts you currently have and then combines them into a single loan with easy monthly repayments<sup>1</sup>. This doesn’t make your debt magically go away, but what it does is to simplify matters significantly _and_ potentially save you lots of money.
 

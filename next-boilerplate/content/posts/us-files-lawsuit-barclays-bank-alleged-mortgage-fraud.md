@@ -1,4 +1,5 @@
 ---
+status: true
 title: "US Files Lawsuit Against Barclays Bank for Alleged Mortgage Fraud"
 date: "2017-01-05 11:01:18"
 author: "Deanna Madera"
@@ -6,6 +7,7 @@ tag:
   - "Barclay Bank"
   - "Barclays Bank"
   - "mortgage fraud"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
   - Money

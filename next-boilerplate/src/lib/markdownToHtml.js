@@ -1,40 +1,54 @@
 // import { remark } from "remark";
 import remarkRehype from "remark-rehype";
 import remarkParse from "remark-parse";
+// import { rehypeExtendedTable } from "rehype-extended-table";
 // import remarkGfm from "remark-gfm";
 import rehypeSanitize from "rehype-sanitize";
 import rehypeRaw from "rehype-raw";
 import { unified } from "unified";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeSlug from "rehype-slug";
-import rehypeFigure from "rehype-figure";
+import rehypeExternalLinks from "rehype-external-links";
+import rehypeAutoAds from "rehype-auto-ads";
 
 // import html from "remark-html";
 import headings from "remark-autolink-headings";
-import slug from "remark-slug";
+// import slug from "remark-slug";
 import remarkOembed from "remark-oembed";
 import rehypeStringify from "rehype-stringify";
 import supersub from "remark-supersub";
 
+const options = {
+  adCode: "<div id='rampjs_slot2'></div>",
+  countFrom: 94,
+  paragraphInterval: 99,
+};
 export default async function markdownToHtml(markdown) {
   const result = await unified()
     .use(remarkParse)
     .use(supersub)
     .use(remarkRehype, { allowDangerousHtml: true })
-    .use(rehypeFigure, { className: "my-figure" })
     .use(remarkOembed)
-    // .use(remarkGfm)
     .use(rehypeAutolinkHeadings)
     .use(rehypeRaw)
+    // .use(remarkGfm)
     .use(rehypeSanitize)
-    .use(rehypeStringify)
+    .use(rehypeStringify, { allowDangerousHtml: true })
     .use(rehypeSlug)
+    .use(rehypeExternalLinks, {
+      target: "_blank",
+      properties: {
+        class: "external-link",
+      },
+      protocols: ["https"],
+    })
     .use(headings, {
       behavior: "wrap",
       linkProperties: {
         className: "anchor",
       },
     })
+    .use(rehypeAutoAds, options)
     .process(markdown);
 
   return String(result) || markdown;

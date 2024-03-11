@@ -1,4 +1,5 @@
 ---
+status: true
 title: "13 Ways to Travel on a Budget (#10 Surprised Us)"
 date: "2016-10-04 10:19:53"
 author: "Deborah Woehr"
@@ -6,6 +7,7 @@ tag:
   - fun
   - "saving money"
   - vacation
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""
@@ -17,15 +19,15 @@ image: shutterstock_113965345.jpg
 
 <figure aria-describedby="caption-attachment-4156" class="wp-caption alignnone" id="attachment_4156" style="width: 700px">
 
-![Enjoy the Outdoors](/posts/shutterstock_180890453.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4156">[monkey_business_images](http://www.shutterstock.com/pic-180890453/stock-photo-rear-view-of-romantic-couple-walking-through-autumn-woodland.html)</figcaption></figure>
+![Enjoy the Outdoors](/posts/shutterstock_180890453.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4156">[monkey_business_images](https://www.shutterstock.com/pic-180890453/stock-photo-rear-view-of-romantic-couple-walking-through-autumn-woodland.html)</figcaption></figure>
 
-Not every vacation needs to involve a resort hotel in some exotic locale. There are plenty of parks which you can visit, ranging from your local parks to state and national parks. Start local and go exploring for an afternoon. Remember to bring sunscreen and insect repellant. If you decide to explore the state or national parks, there are times when you can [go for free](http://lifehacker.com/all-the-days-in-2016-you-can-get-into-national-parks-fo-1752826960). Visit their websites beforehand to learn what to bring, what hazards you need to avoid and where to go inside the parks so that you can get the most out of your experience.
+Not every vacation needs to involve a resort hotel in some exotic locale. There are plenty of parks which you can visit, ranging from your local parks to state and national parks. Start local and go exploring for an afternoon. Remember to bring sunscreen and insect repellant. If you decide to explore the state or national parks, there are times when you can [go for free](https://lifehacker.com/all-the-days-in-2016-you-can-get-into-national-parks-fo-1752826960). Visit their websites beforehand to learn what to bring, what hazards you need to avoid and where to go inside the parks so that you can get the most out of your experience.
 
 ### Find the Best Time to Book Your Transportation
 
 <figure aria-describedby="caption-attachment-4157" class="wp-caption alignnone" id="attachment_4157" style="width: 700px">
 
-![find best time to book](/posts/shutterstock_337016648.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4157">[stock_rocket](http://www.shutterstock.com/pic-337016648/stock-photo-online-payment.html)</figcaption></figure>
+![find best time to book](/posts/shutterstock_337016648.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4157">[stock_rocket](https://www.shutterstock.com/pic-337016648/stock-photo-online-payment.html)</figcaption></figure>
 
 Whether you take the train or fly, a significant amount of your vacation budget will involve transportation. You’ll want to book your tickets between six and eight weeks in advance. Keep an eye out for the best deal by using sites such as Kayak, a popular travel search engine that will help you find and reserve flights or hotels that fit your budget. You should also check with the airlines and see if they offer any discounts.
 
@@ -33,7 +35,7 @@ Whether you take the train or fly, a significant amount of your vacation budget 
 
 <figure aria-describedby="caption-attachment-4158" class="wp-caption alignnone" id="attachment_4158" style="width: 700px">
 
-![hit the road](/posts/shutterstock_394099399.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4158">[jacob_lund](http://www.shutterstock.com/pic-394099399/stock-photo-happy-young-couple-with-a-map-in-the-car-smiling-man-and-woman-using-map-on-roadtrip.html)</figcaption></figure>
+![hit the road](/posts/shutterstock_394099399.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4158">[jacob_lund](https://www.shutterstock.com/pic-394099399/stock-photo-happy-young-couple-with-a-map-in-the-car-smiling-man-and-woman-using-map-on-roadtrip.html)</figcaption></figure>
 
 If you hate to fly or get claustrophobic on trains, a road trip might be a better solution. You will still have to pay for gas, food and lodging, but you can split the costs with friends or family. Road trips offer something that flying and train rides do not–the ability to choose your own route to your ultimate destination. You can stop to eat or take a picture whenever you feel like it. Use apps such as FuelMyRoute and RoadTrippers to discover places you have never been or even known about.
 
@@ -41,7 +43,7 @@ If you hate to fly or get claustrophobic on trains, a road trip might be a bette
 
 <figure aria-describedby="caption-attachment-4159" class="wp-caption alignnone" id="attachment_4159" style="width: 700px">
 
-![Choose a Bed and Breakfast or Airbnb over a Hotel](/posts/shutterstock_407858398.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4159">[Goran_Bogicevic](http://www.shutterstock.com/pic-407858398/stock-photo-young-couple-having-a-breakfast-in-the-bed.html)</figcaption></figure>
+![Choose a Bed and Breakfast or Airbnb over a Hotel](/posts/shutterstock_407858398.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4159">[Goran_Bogicevic](https://www.shutterstock.com/pic-407858398/stock-photo-young-couple-having-a-breakfast-in-the-bed.html)</figcaption></figure>
 
 Hotels are fine if you want to be pampered, but they can be pricey. Cheaper and more charming alternatives include Bed and Breakfast hotels or Airbnb, where you will find listings of vacation homes for rent. Depending on your destination, you may find several B&amp;Bs and Airbnb’s in the area. The accommodations may be smaller, and you will have to do your own cooking. If you enjoy a more charming locale with personality, which may be closer to your destination, then they will be worth it.
 
@@ -49,7 +51,7 @@ Hotels are fine if you want to be pampered, but they can be pricey. Cheaper and 
 
 <figure aria-describedby="caption-attachment-4160" class="wp-caption alignnone" id="attachment_4160" style="width: 700px">
 
-![last minuter travel perks](/posts/shutterstock_384282592.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4160">[pim_pic](http://www.shutterstock.com/pic-384282592/stock-photo-last-minute-to-count-down-for-travel-metaphor-by-old-retro-clock-on-sand-beach-abstract-background.html)</figcaption></figure>
+![last minuter travel perks](/posts/shutterstock_384282592.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4160">[pim_pic](https://www.shutterstock.com/pic-384282592/stock-photo-last-minute-to-count-down-for-travel-metaphor-by-old-retro-clock-on-sand-beach-abstract-background.html)</figcaption></figure>
 
 If you like to do things at the last minute, you can take advantage of of the discounts that airlines, trains and hotels offer in order to fill empty spaces. Since airlines don’t release all the frequent flyer seats right away, you are probably better off waiting until the last minute.
 
@@ -57,7 +59,7 @@ If you like to do things at the last minute, you can take advantage of of the di
 
 <figure aria-describedby="caption-attachment-4161" class="wp-caption alignnone" id="attachment_4161" style="width: 700px">
 
-![book a travel package](/posts/shutterstock_153811475.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4161">[docstockmedia](http://www.shutterstock.com/pic-153811475/stock-photo-all-inclusive.html)</figcaption></figure>
+![book a travel package](/posts/shutterstock_153811475.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4161">[docstockmedia](https://www.shutterstock.com/pic-153811475/stock-photo-all-inclusive.html)</figcaption></figure>
 
 If you want to take a cruise, a group tour or a sightseeing trip, a travel package may be your best option. Travel packages offer group discounts on airfare and hotels. You can take the DIY route and use a travel aggregation site, such as Hipmunk. You can also use Flightfox, which uses experts to track down cheap flights. Your best option, although more expensive, is a travel agent. Not only can the agent find a good deal on airfare and hotels, but she might be able to book tickets to major tourist attractions at a discounted rate.
 
@@ -65,7 +67,7 @@ If you want to take a cruise, a group tour or a sightseeing trip, a travel packa
 
 <figure aria-describedby="caption-attachment-4162" class="wp-caption alignnone" id="attachment_4162" style="width: 700px">
 
-![take a cheap cruise](/posts/shutterstock_281050655.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4162">[muratart](http://www.shutterstock.com/pic-281050655/stock-photo--beautiful-white-giant-luxury-cruise-ship-on-stay-at-alanya-harbor.html)
+![take a cheap cruise](/posts/shutterstock_281050655.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4162">[muratart](https://www.shutterstock.com/pic-281050655/stock-photo--beautiful-white-giant-luxury-cruise-ship-on-stay-at-alanya-harbor.html)
 
 </figcaption></figure>
 
@@ -85,7 +87,7 @@ Camping is a wonderful alternative to traditional vacations, allowing families t
 
 <figure aria-describedby="caption-attachment-4164" class="wp-caption alignnone" id="attachment_4164" style="width: 700px">
 
-![organize a group trip](/posts/shutterstock_275504699.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4164">[monkey_business_images](http://www.shutterstock.com/pic-275504699/stock-photo-group-of-friends-on-walk-balancing-on-tree-trunk-in-forest.html)</figcaption></figure>
+![organize a group trip](/posts/shutterstock_275504699.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4164">[monkey_business_images](https://www.shutterstock.com/pic-275504699/stock-photo-group-of-friends-on-walk-balancing-on-tree-trunk-in-forest.html)</figcaption></figure>
 
 You can save a lot of money by traveling in a group. Hotels and airlines will give discounts for bulk purchases. Some major tourist attractions may also offer bulk discount rates. You can go on these attractions together, or you can decide not to go and each do your own thing. Group trips can be very flexible.
 
@@ -93,7 +95,7 @@ You can save a lot of money by traveling in a group. Hotels and airlines will gi
 
 <figure aria-describedby="caption-attachment-4165" class="wp-caption alignnone" id="attachment_4165" style="width: 700px">
 
-![stayvacation](/posts/shutterstock_113965345.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4165">[monkey_business_images](http://www.shutterstock.com/pic-113965345/stock-photo-family-lying-upside-down-on-sofa-with-daughter.html)</figcaption></figure>
+![stayvacation](/posts/shutterstock_113965345.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4165">[monkey_business_images](https://www.shutterstock.com/pic-113965345/stock-photo-family-lying-upside-down-on-sofa-with-daughter.html)</figcaption></figure>
 
 Staycations don’t mean just sticking around the house and lounging in front of the TV, although that might sound like the ultimate vacation. You can book a nearby hotel to have a romantic getaway. You can also visit some of the sights that you have always been meaning to see but never had the time. This would be the perfect opportunity to visit these places. Daytrips can include hiking excursions, a visit to a museum or art gallery, going to a restaurant that is normally out of your budget and more. The biggest challenge with a staycation is making sure you stay disconnected from your smartphones and emails. If you have to use them, use them to send pictures of your outings to your friends and family.
 
@@ -109,7 +111,7 @@ A lot of new hotels are cropping up that have en suite kitchens _and_ compliment
 
 <figure aria-describedby="caption-attachment-4167" class="wp-caption alignnone" id="attachment_4167" style="width: 700px">
 
-![off season](/posts/shutterstock_47218873.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4167">[marcel_a.\_mayer](http://www.shutterstock.com/pic-47218873/stock-photo-winter-beach.html)</figcaption></figure>
+![off season](/posts/shutterstock_47218873.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4167">[marcel_a.\_mayer](https://www.shutterstock.com/pic-47218873/stock-photo-winter-beach.html)</figcaption></figure>
 
 Traveling in the off-season has its advantages. For one, it is a great way to visit popular destinations that would be too expensive to go during peak seasons. You won’t have to deal with the summer crowd, which means that you will have greater access to the attractions you want to see at a reduced price. The only downside is the weather.
 

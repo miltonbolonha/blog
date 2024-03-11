@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Health Insurance Facts for Seniors"
 date: "2021-03-30 13:19:00"
 author: "Kimberly Landess"
@@ -8,6 +9,7 @@ tag:
   - "Medicare Advantage"
   - POS
   - PPO
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

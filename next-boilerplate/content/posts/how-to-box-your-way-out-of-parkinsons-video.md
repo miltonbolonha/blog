@@ -1,22 +1,24 @@
 ---
-title: "How To Box Your Way Out Of Parkinson's (VIDEO)"
-date: "2016-02-25 10:03:15"
-author: "Deanna Madera"
-tag:
-  - Boxing
-  - "Parkinson's disease"
-  - pharmaceutical
-  - "Rock Steady"
+title: How To Box Your Way Out Of Parkinson's (VIDEO)
+date: 2016-02-25 10:03:15
+author: Deanna Madera
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
-description: ""
-layout: post
 image: sbatkin-screen.png
+layout: post
+status: true
+tag:
+  - Boxing
+  - Parkinson's disease
+  - pharmaceutical
+  - Rock Steady
+description: ""
 ---
 
 <figure aria-describedby="caption-attachment-3132" class="wp-caption alignnone" id="attachment_3132" style="width: 853px">
 
-![Alex Montaldo, co-founder of Rock Steady Boxing with Sandy Batkin, 92](/posts/sbatkin-screen.png)<figcaption class="wp-caption-text" id="caption-attachment-3132">Alex Montaldo, co-founder of Rock Steady Boxing with Sandy Batkin,92</figcaption></figure>
+![Alex Montaldo, co-founder of Rock Steady Boxing with Sandy Batkin, 92](/posts/sbatkin-screen.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3132">Alex Montaldo, co-founder of Rock Steady Boxing with Sandy Batkin,92</figcaption></figure>
 
 Boxers train relentlessly, sometimes to near exhaustion, to be in the best shape to fight their opponent. However, there is a new breed of boxers springing up throughout the country but they are in the ring to fight an opponent they can’t see: Parkinson’s disease, a progressive disorder of the nervous system that affects movement.
 

@@ -1,9 +1,11 @@
 ---
+status: true
 title: "Can I Make a Living by Working from Home?"
 date: "2015-05-20 13:17:25"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""
@@ -11,13 +13,11 @@ layout: post
 image: work-from-home.jpg
 ---
 
-![work from home](http://mt2.wpengine.com/wp-content/uploads/2015/03/work-from-home-1024x682.jpg)
-
 Working from home can seem like a dream come true for most people. The reality, however, is very different. If you aren’t disciplined, you are more likely to be less productive and get caught up in a number of health and social issues that a lot of us take for granted. This post examines some of the important things to help you turn your work-from-home dreams into a practical reality.
 
 ## Set Aside a Designated Work Area
 
-A lot of us would like to believe that we’d be just as productive working in bed hunched over our laptops. While this may sound cozy and ideal, it may lead to back problems down the line such as scoliosis as well as muscle aches and cramps in no time. Create a section in a room in your house and put your desk, chair and laptop in this area and make sure to stick to it. Don’t be tempted to take your laptop with you to your bedroom for just one hour since this will eventually set you down a slippery slope of bad work hygiene. A great reason why you should set aside a work station is that [you can claim tax deductions on it according to the IRS](http://www.kiplinger.com/article/taxes/T054-C000-S002-a-tax-break-for-telecommuters.html).
+A lot of us would like to believe that we’d be just as productive working in bed hunched over our laptops. While this may sound cozy and ideal, it may lead to back problems down the line such as scoliosis as well as muscle aches and cramps in no time. Create a section in a room in your house and put your desk, chair and laptop in this area and make sure to stick to it. Don’t be tempted to take your laptop with you to your bedroom for just one hour since this will eventually set you down a slippery slope of bad work hygiene. A great reason why you should set aside a work station is that [you can claim tax deductions on it according to the IRS](https://www.kiplinger.com/article/taxes/T054-C000-S002-a-tax-break-for-telecommuters.html).
 
 ## Schedule Social Time
 
@@ -35,6 +35,6 @@ In addition, you can use various online tools such as:
 
 ## Take Time Out to Exercise and Replenish
 
-Working from home can be demanding on the body. Sitting for long periods of time can cause you all sorts of aches and pain. It’s a good idea to [take up yoga](http://www.ekhartyoga.com/) or low impact exercise such as walking once or twice a day if you can hack it. By keeping yourself in top condition, you’ll be able to be more productive and enjoy the whole work-from home experience.
+Working from home can be demanding on the body. Sitting for long periods of time can cause you all sorts of aches and pain. It’s a good idea to [take up yoga](https://www.ekhartyoga.com/) or low impact exercise such as walking once or twice a day if you can hack it. By keeping yourself in top condition, you’ll be able to be more productive and enjoy the whole work-from home experience.
 
 With a bit of discipline, flexibility and focus, you can turn a telecommute situation into something that you can do for years to come.

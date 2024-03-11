@@ -1,9 +1,11 @@
 ---
+status: true
 title: "How To Donate The Frugal Way"
 date: "2015-04-12 13:28:19"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""
@@ -11,9 +13,9 @@ layout: post
 image: donate.jpg
 ---
 
-[![donate](http://mt2.wpengine.com/wp-content/uploads/2015/03/donate.jpg)](http://mt2.wpengine.com/wp-content/uploads/2015/03/donate.jpg)
+[![donate](/donate.jpg)](/donate.jpg)
 
-[The 2008 financial crisis hit many Americans hard](http://bancroft.berkeley.edu/ROHO/projects/debt/financialcrisis.html), making life hard for millions of individuals across the country. On top of that, there are many organizations that are struggling to raise enough cash to help feed the homeless or simply come up with enough research money to go into discovering a cure for a disease. If you’re on a budget, there are ways you can help out without breaking the bank.
+[The 2008 financial crisis hit many Americans hard](https://bancroft.berkeley.edu/ROHO/projects/debt/financialcrisis.html), making life hard for millions of individuals across the country. On top of that, there are many organizations that are struggling to raise enough cash to help feed the homeless or simply come up with enough research money to go into discovering a cure for a disease. If you’re on a budget, there are ways you can help out without breaking the bank.
 
 ## In-Store Donation Options
 

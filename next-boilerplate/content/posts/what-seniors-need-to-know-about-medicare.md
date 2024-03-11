@@ -1,9 +1,11 @@
 ---
+status: true
 title: "What Seniors Need To Know About Medicare"
 date: "2020-10-16 08:45:47"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - General
 description: ""

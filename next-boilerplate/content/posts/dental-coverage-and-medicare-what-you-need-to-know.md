@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Dental Coverage and Medicare: What You Need to Know"
 date: "2020-04-08 12:41:49"
 author: "Deborah Woehr"
 tag:
   - "dental plan"
   - medicare
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""

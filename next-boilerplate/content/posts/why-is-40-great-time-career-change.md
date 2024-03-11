@@ -1,4 +1,5 @@
 ---
+status: true
 title: "6 Reasons Why 40 is a Great Time for a Career Change (Definitely #3)"
 date: "2019-01-02 12:52:58"
 author: "Greyson F"
@@ -8,6 +9,7 @@ tag:
   - "career path"
   - "changing careers"
   - "thrill of something new"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""
@@ -30,7 +32,7 @@ Changing your career path at age 40 may seem daunting, if not downright frighten
 ![time to take control](/posts/shutterstock_475214050.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4406">  
 [GoneWithTheWind](https://www.shutterstock.com/image-photo/classy-mature-woman-breaking-chains-isolated-475214050)</figcaption></figure>
 
-Unless you run your own business, aren’t you a bit tired of just being another cog in the business machine? You do what is expected of you and what you are told. What you do likely doesn’t differ all that much from day to day and it can leave you feeling not only mundane but uninspired. When you [change career paths at 40](http://moderntips.com/10-ways-to-change-careers-in-your-40s-and-beyond) you are shaking free the chains of your current job and taking control of your life. Yes, it can be nerve racking and even a bit frightening, but you’ll also never feel more alive. Plus, taking control of your career will provide a boost of professional confidence you’ve possibly never had before.
+Unless you run your own business, aren’t you a bit tired of just being another cog in the business machine? You do what is expected of you and what you are told. What you do likely doesn’t differ all that much from day to day and it can leave you feeling not only mundane but uninspired. When you [change career paths at 40](/10-ways-to-change-careers-in-your-40s-and-beyond) you are shaking free the chains of your current job and taking control of your life. Yes, it can be nerve racking and even a bit frightening, but you’ll also never feel more alive. Plus, taking control of your career will provide a boost of professional confidence you’ve possibly never had before.
 
 ### Get the Rewards You Want
 
@@ -64,4 +66,4 @@ Isn’t it great when you take the same drive you always do but you just somehow
 
 ![thrill of something new](/posts/shutterstock_305253032.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4409">[pathdoc](https://www.shutterstock.com/image-photo/two-women-optimistic-lady-having-solution-305253032)</figcaption></figure>
 
-Experiencing something new and fresh for the first time is incredible. Like that new feeling of falling in love. Everything is just a bit different and fresh. You’re experiencing the same things but with someone different. It’s exciting and exhilarating. All of this is true with a new career path. When you first started, you might have felt excited and thrilled with new challenges, but now, after a decade or two on the job, it may just feel old. Like you are stuck and nothing is changing. You no longer have that thrill you loved. It doesn’t mean you need to remain in the job though and simply accept it. By [switching your career path](http://moderntips.com/10-steps-for-a-successful-career-change) you can regain that new thrill and that new feeling of the unexpected. Even if the new career is similar to what you use to do, you’ll be experiencing these similar feelings in a brand new way, which can be incredibly exciting.
+Experiencing something new and fresh for the first time is incredible. Like that new feeling of falling in love. Everything is just a bit different and fresh. You’re experiencing the same things but with someone different. It’s exciting and exhilarating. All of this is true with a new career path. When you first started, you might have felt excited and thrilled with new challenges, but now, after a decade or two on the job, it may just feel old. Like you are stuck and nothing is changing. You no longer have that thrill you loved. It doesn’t mean you need to remain in the job though and simply accept it. By [switching your career path](/10-steps-for-a-successful-career-change) you can regain that new thrill and that new feeling of the unexpected. Even if the new career is similar to what you use to do, you’ll be experiencing these similar feelings in a brand new way, which can be incredibly exciting.

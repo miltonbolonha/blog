@@ -430,7 +430,7 @@ hr.half-hr {
         align-items: center;
         justify-content: center;
         line-height: 18px;
-        font-size: 16px;
+        font-size: $news_card__heading;
         color: $mix_black_90;
         font-weight: 700;
         margin-bottom: 30px;
@@ -443,8 +443,9 @@ hr.half-hr {
       }
       .post-category {
         width: auto;
-        color: $mix_black_60;
-        font-size: 12px;
+        color: $primary__colorOne;
+        font-size: 14px;
+        letter-spacing: 0.5px;
         font-weight: 700;
         padding-top: 10px;
         padding-bottom: 5px;

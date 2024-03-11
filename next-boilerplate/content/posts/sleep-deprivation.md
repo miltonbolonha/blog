@@ -1,4 +1,5 @@
 ---
+status: true
 title: "10 Scary Effects of Sleep Deprivation"
 date: "2016-05-02 17:04:32"
 author: "Deanna Madera"
@@ -10,6 +11,7 @@ tag:
   - skin
   - "Sleep Deprivation"
   - "weight gain"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""
@@ -51,7 +53,7 @@ As our body becomes more sleep deprived, Cortisol levels increase. When this “
 
 ### Lack of Sleep Causes Depression
 
-![sleepiness causes depression](/posts/shutterstock_192268697-e1460763924120.jpg)Depression affects over 20 million Americans. According to the National Sleep Foundation, depression may cause sleep problems. Also, sleep issues may cause or be a [contributing factor to depression](http://moderntips.com/important-warning-signs-that-prove-debt-is-taking-its-toll-emotionally). They seem to feed on one another. Individuals diagnosed with anxiety disorder or depression were likely to sleep less than six hours at night, according to a Sleep in America poll.
+![sleepiness causes depression](/posts/shutterstock_192268697-e1460763924120.jpg)Depression affects over 20 million Americans. According to the National Sleep Foundation, depression may cause sleep problems. Also, sleep issues may cause or be a [contributing factor to depression](/important-warning-signs-that-prove-debt-is-taking-its-toll-emotionally). They seem to feed on one another. Individuals diagnosed with anxiety disorder or depression were likely to sleep less than six hours at night, according to a Sleep in America poll.
 
 Insomnia, a common sleep disorder, has a very close relationship to depression. According to a study “Epidemiology of Insomnia, Depression, and Anxiety,” individuals who have been diagnosed with insomnia have a ten fold risk of contracting depression in comparison to individuals who sleep well.
 

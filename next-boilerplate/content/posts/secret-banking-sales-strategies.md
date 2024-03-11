@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Secret Banking Sales Strategies You Need to Know"
 date: "2016-05-24 21:21:21"
 author: "Deanna Madera"
@@ -7,6 +8,7 @@ tag:
   - "personal banker"
   - "Personal Value Credits"
   - teller
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
   - Money
@@ -41,7 +43,7 @@ On the surface, there isn’t anything wrong when a personal banker offers their
 
 ![telemarketing banker](/posts/bigstock-Worried-Senior-Woman-Answering-97063835-e1463937954214.jpg)A personal banker’s duties include calling a list of customers in their branch area to see if they would be interested in coming in and discuss their bank’s latest products or promotions. Personal bankers enjoy face-to-face meetings. At times they may use an unrelated customer service angle to accomplish this, and then start cross-selling once you arrive at the branch. For example, a personal banker may call a customer who has a current mortgage and invite them to come in for a review. The underlying objective maybe to sell them a new checking or savings account. The banker used the mortgage as bait to get you in since most people will not ignore a call from their mortgage lender.
 
-Don’t be misled by thinking that any call from your banker is urgent. You can easily [set up text or email alerts](http://moderntips.com/hidden-banking-tips-that-can-save-you-money) for your checking or credit card accounts. If your banker invites you to come in, just ask why. Is it an issue that only can be resolved by you coming in, such as a document that requires your signature? If not, then you should not feel pressured to visit your branch. **Next up: Meet the Tag-Team**
+Don’t be misled by thinking that any call from your banker is urgent. You can easily [set up text or email alerts](/hidden-banking-tips-that-can-save-you-money) for your checking or credit card accounts. If your banker invites you to come in, just ask why. Is it an issue that only can be resolved by you coming in, such as a document that requires your signature? If not, then you should not feel pressured to visit your branch. **Next up: Meet the Tag-Team**
 
 ### The Banking Tag-Team
 

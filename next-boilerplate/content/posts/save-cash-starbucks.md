@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Love Starbucks? Here are 6 Easy Ways to Save Cash on Your Next Visit"
 date: "2019-01-28 08:21:26"
 author: "Greyson F"
 tag:
   - "save money"
   - Starbucks
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
   - Money

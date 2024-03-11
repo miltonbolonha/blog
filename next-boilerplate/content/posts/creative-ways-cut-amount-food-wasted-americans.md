@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Creative Ways to Cut Down on the Amount of Food Wasted By Americans"
 date: "2016-11-29 11:32:58"
 author: "Deanna Madera"
 tag:
   - "food wasted"
   - thanksgiving
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
   - Video

@@ -4,7 +4,7 @@ const website = mainConfigs?.website;
 
 import AdsList from "../components/AdsList";
 
-const FeedbackContainer = () => {
+const AdsListContainer = () => {
   return <AdsList />;
 };
-export default FeedbackContainer;
+export default AdsListContainer;

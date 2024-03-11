@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Gender Gap Report: Women Work 39 Days More Than Men Per Year"
 date: "2016-10-26 13:20:09"
 author: "Deanna Madera"
 tag:
   - "Gender gap"
   - women
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
   - Video

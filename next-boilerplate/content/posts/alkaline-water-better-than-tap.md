@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Alkaline Water: Better Than Tap Water?"
 date: "2019-01-18 17:38:49"
 author: "Deanna Madera"
 tag:
   - "Alkaline Water"
   - "pH level"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""
@@ -18,13 +20,13 @@ Water is a big deal, especially when it comes it health. We consume about 3 quar
 
 <figure aria-describedby="caption-attachment-3624" class="wp-caption alignnone" id="attachment_3624" style="width: 700px">
 
-![alkaline water test](/posts/alkaline-water-test.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3624">[Shutterstock- sirirak kaewgorn](http://www.shutterstock.com/pic.mhtml?id=349337957)</figcaption></figure>
+![alkaline water test](/posts/alkaline-water-test.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3624">[Shutterstock- sirirak kaewgorn](https://www.shutterstock.com/pic.mhtml?id=349337957)</figcaption></figure>
 
 One reason behind drinking alkaline water is that it helps the body get rid of toxins. The toxins we are referring to are acids, those foods with a high acidic content high, especially meats, breads, pasta, soft drinks, seafood, jams and jellies to name a few. To maintain the right pH balance while detoxifying, you need to consume foods and drinks with an abundance of alkaline buffers. Most noteworthy is alkaline water. Water high in alkaline contains magnesium, potassium, calcium, silica, and bicarbonate which helps buffers a body’s acidity level.
 
 ### Alkaline Water Benefits
 
-Some studies reported that [drinking water](http://moderntips.com/can-your-water-be-killing-you-the-good-and-the-bad) with high alkaline levels helps your gut by protecting your body from bad bacteria or viruses. Additionally, lab experiments have shown that alkaline water lowers a body’s glycemic (blood sugar) index, reduces liver damage, and diabetes. In addition, athletes drink alkaline water to help increase their performance before fatigue sets in, often triggered by increased acid levels. Lastly, Dr.Oz wrote in his blog that drinking high quality alkaline water can greatly improve various gastrointestinal disorders.
+Some studies reported that [drinking water](/can-your-water-be-killing-you-the-good-and-the-bad) with high alkaline levels helps your gut by protecting your body from bad bacteria or viruses. Additionally, lab experiments have shown that alkaline water lowers a body’s glycemic (blood sugar) index, reduces liver damage, and diabetes. In addition, athletes drink alkaline water to help increase their performance before fatigue sets in, often triggered by increased acid levels. Lastly, Dr.Oz wrote in his blog that drinking high quality alkaline water can greatly improve various gastrointestinal disorders.
 
 All water is not the same. Some are filtered, purified, treated, distilled, deionized, and alkaline. To maintain a high alkaline level, look for a bottle labeled with a pH level of 7.0 to get the best benefit. Labs tested many water brands to measure their pH levels. These are some of their top findings:
 

@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Highest Paying Least Stressful Jobs"
 date: "2016-05-26 16:09:04"
 author: "Deanna Madera"
@@ -7,6 +8,7 @@ tag:
   - money
   - Stress
   - "work life balance"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
   - Health
@@ -15,7 +17,6 @@ layout: post
 image: five-young-happy-people-e1464303723518.jpg
 ---
 
-![group-of-workers](/posts/group-of-workers-e1450729551944.png)  
 Most people need to work to make money, and many tend to just focus on their careers. However, it’s equally important to focus on your lifestyle: your leisure time, time with your family, your health, pleasures in life, and your spiritual development. If an opportunity arose, many people would strive for two goals in life: make lots of money and have less stress. Having a great work-life balance is an important lifestyle choice that everyone should strive to achieve. However, many career choices don’t afford that opportunity.
 
 If you’re just entering the job market or are considering a change, then you may want to consider one of these low stress and higher paying positions, according to Business Insider and CareerCast. While you’ll need an advanced degree for some positions, others only require a bachelor’s degree. The data shown below was gathered from the Bureau of Labor Statistics and the Occupational Information Network. The OIN uses various stress tolerances in their rankings, which range from 0 to 100. A score of 100 has the most stress. The following positions have stress levels ranging from 55 to 70.
@@ -74,4 +75,4 @@ Requirements: Bachelor’s degree in nutrition, dietetics or a related subject.
 **Librarian:** $55,370  
 Requirements: Bachelor’s and Master’s Degrees
 
-For additional information, visit the [Bureau of Labor Statistics (BLS) website.](http://www.bls.gov/oes/)
+For additional information, visit the [Bureau of Labor Statistics (BLS) website.](https://www.bls.gov/oes/)

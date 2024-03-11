@@ -1,9 +1,11 @@
 ---
+status: true
 title: "Tax Prep 101 – How to Get Ready for Tax Day to Save Money and Stress"
 date: "2020-02-21 17:16:22"
 author: "Kimberly Landess"
 tag:
   - taxes
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Money
 description: ""
@@ -11,7 +13,7 @@ layout: post
 image: lookingovertaxes.png
 ---
 
-![](/posts/lookingovertaxes.png)It’s that time of year again and you need to get ready to pay your taxes. We all know what a highly stressful process this can be for the self-employed, and especially if you aren’t prepared for the impending paperwork and expense. That’s where tax prep can make all the difference, and it’s why many people benefit from using a tax prep service to help get their paperwork in order.
+It’s that time of year again and you need to get ready to pay your taxes. We all know what a highly stressful process this can be for the self-employed, and especially if you aren’t prepared for the impending paperwork and expense. That’s where tax prep can make all the difference, and it’s why many people benefit from using a tax prep service to help get their paperwork in order.
 
 If you’re looking for tax prep to help you plan and save, there are a variety of new services and tax prep tools that have been released this year that makes filing even easier!
 

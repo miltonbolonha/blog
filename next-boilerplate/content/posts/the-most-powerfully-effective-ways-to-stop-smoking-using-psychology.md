@@ -1,10 +1,12 @@
 ---
+status: true
 title: "The Most Powerfully Effective Ways to Stop Smoking Using Psychology"
 date: "2021-01-18 09:48:00"
 author: "Kimberly Landess"
 tag:
   - "cognitive behavioral therapy"
   - smoking
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 description: ""
@@ -16,7 +18,7 @@ Smoking is an extremely destructive habit that has a plethora of negative effect
 
 But of course, you knew that already. The issue is that you don’t know how to go about making it happen.
 
-![](/posts/smoking.jpg)How can you kick smoking to the curb when it’s both psychologically and physically addictive? How can you succeed where so many others have failed? What strategies and tricks can help you to take back your control and destroy this ugly habit?
+How can you kick smoking to the curb when it’s both psychologically and physically addictive? How can you succeed where so many others have failed? What strategies and tricks can help you to take back your control and destroy this ugly habit?
 
 ## Over-exposure
 

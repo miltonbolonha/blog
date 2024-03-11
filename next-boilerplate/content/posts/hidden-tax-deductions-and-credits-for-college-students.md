@@ -1,17 +1,17 @@
 ---
+status: true
 title: "Hidden Tax Deductions and Credits for College Students"
 date: "2015-04-20 13:25:14"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""
 layout: post
 image: tax-deduction.jpg
 ---
-
-![tax deduction](http://mt2.wpengine.com/wp-content/uploads/2015/03/tax-deduction.jpg)
 
 A college education can be expensive. That being said, there are various incentives proposed by the National Association of Student Financial Aid Administrators each year seeking to ease the burden of finance for both students and the parents who support them. In this post, we’ll take a look at the various plans available to you as well as the eligibility criteria you need to meet to be considered.
 
@@ -21,7 +21,7 @@ This is an incentive which takes into account the amount you spend on your first
 
 ### In order to be considered, you must:
 
-- Have a [modified adjusted gross income](http://www.irs.com/articles/what-modified-adjusted-gross-income) of $90,000 as an individual or $180,000 for a joint couple.
+- Have a [modified adjusted gross income](https://www.irs.com/articles/what-modified-adjusted-gross-income) of $90,000 as an individual or $180,000 for a joint couple.
 - As a student, you must have been enrolled at the very least half the time for one term during that academic year in the quest to get a degree, certificate or related credential.
 - You must be in an eligible school such as a public, accredited, proprietary, nonprofit or postsecondary institution
 - The incentive is only available during the first four years of undergraduate postsecondary education
@@ -52,4 +52,4 @@ This is a deduction that can reduce your taxable income by up to $4,000. In addi
 - You should only claim this deduction if you are married and file taxes jointly
 - You may not claim a Tuition and Fees Deduction for the same student for the same year. However, you can divide these two between two students.
 
-Whatever tax credits you decide to take, always make sure to adhere to the rules in order to have your request processed without a hitch. For more information on tax credits, please check out [the National Association of Student Financial Aid Administrators website](http://www.nasfaa.org/).
+Whatever tax credits you decide to take, always make sure to adhere to the rules in order to have your request processed without a hitch. For more information on tax credits, please check out [the National Association of Student Financial Aid Administrators website](https://www.nasfaa.org/).

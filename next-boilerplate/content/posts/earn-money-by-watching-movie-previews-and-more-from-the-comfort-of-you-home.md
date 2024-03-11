@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Earn Money By Watching Movie Previews And More"
 date: "2016-02-14 18:43:08"
 author: "Deanna Madera"
@@ -9,6 +10,7 @@ tag:
   - "movie trailers"
   - recipes
   - swagbucks
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""
@@ -16,9 +18,9 @@ layout: post
 image: ipad-video-resized.jpg
 ---
 
-![watch movies at home and earn money](/posts/ipad-video-resized.jpg)We’re always looking to make some additional money to save for some emergency, help pay for some unexpected bills, or just have some extra spending money. Here’s a way to earn money by checking out the latest movie trailers, finding some great recipes, getting some tips, or just sitting back in your chair and laugh from the comfort of your home. Watching Swagbucks videos may be your solution.
+We’re always looking to make some additional money to save for some emergency, help pay for some unexpected bills, or just have some extra spending money. Here’s a way to earn money by checking out the latest movie trailers, finding some great recipes, getting some tips, or just sitting back in your chair and laugh from the comfort of your home. Watching Swagbucks videos may be your solution.
 
-[Swagbucks](http://www.swagbucks.com/watch) is an online rewards and cash back program. Simply do the things you’d normally do on-line, such as search the web, answer polls, watch videos, play games, and shop. Members accumulate points that are quickly redeemable for cash from PayPal or free gift cards from:
+[Swagbucks](https://www.swagbucks.com/watch) is an online rewards and cash back program. Simply do the things you’d normally do on-line, such as search the web, answer polls, watch videos, play games, and shop. Members accumulate points that are quickly redeemable for cash from PayPal or free gift cards from:
 
 - Target
 - Walmart

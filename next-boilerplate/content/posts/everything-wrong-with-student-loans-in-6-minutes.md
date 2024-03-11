@@ -1,9 +1,11 @@
 ---
+status: true
 title: "Everything Wrong With Student Loans in 6 Minutes"
 date: "2015-06-14 15:24:39"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
   - Video

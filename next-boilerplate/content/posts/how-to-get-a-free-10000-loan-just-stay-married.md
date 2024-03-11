@@ -1,4 +1,5 @@
 ---
+status: true
 title: "How To Get A Free Wedding Loan of $10,000 &Stay Married"
 date: "2016-02-04 11:08:41"
 author: "Deanna Madera"
@@ -10,6 +11,7 @@ tag:
   - marriage
   - married
   - "soul mate"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
   - Money
@@ -18,11 +20,11 @@ layout: post
 image: bigstock-Close-portrait-silhouette-in-l-85759400.jpg
 ---
 
-![free wedding loan](/posts/bigstock-Close-portrait-silhouette-in-l-85759400-1024x768.jpg)With the average cost of a wedding in the U.S. exceeding $26,000, some ingenious companies are looking for a way to reduce the burden on the couple or their parents, who are paying for the wedding. If you think you have found your sole mate, then look at this Seattle WA start-up company since they are offering couples the chance to get a free wedding loan of $10,000. What’s the catch? The couple does not have to pay back the loan so long as they stay married for the rest of their lives.
+With the average cost of a wedding in the U.S. exceeding $26,000, some ingenious companies are looking for a way to reduce the burden on the couple or their parents, who are paying for the wedding. If you think you have found your sole mate, then look at this Seattle WA start-up company since they are offering couples the chance to get a free wedding loan of $10,000. What’s the catch? The couple does not have to pay back the loan so long as they stay married for the rest of their lives.
 
-Strategizing and [planning for the costs](/how-to-plan-for-costs-for-every-age) of a major event like a wedding is one of the keys to any successful relationship. SwanLuv believes “Everlasting Marriage Should Be Rewarded.” With that idea, they are offering couples a [loan of $10,000](http://swanluv.com/) toward the wedding of their dreams. If the couple doesn’t stay married, then they must repay the loan plus interest.
+Strategizing and [planning for the costs](/how-to-plan-for-costs-for-every-age) of a major event like a wedding is one of the keys to any successful relationship. SwanLuv believes “Everlasting Marriage Should Be Rewarded.” With that idea, they are offering couples a [loan of $10,000](https://swanluv.com/) toward the wedding of their dreams. If the couple doesn’t stay married, then they must repay the loan plus interest.
 
-##### How Does The Free Wedding Loan Work?
+## How Does The Free Wedding Loan Work?
 
 - Who should apply? “Couples who have found their soul mate and need help making their dream wedding a reality.”
 - Requirements: Couples planning to be married within two years of applying for the loan.

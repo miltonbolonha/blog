@@ -1,10 +1,12 @@
 ---
+status: true
 title: "How To Cut Your Phone Cord And Save With VoIP"
 date: "2020-02-11 15:33:58"
 author: "Deborah Woehr"
 tag:
   - phone
   - voip
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""

@@ -1,56 +1,50 @@
 {
   "folders": [
     {
-      "name": "Arquivos",
-      "path": "./next-boilerplate/public"
+      "name": "Public Files",
+      "path": "./next-boilerplate/public",
     },
     {
-      "name": " Conteúdo",
-      "path": "./next-boilerplate/content"
+      "name": " Posts",
+      "path": "./next-boilerplate/content/posts",
     },
     {
-      "name": "Next Boilerplate",
-      "path": "./next-boilerplate/"
+      "name": "NextJS",
+      "path": "./next-boilerplate/",
     },
     {
-      "name": "Páginas",
-      "path": "./next-boilerplate/src/pages"
+      "name": "Pages",
+      "path": "./next-boilerplate/src/pages",
     },
     {
-      "name": "Estilos",
-      "path": "./next-boilerplate/src/styles"
+      "name": "Styles",
+      "path": "./next-boilerplate/src/styles",
     },
     {
       "name": "Configs",
-      "path": "./next-boilerplate/src/configs"
+      "path": "./next-boilerplate/src/configs",
     },
     {
-      "name": "Raiz",
-      "path": "./"
-    }
+      "name": "Root",
+      "path": "./",
+    },
   ],
   "settings": {
     "editor.fontFamily": "VCR OSD Mono",
     "editor.fontLigatures": true,
     "editor.fontSize": 16,
     "workbench.iconTheme": "material-icon-theme",
-    "editor.rulers": [
-      80,
-      120
-    ],
+    "editor.rulers": [80, 120],
     "editor.formatOnSave": true,
-    "eslint.validate": [
-      "javascript",
-      "javascriptreact"
-    ],
+    "eslint.validate": ["javascript", "javascriptreact"],
     "editor.renderLineHighlight": "gutter",
     "editor.tabSize": 2,
     "terminal.integrated.fontSize": 14,
     "emmet.includeLanguages": {
-      "javascript": "javascriptreact"
+      "javascript": "javascriptreact",
     },
     "emmet.syntaxProfiles": {
-      "javascript": "jsx"
+      "javascript": "jsx",
     },
     "javascript.updateImportsOnFileMove.enabled": "never",
     "editor.parameterHints.enabled": false,
@@ -58,27 +52,25 @@
     "javascript.suggest.autoImports": false,
     "explorer.confirmDragAndDrop": false,
     "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": "explicit"
+      "source.fixAll.eslint": "explicit",
     },
     "workbench.statusBar.visible": false,
     "editor.minimap.enabled": false,
     "[json]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
     },
     "diffEditor.renderSideBySide": true,
     "workbench.sideBar.location": "right",
     "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
     },
     "prettier.jsxSingleQuote": true,
     "prettier.arrowParens": "avoid",
     "window.zoomLevel": 2,
     "workbench.colorTheme": "Edu4Dev Dark",
-    "workbench.activityBar.location": "hidden"
+    "workbench.activityBar.location": "hidden",
   },
   "extensions": {
-    "recommendations": [
-      "edu4dev.vscode-edu4dev-color-theme"
-    ]
-  }
+    "recommendations": ["edu4dev.vscode-edu4dev-color-theme"],
+  },
 }

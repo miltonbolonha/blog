@@ -1,9 +1,11 @@
 ---
+status: true
 title: "6 Ways to Save Money While You're at Work"
 date: "2015-06-12 14:09:34"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""
@@ -11,13 +13,11 @@ layout: post
 image: work.jpg
 ---
 
-![work](../uploads/2015/03/work.jpg)
-
 There’s a stigma that’s attached to being frugal. This is especially true in areas such as the workplace where gossip is rife and reputations are on the line. That being said, it’s important to note that frugality isn’t something that you should be ashamed of. At the same time, it’s possible to be frugal without being perceived as being a tightwad or mean. In this post, we’ll give you some simple tips to be frugal at work but still maintain a respectable and decent exterior to your peers.
 
 ## Carpooling Always Wins
 
-If you always drive to work, you’re most likely using up a big chunk on your money on fuel as well as car maintenance, possible parking and toll tickets as well as contributing to the growing carbon footprint. [Carpooling is a no-brainer](http://planetsave.com/2012/11/08/five-unexpected-benefits-of-carpooling-how-to-reduce-your-carbon-footprint/), and it reduces the stress of having to drive to work on a daily basis.
+If you always drive to work, you’re most likely using up a big chunk on your money on fuel as well as car maintenance, possible parking and toll tickets as well as contributing to the growing carbon footprint. [Carpooling is a no-brainer](https://planetsave.com/2012/11/08/five-unexpected-benefits-of-carpooling-how-to-reduce-your-carbon-footprint/), and it reduces the stress of having to drive to work on a daily basis.
 
 ## Look out for Specials
 
@@ -25,7 +25,7 @@ Restaurants have specials at lunchtime in particular. These meals are usually ma
 
 ## Use Coupons and Loyalty Cards
 
-If you work close to places that give out [loyalty cards](http://www.theguardian.com/news/datablog/2013/oct/31/are-loyalty-cards-really-worth-it), ask for one and become a regular. This way, you get to accrue points as you eat as well as get discounts on your meals. In addition, you can cut out coupons and present these to restaurants that accept them for even more savings.
+If you work close to places that give out [loyalty cards](https://www.theguardian.com/news/datablog/2013/oct/31/are-loyalty-cards-really-worth-it), ask for one and become a regular. This way, you get to accrue points as you eat as well as get discounts on your meals. In addition, you can cut out coupons and present these to restaurants that accept them for even more savings.
 
 ## Order a Shared Meal
 

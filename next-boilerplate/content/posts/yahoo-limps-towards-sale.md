@@ -1,16 +1,18 @@
 ---
-title: "Yahoo Limps Towards Sale. What Will Happen to Tumblr?"
-date: "2016-07-20 10:33:00"
-author: "Deborah Woehr"
-tag:
-  - Tumblr
-  - Yahoo
+title: Yahoo Limps Towards Sale. What Will Happen to Tumblr?
+date: 2016-07-20 10:33:00
+author: Deborah Woehr
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
   - Video
-description: ""
-layout: post
 image: shutterstock_384537694.jpg
+layout: post
+status: true
+tag:
+  - Tumblr
+  - Yahoo
+description: ""
 ---
 
 Yahoo is in the middle of accepting final bids for its core business and the company just learned how badly business is deteriorating.

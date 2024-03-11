@@ -1,4 +1,5 @@
 ---
+status: true
 title: "Reading To Your Child 15 Minutes Tonight Will Improve Their Intelligence"
 date: "2016-03-20 22:23:03"
 author: "Deanna Madera"
@@ -11,6 +12,7 @@ tag:
   - reading
   - Sing
   - Talk
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
   - Health
@@ -19,7 +21,7 @@ layout: post
 image: Parent-child-Reading.jpg
 ---
 
-![Parent child Reading](http://mt2.wpengine.com/wp-content/uploads/2015/07/Parent-child-Reading.jpg)“Read me a story, then I will go to sleep.” Our mother or father may not have realized that they weren’t just reading a bedtime story to calm us down so we would go to sleep. First 5 California’s Research shows 90 percent of a child’s brain develops during their first five years. This is a critical time of a child’s life. Being read to as a [child ](/4-ways-save-money-child-care)is the number one predictor of academic success. They will do better in school and in life.
+“Read me a story, then I will go to sleep.” Our mother or father may not have realized that they weren’t just reading a bedtime story to calm us down so we would go to sleep. First 5 California’s Research shows 90 percent of a child’s brain develops during their first five years. This is a critical time of a child’s life. Being read to as a [child ](/4-ways-save-money-child-care)is the number one predictor of academic success. They will do better in school and in life.
 
 The problem is that “many young mothers are not reading books to their children any more,” according to Spokane Cares.
 

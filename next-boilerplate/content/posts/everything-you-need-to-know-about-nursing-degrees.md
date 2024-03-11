@@ -1,10 +1,12 @@
 ---
+status: true
 title: "Everything You Need to Know About Nursing Degrees"
 date: "2020-06-02 15:00:11"
 author: "Greyson F"
 tag:
   - Nurse
   - Nursing
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""

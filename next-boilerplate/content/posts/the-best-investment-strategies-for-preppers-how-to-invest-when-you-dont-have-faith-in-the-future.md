@@ -1,4 +1,5 @@
 ---
+status: true
 title: "The Best Investment Strategies for Preppers – How to Invest When You Don’t Have Faith in the Future"
 date: "2020-05-22 01:20:41"
 author: "Deanna Madera"
@@ -6,6 +7,7 @@ tag:
   - investment
   - Prepper
   - Risk
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
 description: ""

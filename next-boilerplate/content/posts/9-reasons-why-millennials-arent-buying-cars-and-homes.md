@@ -1,4 +1,5 @@
 ---
+status: true
 title: "9 Reasons Why Millennials Aren't Buying Cars And Homes..#6 Makes Perfect Sense!"
 date: "2018-03-28 11:59:27"
 author: "Greyson F"
@@ -12,6 +13,7 @@ tag:
   - "own a vehicle"
   - "spending money"
   - "young adults"
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: "Millennials are spending their money differently from previous generations. This includes not spending on cars or homes. Here are 9 reasons why."
@@ -23,7 +25,7 @@ image: shutterstock_174760679.jpg
 
 <figure aria-describedby="caption-attachment-4308" class="wp-caption alignnone" id="attachment_4308" style="width: 700px">
 
-![they are money wise](/posts/shutterstock_224295640.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4308">[andrey_popov](http://www.shutterstock.com/pic-224295640/stock-photo-piggybank-looking-at-calculator-isolated-on-white.html)
+![they are money wise](/posts/shutterstock_224295640.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4308">[andrey_popov](https://www.shutterstock.com/pic-224295640/stock-photo-piggybank-looking-at-calculator-isolated-on-white.html)
 
 </figcaption></figure>
 
@@ -41,7 +43,7 @@ Regional migration shifts every few decades. Millennials are now moving away fro
 
 <figure aria-describedby="caption-attachment-4225" class="wp-caption alignnone" id="attachment_4225" style="width: 700px">
 
-![the rare splurge](/posts/shutterstock_249702325.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4225">[potowizard](http://www.shutterstock.com/pic-249702325/stock-photo-travel-the-world-monument-concept.html)</figcaption></figure>
+![the rare splurge](/posts/shutterstock_249702325.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4225">[potowizard](https://www.shutterstock.com/pic-249702325/stock-photo-travel-the-world-monument-concept.html)</figcaption></figure>
 
 More and more younger adults are prioritizing their money differently. Previous generations focused on buying a home and having children at younger ages. The current young population is waiting longer to do this in favor of traveling and taking in other life experiences (concerts, special events and activities, for example). To prioritize, they spend the money they would on car payments and insurance on these activities.
 
@@ -49,7 +51,7 @@ More and more younger adults are prioritizing their money differently. Previous 
 
 <figure aria-describedby="caption-attachment-4245" class="wp-caption alignnone" id="attachment_4245" style="width: 700px">
 
-![priority](/posts/shutterstock_427091116.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4245">[rawpixel.com](http://www.shutterstock.com/pic-427091116/stock-photo-prioritize-emphasize-efficiency-important-task-concept.html)</figcaption></figure>
+![priority](/posts/shutterstock_427091116.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4245">[rawpixel.com](https://www.shutterstock.com/pic-427091116/stock-photo-prioritize-emphasize-efficiency-important-task-concept.html)</figcaption></figure>
 
 There are more and more startups now than ever before. With technology readily available to do just about everything at home, millennials are no longer just entering the workforce in a traditional sense but instead starting their own businesses. This costs money to startup so the money used on buying a house or car now goes towards the startup.
 
@@ -57,7 +59,7 @@ There are more and more startups now than ever before. With technology readily a
 
 <figure aria-describedby="caption-attachment-4093" class="wp-caption alignnone" id="attachment_4093" style="width: 700px">
 
-![FHA mortgage](/posts/shutterstock_319421696.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4093">[michaeljung](http://www.shutterstock.com/pic-319421696/stock-photo-portrait-of-happy-couple-sitting-in-new-house.html)
+![FHA mortgage](/posts/shutterstock_319421696.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4093">[michaeljung](https://www.shutterstock.com/pic-319421696/stock-photo-portrait-of-happy-couple-sitting-in-new-house.html)
 
 </figcaption></figure>
 
@@ -84,7 +86,7 @@ According to Forbes, the average young professional changes jobs once every thre
 
 <figure aria-describedby="caption-attachment-4303" class="wp-caption alignnone" id="attachment_4303" style="width: 700px">
 
-![cut expenses](/posts/shutterstock_77378869.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4303">[Oliver_Hoffman](http://www.shutterstock.com/pic-77378869/stock-photo-hand-with-scissors-cutting-into-label-signed-expenses.html)</figcaption></figure>
+![cut expenses](/posts/shutterstock_77378869.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4303">[Oliver_Hoffman](https://www.shutterstock.com/pic-77378869/stock-photo-hand-with-scissors-cutting-into-label-signed-expenses.html)</figcaption></figure>
 
 The more items someone owns the more they worry. Millennials are spending less on just about everything, from furniture to big ticket technology items because it often brings about more worry. This especially includes owning a vehicle. Someone who doesn’t own a vehicle will never have to worry about their car being stolen or towed or broken into.
 
@@ -92,6 +94,6 @@ The more items someone owns the more they worry. Millennials are spending less o
 
 <figure aria-describedby="caption-attachment-4356" class="wp-caption alignnone" id="attachment_4356" style="width: 700px">
 
-![timing is everything](/posts/shutterstock_102373678-e1484005051641.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4356">[focal_point](http://www.shutterstock.com/pic-102373678/stock-photo-balancing-time-and-money.html)</figcaption></figure>
+![timing is everything](/posts/shutterstock_102373678-e1484005051641.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4356">[focal_point](https://www.shutterstock.com/pic-102373678/stock-photo-balancing-time-and-money.html)</figcaption></figure>
 
 Younger people have more insights on investments and spending money now than any other generation. Due to this, it is possible to look up how an item depreciates in value as it ages. This is especially true when it comes to a vehicle. For every year and mile someone puts on a vehicle it goes down in value. Many young Americans are looking at this and using it as a reason to avoid buying a vehicle. Why purchase something that will go down in value as soon as it leaves the lot?

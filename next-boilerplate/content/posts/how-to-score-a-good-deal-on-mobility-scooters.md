@@ -1,4 +1,5 @@
 ---
+status: true
 title: "How To Score A Good Deal on Mobility Scooters"
 date: "2020-04-14 11:20:13"
 author: "Deanna Madera"
@@ -6,6 +7,7 @@ tag:
   - Mobility
   - "save money"
   - Scooters
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""

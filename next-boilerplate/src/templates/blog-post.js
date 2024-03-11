@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { usePathname, useSearchParams } from "next/navigation";
-// import Cookies from "universal-cookie";
 
 import SinglePostContainer from "../containers/SinglePostContainer";
 import mainConfigs from "../configs/main-infos.json";
@@ -9,6 +8,8 @@ import HeaderContainer from "../containers/HeaderContainer";
 import SeoContainer from "../containers/SeoContainer";
 import mainMenu from "../configs/main-menu.json";
 import { parse } from "node-html-parser";
+// import Script from "next/script";
+// import ReactDOMServer from "react-dom/server";
 
 import BlogList from "../templates/blog-list";
 
@@ -26,10 +27,26 @@ const BlogPost = ({ post }) => {
   const getRef = useSearchParams().getAll("ref");
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
   const doc = parse(post.content);
+  const strongSelect = doc?.querySelector("strong");
+  console.log("strongSelect");
+  console.log(
+    strongSelect?.childNodes?.forEach(str => {
+      if (str?.innerText?.includes("Fact")) return null;
+    })
+  );
+  console.log("strongSelect");
+
+  // const x = strongSelect.length <= 0
+  // const  y = strongSelect.includes('Myth: ')
+  // const  c = strongSelect.includes('Fact: ')
   const pSelect = doc?.querySelector("p");
   const excerpt = pSelect?.childNodes[0]?._rawText;
-
-  let categoriesPosts = post.categoriesPosts.filter(pc => pc.slug != post.slug);
+  const killSEO =
+    post?.frontmatter?.categories?.length > 0 &&
+    post?.frontmatter?.categories[0] === "Hide";
+  let categoriesPosts = post?.categoriesPosts?.filter(
+    pc => pc.slug != post.slug
+  );
 
   const title = post?.frontmatter?.title.replace(
     "{{city}}",
@@ -51,9 +68,34 @@ const BlogPost = ({ post }) => {
     return setCity(data?.geo?.city || "Los Angeles");
   };
 
+  const postHeadings =
+    doc?.querySelectorAll("h2").length > 0
+      ? doc?.querySelectorAll("h2")
+      : doc?.querySelectorAll("h3");
+
+  let headingsTexts = [];
+  postHeadings.forEach(
+    e =>
+      (headingsTexts +=
+        e.innerText.replace("Myth: ", "") + ", " || e.innerText + ", ")
+  );
+  // ads terms
+  const terms = headingsTexts?.slice(0, -1);
+  let termsString;
+  const adsTerms = post?.frontmatter?.adsTerms;
+  if (
+    adsTerms === "Test Term 1, Test Term 2, Test Term 3, Test Term 4" ||
+    adsTerms === "" ||
+    !adsTerms
+  ) {
+    termsString = terms;
+  } else {
+    termsString = adsTerms;
+  }
+
   const infos = {
     slug: index?.slug,
-    title: `${title} - ${business.brandName}`,
+    title: killSEO ? "NO SEO" : `${title} - ${business.brandName}`,
     description: excerpt || post?.frontmatter.description,
     author: website.author,
     brandPerson: website.brandPerson,
@@ -67,9 +109,9 @@ const BlogPost = ({ post }) => {
     featuredImage: `${website.siteUrl}/posts/${post?.frontmatter?.image}`,
     datePublished: website.datePublished,
     i18n: website.i18n,
-    keywords: post?.frontmatter?.tag || website.keywords,
+    keywords: termsString || post?.frontmatter?.tag || website.keywords,
     questions: [],
-    topology: "pages",
+    topology: "post",
     articleUrl: `${website.siteUrl}/${index?.slug}`,
     themeColor: website.themeColor,
     sameAs: business.sameAs,
@@ -79,7 +121,6 @@ const BlogPost = ({ post }) => {
 
   useEffect(() => {
     if (typeof window !== "undefined") {
-      // getRef?.length === 1 ? console.log("arnaldoooooooooooooo") : null;
       getRef?.length === 1 && promoVisitState === null
         ? setPromoVisitState(true)
         : null;
@@ -107,12 +148,13 @@ const BlogPost = ({ post }) => {
         });
     }
   }, [city, promoVisitState, getRef]);
+  // console.log("postpostpost");
+  // console.log(post);
 
   return (
     <>
       <div className='single-post post-container'>
-        <SeoContainer killSeo={false} data={infos} />
-
+        <SeoContainer killSeo={killSEO ? true : false} data={infos} />
         <HeaderContainer
           opt={{
             bgOne: "transparent",
@@ -144,10 +186,16 @@ const BlogPost = ({ post }) => {
             setReadMore={setReadMore}
             readMore={readMore}
             topic={post?.frontmatter?.tag[0]}
+            keywords={post?.frontmatter?.keywords || []}
+            adsTerms={
+              termsString ||
+              "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
+            }
             excerpt={excerpt}
             parseContent={doc}
             relatedPosts={categoriesPosts}
             city={city}
+            killSEO={killSEO}
           />
         ) : null}
 

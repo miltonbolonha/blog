@@ -1,4 +1,5 @@
 ---
+status: true
 title: "These are the Highest Paid Online Bachelor’s Degrees You Should Consider"
 date: "2020-11-17 08:31:15"
 author: "Deborah Woehr"
@@ -6,6 +7,7 @@ tag:
   - "college degree"
   - "highest paying job"
   - JOBS
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: ""

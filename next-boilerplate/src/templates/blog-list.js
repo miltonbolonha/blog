@@ -19,6 +19,9 @@ const BlogList = ({ posts, postsToShow, city }) => {
         if (i >= postsToShow) {
           return null;
         }
+        if (post?.frontmatter?.categories[0] === "Hide") {
+          return null;
+        }
         const x = i + 1;
         return (
           <Post

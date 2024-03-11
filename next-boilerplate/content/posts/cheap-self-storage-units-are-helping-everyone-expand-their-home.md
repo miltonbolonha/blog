@@ -1,9 +1,11 @@
 ---
+status: true
 title: "Cheap Self Storage Units Are Helping Everyone Expand Their Home"
 date: "2020-09-09 12:06:29"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - General
 description: ""
@@ -14,8 +16,6 @@ image: 1200x630_storage_hero.jpg
 Are your closets, rooms, attic space, or basement bursting at the seams? It always seems that we are running out of space in our home to store all our stuff. While we like to buy new stuff, it’s hard to part with our old sentimental things.
 
 **Solution: Rent a self-storage unit! It’s a low-cost fix and a convenient space to secure all your valuable items, without attempting to fit them in every nook and cranny in your house.**
-
-![](/posts/1200x630_storage_hero.jpg)
 
 ## What is a Self-Storage Unit?
 

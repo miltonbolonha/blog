@@ -1,17 +1,17 @@
 ---
+status: true
 title: "An Investment Strategy that Helped the World’s Richest Man"
 date: "2015-04-20 12:45:00"
 author: "Deanna Madera"
 tag:
   - General
+adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Investing
 description: ""
 layout: post
 image: worlds-richest-man.jpg
 ---
-
-![worlds richest man](http://mt2.wpengine.com/wp-content/uploads/2015/03/worlds-richest-man.jpg)
 
 A volatile market requires a bit of ingenuity. Naked puts arose because of the need for traders to make gains over a short period of time without having to overthink risk. By definition, naked puts are insurance against traded positions usually provided by a third party. These are vital for individuals who may speculate a fall in share prices and would like to sell, or those that are looking for some kind of buffer on account of the fact that they are holding a large number of shares that they would hate to lose in the event of a financial catastrophe.
 

@@ -36,14 +36,18 @@ export const getStaticProps = async context => {
   if (allPosts === "") {
     throw new Error("Error: No !allPosts!");
   }
+
   const thePost = allPosts.filter(function f(o) {
     return o.slug === context.params.slug;
   });
 
-  const categoriesPostsFilter = allPosts.filter(
-    p =>
-      p?.frontmatter?.categories[0] === thePost[0]?.frontmatter?.categories[0]
-  );
+  const categoriesPostsFilter = allPosts
+    .filter(
+      p =>
+        p?.frontmatter?.categories[0] &&
+        p?.frontmatter?.categories[0] === thePost[0]?.frontmatter?.categories[0]
+    )
+    .slice(0, 20);
   let categoriesPosts = categoriesPostsFilter?.map(cat => ({
     date: cat?.date || new Date(),
     title: cat?.frontmatter?.title || "title",
