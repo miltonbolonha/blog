@@ -175,7 +175,10 @@ const SinglePostBlock = ({
 
                 <div
                   className='post-article-content'
-                  dangerouslySetInnerHTML={{ __html: replacedHtml }}
+                  dangerouslySetInnerHTML={{
+                    __html: `${!killSEO ? <div id='rampjs_slot1'></div> : null}
+                              ${replacedHtml}`,
+                  }}
                 ></div>
               </>
             ) : null}
