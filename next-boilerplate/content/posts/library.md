@@ -1,17 +1,18 @@
 ---
-status: true
-title: "Library"
-date: "2018-03-02 07:40:56"
-author: "Milton Bolonha"
-tag:
-  - hide
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
+title: Library
+date: 2018-03-02 07:40:56
+author: Milton Bolonha
 categories:
   - Hide
-description: ""
+adsTerms: Test Term 1, Test Term 2, Test Term 3, Test Term 4
 layout: post
+status: true
+tag:
+  - hide
 image: cover.jpg
+description: ""
 ---
+This is a new sup[^1] test.
 
 ## Headers
 
@@ -25,15 +26,15 @@ image: cover.jpg
 
 ###### h6 Heading
 
----
+- - -
 
 ## Emphasis
 
-Emphasis, aka italics, with _asterisks_ or _underscores_.
+Emphasis, aka italics, with *asterisks* or *underscores*.
 
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
 
-Combined emphasis with **asterisks and _underscores_**.
+Combined emphasis with **asterisks and *underscores***.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
@@ -41,13 +42,13 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 **This is bold text**
 
-_This is italic text_
+*This is italic text*
 
-_This is italic text_
+*This is italic text*
 
 ~~Strikethrough~~
 
----
+- - -
 
 ## Lists
 
@@ -62,31 +63,34 @@ _This is italic text_
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-- Unordered list can use asterisks
-
+* Unordered list can use asterisks
 * Or minuses
+* Or pluses
 
-- Or pluses
-
----
+- - -
 
 1. Make my changes
+
    1. Fix bug
    2. Improve formatting
 2. Push my commits to GitHub
 3. Open a pull request
 
----
+- - -
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
+* Create a list by starting a line with `+`, `-`, or `*`
+* Sub-lists are made by indenting 2 spaces:
+
+  * Marker character change forces new list start:
+
+    * Ac tristique libero volutpat at
+
     * Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
 
----
+    * Nulla volutpat aliquam velit
+* Very easy!
+
+- - -
 
 ## Ignoring Markdown formatting
 
@@ -94,7 +98,7 @@ You can tell GitHub to ignore (or escape) Markdown formatting by using \ before 
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
----
+- - -
 
 ## Links
 
@@ -102,13 +106,13 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[I'm a reference-style link](https://www.mozilla.org)
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-[You can use numbers for reference-style link definitions][1]
+[You can use numbers for reference-style link definitions](https://slashdot.org)
 
-Or leave it empty and use the [link text itself].
+Or leave it empty and use the [link text itself](https://www.reddit.com).
 
 URLs and URLs in angle brackets will automatically get turned into links.
 https://www.example.com or <https://www.example.com> and sometimes
@@ -116,11 +120,7 @@ example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: https://slashdot.org
-[link text itself]: https://www.reddit.com
-
----
+- - -
 
 ## Images
 
@@ -128,7 +128,7 @@ Here's our logo (hover to see the title text):
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
----
+- - -
 
 ## [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 
@@ -152,32 +152,34 @@ Footnote 1 link[^first].
 
 Footnote 2 link[^second].
 
-Inline footnote^[Text of inline footnote] definition.
+Inline footnote^\[Text of inline footnote] definition.
 
 Duplicated footnote reference[^second].
 
 [^first]: Footnote **can have markup**
 
-    and multiple paragraphs.
+```
+and multiple paragraphs.
+```
 
 [^second]: Footnote text.
 
----
+- - -
 
 ## Blockquotes
 
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
-
+>
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+>
 > Blockquotes can also be nested...
 >
 > > ...by using additional greater-than signs right next to each other...
 > >
 > > > ...or with spaces between arrows.
 
----
+- - -
 
 ## YouTube Videos
 
@@ -186,3 +188,7 @@ Duplicated footnote reference[^second].
 </a>
 
 [![IMAGE ALT TEXT HERE](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/512px-YouTube_Logo_%282013-2017%29.svg.jpg)](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+
+[\---](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+
+1. My first sup
