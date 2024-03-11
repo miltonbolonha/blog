@@ -133,6 +133,7 @@ const SinglePostBlock = ({
                 />
               </>
             ) : null}
+            {!killSEO ? <div id='rampjs_slot1'></div> : null}
             {!promoNOread ? (
               <>
                 <Row

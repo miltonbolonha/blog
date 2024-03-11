@@ -43,7 +43,7 @@ const SinglePostBlock = ({
   //   reduce && postHeadings[reduce]?.id
   //     ? `<h2 id="${postHeadings[reduce]?.id}`
   //     : null;
-  const replacedHtml = `${ReactDOMServer.renderToString(<div id='rampjs_slot1'></div>)}${html}`;
+  // const replacedHtml = `${ReactDOMServer.renderToString(<div id='rampjs_slot1'></div>)}${html}`;
   const promoNOread = promoVisitState === true && readMore === false;
   const promoNEVERread = promoVisitState === true && readMore !== null;
   const noPromoNEVERread = promoVisitState === false && readMore === null;
@@ -117,7 +117,7 @@ const SinglePostBlock = ({
       handleToggle={handleToggle}
       timeToRead={timeToRead(doc.text)}
       toggle={toggle}
-      replacedHtml={replacedHtml}
+      replacedHtml={html}
       relatedPosts={relatedPosts}
       city={city}
       killSEO={killSEO}
