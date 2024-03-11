@@ -1,6 +1,6 @@
 ---
 title: "Get Lightning-Fast Internet For Californians Over 50: Don’t Miss Out!"
-date: 2024-03-11 14:51:34
+date: 2024-03-12 14:51:00
 author: Modern Tips
 adsTerms: Test Term 1, Test Term 2, Test Term 3, Test Term 4
 featuredPost: false
