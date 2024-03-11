@@ -2,7 +2,9 @@
 title: "Get Lightning-Fast Internet For Californians Over 50: Don’t Miss Out!"
 date: 2024-03-12 14:51:00
 author: Modern Tips
-adsTerms: Test Term 1, Test Term 2, Test Term 3, Test Term 4
+adsTerms: See Internet Plans by Zip Code, Internet Services Only for Seniors,
+  Who Offers The Best Internet Deal for Seniors, Low-Cost Internet Options
+  Available at My Address, Internet Options Available at My Address
 featuredPost: false
 image: 928a6201-afcc-49c9-8064-714e8293de10.webp
 layout: post
