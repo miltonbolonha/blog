@@ -1,5 +1,6 @@
 ---
-title: "Get Lightning-Fast Internet For Californians Over 50: Don’t Miss Out!"
+title: "{{state}} Seniors Over 50: Get Lightning-Fast Internet For Cheap With
+  These Deals"
 date: 2024-03-12 14:51:00
 author: Modern Tips
 adsTerms: See Internet Plans by Zip Code, Internet Services Only for Seniors,
