@@ -5,7 +5,6 @@ date: "2018-04-08 14:29:31"
 author: "Deborah Woehr"
 tag:
   - General
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - General
 description: ""

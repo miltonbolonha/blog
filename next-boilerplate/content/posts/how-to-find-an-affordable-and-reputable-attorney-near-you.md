@@ -5,7 +5,6 @@ date: "2021-03-11 11:14:31"
 author: "Deanna Madera"
 tag:
   - General
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
   - Sponsored

@@ -7,7 +7,6 @@ tag:
   - fun
   - "saving money"
   - vacation
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""

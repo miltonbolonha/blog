@@ -6,7 +6,6 @@ author: "Kelly F"
 tag:
   - cars
   - SUV
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: ""

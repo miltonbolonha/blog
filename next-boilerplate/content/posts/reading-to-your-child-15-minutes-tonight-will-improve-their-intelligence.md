@@ -12,7 +12,6 @@ tag:
   - reading
   - Sing
   - Talk
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
   - Health

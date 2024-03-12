@@ -6,7 +6,6 @@ author: "Greyson F"
 tag:
   - "expert tips"
   - productivity
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: "Looking for ways to make 2017 your most productive year yet? Here are 10 easy tips you can follow and incorporate into your every day life, no matter what."

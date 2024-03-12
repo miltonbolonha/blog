@@ -8,7 +8,6 @@ tag:
   - photos
   - tips
   - wedding
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Frugality
 description: "Wedding photography can be expensive. Many spend thousands of dollars on the right professional. Here are a few ways you can save and still have great pics."

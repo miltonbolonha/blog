@@ -2,7 +2,6 @@
 title: "COVID-19 Vaccination: Facts vs Myths and Who Should Go for it?"
 date: 2021-04-30 09:01:00
 author: Rene Williams
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Health
 image: corona-vaccination-health-hand-human-body-neck-1640988-pxhere.com_.jpg

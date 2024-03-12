@@ -3,7 +3,6 @@ title: Groundbreaking Psoriasis Treatments Have Arrived - A Diagnosis Is No
   Longer The End Of The World
 date: 2021-04-08 14:52:01
 author: Deanna Madera
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - General
 image: 1200x630_psoriasis_women_itchy_arm.jpg

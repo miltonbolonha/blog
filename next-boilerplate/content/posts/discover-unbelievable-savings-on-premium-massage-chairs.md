@@ -2,7 +2,6 @@
 title: Discover Unbelievable Savings on Premium Massage Chairs
 date: 2024-03-05 20:15:03
 author: Modern Tips
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Shopping
 tag:

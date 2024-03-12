@@ -7,7 +7,6 @@ tag:
   - "game of thrones"
   - lessons
   - money
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Credit
   - Investing

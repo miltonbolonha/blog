@@ -5,7 +5,6 @@ date: "2015-06-20 08:31:07"
 author: "Deanna Madera"
 tag:
   - General
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Credit
 description: ""

@@ -2,7 +2,6 @@
 title: You're Probably Missing Out on Better Savings Account Rates
 date: 2024-03-05 16:42:59
 author: Modern Tips
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Finance
 tag:

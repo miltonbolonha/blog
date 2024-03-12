@@ -43,13 +43,6 @@ collections:
           widget: "list",
           required: true,
         }
-      - {
-          label: "AdsTerms",
-          name: "adsTerms",
-          widget: "string",
-          required: false,
-          default: "Test Term 1, Test Term 2, Test Term 3, Test Term 4",
-        }
       - { label: "Tag", name: "tag", widget: "list" }
       - {
           label: "Featured Post",

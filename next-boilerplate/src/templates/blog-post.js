@@ -82,7 +82,14 @@ const BlogPost = ({ post }) => {
   // ads terms
   const terms = headingsTexts?.slice(0, -1);
   let termsString;
-  const adsTerms = post?.frontmatter?.adsTerms;
+  let adsTerms;
+  if (post?.frontmatter?.tag) {
+    adsTerms = post?.frontmatter?.tag.toString();
+  } else {
+    adsTerms = postHeadings;
+  }
+  console.log("adsTermsadsTermsadsTerms");
+  console.log(adsTerms);
   if (
     adsTerms === "Test Term 1, Test Term 2, Test Term 3, Test Term 4" ||
     adsTerms === "" ||

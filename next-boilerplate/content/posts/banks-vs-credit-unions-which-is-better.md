@@ -5,7 +5,6 @@ date: "2015-06-19 10:56:35"
 author: "Deanna Madera"
 tag:
   - General
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Money
 description: ""

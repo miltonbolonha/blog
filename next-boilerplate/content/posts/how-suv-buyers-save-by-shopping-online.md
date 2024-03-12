@@ -5,7 +5,6 @@ date: "2020-09-10 13:58:38"
 author: "Deanna Madera"
 tag:
   - General
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - General
 description: ""

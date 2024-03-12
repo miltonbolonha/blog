@@ -6,7 +6,6 @@ author: "Greyson F"
 tag:
   - "credit myths"
   - "credit score"
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Credit
   - Money

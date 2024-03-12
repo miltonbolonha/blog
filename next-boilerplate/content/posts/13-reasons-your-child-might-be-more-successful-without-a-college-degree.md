@@ -8,7 +8,6 @@ tag:
   - job
   - student
   - "student loan"
-adsTerms: "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
 categories:
   - Career
 description: "College degrees are often sold as a ticket to success, but is that really still true? Here's 13 reasons why you might be better off without one."
