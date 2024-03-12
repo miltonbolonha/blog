@@ -64,7 +64,7 @@ const BlogPost = ({ post }) => {
     "{{city}}",
     city || "Los Angeles"
   );
-  title = post?.frontmatter?.title.replace("{{state}}", state || "California");
+  title = title.replace("{{state}}", state || "California");
 
   const gtagCounter = id => {
     if (btnGClick === null && typeof window !== "undefined") {
