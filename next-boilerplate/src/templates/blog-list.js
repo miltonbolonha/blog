@@ -22,7 +22,7 @@ const BlogList = ({ posts, postsToShow, city, state }) => {
         // console.log("post?.frontmatter");
         // console.log(post?.frontmatter);
         if (
-          !post?.frontmatter?.categories &&
+          !post?.frontmatter?.categories ||
           post?.frontmatter?.categories[0] === "Hide"
         ) {
           return null;
