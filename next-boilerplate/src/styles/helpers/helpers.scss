@@ -816,6 +816,9 @@ nav.breadcrumb {
     flex-direction: row;
     > a:nth-child(1) {
       display: flex;
+      width: 20px;
+      height: 20px;
+      display: contents;
     }
     li {
       padding: 0 5px 0 0;

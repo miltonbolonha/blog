@@ -19,8 +19,8 @@ const BlogList = ({ posts, postsToShow, city, state }) => {
           return null;
         }
         if (!post?.frontmatter) return null;
-        console.log("post?.frontmatter");
-        console.log(post?.frontmatter);
+        // console.log("post?.frontmatter");
+        // console.log(post?.frontmatter);
         if (
           !post?.frontmatter?.categories &&
           post?.frontmatter?.categories[0] === "Hide"
@@ -29,7 +29,7 @@ const BlogList = ({ posts, postsToShow, city, state }) => {
         }
         const x = i + 1;
         let title = post?.frontmatter?.title.replace("{{city}}", city);
-        title = post?.frontmatter?.title.replace("{{state}}", state);
+        title = title.replace("{{state}}", state);
 
         return (
           <Post

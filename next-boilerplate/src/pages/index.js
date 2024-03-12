@@ -64,9 +64,7 @@ const Home = ({ posts, searchParams }) => {
     const data = await res.json();
     // setMensen(data);
     setUserInfos(data);
-    setCity(data?.geo?.city || "Los Angeles");
     setState(data?.geo?.subdivision?.name || "California");
-
     return setCity(data?.geo?.city || "Los Angeles");
   };
 

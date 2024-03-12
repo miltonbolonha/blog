@@ -24,11 +24,6 @@ const SinglePostBlock = ({
 }) => {
   const [toggle, setToggle] = useState(false);
   const rampJSref = useRef(null);
-
-  let geoTitle = title?.replace("{{city}}", city || "Los Angeles");
-
-  geoTitle = title?.replace("{{state}}", state || "California");
-
   const doc = parseContent;
   const postHeadings =
     doc?.querySelectorAll("h2").length > 0
@@ -38,7 +33,6 @@ const SinglePostBlock = ({
   function handleToggle() {
     return setToggle(!toggle);
   }
-  // const reduce = postHeadings?.length >= 4 ? postHeadings?.length - 3 : 1;
   const timeToRead = text => {
     const words = text.split(" ");
     const minutes = Math.floor(words.length / 200);
@@ -53,31 +47,6 @@ const SinglePostBlock = ({
   const promoNEVERread = promoVisitState === true && readMore !== null;
   const noPromoNEVERread = promoVisitState === false && readMore === null;
 
-  // console.log("replacedHtml");
-  // console.log(replacedHtml);
-  // const replacedHtml =
-  // searchReplace && !killSEO
-  //   ? html.replace(
-  //       searchReplace,
-  //       `${ReactDOMServer.renderToString(<div id='rampjs_slot2'></div>)}${searchReplace}`
-  //     )
-  //   : html;
-
-  // let headingsTexts = [];
-  // postHeadings.forEach(e => (headingsTexts += e.innerText + ","));
-  // console.log("headingsTexts");
-  // // ads terms
-  // const terms = headingsTexts.slice(0, -1);
-  // let termsString;
-  // if (
-  //   adsTerms === "Test Term 1, Test Term 2, Test Term 3, Test Term 4" ||
-  //   adsTerms === "" ||
-  //   !adsTerms
-  // ) {
-  //   termsString = terms.replace("Myth: ", "");
-  // } else {
-  //   termsString = adsTerms;
-  // }
   const script = `
         <script id="social-annex">
         (function () {
