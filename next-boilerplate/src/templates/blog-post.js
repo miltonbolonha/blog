@@ -23,22 +23,34 @@ const BlogPost = ({ post }) => {
   const [readMore, setReadMore] = useState(null);
   const [refUrl, setRefUrl] = useState(null);
   const [city, setCity] = useState(null);
+  const [state, setState] = useState(null);
   const [userInfos, setUserInfos] = useState(null);
   const getRef = useSearchParams().getAll("ref");
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
   const doc = parse(post.content);
-  const strongSelect = doc?.querySelector("strong");
-  console.log("strongSelect");
-  console.log(
-    strongSelect?.childNodes?.forEach(str => {
-      if (str?.innerText?.includes("Fact")) return null;
-    })
-  );
-  console.log("strongSelect");
+
+  const fetchApiData = async () => {
+    const res = await fetch(
+      `${mainConfigs.website.developmentUrl}/geolocation`
+    );
+    const data = await res.json();
+    // setMensen(data);
+    setUserInfos(data);
+    setState(data?.geo?.subdivision?.name || "California");
+    return setCity(data?.geo?.city || "Los Angeles");
+  };
+  // const strongSelect = doc?.querySelector("strong");
+  // console.log("strongSelect");
+  // console.log(
+  //   strongSelect?.childNodes?.forEach(str => {
+  //     if (str?.innerText?.includes("Fact")) return null;
+  //   })
+  // );
 
   // const x = strongSelect.length <= 0
   // const  y = strongSelect.includes('Myth: ')
   // const  c = strongSelect.includes('Fact: ')
+
   const pSelect = doc?.querySelector("p");
   const excerpt = pSelect?.childNodes[0]?._rawText;
   const killSEO =
@@ -48,26 +60,17 @@ const BlogPost = ({ post }) => {
     pc => pc.slug != post.slug
   );
 
-  const title = post?.frontmatter?.title.replace(
+  let title = post?.frontmatter?.title.replace(
     "{{city}}",
     city || "Los Angeles"
   );
+  title = post?.frontmatter?.title.replace("{{state}}", state || "California");
+
   const gtagCounter = id => {
     if (btnGClick === null && typeof window !== "undefined") {
       window?.gtag("event", id);
       setBtnGClick(null);
     }
-  };
-  const fetchApiData = async () => {
-    const res = await fetch(
-      `${mainConfigs.website.developmentUrl}/geolocation`
-    );
-    const data = await res.json();
-    // setMensen(data);
-    setUserInfos(data);
-    console.log("datadatadata");
-    console.log(data);
-    return setCity(data?.geo?.city || "Los Angeles");
   };
 
   const postHeadings =
@@ -90,8 +93,7 @@ const BlogPost = ({ post }) => {
   } else {
     adsTerms = postHeadings;
   }
-  console.log("adsTermsadsTermsadsTerms");
-  console.log(adsTerms);
+
   if (
     adsTerms === "Test Term 1, Test Term 2, Test Term 3, Test Term 4" ||
     adsTerms === "" ||
@@ -138,7 +140,7 @@ const BlogPost = ({ post }) => {
         : null;
     }
     // Fetch data from API if `location` object is set
-    if (!city) {
+    if (!city || !state) {
       fetchApiData()
         .then(function (response) {
           if (response.ok) {
@@ -156,9 +158,7 @@ const BlogPost = ({ post }) => {
           );
         });
     }
-  }, [city, promoVisitState, getRef]);
-  // console.log("postpostpost");
-  // console.log(post);
+  }, [city, state, promoVisitState, getRef]);
 
   return (
     <>
@@ -204,6 +204,7 @@ const BlogPost = ({ post }) => {
             parseContent={doc}
             relatedPosts={categoriesPosts}
             city={city}
+            state={state}
             killSEO={killSEO}
           />
         ) : null}

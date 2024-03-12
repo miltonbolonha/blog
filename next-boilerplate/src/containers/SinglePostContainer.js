@@ -20,9 +20,14 @@ const SinglePostBlock = ({
   city,
   killSEO,
   adsTerms,
+  state,
 }) => {
   const [toggle, setToggle] = useState(false);
   const rampJSref = useRef(null);
+
+  let geoTitle = title?.replace("{{city}}", city || "Los Angeles");
+
+  geoTitle = title?.replace("{{state}}", state || "California");
 
   const doc = parseContent;
   const postHeadings =
@@ -120,6 +125,7 @@ const SinglePostBlock = ({
       replacedHtml={html}
       relatedPosts={relatedPosts}
       city={city}
+      state={state}
       killSEO={killSEO}
       rampJSref={rampJSref}
       adsTerms={adsTerms}

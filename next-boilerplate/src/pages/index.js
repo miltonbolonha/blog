@@ -54,6 +54,7 @@ const Home = ({ posts, searchParams }) => {
   const [btnGClick, useBtnGClick] = useState(null);
   const [userInfos, setUserInfos] = useState(null);
   const [city, setCity] = useState(null);
+  const [state, setState] = useState(null);
   const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
 
   const fetchApiData = async () => {
@@ -63,6 +64,9 @@ const Home = ({ posts, searchParams }) => {
     const data = await res.json();
     // setMensen(data);
     setUserInfos(data);
+    setCity(data?.geo?.city || "Los Angeles");
+    setState(data?.geo?.subdivision?.name || "California");
+
     return setCity(data?.geo?.city || "Los Angeles");
   };
 
@@ -75,7 +79,7 @@ const Home = ({ posts, searchParams }) => {
   };
   useEffect(() => {
     // Fetch data from API if `location` object is set
-    if (!city) {
+    if (!city || !state) {
       fetchApiData()
         .then(function (response) {
           if (response.ok) {
@@ -147,6 +151,7 @@ const Home = ({ posts, searchParams }) => {
               posts={posts}
               postsToShow={website.postsToShow}
               city={city || "Los Angeles"}
+              state={state || "California"}
             />
           </div>
         </div>
