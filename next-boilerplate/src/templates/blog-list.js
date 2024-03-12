@@ -15,11 +15,17 @@ const BlogList = ({ posts, postsToShow, city }) => {
 
   return (
     <>
-      {current.map((post, i) => {
+      {current?.map((post, i) => {
         if (i >= postsToShow) {
           return null;
         }
-        if (post?.frontmatter?.categories[0] === "Hide") {
+        if (!post?.frontmatter) return null;
+        console.log("post?.frontmatter");
+        console.log(post?.frontmatter);
+        if (
+          !post?.frontmatter?.categories &&
+          post?.frontmatter?.categories[0] === "Hide"
+        ) {
           return null;
         }
         const x = i + 1;
@@ -27,13 +33,13 @@ const BlogList = ({ posts, postsToShow, city }) => {
           <Post
             key={x}
             number={x}
-            slug={post.slug}
-            title={post.frontmatter.title.replace("{{city}}", city)}
-            image={post.frontmatter.image}
-            date={post.frontmatter.date}
-            description={post.frontmatter.description}
+            slug={post?.slug || "/"}
+            title={post?.frontmatter?.title.replace("{{city}}", city)}
+            image={post?.frontmatter?.image}
+            date={post?.frontmatter?.date}
+            description={post?.frontmatter?.description}
             category={
-              post?.frontmatter?.categories[0] || post.frontmatter.categories
+              post?.frontmatter?.categories[0] || post?.frontmatter?.categories
             }
           />
         );
