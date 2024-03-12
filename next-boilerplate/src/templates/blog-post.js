@@ -65,6 +65,8 @@ const BlogPost = ({ post }) => {
     const data = await res.json();
     // setMensen(data);
     setUserInfos(data);
+    console.log("datadatadata");
+    console.log(data);
     return setCity(data?.geo?.city || "Los Angeles");
   };
 
