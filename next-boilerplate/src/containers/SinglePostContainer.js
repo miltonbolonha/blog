@@ -56,6 +56,7 @@ const SinglePostBlock = ({
               _rampJs({ terms: "${adsTerms}", init: {segment: "rsoc.moderntips.001"} });
           }
           ramjsInt();
+          console.log('rapmjs init');
       })();
         </script>
     `;

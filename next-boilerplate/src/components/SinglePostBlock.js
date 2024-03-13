@@ -63,6 +63,8 @@ const SinglePostBlock = ({
   rampJSref,
   adsTerms,
 }) => {
+  console.log("adsTerms");
+  console.log(adsTerms);
   return (
     <article>
       {killSEO ? <div ref={rampJSref}></div> : null}
@@ -117,7 +119,7 @@ const SinglePostBlock = ({
                       height={10}
                       className='search-hold'
                     />
-                    <span>{topic || "general"}</span>
+                    <span>{topic?.split(",")[0] || "general"}</span>
                   </li>
                 </ul>
               </nav>
