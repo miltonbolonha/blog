@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Online Criminal Justice Degree – Is it Right for You?"
 date: "2021-01-12 12:33:00"
 author: "Kelly F"

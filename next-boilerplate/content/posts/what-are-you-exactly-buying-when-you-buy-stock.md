@@ -1,5 +1,4 @@
 ---
-status: true
 title: "What Are You Exactly Buying When You Buy Stock?"
 date: "2015-04-14 15:21:02"
 author: "Deanna Madera"

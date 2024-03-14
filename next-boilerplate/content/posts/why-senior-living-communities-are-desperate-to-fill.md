@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Why Senior Living Communities Are Desperate to Fill Vacancies"
 date: "2020-09-11 14:27:36"
 author: "Deanna Madera"

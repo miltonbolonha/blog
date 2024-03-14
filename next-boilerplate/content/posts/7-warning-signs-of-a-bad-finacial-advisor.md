@@ -1,5 +1,4 @@
 ---
-status: true
 title: "7 Warning Signs of a Bad Financial Advisor"
 date: "2017-02-13 10:29:55"
 author: "Sarah H"

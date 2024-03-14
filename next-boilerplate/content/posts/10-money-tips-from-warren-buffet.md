@@ -1,5 +1,4 @@
 ---
-status: true
 title: "10 Money Tips from Warren Buffet"
 date: "2018-12-11 15:01:40"
 author: "Greyson F"

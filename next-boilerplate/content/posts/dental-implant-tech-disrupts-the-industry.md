@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Dental Implant Tech Disrupts The Industry"
 date: "2020-08-26 10:15:55"
 author: "Deanna Madera"

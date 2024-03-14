@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Why You Should Invest in Gold for a Rock Solid Retirement Plan"
 date: "2020-05-14 10:11:22"
 author: "Kelly F"

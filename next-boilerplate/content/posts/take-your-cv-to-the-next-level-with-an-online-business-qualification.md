@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Take Your CV to the Next Level with an Online Business Qualification"
 date: "2021-02-25 12:26:00"
 author: "Sarah H"

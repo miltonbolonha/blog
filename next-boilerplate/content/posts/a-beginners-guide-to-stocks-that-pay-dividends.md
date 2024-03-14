@@ -1,5 +1,4 @@
 ---
-status: true
 title: "A Beginners Guide to Stocks that Pay Dividends"
 date: "2015-04-28 12:47:51"
 author: "Deanna Madera"

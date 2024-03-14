@@ -1,5 +1,4 @@
 ---
-status: true
 title: "What are Prepaid Legal Services and How Do They Save You Money?"
 date: "2021-01-25 11:19:00"
 author: "Missy McKee"

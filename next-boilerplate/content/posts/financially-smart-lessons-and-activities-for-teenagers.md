@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Financially Smart Lessons And Activities for Teenagers"
 date: "2016-02-09 10:57:23"
 author: "Deanna Madera"

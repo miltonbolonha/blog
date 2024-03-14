@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How a Reverse Mortgage Can Get You Out of Debt"
 date: "2020-07-20 07:02:10"
 author: "Deanna Madera"

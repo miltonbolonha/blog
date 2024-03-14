@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Practical Money Lessons To Teach Your 11-13 Year Old"
 date: "2016-01-29 01:17:52"
 author: "Deanna Madera"

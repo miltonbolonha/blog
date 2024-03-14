@@ -1,5 +1,4 @@
 ---
-status: true
 title: "15 Ways Professional Investors &#8220;Outsmart&#8221; the Stock Market"
 date: "2016-08-01 12:41:39"
 author: "Greyson F"

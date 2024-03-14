@@ -1,5 +1,4 @@
 ---
-status: true
 title: "10 Scary Effects of Sleep Deprivation"
 date: "2016-05-02 17:04:32"
 author: "Deanna Madera"

@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Highest Paying Jobs Without A 4-Year College Degree"
 date: "2016-02-02 12:18:33"
 author: "Missy McKee"

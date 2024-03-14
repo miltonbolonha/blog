@@ -1,5 +1,4 @@
 ---
-status: true
 title: "The Virtual Office and Why You’re Missing Out"
 date: "2015-04-20 13:18:39"
 author: "Deanna Madera"

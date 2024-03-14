@@ -1,5 +1,4 @@
 ---
-status: true
 title: "These 10 Cars Will Cost You the Most Money Over Time"
 date: "2016-06-30 05:20:48"
 author: "Greyson F"

@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How to Get Your Money's Worth From Checking Accounts"
 date: "2015-05-19 10:47:34"
 author: "Deanna Madera"

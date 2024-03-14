@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How to Dispute a Credit Card Charge"
 date: "2015-04-12 15:51:28"
 author: "Deanna Madera"

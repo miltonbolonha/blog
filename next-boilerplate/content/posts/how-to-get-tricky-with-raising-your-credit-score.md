@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How to Get Tricky with Raising Your Credit Score"
 date: "2015-06-20 08:31:07"
 author: "Deanna Madera"

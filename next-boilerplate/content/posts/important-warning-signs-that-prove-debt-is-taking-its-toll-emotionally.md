@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Important Warning Signs that Prove Debt is Taking Its Toll Emotionally"
 date: "2015-04-12 13:45:05"
 author: "Deanna Madera"

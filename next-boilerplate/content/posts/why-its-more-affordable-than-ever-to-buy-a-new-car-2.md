@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Why It’s More Affordable Than Ever to Buy a New Car"
 date: "2020-12-07 09:03:38"
 author: "Deanna Madera"

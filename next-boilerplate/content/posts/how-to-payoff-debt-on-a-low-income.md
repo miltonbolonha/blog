@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How to Payoff Debt on a Low Income"
 date: "2015-05-12 14:48:37"
 author: "Deanna Madera"

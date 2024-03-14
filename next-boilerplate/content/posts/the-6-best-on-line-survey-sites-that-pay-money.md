@@ -1,5 +1,4 @@
 ---
-status: true
 title: "The 6 Best On-Line Survey Sites That Pay Money"
 date: "2016-02-14 15:38:00"
 author: "Deanna Madera"

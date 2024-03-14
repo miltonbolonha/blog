@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How to Get the Best Walk-In Tubs for Less"
 date: "2020-06-26 09:02:34"
 author: "Missy McKee"

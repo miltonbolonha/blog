@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Top 10 Ways to Improve Your Home's Resale Value"
 date: "2016-10-05 14:28:02"
 author: "Sarah H"

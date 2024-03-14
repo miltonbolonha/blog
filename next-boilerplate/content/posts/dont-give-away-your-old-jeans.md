@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Don't Give Away Your Old Jeans &#8211; Inventive Ways To Renew Old Jeans"
 date: "2016-01-25 12:34:49"
 author: "Deanna Madera"

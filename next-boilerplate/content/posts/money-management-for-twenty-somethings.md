@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Money Management for Twenty Something’s"
 date: "2015-05-19 10:57:50"
 author: "Deanna Madera"

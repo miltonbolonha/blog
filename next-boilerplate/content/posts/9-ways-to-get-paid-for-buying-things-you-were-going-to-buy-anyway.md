@@ -1,5 +1,4 @@
 ---
-status: true
 title: "9 Ways to Get Paid for Buying Things You were Going to Buy Anyway"
 date: "2016-07-05 04:11:58"
 author: "Greyson F"

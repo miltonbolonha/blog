@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How to Save on Cable and Internet Bills"
 date: "2020-09-14 01:03:15"
 author: "Kimberly Landess"

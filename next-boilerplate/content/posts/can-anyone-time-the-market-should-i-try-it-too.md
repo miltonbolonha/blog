@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Can Anyone Time the Market? Should I Try it Too?"
 date: "2016-05-05 12:46:31"
 author: "Deanna Madera"

@@ -1,5 +1,4 @@
 ---
-status: true
 title: "These Hair Loss Treatments are More Affordable and Widely Available Than Ever Before!"
 date: "2021-03-14 16:51:00"
 author: "Greyson F"

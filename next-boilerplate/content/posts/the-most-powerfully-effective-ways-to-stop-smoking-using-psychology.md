@@ -1,5 +1,4 @@
 ---
-status: true
 title: "The Most Powerfully Effective Ways to Stop Smoking Using Psychology"
 date: "2021-01-18 09:48:00"
 author: "Kimberly Landess"

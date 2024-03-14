@@ -1,5 +1,4 @@
 ---
-status: true
 title: "4 Tips for Millennials Who Seriously Stress About Money on the Job"
 date: "2019-01-20 06:03:52"
 author: "Greyson F"

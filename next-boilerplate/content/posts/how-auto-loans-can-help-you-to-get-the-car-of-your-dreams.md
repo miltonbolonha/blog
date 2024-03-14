@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How Auto Loans Can Help You to Get the Car of Your Dreams"
 date: "2020-09-30 11:02:19"
 author: "Deborah Woehr"

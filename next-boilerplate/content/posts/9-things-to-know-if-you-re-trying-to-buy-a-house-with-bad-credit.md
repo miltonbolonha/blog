@@ -1,5 +1,4 @@
 ---
-status: true
 title: "9 Things to Know If You're Trying to Buy a House with Bad Credit"
 date: "2016-07-12 05:48:15"
 author: "Sarah H"

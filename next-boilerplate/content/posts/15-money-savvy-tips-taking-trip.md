@@ -1,5 +1,4 @@
 ---
-status: true
 title: "15 Money-Savvy Tips For Taking The Trip Of A Lifetime For Almost Nothing"
 date: "2018-07-20 14:14:07"
 author: "Greyson F"

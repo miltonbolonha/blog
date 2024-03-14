@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Mystery Shopper Secrets Revealed- Earn Money, Free Food And More"
 date: "2016-01-26 09:44:24"
 author: "Greyson F"

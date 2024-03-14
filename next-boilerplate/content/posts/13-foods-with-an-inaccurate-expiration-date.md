@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Top Foods With an Inaccurate Expiration Date"
 date: "2018-11-07 14:14:04"
 author: "Deborah Woehr"

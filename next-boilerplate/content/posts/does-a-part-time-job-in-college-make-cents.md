@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Does a Part-Time Job in College Make Cents?"
 date: "2015-05-20 13:23:07"
 author: "Deanna Madera"

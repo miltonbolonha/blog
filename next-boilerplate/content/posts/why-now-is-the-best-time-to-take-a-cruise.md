@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Why Now Is The Best Time to Take A Cruise"
 date: "2020-09-13 17:00:43"
 author: "Deanna Madera"

@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How To Turn a Small Investment Into a Fortune"
 date: "2019-03-14 15:04:38"
 author: "Sarah H"

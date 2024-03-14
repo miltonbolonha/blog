@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Remedies and Treatments for Psoriasis – Enjoy Amazing Skin"
 date: "2020-07-28 12:08:02"
 author: "Deanna Madera"

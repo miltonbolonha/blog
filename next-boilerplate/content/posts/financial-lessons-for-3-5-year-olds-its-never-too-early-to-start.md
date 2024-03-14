@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Financial Lessons For 3-5 Year Olds  &#8211; It's Never Too Early To Start"
 date: "2016-01-31 12:07:41"
 author: "Deborah Woehr"

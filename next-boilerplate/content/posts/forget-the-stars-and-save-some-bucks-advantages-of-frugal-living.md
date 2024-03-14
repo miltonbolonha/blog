@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Forget the Stars and Save Some Bucks: Advantages of Frugal Living"
 date: "2015-05-12 14:11:15"
 author: "Deanna Madera"

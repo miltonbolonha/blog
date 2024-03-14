@@ -1,5 +1,4 @@
 ---
-status: true
 title: "14 Reasons You Lost that Account to Your Competition (And How to Win Next Time)"
 date: "2016-08-05 06:13:43"
 author: "Greyson F"

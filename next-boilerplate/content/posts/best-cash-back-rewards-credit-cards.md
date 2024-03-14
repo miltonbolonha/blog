@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Best Cash Back Rewards Credit Cards"
 date: "2016-02-02 09:44:02"
 author: "Deanna Madera"

@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Your Guide To Perfect Home Security For Less"
 date: "2020-02-18 15:48:26"
 author: "Kimberly Landess"

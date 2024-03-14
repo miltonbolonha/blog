@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How To Score A Good Deal on Mobility Scooters"
 date: "2020-04-14 11:20:13"
 author: "Deanna Madera"

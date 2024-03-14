@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Top 7 Most Common Interview Questions"
 date: "2018-04-04 11:30:55"
 author: "Greyson F"

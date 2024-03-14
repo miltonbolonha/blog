@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How To Save At Sears"
 date: "2015-09-08 17:42:18"
 author: "Deanna Madera"

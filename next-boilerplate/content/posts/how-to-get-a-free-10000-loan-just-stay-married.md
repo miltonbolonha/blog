@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How To Get A Free Wedding Loan of $10,000 &Stay Married"
 date: "2016-02-04 11:08:41"
 author: "Deanna Madera"

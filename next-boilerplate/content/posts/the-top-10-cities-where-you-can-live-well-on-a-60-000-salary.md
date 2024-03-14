@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Top 10 Cities Where You Can Live Well On A $60,000 Salary"
 date: "2018-04-12 15:02:07"
 author: "Greyson F"

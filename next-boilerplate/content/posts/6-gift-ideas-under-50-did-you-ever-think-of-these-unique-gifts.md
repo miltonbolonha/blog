@@ -1,5 +1,4 @@
 ---
-status: true
 title: "6 Unique Gift Ideas Under $50"
 date: "2016-04-27 12:06:40"
 author: "Deanna Madera"

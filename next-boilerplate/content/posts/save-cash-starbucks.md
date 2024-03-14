@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Love Starbucks? Here are 6 Easy Ways to Save Cash on Your Next Visit"
 date: "2019-01-28 08:21:26"
 author: "Greyson F"

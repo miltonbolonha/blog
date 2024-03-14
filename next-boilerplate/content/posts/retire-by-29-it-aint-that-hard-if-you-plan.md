@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Retire By 29- It Ain't That Hard if You Plan!"
 date: "2015-04-19 10:50:34"
 author: "Deanna Madera"

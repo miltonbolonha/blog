@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Summer Gas Prices Are The Cheapest Since 2004"
 date: "2016-09-01 14:11:55"
 author: "Deanna Madera"

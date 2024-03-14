@@ -1,5 +1,4 @@
 ---
-status: true
 title: "4 Cheap Car Survival Tools And Tips That Can Save Your Life"
 date: "2016-03-06 18:06:30"
 author: "Deanna Madera"

@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Little Known Debt Settlement Drawbacks You Need to Learn Today"
 date: "2015-06-12 13:46:11"
 author: "Deanna Madera"

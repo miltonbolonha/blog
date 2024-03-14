@@ -1,5 +1,4 @@
 ---
-status: true
 title: "11 Vehicles That Depreciate Quickly"
 date: "2018-10-13 15:02:57"
 author: "Greyson F"

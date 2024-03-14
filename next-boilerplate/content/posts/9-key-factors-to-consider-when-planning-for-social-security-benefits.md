@@ -1,5 +1,4 @@
 ---
-status: true
 title: "9 Key Factors To Consider When Planning For Social Security Benefits"
 date: "2016-03-03 22:07:01"
 author: "Deanna Madera"

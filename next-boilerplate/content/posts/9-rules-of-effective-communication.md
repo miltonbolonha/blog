@@ -1,5 +1,4 @@
 ---
-status: true
 title: "9 Rules of Effective Communication (#8 is Especially Helpful)"
 date: "2016-10-20 12:02:02"
 author: "Greyson F"

@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How to Choose the Best Checking Accounts – Grow Your Money, Stay Safe, Enjoy Benefits!"
 date: "2020-07-04 08:09:23"
 author: "Rene Williams"

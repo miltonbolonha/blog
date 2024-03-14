@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How To Get The Best Deals On Tires"
 date: "2020-09-11 10:57:50"
 author: "Deanna Madera"

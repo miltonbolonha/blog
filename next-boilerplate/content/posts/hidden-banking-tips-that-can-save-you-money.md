@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Hidden Banking Tips That Can Save You Money"
 date: "2016-02-16 10:26:09"
 author: "Deanna Madera"

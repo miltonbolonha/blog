@@ -1,5 +1,4 @@
 ---
-status: true
 title: "These are the Highest Paid Online Bachelor’s Degrees You Should Consider"
 date: "2020-11-17 08:31:15"
 author: "Deborah Woehr"

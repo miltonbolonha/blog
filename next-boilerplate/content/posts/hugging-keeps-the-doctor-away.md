@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Hugging Keeps The Doctor Away"
 date: "2016-04-11 11:53:21"
 author: "Deanna Madera"

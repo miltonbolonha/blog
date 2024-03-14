@@ -1,5 +1,4 @@
 ---
-status: true
 title: "9 Ways To Cut Prescription Drug Costs"
 date: "2018-03-08 23:00:03"
 author: "Deanna Madera"

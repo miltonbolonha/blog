@@ -11,8 +11,6 @@ layout: post
 description: ""
 ---
 
-[![](/posts/1200x628_seniordiscounts_cashtakingsurveys.jpg)]/posts/1200x628_seniordiscounts_cashtakingsurveys.jpg)
-
 Feel like your money goes down the drain week after week? It’s alright, we’ve all been there and we’re here to help.
 
 We’ve done the research and found some of the best ways to help stack your bank account before Saturday. Some of these these apps help you save, others will help you earn extra cash to pad your bank account right away.

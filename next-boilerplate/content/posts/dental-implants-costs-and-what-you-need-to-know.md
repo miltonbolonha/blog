@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Dental Implants: Costs and What You Need to Know"
 date: "2020-12-29 17:25:18"
 author: "Greyson F"

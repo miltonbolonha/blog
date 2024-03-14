@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Everything You Need to Know About Nursing Degrees"
 date: "2020-06-02 15:00:11"
 author: "Greyson F"

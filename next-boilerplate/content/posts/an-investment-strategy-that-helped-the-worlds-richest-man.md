@@ -1,5 +1,4 @@
 ---
-status: true
 title: "An Investment Strategy that Helped the World’s Richest Man"
 date: "2015-04-20 12:45:00"
 author: "Deanna Madera"

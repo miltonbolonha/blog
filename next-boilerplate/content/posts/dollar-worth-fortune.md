@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Check Your Pockets, Your Money May Actually Be Worth a Fortune"
 date: "2019-02-17 08:20:13"
 author: "Greyson F"

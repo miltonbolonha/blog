@@ -17,8 +17,6 @@ Looking to upgrade your personal transport? In this post, you’ll discover some
 
 When it comes to saving money on automobiles, many of us instantly assume that the best strategy will be to find a second-hand vehicle. Cars lose their value the moment they are driven out of the showroom, which means you can often get a great deal even if the car has done barely any miles! Most people are therefore _not_ looking for a new car when they’re trying to save cash.
 
-![](/posts/Best-New-2020-cars.jpg)
-
 But this isn’t always the best strategy. In fact, buying new comes with a number of great advantages.
 
 For one, buying new means that you will be able to hang onto the vehicle much longer. A new car should last you a good 4-8 years, meaning that it will be a long time before you need to think about upgrading. Spread the cost of your vehicle over that time, and you’ll realize it’s not such a bad deal!

@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Think Outside the Box to Get Rich: The Best Alternative Investments"
 date: "2020-12-15 10:04:28"
 author: "Deborah Woehr"

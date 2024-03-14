@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Love Money But Hate Stress? Here are 15 Low-Stress Careers that Pay Over 70k"
 date: "2016-06-29 02:24:01"
 author: "Greyson F"

@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Way-Too-Easy Strategies to Reduce the Cost of College"
 date: "2015-05-20 13:31:00"
 author: "Deanna Madera"

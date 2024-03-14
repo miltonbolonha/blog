@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Olive Oil May Clean Air Pollution"
 date: "2016-02-14 13:17:05"
 author: "Deanna Madera"

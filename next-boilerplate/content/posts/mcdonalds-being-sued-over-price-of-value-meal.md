@@ -1,5 +1,4 @@
 ---
-status: true
 title: "McDonald's Being Sued Over Price of Value Meal"
 date: "2016-12-29 10:50:35"
 author: "Deanna Madera"

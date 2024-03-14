@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Rent Prices Plummet During Poor Economic Conditions"
 date: "2020-09-01 18:24:36"
 author: "Deanna Madera"

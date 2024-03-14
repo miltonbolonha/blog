@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Record Setting Gold Prices From Miserable Economic Outlook"
 date: "2020-08-31 14:47:07"
 author: "Deanna Madera"

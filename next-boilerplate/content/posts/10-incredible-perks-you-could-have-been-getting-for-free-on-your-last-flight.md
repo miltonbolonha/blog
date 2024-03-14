@@ -1,5 +1,4 @@
 ---
-status: true
 title: "10 Incredible Perks You Could Have Been Getting for Free on Your Last Flight"
 date: "2016-07-28 12:00:00"
 author: "Greyson F"

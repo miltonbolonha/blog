@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Lung Cancer Treatment Options and Prognosis"
 date: "2020-06-10 09:00:34"
 author: "Kelly F"

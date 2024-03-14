@@ -1,5 +1,4 @@
 ---
-status: true
 title: "5 Ways Restaurant Menus Trick You Into Spending More Money"
 date: "2019-01-02 09:03:07"
 author: "Greyson F"

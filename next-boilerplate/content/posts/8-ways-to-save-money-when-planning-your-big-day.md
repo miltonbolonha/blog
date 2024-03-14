@@ -1,5 +1,4 @@
 ---
-status: true
 title: "8 Ways to Save Money When Planning Your Big Day"
 date: "2016-09-07 12:16:59"
 author: "Greyson F"

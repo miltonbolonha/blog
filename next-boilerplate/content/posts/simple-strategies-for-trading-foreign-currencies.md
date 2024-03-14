@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Simple Strategies for Trading Foreign Currencies"
 date: "2015-05-20 12:49:28"
 author: "Deanna Madera"

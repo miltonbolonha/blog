@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Prostate Cancer Treatments, Outcomes, and Prognosis"
 date: "2020-04-22 09:00:58"
 author: "Deborah Woehr"

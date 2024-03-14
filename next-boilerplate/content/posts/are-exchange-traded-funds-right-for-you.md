@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Are Exchange Traded Funds Right for You?"
 date: "2015-04-20 12:37:48"
 author: "Deanna Madera"

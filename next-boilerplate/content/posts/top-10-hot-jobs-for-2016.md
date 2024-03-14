@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Top 10 Hot Jobs For 2016"
 date: "2016-02-11 10:05:17"
 author: "Deanna Madera"

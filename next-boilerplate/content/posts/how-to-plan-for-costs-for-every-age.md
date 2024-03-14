@@ -1,5 +1,4 @@
 ---
-status: true
 title: "How to Plan for Costs for Every Age"
 date: "2015-06-19 10:51:59"
 author: "Deanna Madera"

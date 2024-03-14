@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Unsold 2020 SUVs Going For Pennies On The Dollar"
 date: "2018-04-08 14:29:31"
 author: "Deborah Woehr"

@@ -1,5 +1,4 @@
 ---
-status: true
 title: "10 Ways The Great Depression Shaped Multiple Generations"
 date: "2017-01-26 12:30:51"
 author: "Sarah H"

@@ -1,5 +1,4 @@
 ---
-status: true
 title: "10 Best Cities to Move to If You Want to Become a Millionaire (At Any Age!)"
 date: "2016-07-03 12:26:00"
 author: "Greyson F"

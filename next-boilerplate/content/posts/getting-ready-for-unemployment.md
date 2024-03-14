@@ -1,5 +1,4 @@
 ---
-status: true
 title: "Getting Ready for Unemployment"
 date: "2016-03-31 13:28:01"
 author: "Deanna Madera"
