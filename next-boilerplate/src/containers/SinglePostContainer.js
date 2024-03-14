@@ -46,17 +46,23 @@ const SinglePostBlock = ({
   const promoNOread = promoVisitState === true && readMore === false;
   const promoNEVERread = promoVisitState === true && readMore !== null;
   const noPromoNEVERread = promoVisitState === false && readMore === null;
-
+  let termsCount = adsTerms.split(",").length <= 5;
+  let termsString = [];
+  postHeadings.forEach(x =>
+    x?.innerText.split(" ").length <= 1 ? null : termsString.push(x?.innerText)
+  );
+  termsString = termsCount ? adsTerms.concat(termsString) : adsTerms;
+  termsString.length >= 6 ? termsString.slice(0, 5) : termsString;
   const script = `
         <script id="social-annex">
         (function () {
           function ramjsInt () {
             (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
               arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-              _rampJs({ terms: "${adsTerms}", init: {segment: "rsoc.moderntips.001"} });
+              _rampJs({ terms: "${termsString.toString()}", init: {segment: "rsoc.moderntips.001"} });
           }
           ramjsInt();
-          console.log('rapmjs init');
+          console.log('rampjs init');
       })();
         </script>
     `;
