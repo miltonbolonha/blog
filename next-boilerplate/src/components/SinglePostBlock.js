@@ -66,7 +66,7 @@ const SinglePostBlock = ({
 }) => {
   return (
     <article>
-      {killSEO ? <div ref={rampJSref}></div> : null}
+      <div ref={rampJSref}></div>
 
       <Head>
         <meta name='keywords' content={adsTerms} />
@@ -288,7 +288,7 @@ const SinglePostBlock = ({
           </div>
         </div>
       </section>
-      <Script
+      {/* <Script
         strategy='afterInteractive'
         id='rampjs-hack'
         defer
@@ -300,7 +300,7 @@ const SinglePostBlock = ({
             _rampJs({${newTerms}});
         `,
         }}
-      />
+      /> */}
     </article>
   );
 };
