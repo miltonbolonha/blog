@@ -49,18 +49,26 @@ const SinglePostBlock = ({
   let termsCount = adsTerms.split(",").length <= 5;
   let termsString = [];
   postHeadings.forEach(x =>
-    x?.innerText.split(" ").length <= 1 ? null : termsString.push(x?.innerText)
+    x?.innerText.split(" ").length <= 1
+      ? null
+      : termsString.push(x?.innerText.replace("Myth: ", " "))
   );
   termsString = termsCount ? adsTerms.concat(termsString) : adsTerms;
-  termsString.length >= 6 ? termsString.slice(0, 5) : termsString;
-  const newTerms = ` terms: "${termsString.toString()}", init: {segment: "rsoc.moderntips.001"}`;
+  console.log("termsString");
+  console.log(termsString);
+  termsString =
+    termsString.length >= 6
+      ? termsString.split(",").slice(0, 5).toString()
+      : termsString;
+  console.log(termsString);
+  const newTerms = ` terms: "${termsString}", init: {segment: "rsoc.moderntips.001"}`;
   const script = `
         <script id="social-annex">
         (function () {
           function ramjsInt () {
             (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
               arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-              _rampJs({ terms: "${termsString.toString()}", init: {segment: "rsoc.moderntips.001"} });
+              _rampJs({ terms: "${termsString}", init: {segment: "rsoc.moderntips.001"} });
           }
           ramjsInt();
           console.log('rampjs init');
@@ -105,7 +113,7 @@ const SinglePostBlock = ({
       state={state}
       killSEO={killSEO}
       rampJSref={rampJSref}
-      adsTerms={termsString.toString()}
+      adsTerms={termsString}
       newTerms={newTerms}
     />
   );
