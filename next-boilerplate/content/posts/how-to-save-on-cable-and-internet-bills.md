@@ -17,8 +17,6 @@ If you’re looking to save cash on bills, then reducing your cable and internet
 
 The truth is that a LOT of people pay by far over the odds for their internet and are still unhappy with the outcome! There are better deals out there, so keep reading.
 
-![](/posts/Cable-and-internet.jpg)
-
 ## How to Get Cheaper Internet
 
 Let’s start with internet. And a good question to begin with is: just how fast does your Wi-Fi need to be?

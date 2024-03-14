@@ -17,8 +17,6 @@ If you’re thinking of buying a new car, then now is the time to take a plunge.
 
 But why exactly are car prices at an all-time low right now? How can you best take advantage of this huge price dip? And what else do you need to know before you buy?
 
-![](/posts/new-car.jpg)
-
 Read on, and we’ll look into the phenomenon so that you can start to take full advantage of it!
 
 ## Why New Cars Need to Compete With Uber and Better Transport Links

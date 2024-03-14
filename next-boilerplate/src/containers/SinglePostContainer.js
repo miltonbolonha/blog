@@ -21,6 +21,7 @@ const SinglePostBlock = ({
   killSEO,
   adsTerms,
   state,
+  siteKeywords,
 }) => {
   const [toggle, setToggle] = useState(false);
   const rampJSref = useRef(null);
@@ -53,9 +54,9 @@ const SinglePostBlock = ({
       ? null
       : termsString.push(x?.innerText.replace("Myth: ", " "))
   );
-  termsString = termsCount ? adsTerms.concat(termsString) : adsTerms;
-  console.log("termsString");
-  console.log(termsString);
+  termsString = termsCount
+    ? adsTerms.concat(termsString)
+    : adsTerms.concat(siteKeywords);
   termsString =
     termsString.length >= 6
       ? termsString.split(",").slice(0, 5).toString()

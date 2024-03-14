@@ -181,6 +181,7 @@ const BlogPost = ({ post }) => {
         />
         {post?.type === "posts" ? (
           <SinglePostContainer
+            siteKeywords={website.keywords}
             highlightImage={post?.frontmatter?.image}
             authorImg={"imgHolder"}
             date={post?.frontmatter?.date}
