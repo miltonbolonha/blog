@@ -53,6 +53,7 @@ const SinglePostBlock = ({
   );
   termsString = termsCount ? adsTerms.concat(termsString) : adsTerms;
   termsString.length >= 6 ? termsString.slice(0, 5) : termsString;
+  const newTerms = ` terms: "${termsString.toString()}", init: {segment: "rsoc.moderntips.001"}`;
   const script = `
         <script id="social-annex">
         (function () {
@@ -104,7 +105,8 @@ const SinglePostBlock = ({
       state={state}
       killSEO={killSEO}
       rampJSref={rampJSref}
-      adsTerms={adsTerms}
+      adsTerms={termsString.toString()}
+      newTerms={newTerms}
     />
   );
 };
