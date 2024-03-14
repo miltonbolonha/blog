@@ -34,7 +34,7 @@ const infos = {
   i18n: website.i18n,
   keywords: website.keywords,
   questions: index.faq,
-  topology: null,
+  topology: "null",
   articleUrl: `${mainConfigs.website.siteUrl}/about`,
   themeColor: website.themeColor,
   sameAs: business.sameAs,

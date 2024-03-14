@@ -127,7 +127,7 @@ const BlogPost = ({ post }) => {
     themeColor: website.themeColor,
     sameAs: business.sameAs,
     twitter: business.shortName,
-    articleBody: post?.content,
+    articleBody: doc,
   };
 
   useEffect(() => {

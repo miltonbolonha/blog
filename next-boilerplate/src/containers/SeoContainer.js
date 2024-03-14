@@ -59,7 +59,6 @@ const SeoContainer = ({ data, killSeo = true }) => {
       sameAs: socialValues,
     },
   ];
-
   const articleSchema = [
     {
       "@context": "https://schema.org",
@@ -78,7 +77,10 @@ const SeoContainer = ({ data, killSeo = true }) => {
         height: 1200,
         width: 630,
       },
-      articleBody: data?.articleBody || data?.description,
+      articleBody:
+        typeof data?.articleBody !== "undefined"
+          ? data?.articleBody?.toString()
+          : data?.description,
       publisher: {
         "@type": "Organization",
         name: data?.brandName,
@@ -93,7 +95,6 @@ const SeoContainer = ({ data, killSeo = true }) => {
       datePublished: data?.datePublished,
     },
   ];
-
   let arrayQuestions = [];
   data?.questions?.forEach(question => {
     return arrayQuestions.push({
@@ -126,7 +127,10 @@ const SeoContainer = ({ data, killSeo = true }) => {
         brandDescription: data?.brandDescription,
         dateCreated: data?.dateCreated,
         dateNow: data?.dateNow,
-        articleBody: data?.articleBody,
+        articleBody:
+          typeof data?.articleBody !== "undefined"
+            ? data?.articleBody?.toString()
+            : data?.description,
         datePublished: data?.datePublished,
         album: data?.album,
         track: data?.track,

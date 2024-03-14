@@ -289,7 +289,7 @@ const SinglePostBlock = ({
           </div>
         </div>
       </section>
-      <Script
+      {/* <Script
         strategy='afterInteractive'
         id='rampjs'
         defer
@@ -301,7 +301,7 @@ const SinglePostBlock = ({
             _rampJs({});
         `,
         }}
-      />
+      /> */}
     </article>
   );
 };

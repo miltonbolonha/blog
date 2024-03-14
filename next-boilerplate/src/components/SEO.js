@@ -66,7 +66,7 @@ const Seo = ({ children, data = null }) => {
       <meta name='generator' content='Milton Bolonha - Next Boilerplate' />
 
       {/* Schema.org tags */}
-      {data?.topology === "pages" ? (
+      {data?.topology === "post" ? (
         <script type='application/ld+json' data-schema='Article'>
           {JSON.stringify(data?.articleSchema)}
         </script>
