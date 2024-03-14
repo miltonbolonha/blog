@@ -63,8 +63,6 @@ const SinglePostBlock = ({
   rampJSref,
   adsTerms,
 }) => {
-  console.log("adsTerms");
-  console.log(adsTerms);
   return (
     <article>
       {killSEO ? <div ref={rampJSref}></div> : null}

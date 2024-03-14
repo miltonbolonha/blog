@@ -67,16 +67,27 @@ const Seo = ({ children, data = null }) => {
 
       {/* Schema.org tags */}
       {data?.topology === "post" ? (
-        <script type='application/ld+json' data-schema='Article'>
-          {JSON.stringify(data?.articleSchema)}
-        </script>
+        <script
+          type='application/ld+json'
+          data-schema='Article'
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(data?.articleSchema),
+          }}
+        />
       ) : null}
-      <script type='application/ld+json' data-schema='WebSite'>
-        {JSON.stringify(data?.webSiteSchema)}
-      </script>
-      <script type='application/ld+json' data-schema='Organization'>
-        {JSON.stringify(data?.orgSchema)}
-      </script>
+      <script
+        type='application/ld+json'
+        data-schema='WebSite'
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(data?.webSiteSchema),
+        }}
+      />
+
+      <script
+        type='application/ld+json'
+        data-schema='Organization'
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(data?.orgSchema) }}
+      />
       {/* <script type='application/ld+json'>
         {JSON.stringify(JSON.parse(JSON.stringify(data?.questionSchema)))}
       </script> */}
