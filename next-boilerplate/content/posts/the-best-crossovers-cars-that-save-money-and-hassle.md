@@ -16,7 +16,6 @@ image: Crossovers.jpg
 Cars like the Buick Enclave, Ford Edge have lately been doing incredibly well for their respective manufacturers, and have very much set the trend for the automobile industry. At the moment, any crossover or mini SUV is almost bound to fly out of the showrooms and it seems that more and more people are converting to this way of thinking.
 
 So what is it about these small crossover vehicles that makes them so popular? And what are the best crossover vehicles on the market right now?  
-![](/posts/Crossovers.jpg)
 
 Read on and we’ll take a look at just why the crossover SUV is so popular in the automotive industry. In particular: how does this car save you money?
 
