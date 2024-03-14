@@ -288,9 +288,9 @@ const SinglePostBlock = ({
           </div>
         </div>
       </section>
-      {/* <Script
+      <Script
         strategy='afterInteractive'
-        id='rampjs'
+        id='rampjs-hack'
         defer
         crossOrigin='anonymous'
         dangerouslySetInnerHTML={{
@@ -300,7 +300,7 @@ const SinglePostBlock = ({
             _rampJs({${newTerms}});
         `,
         }}
-      /> */}
+      />
     </article>
   );
 };
