@@ -14,7 +14,7 @@ At the heart of our economy's pulse lies the relentless drive of CDL truck drive
 
 ## Your Journey to Earning a CDL: A Road Filled with Prospects
 
-Securing a Commercial Driver’s License (CDL) is your ticket into the exhilarating career of truck driving. Embarking on this path means fulfilling specific prerequisites, acing a knowledge exam, and showcasing adeptness in maneuvering a truck during a practical test.2 The road to certification might seem daunting, but with various companies extending complimentary CDL training, the journey is more accessible than ever.
+Securing a Commercial Driver’s License (CDL) is your ticket into the exhilarating career of truck driving. Embarking on this path means fulfilling specific prerequisites, acing a knowledge exam, and showcasing adeptness in maneuvering a truck during a practical test.^2^ The road to certification might seem daunting, but with various companies extending complimentary CDL training, the journey is more accessible than ever.
 
 ## Exploring New Horizons as a CDL Holder
 
