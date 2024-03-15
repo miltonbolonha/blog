@@ -2,6 +2,14 @@
 title: How to Embark on a Thrilling CDL Truck Driving Career
 date: 2024-03-15 15:15:04
 author: Modern Tips
+categories:
+  - Career
+tag:
+  - Open Driving Jobs
+  - Get Paid to Earn a CDL
+  - Get Paid With a CDL
+  - Earn a CDL and Get Paid
+  - CDL Employment Verification
 featuredPost: false
 image: 71bd3de4-c5c3-4f61-9a39-5f468a206048.webp
 layout: post
