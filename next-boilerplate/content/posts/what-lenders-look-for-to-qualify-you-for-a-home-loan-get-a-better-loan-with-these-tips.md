@@ -14,8 +14,6 @@ image: Lenders.jpg
 
 Buying a home should be one of the most exciting and encouraging times in your life. You’ll be starting a life somewhere new, with more space, better facilities, and maybe even a more convenient commute. If it’s your first home, then you’ll be gaining a huge amount of freedom and responsibility, which can be intoxicating and frightening! But to make this happen you need to get a home loan first. Fortunately, understanding the criteria that a lender looks for can help you to get the best deal and the best new property!
 
-![](/posts/Lenders.jpg)
-
 When a lender provides anyone with a loan, they are essentially making an investment. This works just the same as investing in stocks and shares: the lender expects the individual to pay the loan back with interest, thus meaning they’ll earn money on that investment. But at the same time, the lender also takes on a certain amount of risk: as there is always the possibility the individual won’t be _able_ to pay off the loan they’ve taken out. That in turn means that the lender might lose money, and so they need to do everything they can to ensure that whoever they give the home loan to is going to be capable of paying it off.
 
 This is why lenders have strict criteria for giving out mortgages. (That, and because the lack of regulation in the home loans market is partly what led to the 2008 financial crisis!<sup>1</sup>)

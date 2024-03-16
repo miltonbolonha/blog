@@ -17,8 +17,6 @@ layout: post
 image: 3-Journey-Student-Rewards-From-Capital-One-credit-card.jpg
 ---
 
-![](/posts/3-Journey-Student-Rewards-From-Capital-One-credit-card.jpg)
-
 ## Credit Card Expiration Date Doesn’t Matter
 
 Every single credit card you’ve ever pulled out of your wallet has an expiration date pressed right into the front of it. However, have you ever noticed that whenever you receive a replacement card at the end of the “expiration” period the card number is exactly the same? This is because the expiration date really isn’t an expiration date at all.

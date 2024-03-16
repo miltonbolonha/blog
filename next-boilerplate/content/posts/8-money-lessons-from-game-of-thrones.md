@@ -12,7 +12,7 @@ categories:
   - Money
 description: ""
 layout: post
-image: 6-e1475530103570.png
+image: shutterstock_72076102.jpg
 ---
 
 ## Don’t Borrow More Than You Can Repay
@@ -20,8 +20,6 @@ image: 6-e1475530103570.png
 You’ll need to be up to date with the show in order to understand this reference. Sansa decided to attack Ramsay Bolton, because she was upset and wanted him dead, despite not having enough men. So, she borrowed Littlefinger’s Vale army to defeat Ramsay’s. Worked out pretty well, right? Well, here’s the thing. Littlefinger has a way of getting what he wants, and he’s not just offering up the Vale army for nothing. The fact of the matter is never borrow more than you can repay. Now, who knows what Sansa will be forced to do in order to repay this. Marry Littlefinger and cut Jon Snow out? Have to wait another year before next season to possibly find out, but always keep this in mind.
 
 ## Always Repay Your Debts
-
-![always repay your debt](/posts/shutterstock_72076102.jpg)
 
 The Lannister’s really love to remind you “a Lannister always pays his debts.” This is good to keep in mind. Now, not all of the Lannisters are this stand up individuals, but it is a good motto to live by. Pay back your debts, otherwise your debts will swallow you up. This is especially credit card debts. So before you take out more debt, it may be better to pay back your current debts before moving forward.
 

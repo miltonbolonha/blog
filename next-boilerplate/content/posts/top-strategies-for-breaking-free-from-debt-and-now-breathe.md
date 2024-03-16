@@ -15,8 +15,6 @@ image: Debt-free.jpg
 
 Being in debt can be a soul crushing experience. It literally feels like the walls are closing in around you, and every minute you wait only makes matters worse. Debt consolidation, debt restructuring, and even simple budgeting _can_ help though. So if you’re looking for a way out, it’s time to take action!
 
-![](/posts/Debt-free.jpg)
-
 If you’re looking to escape from debt once and for all, follow the advice below to make it a thing of the past.
 
 ## Top Ways to Break Free From Debt
