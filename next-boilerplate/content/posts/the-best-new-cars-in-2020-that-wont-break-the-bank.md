@@ -1,5 +1,4 @@
 ---
-status: true
 title: "The Best New Cars in 2020 that Won’t Break the Bank"
 date: "2020-08-05 11:27:16"
 author: "Missy McKee"

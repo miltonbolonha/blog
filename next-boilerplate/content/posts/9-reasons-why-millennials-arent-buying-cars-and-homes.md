@@ -21,19 +21,13 @@ image: shutterstock_174760679.jpg
 
 ### Less Money to Spend
 
-<figure aria-describedby="caption-attachment-4308" class="wp-caption alignnone" id="attachment_4308" style="width: 700px">
-
-![they are money wise](/posts/shutterstock_224295640.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4308">[andrey_popov](https://www.shutterstock.com/pic-224295640/stock-photo-piggybank-looking-at-calculator-isolated-on-white.html)
-
-</figcaption></figure>
+![they are money wise](/posts/shutterstock_224295640.jpg)
 
 While there are other reasons as to why millennials aren’t spending money on cars and homes, one of the biggest reasons is because they have less money to spend. While salaries have increased over time, college costs have skyrocketed, so many young professionals now have tens of thousands of dollars in debt (if not more). Buying a vehicle may simply not fit into the budget.
 
 ### Moving to City Centers
 
-<figure aria-describedby="caption-attachment-4404" class="wp-caption alignnone" id="attachment_4404" style="width: 700px">
-
-![Change careers after 40 get rewards](/posts/shutterstock_308851766.jpg)<figcaption class="wp-caption-text" id="caption-attachment-4404">[ra2studio](https://www.shutterstock.com/image-photo/business-woman-on-road-heading-toward-308851766)</figcaption></figure>
+![Change careers after 40 get rewards](/posts/shutterstock_308851766.jpg)
 
 Regional migration shifts every few decades. Millennials are now moving away from the suburbs and rural areas to make downtown city centers home. With improved modes of public transportation, owning a car simply isn’t necessary and buying a condo in a major city likely is too expensive.
 
