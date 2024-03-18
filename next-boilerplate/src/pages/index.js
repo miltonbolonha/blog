@@ -1,32 +1,22 @@
-import React, { useRef, useState, useEffect } from "react";
-// import Head from "next/head";
-import Link from "next/link";
-import { usePathname, useSearchParams } from "next/navigation";
-// import { usePathname } from "next/navigation";
+import React, { useState, useEffect } from "react";
+import { usePathname } from "next/navigation";
 import BlogList from "../templates/blog-list";
 import { getAllPosts } from "../lib/api";
 import SearchInputContainer from "../containers/SearchInputContainer";
-// import Slider from "react-slick";
 import Image from "next/image";
 
 import SeoContainer from "../containers/SeoContainer";
-import Row from "../containers/RowContainer";
 import HeaderContainer from "../containers/HeaderContainer";
-// import TopRibbonContainer from "../containers/TopRibbonContainer";
-// import FAQContainer from "../containers/FAQContainer";
-// import LoadMime from "../containers/LoadMimeContainer";
-// import FooterHighlightContainer from "../containers/FooterHighlightContainer";
 import FooterContainer from "../containers/FooterContainer";
 import mainMenu from "../configs/main-menu.json";
 import mainConfigs from "../configs/main-infos.json";
-// import * as ga from "../lib/ga";
 
 const index = mainConfigs?.pages?.index;
 const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
 const infos = {
-  slug: index?.slug,
+  slug: "",
   title: `${index?.title} - ${business.brandName}`,
   description: index?.description,
   author: website.author,
@@ -50,7 +40,7 @@ const infos = {
   twitter: business.shortName,
 };
 
-const Home = ({ posts, searchParams }) => {
+const Home = ({ posts }) => {
   const [btnGClick, useBtnGClick] = useState(null);
   const [userInfos, setUserInfos] = useState(null);
   const [city, setCity] = useState(null);
@@ -80,20 +70,11 @@ const Home = ({ posts, searchParams }) => {
     if (!city || !state) {
       fetchApiData()
         .then(function (response) {
-          if (response.ok) {
-            console.log(response);
-          } else {
-            console.log("response");
-            console.log(response);
-            console.log("Network response was not ok.");
+          if (!response.ok) {
             return null;
           }
         })
-        .catch(function (error) {
-          console.log(
-            "There hass been a problem with your fetch operation: " +
-              error.message
-          );
+        .catch(function () {
           return null;
         });
     }
@@ -111,7 +92,6 @@ const Home = ({ posts, searchParams }) => {
         }}
         mainMenu={mainMenu.menu.items}
         hasMenu={false}
-        // hasMenu={index?.hasMenu}
         scheduleLink={index.calendlyLink}
         gtag={"gtag"}
         gtagCounter={gtagCounter}
@@ -132,11 +112,6 @@ const Home = ({ posts, searchParams }) => {
               siteUrl={website.siteUrl}
               subDomain={"search"}
             />
-
-            {/* 
-          <a href='#' target='_blank' rel='noopener noreferrer'>
-            Trend me now
-          </a> */}
           </div>
         </div>
       </div>
