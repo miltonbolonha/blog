@@ -8,8 +8,6 @@ const Seo = ({ children, data = null }) => {
       </Head>
     );
   }
-  console.log(`canonicalcanonicalcanonical`);
-  console.log(data?.siteUrl + data?.slug);
   return (
     <Head>
       <title>{data?.title}</title>
