@@ -36,7 +36,7 @@ const HeaderContainer = ({
       >
         <Image
           src={opt.isDarkLogo ? logoImage : logoLightImage}
-          alt={"Modern Tips"}
+          alt={"Business logo"}
           critical='true'
           className={"main-logo"}
           width={183}
@@ -51,7 +51,7 @@ const HeaderContainer = ({
       >
         <Image
           src={opt.isDarkLogo ? logoImage : logoLightImage}
-          alt={"Modern Tips"}
+          alt={"Business logo"}
           critical='true'
           className={"main-logo"}
           width={183}

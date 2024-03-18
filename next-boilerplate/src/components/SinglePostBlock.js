@@ -93,7 +93,7 @@ const SinglePostBlock = ({
                   <Link href='/'>
                     <Image
                       src={`/logomark.png`}
-                      alt={"Modern Tips search icon"}
+                      alt={"logomark"}
                       width={20}
                       height={20}
                     />
@@ -101,7 +101,7 @@ const SinglePostBlock = ({
                   <li>
                     <Image
                       src={`/brandimages/right-icon.png`}
-                      alt={"Modern Tips search icon"}
+                      alt={"right-icon"}
                       width={10}
                       height={10}
                       className='search-hold'
@@ -113,7 +113,7 @@ const SinglePostBlock = ({
                   <li>
                     <Image
                       src={`/brandimages/right-icon.png`}
-                      alt={"Modern Tips search icon"}
+                      alt={"right-icon"}
                       width={10}
                       height={10}
                       className='search-hold'

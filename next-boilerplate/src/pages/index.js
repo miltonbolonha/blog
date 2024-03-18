@@ -121,14 +121,13 @@ const Home = ({ posts, searchParams }) => {
         <div className='hero search-hero'>
           <Image
             src={`/brandimages/hero-img.jpg`}
-            alt={"Modern Tips hero image"}
+            alt={"Hero image"}
             width={1024}
             height={650}
             className='hero-img'
           />
           <div className='row-config inner-hero'>
-            <h1>Search ModernTips</h1>
-            {/* <p>A modern way to find your trend topics.</p> */}
+            <h1>Search {business.brandName}</h1>
             <SearchInputContainer
               siteUrl={website.siteUrl}
               subDomain={"search"}
@@ -157,7 +156,7 @@ const Home = ({ posts, searchParams }) => {
 
       <div className='wrapper-box'></div>
       <div className='footer-wrapper'>
-        <FooterContainer label='moderntips.com' link='https://moderntips.com' />
+        <FooterContainer />
       </div>
     </div>
   );

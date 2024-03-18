@@ -1,5 +1,4 @@
 import React, { useEffect, useState, useRef } from "react";
-import ReactDOMServer from "react-dom/server";
 import SinglePost from "../components/SinglePostBlock";
 
 const SinglePostBlock = ({
@@ -22,6 +21,7 @@ const SinglePostBlock = ({
   adsTerms,
   state,
   siteKeywords,
+  rampSegment,
 }) => {
   const [toggle, setToggle] = useState(false);
   const rampJSref = useRef(null);
@@ -62,14 +62,14 @@ const SinglePostBlock = ({
       ? termsString.split(",").slice(0, 5).toString()
       : termsString;
   console.log(termsString);
-  const newTerms = ` terms: "${termsString}", init: {segment: "rsoc.moderntips.001"}`;
+  const newTerms = ` terms: "${termsString}", init: {segment: "${rampSegment}"}`;
   const script = `
         <script id="social-annex">
         (function () {
           function ramjsInt () {
             (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
               arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-              _rampJs({ terms: "${termsString}", init: {segment: "rsoc.moderntips.001"} });
+              _rampJs({ terms: "${termsString}", init: {segment: "${rampSegment}"} });
           }
           ramjsInt();
           console.log('rampjs init');

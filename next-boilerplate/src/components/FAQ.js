@@ -25,7 +25,7 @@ const FAQ = ({ faqs, faqFocus, handleClickFaq, anchorSlide, gtag }) => {
             <span>
               <Image
                 src={"/brandimages/right-arrow.png"}
-                alt={"Modern way to find your trend topics."}
+                alt={"right-arrow"}
                 width={22}
                 height={22}
                 unoptimized
@@ -53,7 +53,7 @@ const FAQ = ({ faqs, faqFocus, handleClickFaq, anchorSlide, gtag }) => {
                     {faq.q}
                     <Image
                       src={"/brandimages/plus.png"}
-                      alt={"Modern way to find your trend topics."}
+                      alt={"plus"}
                       width={16}
                       height={16}
                       className='faq-plus'

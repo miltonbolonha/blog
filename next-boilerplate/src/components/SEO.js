@@ -4,10 +4,12 @@ const Seo = ({ children, data = null }) => {
   if (!data) {
     return (
       <Head>
-        <title>NO SEO DATA - Modern Tips</title>
+        <title>NO SEO DATA</title>
       </Head>
     );
   }
+  console.log(`canonicalcanonicalcanonical`);
+  console.log(data?.siteUrl + data?.slug);
   return (
     <Head>
       <title>{data?.title}</title>

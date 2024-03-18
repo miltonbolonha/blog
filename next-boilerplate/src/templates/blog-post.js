@@ -105,7 +105,7 @@ const BlogPost = ({ post }) => {
   }
 
   const infos = {
-    slug: index?.slug,
+    slug: "/" + post?.slug,
     title: killSEO ? "NO SEO" : `${title} - ${business.brandName}`,
     description: excerpt || post?.frontmatter.description,
     author: website.author,
@@ -123,7 +123,7 @@ const BlogPost = ({ post }) => {
     keywords: termsString || post?.frontmatter?.tag || website.keywords,
     questions: [],
     topology: "post",
-    articleUrl: `${website.siteUrl}/${index?.slug}`,
+    articleUrl: `${website.siteUrl}/${post.slug}`,
     themeColor: website.themeColor,
     sameAs: business.sameAs,
     twitter: business.shortName,
@@ -207,6 +207,7 @@ const BlogPost = ({ post }) => {
             city={city}
             state={state}
             killSEO={killSEO}
+            rampSegment={business.ramp.segment}
           />
         ) : null}
 
@@ -225,10 +226,7 @@ const BlogPost = ({ post }) => {
         ) : null}
 
         <div className='footer-wrapper'>
-          <FooterContainer
-            label='moderntips.com'
-            link='https://moderntips.com'
-          />
+          <FooterContainer />
         </div>
       </div>
     </>

@@ -35,7 +35,7 @@ const FooterHighlight = ({
             <span>
               <Image
                 src={"/brandimages/right-arrow.png"}
-                alt={"Modern way to find your trend topics."}
+                alt={"right-arrow"}
                 width={22}
                 height={22}
                 unoptimized
@@ -56,7 +56,7 @@ const FooterHighlight = ({
             <span>
               <Image
                 src={"/brandimages/right-arrow.png"}
-                alt={"Modern way to find your trend topics."}
+                alt={"right-arrow"}
                 width={22}
                 height={22}
                 unoptimized

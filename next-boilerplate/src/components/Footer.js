@@ -1,8 +1,8 @@
 import React from "react";
 import Row from "../containers/RowContainer";
 import Image from "next/image";
-
-const Footer = ({ label, link }) => {
+import mainInfos from "../configs/main-infos.json";
+const Footer = () => {
   return (
     <footer>
       <Row opt={{ isBoxed: true, numColumns: 2, classes: "main-footer" }}>
@@ -37,7 +37,10 @@ const Footer = ({ label, link }) => {
           </small>
         </p>
         <br />
-        <p>© 2024 Modern Tips. All Rights Reserved.</p>
+        <p>
+          © {new Date().getFullYear()} {mainInfos.business.brandName}. All
+          Rights Reserved.
+        </p>
       </div>
     </footer>
   );

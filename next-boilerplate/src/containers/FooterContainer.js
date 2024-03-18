@@ -1,7 +1,7 @@
 import React from "react";
 import Footer from "../components/Footer";
 
-const FooterContainer = ({ label, link }) => {
-  return <Footer label={label} link={link} />;
+const FooterContainer = () => {
+  return <Footer />;
 };
 export default FooterContainer;

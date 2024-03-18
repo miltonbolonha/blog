@@ -11,14 +11,14 @@ const SearchInput = ({ siteUrl, subDomain }) => {
       <button className='search-icon'>
         <Image
           src={`/brandimages/search-icon.png`}
-          alt={"Modern Tips search icon"}
+          alt={"search-icon"}
           width={26}
           height={26}
           className='search-hold'
         />
         <Image
           src={`/brandimages/search-icon-hover.png`}
-          alt={"Modern Tips search icon hover"}
+          alt={"search-icon-hover"}
           width={26}
           height={26}
           className='search-hover'

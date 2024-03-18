@@ -29,7 +29,7 @@ const TopRibbon = ({
                   <span className='topribbon-right-arrow'>
                     <Image
                       src={"/brandimages/right-arrow.png"}
-                      alt={"Modern way to find your trend topics."}
+                      alt={"Right arrow."}
                       width={22}
                       height={22}
                       unoptimized
@@ -53,7 +53,7 @@ const TopRibbon = ({
                   <span className='topribbon-right-arrow'>
                     <Image
                       src={"/brandimages/right-arrow.png"}
-                      alt={"Modern way to find your trend topics."}
+                      alt={"right-arrow."}
                       width={22}
                       height={22}
                       unoptimized

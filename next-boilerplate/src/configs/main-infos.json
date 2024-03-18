@@ -19,7 +19,8 @@
   },
   "business": {
     "ramp": {
-      "testMode": true
+      "testMode": false,
+      "segment": "rsoc.moderntips.001"
     },
     "adClient": "ca-pub-4309295381222992",
     "gaID": "G-WFBMSN7KBE",

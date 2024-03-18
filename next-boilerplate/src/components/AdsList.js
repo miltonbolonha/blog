@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-import Link from "next/link";
 
 const AdsList = ({ promoVisitState }) => {
   return (
@@ -11,7 +10,7 @@ const AdsList = ({ promoVisitState }) => {
       <li>
         <Image
           src={`/brandimages/${promoVisitState ? "right-icon" : "search-icon"}.png`}
-          alt={"Modern Tips search icon"}
+          alt={"icon"}
           width={20}
           height={20}
           className='search-hold'
@@ -19,7 +18,7 @@ const AdsList = ({ promoVisitState }) => {
         <a href='#'>Some hers thing</a>
         <Image
           src={`/brandimages/right-icon.png`}
-          alt={"Modern Tips search icon"}
+          alt={"icon"}
           width={20}
           height={20}
           className='search-hold'
