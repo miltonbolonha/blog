@@ -42,7 +42,7 @@ const Seo = ({ children, data = null }) => {
         content={data?.featuredImage || data?.brandCardImage}
       />
       <meta name='theme-color' content={data?.themeColor || "#FF0081"} />
-      <link rel='canonical' href={data?.siteUrl + "/" + data?.slug} />
+      <link rel='canonical' href={data?.siteUrl + data?.slug} />
 
       {data?.fbAppID ? (
         <meta property='fb:app_id' content={data?.social.fbAppID} />
@@ -63,7 +63,6 @@ const Seo = ({ children, data = null }) => {
       <meta name='twitter:site' content={`@`} />
 
       <meta name='article:published_time' content={data?.datePublished} />
-      <meta name='generator' content='Milton Bolonha - Next Boilerplate' />
 
       {/* Schema.org tags */}
       {data?.topology === "post" ? (
