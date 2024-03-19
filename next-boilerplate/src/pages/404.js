@@ -17,7 +17,7 @@ const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
 const infos = {
-  slug: "404",
+  slug: "/404",
   title: `Error Page - ${mainConfigs.business.brandName}`,
   description: "This is a 404 error page.",
   author: website.author,

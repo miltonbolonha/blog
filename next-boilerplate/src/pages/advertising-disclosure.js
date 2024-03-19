@@ -17,9 +17,9 @@ const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
 const infos = {
-  slug: "/about",
-  title: `About Us - ${mainConfigs.business.brandName}`,
-  description: "This is a About Us page.",
+  slug: "/advertising-disclosure",
+  title: `Advertising Disclosure - ${mainConfigs.business.brandName}`,
+  description: "This is a Advertising Disclosure page.",
   author: website.author,
   brandPerson: website.brandPerson,
   siteUrl: website.siteUrl,
