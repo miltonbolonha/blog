@@ -45,13 +45,6 @@ collections:
         }
       - { label: "Tag", name: "tag", widget: "list" }
       - {
-          label: "Featured Post",
-          name: "featuredPost",
-          widget: "boolean",
-          default: false,
-          required: false,
-        }
-      - {
           label: "Featured Image",
           name: "image",
           widget: image,

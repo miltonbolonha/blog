@@ -61,7 +61,6 @@ const SinglePostBlock = ({
     termsString.length >= 6
       ? termsString.split(",").slice(0, 5).toString()
       : termsString;
-  console.log(termsString);
   const newTerms = ` terms: "${termsString}", init: {segment: "${rampSegment}"}`;
   const script = `
         <script id="social-annex">
@@ -72,7 +71,7 @@ const SinglePostBlock = ({
               _rampJs({ terms: "${termsString}", init: {segment: "${rampSegment}"} });
           }
           ramjsInt();
-          console.log('rampjs init');
+          console.log('ramp init');
       })();
         </script>
     `;

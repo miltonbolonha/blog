@@ -143,19 +143,19 @@ const BlogPost = ({ post }) => {
     if (!city || !state) {
       fetchApiData()
         .then(function (response) {
-          if (response.ok) {
-            console.log(response);
-          } else {
-            console.log("response");
-            console.log(response);
-            console.log("Network response was not ok.");
+          if (!response.ok) {
+            // console.log("response");
+            // console.log(response);
+            // console.log("Network response was not ok.");
+            return null;
           }
         })
-        .catch(function (error) {
-          console.log(
-            "There has been a problem with your fetch operation: " +
-              error.message
-          );
+        .catch(function () {
+          // console.log(
+          //   "There has been a problem with your fetch operation: " +
+          //     error.message
+          // );
+          return null;
         });
     }
   }, [city, state, promoVisitState, getRef]);
