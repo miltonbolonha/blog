@@ -17,7 +17,7 @@ const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
 const infos = {
-  slug: "privacy-policy",
+  slug: "/privacy-policy",
   title: `Privacy Policy - ${mainConfigs.business.brandName}`,
   description: "This is a Privacy Policy page.",
   author: website.author,
