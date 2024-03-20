@@ -40,9 +40,5 @@
   },
   "bugs": {
     "url": "https://github.com/schindyguy/mt/issues"
-  },
-  "devDependencies": {
-    "cypress": "^13.6.6",
-    "netlify-plugin-cypress": "^2.2.1"
   }
 }
