@@ -1,17 +1,16 @@
 ---
 title: Library
-date: 2018-03-02 07:40:56
+date: 2024-03-14 15:43:02
 author: Milton Bolonha
 categories:
   - Hide
+image: cover.jpg
 layout: post
 status: true
 tag:
   - hide
-image: cover.jpg
 description: ""
 ---
-
 This is a new sup^1^ test.
 
 ## Headers
@@ -26,15 +25,15 @@ This is a new sup^1^ test.
 
 ###### h6 Heading
 
----
+- - -
 
 ## Emphasis
 
-Emphasis, aka italics, with _asterisks_ or _underscores_.
+Emphasis, aka italics, with *asterisks* or *underscores*.
 
 Strong emphasis, aka bold, with **asterisks** or **underscores**.
 
-Combined emphasis with **asterisks and _underscores_**.
+Combined emphasis with **asterisks and *underscores***.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
@@ -42,13 +41,13 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 **This is bold text**
 
-_This is italic text_
+*This is italic text*
 
-_This is italic text_
+*This is italic text*
 
 ~~Strikethrough~~
 
----
+- - -
 
 ## Lists
 
@@ -63,34 +62,32 @@ _This is italic text_
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-- Unordered list can use asterisks
-- Or minuses
-- Or pluses
+* Unordered list can use asterisks
+* Or minuses
+* Or pluses
 
----
+- - -
 
 1. Make my changes
 
    1. Fix bug
    2. Improve formatting
-
 2. Push my commits to GitHub
 3. Open a pull request
 
----
+- - -
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
+* Create a list by starting a line with `+`, `-`, or `*`
+* Sub-lists are made by indenting 2 spaces:
 
-  - Marker character change forces new list start:
+  * Marker character change forces new list start:
 
-    - Ac tristique libero volutpat at
-    - Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
+    * Ac tristique libero volutpat at
+    * Facilisis in pretium nisl aliquet
+    * Nulla volutpat aliquam velit
+* Very easy!
 
-- Very easy!
-
----
+- - -
 
 ## Ignoring Markdown formatting
 
@@ -98,7 +95,7 @@ You can tell GitHub to ignore (or escape) Markdown formatting by using \ before 
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
----
+- - -
 
 ## Links
 
@@ -120,7 +117,7 @@ example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
----
+- - -
 
 ## Images
 
@@ -128,7 +125,7 @@ Here's our logo (hover to see the title text):
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
----
+- - -
 
 ## [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 
@@ -164,14 +161,14 @@ and multiple paragraphs.
 
 [^second]: Footnote text.
 
----
+- - -
 
 ## Blockquotes
 
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
 >
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 >
 > Blockquotes can also be nested...
 >
@@ -179,7 +176,7 @@ and multiple paragraphs.
 > >
 > > > ...or with spaces between arrows.
 
----
+- - -
 
 ## YouTube Videos
 
@@ -187,7 +184,11 @@ and multiple paragraphs.
 <img src="https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg" alt="IMAGE ALT TEXT HERE" width="540" height="480">
 </a>
 
-[![IMAGE ALT TEXT HERE](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/512px-YouTube_Logo_%282013-2017%29.svg.jpg)](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+
+
+![test](https://res.cloudinary.com/dj0et6kq4/image/upload/v1709769870/cld-sample-5.jpg)
+
+[](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
 [\---](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
