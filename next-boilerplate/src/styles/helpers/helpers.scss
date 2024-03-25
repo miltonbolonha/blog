@@ -957,3 +957,8 @@ pre,
 code {
   display: none !important;
 }
+#rampjs_slot1,
+#rampjs_slot2 {
+  height: auto;
+  overflow: auto;
+}
