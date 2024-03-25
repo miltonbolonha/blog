@@ -160,7 +160,11 @@ const SinglePostBlock = ({
                   handleToggle={handleToggle}
                 />
                 <Image
-                  src={`/posts/${highlightImage}`}
+                  src={
+                    highlightImage.includes("http")
+                      ? highlightImage
+                      : `/posts/${highlightImage}`
+                  }
                   alt={title}
                   critical='true'
                   className={"post-highlight-img"}
