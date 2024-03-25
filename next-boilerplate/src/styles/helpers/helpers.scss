@@ -811,6 +811,7 @@ nav.breadcrumb {
     max-width: 98%;
     margin-left: auto;
     margin-right: auto;
+    overflow: hidden;
     align-items: center;
     display: flex;
     flex-direction: row;
@@ -824,7 +825,6 @@ nav.breadcrumb {
       padding: 0 5px 0 0;
       white-space: nowrap;
       span {
-        overflow: hidden;
         white-space: nowrap;
       }
       &:nth-child(2) {
