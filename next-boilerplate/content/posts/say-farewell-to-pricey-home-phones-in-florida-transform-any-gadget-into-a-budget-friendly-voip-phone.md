@@ -5,7 +5,7 @@ date: 2024-03-26 17:40:27
 author: Modern Tips
 categories:
   - Tech
-image: say-farewell-to-pricey-home-phones-in-florida-58-transform-any-gadget-into-a-budget-friendly-voip-phone.webp
+image: https://res.cloudinary.com/dj0et6kq4/image/upload/v1711406186/moderntips/discover-the-best-life-insurance-plans-for-over-50s-in-florida-don-t-miss-out.png
 layout: post
 featuredPost: false
 tag:
