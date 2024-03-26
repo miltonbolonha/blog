@@ -70,7 +70,7 @@ const SinglePostBlock = ({
               arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
               _rampJs({ terms: "${termsString}", init: {segment: "${rampSegment}"} });
           }
-          ramjsInt();
+          ramjsInt({"targetDivs":["rampjs_slot1","rampjs_slot2"]});
           console.log('ramp init');
       })();
         </script>
