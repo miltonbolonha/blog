@@ -1,5 +1,5 @@
 ---
-title: Discover the Best Life Insurance Plans for Over 50s in {state} (Don't
+title: Discover the Best Life Insurance Plans for Over 50s in {{state}} (Don't
   Miss Out!)
 date: 2024-03-25 17:31:27
 author: Modern Tips
