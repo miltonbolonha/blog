@@ -10,7 +10,7 @@ import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeSlug from "rehype-slug";
 import rehypeExternalLinks from "rehype-external-links";
 import rehypeAutoAds from "rehype-auto-ads";
-import { rehypeCloudinaryImageSize } from "@bradgarropy/rehype-cloudinary-image-size";
+// import { rehypeCloudinaryImageSize } from "@bradgarropy/rehype-cloudinary-image-size";
 
 // import html from "remark-html";
 import headings from "remark-autolink-headings";
@@ -34,7 +34,7 @@ export default async function markdownToHtml(markdown) {
     .use(rehypeRaw)
     // .use(remarkGfm)
     .use(rehypeSanitize)
-    .use(rehypeCloudinaryImageSize)
+    // .use(rehypeCloudinaryImageSize)
     .use(rehypeStringify, { allowDangerousHtml: true })
     .use(rehypeSlug)
     .use(rehypeExternalLinks, {
