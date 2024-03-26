@@ -5,7 +5,7 @@ date: 2024-03-26 17:40:27
 author: Modern Tips
 categories:
   - Tech
-image: https://res.cloudinary.com/dj0et6kq4/image/upload/v1711406186/moderntips/discover-the-best-life-insurance-plans-for-over-50s-in-florida-don-t-miss-out.png
+image: https://res.cloudinary.com/dj0et6kq4/image/upload/v1711477000/c5adfd53-7716-45d9-8d24-bb53f070b6ef_xqvcdh.webp
 layout: post
 featuredPost: false
 tag:
