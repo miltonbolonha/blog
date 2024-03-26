@@ -1,6 +1,6 @@
 ---
-title: "Say Farewell to Pricey Home Phones in {state}: Transform Any Gadget Into
-  a Budget-Friendly VoIP Phone!"
+title: "Say Farewell to Pricey Home Phones in {{state}}: Transform Any Gadget
+  Into a Budget-Friendly VoIP Phone!"
 date: 2024-03-26 17:40:27
 author: Modern Tips
 categories:
