@@ -10,7 +10,7 @@ layout: post
 featuredPost: false
 tag:
   - Life Insurance Rates By Age
-  - 'Seniors: $13/month Life Insurance Quotes"'
+  - "Seniors: $13/month Life Insurance Quotes"
   - $13/month Life Insurance Quotes
   - Cheap Whole Life Insurance Providers for {state} Seniors
   - Life Insurance Quotes Seniors
