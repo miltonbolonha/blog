@@ -13,7 +13,7 @@ function App({ Component, pageProps }) {
       <Script
         strategy='beforeInteractive'
         crossOrigin='anonymous'
-        src='https://rampjs-cdn.system1.com/ramp.js'
+        src='https://rampjs-cdn.system1.com/ramp.js?ver=1.36'
         defer
       />
 
