@@ -1,15 +1,15 @@
 ---
-title: Discover the Best Life Insurance Plans for Over 50s in Florida (Don't Miss Out!)
-date: 2024-03-25 17:31:27
+title: 'Discover the Best Life Insurance Plans for Over 50s in Florida (Don't Miss Out!)'
+date: 2024-03-26 18:33:11
 author: Modern Tips
 categories:
   - Finance
 tag:
-  - Life Insurance Rates By Age
-  - Seniors: $13/month Life Insurance Quotes
-  - $13/month Life Insurance Quotes
-  - Cheap Whole Life Insurance Providers for {state} Seniors
-  - Life Insurance Quotes Seniors
+  - 'Life Insurance Rates By Age'
+  - 'Seniors: $13/month Life Insurance Quotes'
+  - '$13/month Life Insurance Quotes'
+  - 'Cheap Whole Life Insurance Providers for {state} Seniors'
+  - 'Life Insurance Quotes Seniors'
 featuredPost: false
 image: discover-the-best-life-insurance-plans-for-over-50s-in-florida-don-t-miss-out.webp
 layout: post
