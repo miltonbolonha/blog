@@ -1,17 +1,17 @@
 ---
 title: "Say Farewell to Pricey Home Phones in Florida: Transform Any Gadget Into a Budget-Friendly VoIP Phone!"
-date: 2024-03-23 16:55:58
+date: 2024-03-24 18:33:11
 author: Modern Tips
 categories:
   - Tech
 tag:
-  - voip phone system plans and pricing
-  - voip phone system plans and pricing (must see)
-  - voip phones for home
-  - must-see voip phone systems
-  - cloud voip plans and prices
+  - "voip phone system plans and pricing"
+  - "voip phone system plans and pricing (must see)"
+  - "voip phones for home"
+  - "must-see voip phone systems"
+  - "cloud voip plans and prices"
 featuredPost: false
-image: moderntips/say-farewell-to-pricey-home-phones-in-florida-transform-any-gadget-into-a-budget-friendly-voip-phone
+image: say-farewell-to-pricey-home-phones-in-florida-transform-any-gadget-into-a-budget-friendly-voip-phone.webp
 layout: post
 ---
 
