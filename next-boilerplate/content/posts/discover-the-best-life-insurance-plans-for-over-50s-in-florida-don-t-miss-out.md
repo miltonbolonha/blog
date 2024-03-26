@@ -5,7 +5,7 @@ date: 2024-03-25 17:31:27
 author: Modern Tips
 categories:
   - Finance
-image: discover-the-best-life-insurance-plans-for-over-50s-in-florida-don-t-miss-out.webp
+image: https://res.cloudinary.com/dj0et6kq4/image/upload/v1711409322/discover-the-best-life-insurance-plans-for-over-50s-in-florida-don-t-miss-out.webp
 layout: post
 featuredPost: false
 tag:
