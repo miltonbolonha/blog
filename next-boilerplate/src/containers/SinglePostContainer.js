@@ -68,7 +68,7 @@ const SinglePostBlock = ({
           function ramjsInt () {
             (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
               arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-              _rampJs({ "targetDivs":["rampjs_slot1","rampjs_slot2"], 
+              _rampJs({ "targetDivs":["rampjs_slot1","rampjs_slot5"], 
               terms: "${termsString}", init: {segment: "${rampSegment}"} });
           }
           ramjsInt();

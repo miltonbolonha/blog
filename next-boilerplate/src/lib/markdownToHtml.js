@@ -19,7 +19,7 @@ import rehypeStringify from "rehype-stringify";
 import supersub from "remark-supersub";
 
 const options = {
-  adCode: "<div id='rampjs_slot2'></div>",
+  adCode: "<div id='rampjs_slot5'></div>",
   countFrom: 94,
   paragraphInterval: 99,
 };
