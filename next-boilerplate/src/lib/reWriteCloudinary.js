@@ -8,13 +8,13 @@ const reWriteCloudinary = options => tree => {
       node.tagName === "p" && node.children.some(n => n.tagName === "img"),
     node => {
       const children = node.children;
-      const src = children[0].properties.src;
+      const src = children[0]?.properties?.src || null;
       let finalSrc = src;
-      if (src.includes("cloudinary")) {
+      if (src?.includes("cloudinary")) {
         finalSrc = src.split("/image/upload/");
         finalSrc = finalSrc[0] + `/q_auto/f_jpg/w_840/` + finalSrc[1];
+        children[0].properties.src = finalSrc;
       }
-      children[0].properties.src = finalSrc;
     }
   );
 };
