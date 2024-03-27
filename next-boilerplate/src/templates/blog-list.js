@@ -30,6 +30,11 @@ const BlogList = ({ posts, postsToShow, city, state }) => {
         const x = i + 1;
         let title = post?.frontmatter?.title.replace("{{city}}", city);
         title = title.replace("{{state}}", state);
+        const e = post?.frontmatter?.image.split("/image/upload/");
+        const sizes = x === 1 ? ["w_529", "h_529"] : ["w_259", "h_192"];
+        const highlightImage = post?.frontmatter?.image.includes("cloudinary")
+          ? e[0] + `/q_auto/f_jpg/c_limit/dpr_2.0/${sizes[0]}/` + e[1]
+          : post?.frontmatter?.image;
 
         return (
           <Post
@@ -37,7 +42,7 @@ const BlogList = ({ posts, postsToShow, city, state }) => {
             number={x}
             slug={post?.slug || "/"}
             title={title}
-            image={post?.frontmatter?.image}
+            image={highlightImage}
             date={post?.frontmatter?.date}
             description={post?.frontmatter?.description}
             category={

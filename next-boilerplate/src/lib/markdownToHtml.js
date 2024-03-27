@@ -10,6 +10,7 @@ import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeSlug from "rehype-slug";
 import rehypeExternalLinks from "rehype-external-links";
 import rehypeAutoAds from "rehype-auto-ads";
+import reWriteCloudinary from "../lib/reWriteCloudinary";
 // import { rehypeCloudinaryImageSize } from "@bradgarropy/rehype-cloudinary-image-size";
 
 // import html from "remark-html";
@@ -32,7 +33,8 @@ export default async function markdownToHtml(markdown) {
     .use(remarkOembed)
     .use(rehypeAutolinkHeadings)
     .use(rehypeRaw)
-    // .use(remarkGfm)
+    .use(reWriteCloudinary)
+    // .use(() => tree => console.log("zum" + JSON.stringify(tree, null, 2)))
     .use(rehypeSanitize)
     // .use(rehypeCloudinaryImageSize)
     .use(rehypeStringify, { allowDangerousHtml: true })

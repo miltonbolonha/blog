@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useRef } from "react";
 import SinglePost from "../components/SinglePostBlock";
+import { useRemarkSync } from "react-remark";
 
 const SinglePostBlock = ({
   highlightImage,
@@ -39,6 +40,27 @@ const SinglePostBlock = ({
     const minutes = Math.floor(words.length / 200);
     return minutes;
   };
+
+  const content = useRemarkSync(doc || "", {
+    rehypeReactOptions: {
+      components: {
+        img: props => {
+          const { src, alt } = props;
+          return (
+            <span className={styles.imgContainer}>
+              <Image
+                src={src}
+                alt={alt}
+                fill
+                sizes='(min-width: 784px) 784px, 100vw'
+              />
+            </span>
+          );
+        },
+      },
+    },
+  });
+  // console.log(content);
   // const searchReplace =
   //   reduce && postHeadings[reduce]?.id
   //     ? `<h2 id="${postHeadings[reduce]?.id}`
