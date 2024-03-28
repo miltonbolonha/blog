@@ -1,16 +1,16 @@
 backend:
   name: git-gateway
-  repo: schindyguy/mt
+  repo: miltonbolonha/blog
   branch: master
-  site_domain: https://miltextos.com
+  site_domain: https://miltextos.netlify.app
 
 media_folder: "next-boilerplate/public/posts"
 public_folder: ""
 media_library:
   name: cloudinary
   config:
-    cloud_name: dj0et6kq4
-    api_key: 258671624938174
+    cloud_name: dyxuhpt7j
+    api_key: 338884965113117
 
 publish_mode: editorial_workflow
 
