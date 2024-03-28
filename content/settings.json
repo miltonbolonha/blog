@@ -1,0 +1,6 @@
+{
+  "site_title": "Meu título",
+  "posts": {
+    "front_limit": 10
+  }
+}
