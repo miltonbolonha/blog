@@ -88,6 +88,7 @@ collections:
     folder: next-boilerplate/content/pages
     create: true
     # adding a nested object will show the collection folder structure
+    slug: "{{slug}}"
     fields:
       - label: Title
         name: title
@@ -95,6 +96,11 @@ collections:
       - label: Body
         name: body
         widget: markdown
-    # adding a meta object with a path property allows editing the path of entries
-    # moving an existing entry will move the entire sub tree of the entry to the new location
-    meta: { path: { widget: string, label: "Path", index_file: "index" } }
+      - { label: "Type", name: "layout", widget: "hidden", default: "page" }
+      - {
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          format: "YYYY-MM-DD HH:mm:ss",
+          required: true,
+        }
