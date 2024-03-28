@@ -66,7 +66,7 @@ collections:
     files:
       - name: "general"
         label: "Site Settings"
-        file: "content/settings.json"
+        file: "next-boilerplate/content/settings.json"
         description: "General Site Settings"
         fields:
           - { label: "Global title", name: "site_title", widget: "string" }
@@ -88,9 +88,6 @@ collections:
     folder: next-boilerplate/content/pages
     create: true
     # adding a nested object will show the collection folder structure
-    nested:
-      depth: 100 # max depth to show in the collection tree
-      summary: "{{title}}" # optional summary for a tree node, defaults to the inferred title field
     fields:
       - label: Title
         name: title
