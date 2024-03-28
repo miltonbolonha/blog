@@ -56,9 +56,9 @@ const BlogPost = ({ post }) => {
   const killSEO =
     post?.frontmatter?.categories?.length > 0 &&
     post?.frontmatter?.categories[0] === "Hide";
-  let categoriesPosts = post?.categoriesPosts?.filter(
-    pc => pc.slug != post.slug
-  );
+  // let categoriesPosts = post?.categoriesPosts?.filter(
+  //   pc => pc.slug != post.slug
+  // );
 
   let title = post?.frontmatter?.title.replace(
     "{{city}}",
@@ -182,20 +182,22 @@ const BlogPost = ({ post }) => {
         {post?.type === "posts" ? (
           <SinglePostContainer
             siteKeywords={website.keywords}
-            highlightImage={post?.frontmatter?.image}
+            highlightImage={post?.frontmatter?.image || null}
             authorImg={"imgHolder"}
-            date={post?.frontmatter?.date}
+            date={post?.frontmatter?.date || null}
             author={mainConfigs.business.brandName}
-            html={post?.content}
+            html={post?.content || null}
             title={title || post?.frontmatter?.title}
             category={
-              post?.frontmatter?.categories[0] || post?.frontmatter?.categories
+              post?.frontmatter?.categories[0] ||
+              post?.frontmatter?.categories ||
+              []
             }
             wordCount={10}
             promoVisitState={promoVisitState}
             setReadMore={setReadMore}
             readMore={readMore}
-            topic={post?.frontmatter?.tag[0]}
+            topic={post?.frontmatter?.tag[0] || []}
             keywords={post?.frontmatter?.keywords || []}
             adsTerms={
               termsString ||
@@ -203,7 +205,7 @@ const BlogPost = ({ post }) => {
             }
             excerpt={excerpt}
             parseContent={doc}
-            relatedPosts={categoriesPosts}
+            relatedPosts={[]}
             city={city}
             state={state}
             killSEO={killSEO}

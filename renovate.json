@@ -1,5 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:base"],
   "automerge": true,
   "automergeType": "pr",
   "baseBranches": ["master"],
@@ -9,6 +10,16 @@
     "next-boilerplate/.env.local.example",
     "next-boilerplate/src/configs/**"
   ],
+  "packageRules": [
+    {
+      "enabled": false,
+      "matchPackagePatterns": ["*"]
+    }
+  ],
+  "vulnerabilityAlerts": {
+    "enabled": true
+  },
+  "osvVulnerabilityAlerts": true,
   "prHourlyLimit": 5,
   "prConcurrentLimit": 10,
   "rangeStrategy": "bump",

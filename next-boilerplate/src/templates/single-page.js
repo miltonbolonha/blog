@@ -18,6 +18,7 @@ const business = mainConfigs?.business;
 const website = mainConfigs?.website;
 
 const BlogPost = ({ page }) => {
+  const { title } = page.frontmatter;
   // const infos = {
   //   slug: "/" + page?.slug,
   //   title: killSEO ? "NO SEO" : `${title} - ${business.brandName}`,
@@ -43,10 +44,11 @@ const BlogPost = ({ page }) => {
   //   twitter: business.shortName,
   //   articleBody: doc,
   // };
-
+  console.log("page");
+  console.log(page);
   return (
     <>
-      <div className='single-post post-container'>
+      <div className='single-page'>
         <SeoContainer killSeo={true} data={null} />
         <HeaderContainer
           opt={{
@@ -60,10 +62,11 @@ const BlogPost = ({ page }) => {
           // hasMenu={index?.hasMenu}
           scheduleLink={index.calendlyLink}
           gtag={"gtag"}
-          gtagCounter={gtagCounter}
-          pathname={pathname}
+          // gtagCounter={gtagCounter}
+          // pathname={pathname}
         />
-
+        <h1>{title}</h1>
+        <div dangerouslySetInnerHTML={{ __html: page.content }}></div>
         <div className='footer-wrapper'>
           <FooterContainer />
         </div>
