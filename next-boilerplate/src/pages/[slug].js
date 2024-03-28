@@ -1,5 +1,6 @@
 import React from "react";
 import BlogPost from "../templates/blog-post";
+import SinglePage from "../templates/single-page";
 import { getPostBySlug, getAllPosts } from "../lib/api";
 import markdownToHtml from "../lib/markdownToHtml";
 import slugify from "slugify";
@@ -7,6 +8,17 @@ import slugify from "slugify";
 import _ from "lodash";
 
 const Post = mdFile => {
+  console.log("zummmmba");
+  console.log(mdFile);
+  switch (mdFile.type) {
+    case "posts":
+      return <BlogPost post={mdFile} />;
+    case "page":
+      return <SinglePage post={mdFile} />;
+    default:
+      <BlogPost post={mdFile} />;
+      break;
+  }
   return <BlogPost post={mdFile} />;
 };
 

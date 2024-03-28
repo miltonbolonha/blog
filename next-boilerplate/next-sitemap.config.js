@@ -10,7 +10,7 @@ module.exports = {
     "hide/",
     "hide/*",
     "library",
-    "https://moderntips.com/hide/",
-    "moderntips.com/hide/",
+    "https://miltextos.com/hide/",
+    "miltextos.com/hide/",
   ],
 };

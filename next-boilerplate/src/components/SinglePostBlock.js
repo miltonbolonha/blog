@@ -60,13 +60,13 @@ const SinglePostBlock = ({
   relatedPosts,
   city,
   killSEO,
-  rampJSref,
+  injectionJSref,
   adsTerms,
   newTerms,
 }) => {
   return (
     <article>
-      <div ref={rampJSref}></div>
+      <div ref={injectionJSref}></div>
 
       <Head>
         <meta name='keywords' content={adsTerms} />

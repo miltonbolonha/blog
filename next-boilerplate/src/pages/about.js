@@ -67,13 +67,13 @@ const NotFoundPage = () => {
         <div className='hero search-hero'>
           <Image
             src={`/brandimages/hero-img.jpg`}
-            alt={"Modern Tips hero image"}
+            alt={"Mil Textos hero image"}
             width={1024}
             height={650}
             className='hero-img'
           />
           <div className='row-config inner-hero'>
-            <h2>Search ModernTips</h2>
+            <h2>Search Mil Textos</h2>
             <form action='#' method='post'>
               <input
                 type='text'
@@ -84,14 +84,14 @@ const NotFoundPage = () => {
               <button className='search-icon'>
                 <Image
                   src={`/brandimages/search-icon.png`}
-                  alt={"Modern Tips search icon"}
+                  alt={"Mil Textos search icon"}
                   width={26}
                   height={26}
                   className='search-hold'
                 />
                 <Image
                   src={`/brandimages/search-icon-hover.png`}
-                  alt={"Modern Tips search icon hover"}
+                  alt={"Mil Textos search icon hover"}
                   width={26}
                   height={26}
                   className='search-hover'
@@ -107,7 +107,7 @@ const NotFoundPage = () => {
           <h1>About Us</h1>
           <p>
             <strong>
-              ModernTips is here to deliver tips and tricks to live a better
+              Mil Textos is here to deliver tips and tricks to live a better
               life.
             </strong>
             We cover a broad range of topics including finance, health, and
@@ -125,34 +125,34 @@ const NotFoundPage = () => {
 
           <p>
             <strong>
-              ModernTips delivers understandable and usable information for
+              Mil Textos delivers understandable and usable information for
               people in all stages of life.
             </strong>{" "}
             From seniors to newly married couples who are learning to make a
-            family budget, ModernTips has valuable content you need to succeed.
+            family budget, Mil Textos has valuable content you need to succeed.
             Our contributors enjoy researching the best in finance, health, and
             travel. We cover content on improving your credit, career,
             investments and how to live frugally, be healthy, and make the most
-            of your travels. Look to ModernTips before you make decisions –
+            of your travels. Look to Mil Textos before you make decisions –
             we’re providing the best tips for you and your family.
           </p>
 
           <p>
             <strong>Contact Us</strong> <br />
-            ModernTips
+            Mil Textos
             <br />
             PO Box 515381
             <br />
             Los Angeles, CA 90051-6681
             <br />
-            <a href={`mailto:mailinfo@moderntips.com`}>info@moderntips.com</a>
+            <a href={`mailto:mailinfo@miltextos.com`}>info@miltextos.com</a>
           </p>
         </div>
       </main>
 
       <div className='wrapper-box'></div>
       <div className='footer-wrapper'>
-        <FooterContainer label='moderntips.com' link='https://moderntips.com' />
+        <FooterContainer label='miltextos.com' link='https://miltextos.com' />
       </div>
     </div>
   );

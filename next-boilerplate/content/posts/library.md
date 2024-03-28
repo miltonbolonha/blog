@@ -1,7 +1,7 @@
 ---
 title: "Library"
 date: 2024-03-14 15:43:02
-author: Modern Tips
+author: Mil Textos
 categories:
   - Hide
 image: cover.jpg

@@ -3,40 +3,39 @@
     "isDarkLogo": false
   },
   "website": {
-    "developmentUrl": "https://moderntips.com",
-    "siteUrl": "https://moderntips.com",
-    "author": "Modern Tips",
+    "developmentUrl": "https://miltextos.com",
+    "siteUrl": "https://miltextos.com",
+    "author": "Mil Textos",
     "i18n": "en-US",
     "themeColor": "#4DB2EC",
     "postsToShow": 9,
-    "keywords": ["Modern Tips"],
+    "keywords": ["Mil Textos"],
     "questions": [
-      "What is Modern Tips?:Modern Tips is a strategic design agency."
+      "What is Mil Textos?:Mil Textos is a strategic design agency."
     ],
     "datePublished": "03/01/2024",
-    "errorMessage": "Hmm... something is wrong, try again later or e-mail us: general@moderntipss.com",
+    "errorMessage": "Hmm... something is wrong, try again later or e-mail us: general@miltextoss.com",
     "successMessage": "Thank you for your message. We will reach you soon."
   },
   "business": {
     "ramp": {
       "testMode": false,
-      "segment": "rsoc.moderntips.001"
+      "segment": "rsoc.miltextos.001"
     },
-    "adClient": "ca-pub-4309295381222992",
-    "gaID": "G-WFBMSN7KBE",
-    "brandPerson": "Modern Tips",
-    "shortName": "moderntips",
-    "brandName": "Modern Tips",
-    "brandEmail": "general@moderntips.com",
+    "adClient": "ca-pub-",
+    "gaID": "G-",
+    "brandPerson": "Mil Textos",
+    "shortName": "miltextos",
+    "brandName": "Mil Textos",
+    "brandEmail": "general@miltextos.com",
     "brandLogo": "logomark.png",
     "brandPhone": "+1",
-    "brandDescription": "ModernTips is here to deliver tips and tricks to live a better life. We cover a broad range of topics including finance, health, and travel to help enhance your everyday life.",
+    "brandDescription": "Mil Textos is here to deliver tips and tricks to live a better life. We cover a broad range of topics including finance, health, and travel to help enhance your everyday life.",
     "brandCardImage": "cover.png",
     "sameAs": {
-      "facebook": "https://www.facebook.com/mymoderntips/",
-      "instagram": "https://www.instagram.com/getmoderntips/",
-      "pinterest": "https://www.pinterest.com/moderntips0397",
-      "twitter": "https://x.com/Modern_Tips"
+      "facebook": "https://www.facebook.com/miltextos/",
+      "instagram": "https://www.instagram.com/miltextos/",
+      "twitter": "https://x.com/miltextos"
     },
     "twitterCard": {
       "card": "card",
@@ -51,8 +50,8 @@
     "hasHeader": true,
     "hasMenu": true,
     "index": {
-      "feedBackSubject": "Modern Tips - Message Request",
-      "feedbackEmail": "general@moderntips.com",
+      "feedBackSubject": "Mil Textos - Message Request",
+      "feedbackEmail": "general@miltextos.com",
       "calendlyLink": null,
       "topRibbon": {
         "text": "Label text?",
@@ -62,14 +61,14 @@
       },
       "hasMenu": true,
       "title": "Home",
-      "description": "ModernTips is here to deliver tips and tricks to live a better life. We cover a broad range of topics including finance, health, and travel to help enhance your everyday life.",
+      "description": "Mil Textos is here to deliver tips and tricks to live a better life. We cover a broad range of topics including finance, health, and travel to help enhance your everyday life.",
       "headline": "Design that has real impact",
       "slug": "/",
       "featureImage": "cover.png",
-      "secondHeadline": "Modern Tips.",
+      "secondHeadline": "Mil Textos.",
       "footerHighlight": {
         "title": "Design that has real impact",
-        "paragraph": "<strong>Modern Tips.</strong><br />",
+        "paragraph": "<strong>Mil Textos.</strong><br />",
         "cta": false,
         "blckBtn": "Label for Black BTN"
       },

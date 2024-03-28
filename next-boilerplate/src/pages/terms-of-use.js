@@ -67,13 +67,13 @@ const NotFoundPage = () => {
         <div className='hero search-hero'>
           <Image
             src={`/brandimages/hero-img.jpg`}
-            alt={"Modern Tips hero image"}
+            alt={"Mil Textos hero image"}
             width={1024}
             height={650}
             className='hero-img'
           />
           <div className='row-config inner-hero'>
-            <h2>Search ModernTips</h2>
+            <h2>Search Mil Textos</h2>
             <form action='#' method='post'>
               <input
                 type='text'
@@ -84,14 +84,14 @@ const NotFoundPage = () => {
               <button className='search-icon'>
                 <Image
                   src={`/brandimages/search-icon.png`}
-                  alt={"Modern Tips search icon"}
+                  alt={"Mil Textos search icon"}
                   width={26}
                   height={26}
                   className='search-hold'
                 />
                 <Image
                   src={`/brandimages/search-icon-hover.png`}
-                  alt={"Modern Tips search icon hover"}
+                  alt={"Mil Textos search icon hover"}
                   width={26}
                   height={26}
                   className='search-hover'
@@ -109,8 +109,8 @@ const NotFoundPage = () => {
 
           <p>
             Please read these Terms and Conditions (“Terms”, “Terms and
-            Conditions”) carefully before using the https://www.moderntips.com
-            website (the “Service”) operated by ModernTips (“us”, “we”, or
+            Conditions”) carefully before using the https://www.miltextos.com
+            website (the “Service”) operated by Mil Textos (“us”, “we”, or
             “our”).
           </p>
 
@@ -130,28 +130,28 @@ const NotFoundPage = () => {
           <h2>Intellectual Property</h2>
           <p>
             The Service and its original content, features and functionality are
-            and will remain the exclusive property of ModernTips and its
+            and will remain the exclusive property of Mil Textos and its
             licensors. The Service is protected by copyright, trademark, and
             other laws of both the United States and foreign countries. Our
             trademarks and trade dress may not be used in connection with any
-            product or service without the prior written consent of ModernTips.
+            product or service without the prior written consent of Mil Textos.
           </p>
 
           <h2>Links To Other Web Sites</h2>
           <p>
             Our Service may contain links to third party web sites or services
-            that are not owned or controlled by ModernTips.
+            that are not owned or controlled by Mil Textos.
           </p>
 
           <p>
-            ModernTips has no control over, and assumes no responsibility for
+            Mil Textos has no control over, and assumes no responsibility for
             the content, privacy policies, or practices of any third party web
             sites or services. We do not warrant the offerings of any of these
             entities/individuals or their websites.
           </p>
 
           <p>
-            You acknowledge and agree that ModernTips shall not be responsible
+            You acknowledge and agree that Mil Textos shall not be responsible
             or liable, directly or indirectly, for any damage or loss caused or
             alleged to be caused by or in connection with use of or reliance on
             any such content, goods or services available on or through any such
@@ -180,7 +180,7 @@ const NotFoundPage = () => {
 
           <h2>Indemnification</h2>
           <p>
-            You agree to defend, indemnify and hold harmless ModernTips and its
+            You agree to defend, indemnify and hold harmless Mil Textos and its
             licensee and licensors, and their employees, contractors, agents,
             officers and directors, from and against any and all claims,
             damages, obligations, losses, liabilities, costs or debt, and
@@ -191,7 +191,7 @@ const NotFoundPage = () => {
 
           <h2>Limitation Of Liability</h2>
           <p>
-            In no event shall ModernTips, nor its directors, employees,
+            In no event shall Mil Textos, nor its directors, employees,
             partners, agents, suppliers, or affiliates, be liable for any
             indirect, incidental, special, consequential or punitive damages,
             including without limitation, loss of profits, data, use, goodwill,
@@ -217,7 +217,7 @@ const NotFoundPage = () => {
           </p>
 
           <p>
-            ModernTips its subsidiaries, affiliates, and its licensors do not
+            Mil Textos its subsidiaries, affiliates, and its licensors do not
             warrant that a) the Service will function uninterrupted, secure or
             available at any particular time or location; b) any errors or
             defects will be corrected; c) the Service is free of viruses or
@@ -265,7 +265,7 @@ const NotFoundPage = () => {
             the Service.
           </p>
           <p>
-            ModernTips
+            Mil Textos
             <br />
             PO Box 515381
             <br />
@@ -276,7 +276,7 @@ const NotFoundPage = () => {
 
       <div className='wrapper-box'></div>
       <div className='footer-wrapper'>
-        <FooterContainer label='moderntips.com' link='https://moderntips.com' />
+        <FooterContainer label='miltextos.com' link='https://miltextos.com' />
       </div>
     </div>
   );

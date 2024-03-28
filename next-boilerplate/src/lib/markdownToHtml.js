@@ -9,7 +9,7 @@ import { unified } from "unified";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeSlug from "rehype-slug";
 import rehypeExternalLinks from "rehype-external-links";
-import rehypeAutoAds from "rehype-auto-ads";
+// import rehypeAutoAds from "rehype-auto-ads";
 import reWriteCloudinary from "../lib/reWriteCloudinary";
 // import { rehypeCloudinaryImageSize } from "@bradgarropy/rehype-cloudinary-image-size";
 
@@ -20,11 +20,11 @@ import remarkOembed from "remark-oembed";
 import rehypeStringify from "rehype-stringify";
 import supersub from "remark-supersub";
 
-const options = {
-  adCode: "<div id='rampjs_slot5'></div>",
-  countFrom: 94,
-  paragraphInterval: 99,
-};
+// const options = {
+//   adCode: "<div id='rampjs_slot5'></div>",
+//   countFrom: 94,
+//   paragraphInterval: 99,
+// };
 export default async function markdownToHtml(markdown) {
   const result = await unified()
     .use(remarkParse)
@@ -52,7 +52,7 @@ export default async function markdownToHtml(markdown) {
         className: "anchor",
       },
     })
-    .use(rehypeAutoAds, options)
+    // .use(rehypeAutoAds, options)
     .process(markdown);
 
   return String(result) || markdown;

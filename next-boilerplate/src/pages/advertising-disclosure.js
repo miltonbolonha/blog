@@ -67,13 +67,13 @@ const NotFoundPage = () => {
         <div className='hero search-hero'>
           <Image
             src={`/brandimages/hero-img.jpg`}
-            alt={"Modern Tips hero image"}
+            alt={"Mil Textos hero image"}
             width={1024}
             height={650}
             className='hero-img'
           />
           <div className='row-config inner-hero'>
-            <h2>Search ModernTips</h2>
+            <h2>Search Mil Textos</h2>
             <form action='#' method='post'>
               <input
                 type='text'
@@ -84,14 +84,14 @@ const NotFoundPage = () => {
               <button className='search-icon'>
                 <Image
                   src={`/brandimages/search-icon.png`}
-                  alt={"Modern Tips search icon"}
+                  alt={"Mil Textos search icon"}
                   width={26}
                   height={26}
                   className='search-hold'
                 />
                 <Image
                   src={`/brandimages/search-icon-hover.png`}
-                  alt={"Modern Tips search icon hover"}
+                  alt={"Mil Textos search icon hover"}
                   width={26}
                   height={26}
                   className='search-hover'
@@ -106,7 +106,7 @@ const NotFoundPage = () => {
         <div className='main-container main-page'>
           <h1>Advertising Disclosure</h1>
           <p>
-            ModernTips has a financial relationship with some of the companies
+            Mil Textos has a financial relationship with some of the companies
             mentioned throughout the site and this site may be compensated
             through the credit card issuer or advertiser’s partner programs. We
             do not make recommendations based on these relationships alone.
@@ -135,7 +135,7 @@ const NotFoundPage = () => {
 
       <div className='wrapper-box'></div>
       <div className='footer-wrapper'>
-        <FooterContainer label='moderntips.com' link='https://moderntips.com' />
+        <FooterContainer label='miltextos.com' link='https://miltextos.com' />
       </div>
     </div>
   );

@@ -68,14 +68,14 @@ const NotFoundPage = ({ type }) => {
         <div className='hero search-hero'>
           <Image
             src={`/brandimages/hero-img.jpg`}
-            alt={"Modern Tips hero image"}
+            alt={"Mil Textos hero image"}
             width={1024}
             height={650}
             className='hero-img'
           />
           <div className='row-config inner-hero'>
             <h2>Error page</h2>
-            <h1>Search ModernTips</h1>
+            <h1>Search Mil Textos</h1>
             <form action='#' method='post'>
               <input
                 type='text'
@@ -86,14 +86,14 @@ const NotFoundPage = ({ type }) => {
               <button className='search-icon'>
                 <Image
                   src={`/brandimages/search-icon.png`}
-                  alt={"Modern Tips search icon"}
+                  alt={"Mil Textos search icon"}
                   width={26}
                   height={26}
                   className='search-hold'
                 />
                 <Image
                   src={`/brandimages/search-icon-hover.png`}
-                  alt={"Modern Tips search icon hover"}
+                  alt={"Mil Textos search icon hover"}
                   width={26}
                   height={26}
                   className='search-hover'
@@ -106,7 +106,7 @@ const NotFoundPage = ({ type }) => {
 
       <div className='wrapper-box'></div>
       <div className='footer-wrapper'>
-        <FooterContainer label='moderntips.com' link='https://moderntips.com' />
+        <FooterContainer label='miltextos.com' link='https://miltextos.com' />
       </div>
     </div>
   );

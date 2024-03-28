@@ -25,7 +25,7 @@ const SinglePostBlock = ({
   rampSegment,
 }) => {
   const [toggle, setToggle] = useState(false);
-  const rampJSref = useRef(null);
+  const injectionJSref = useRef(null);
   const doc = parseContent;
   const postHeadings =
     doc?.querySelectorAll("h2").length > 0
@@ -85,30 +85,21 @@ const SinglePostBlock = ({
       : termsString;
   const newTerms = ` terms: "${termsString}", init: {segment: "${rampSegment}"}`;
   const script = `
-        <script id="social-annex">
-        (function () {
-          function ramjsInt () {
-            (function(w,r){w[r]=w[r]||function(){(w[r]['q']=w[r]['q']||[]).push(
-              arguments)},w[r]['t']=1*new Date})(window,'_rampJs');
-              _rampJs({ "targetDivs":["rampjs_slot1","rampjs_slot5"], 
-              terms: "${termsString}", init: {segment: "${rampSegment}"} });
-          }
-          ramjsInt();
-          console.log('ramp init');
-      })();
+        <script id="js-injection">
+          console.log('script injection init');
         </script>
     `;
   useEffect(() => {
-    if (rampJSref) {
+    if (injectionJSref) {
       // creates a document range (grouping of nodes in the document). In this case, we instantiate it as empty, on purpose
       const range = document.createRange();
       // creates a mini-document (lightweight version), in our range with our script in it
       const documentFragment = range.createContextualFragment(script);
       // appends it on the same level of annex div - so that it renders in the correct location
-      rampJSref.current?.appendChild(documentFragment);
+      injectionJSref.current.appendChild(documentFragment);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [rampJSref]);
+  }, [injectionJSref]);
 
   return (
     <SinglePost
@@ -135,7 +126,7 @@ const SinglePostBlock = ({
       city={city}
       state={state}
       killSEO={killSEO}
-      rampJSref={rampJSref}
+      injectionJSref={injectionJSref}
       adsTerms={termsString}
       newTerms={newTerms}
     />

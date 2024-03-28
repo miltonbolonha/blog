@@ -1,0 +1,16 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "automerge": true,
+  "automergeType": "pr",
+  "baseBranches": ["master"],
+  "ignorePaths": [
+    "next-boilerplate/content/**",
+    "next-boilerplate/public/posts/**",
+    "next-boilerplate/.env.local.example",
+    "next-boilerplate/src/configs/**"
+  ],
+  "prHourlyLimit": 5,
+  "prConcurrentLimit": 10,
+  "rangeStrategy": "bump",
+  "rebaseWhen": "conflicted"
+}

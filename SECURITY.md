@@ -4,7 +4,7 @@ No que se refere à segurança digital.
 
 ## Relatando Problemas de Segurança
 
-Se você descobrir uma vulnerabilidade de segurança, pedimos que nos avise imediatamente. Para relatar um problema de segurança, envie um e-mail para ines.santos@moderntips.com. Assim que recebermos seu relatório, nossa equipe de segurança investigará e tratará do problema de maneira responsável.
+Se você descobrir uma vulnerabilidade de segurança, pedimos que nos avise imediatamente. Para relatar um problema de segurança, envie um e-mail para ines.santos@miltextos.com. Assim que recebermos seu relatório, nossa equipe de segurança investigará e tratará do problema de maneira responsável.
 
 ## O que Relatar
 

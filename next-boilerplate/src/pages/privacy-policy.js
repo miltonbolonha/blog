@@ -67,13 +67,13 @@ const NotFoundPage = () => {
         <div className='hero search-hero'>
           <Image
             src={`/brandimages/hero-img.jpg`}
-            alt={"Modern Tips hero image"}
+            alt={"Mil Textos hero image"}
             width={1024}
             height={650}
             className='hero-img'
           />
           <div className='row-config inner-hero'>
-            <h2>Search ModernTips</h2>
+            <h2>Search Mil Textos</h2>
             <form action='#' method='post'>
               <input
                 type='text'
@@ -84,14 +84,14 @@ const NotFoundPage = () => {
               <button className='search-icon'>
                 <Image
                   src={`/brandimages/search-icon.png`}
-                  alt={"Modern Tips search icon"}
+                  alt={"Mil Textos search icon"}
                   width={26}
                   height={26}
                   className='search-hold'
                 />
                 <Image
                   src={`/brandimages/search-icon-hover.png`}
-                  alt={"Modern Tips search icon hover"}
+                  alt={"Mil Textos search icon hover"}
                   width={26}
                   height={26}
                   className='search-hover'
@@ -107,8 +107,8 @@ const NotFoundPage = () => {
           <h1>Privacy Policy</h1>
           <p>Effective date: December 31, 2019</p>
           <p>
-            ModernTips (“us”, “we”, or “our”) operates the
-            https://www.moderntips.com website (hereinafter referred to as the
+            Mil Textos (“us”, “we”, or “our”) operates the
+            https://www.miltextos.com website (hereinafter referred to as the
             “Service”).
           </p>
           <p>
@@ -122,13 +122,13 @@ const NotFoundPage = () => {
             accordance with this policy. Unless otherwise defined in this
             Privacy Policy, the terms used in this Privacy Policy have the same
             meanings as in our Terms and Conditions, accessible from
-            https://www.moderntips.com
+            https://www.miltextos.com
           </p>
           <h2>Definitions</h2>
           <ul>
             <li>
-              <strong>Service</strong> Service is the https://www.moderntips.com
-              website operated by ModernTips
+              <strong>Service</strong> Service is the https://www.miltextos.com
+              website operated by Mil Textos
             </li>
             <li>
               <strong>Personal Data</strong> Personal Data means data about a
@@ -241,7 +241,7 @@ const NotFoundPage = () => {
             </li>
           </ul>
           <h2>Use of Data</h2>
-          <p>ModernTips uses the collected information for various purposes:</p>
+          <p>Mil Textos uses the collected information for various purposes:</p>
           <ul>
             <li>To provide and maintain our Service</li>
             <li>To notify you about changes to our Service</li>
@@ -268,12 +268,12 @@ const NotFoundPage = () => {
             Protection Regulation (GDPR)
           </p>
           <p>
-            If you are from the European Economic Area (EEA), ModernTips legal
+            If you are from the European Economic Area (EEA), Mil Textos legal
             basis for collecting and using the personal information described in
             this Privacy Policy depends on the Personal Data we collect and the
             specific context in which we collect it.
           </p>
-          <p>ModernTips may process your Personal Data because:</p>
+          <p>Mil Textos may process your Personal Data because:</p>
           <ul>
             <li>We need to perform a contract with you</li>
             <li>You have given us permission to do so</li>
@@ -285,7 +285,7 @@ const NotFoundPage = () => {
           </ul>
           <h2>Retention of Data</h2>
           <p>
-            ModernTips will retain your Personal Data only for as long as is
+            Mil Textos will retain your Personal Data only for as long as is
             necessary for the purposes set out in this Privacy Policy. We will
             retain and use your Personal Data to the extent necessary to comply
             with our legal obligations (for example, if we are required to
@@ -293,7 +293,7 @@ const NotFoundPage = () => {
             and enforce our legal agreements and policies.
           </p>
           <p>
-            ModernTips will also retain Usage Data for internal analysis
+            Mil Textos will also retain Usage Data for internal analysis
             purposes. Usage Data is generally retained for a shorter period of
             time, except when this data is used to strengthen the security or to
             improve the functionality of our Service, or we are legally
@@ -316,7 +316,7 @@ const NotFoundPage = () => {
             such information represents your agreement to that transfer.
           </p>
           <p>
-            ModernTips will take all the steps reasonably necessary to ensure
+            Mil Textos will take all the steps reasonably necessary to ensure
             that your data is treated securely and in accordance with this
             Privacy Policy and no transfer of your Personal Data will take place
             to an organisation or a country unless there are adequate controls
@@ -325,25 +325,25 @@ const NotFoundPage = () => {
           </p>
           <h2>Disclosure of Data</h2>
           <h3>Business Transaction</h3>
-          If ModernTips is involved in a merger, acquisition or asset sale, your
+          If Mil Textos is involved in a merger, acquisition or asset sale, your
           Personal Data may be transferred. We will provide notice before your
           Personal Data is transferred and becomes subject to a different
           Privacy Policy.
           <h3>Disclosure for Law Enforcement</h3>
           <p>
-            Under certain circumstances, ModernTips may be required to disclose
+            Under certain circumstances, Mil Textos may be required to disclose
             your Personal Data if required to do so by law or in response to
             valid requests by public authorities (e.g. a court or a government
             agency).
           </p>
           <h3>Legal Requirements</h3>
           <p>
-            ModernTips may disclose your Personal Data in the good faith belief
+            Mil Textos may disclose your Personal Data in the good faith belief
             that such action is necessary to:
           </p>
           <ul>
             <li>To comply with a legal obligation</li>
-            <li>To protect and defend the rights or property of ModernTips</li>
+            <li>To protect and defend the rights or property of Mil Textos</li>
             <li>
               To prevent or investigate possible wrongdoing in connection with
               the Service
@@ -381,7 +381,7 @@ const NotFoundPage = () => {
           </p>
           <p>
             If you are a resident of the European Economic Area (EEA), you have
-            certain data protection rights. ModernTips aims to take reasonable
+            certain data protection rights. Mil Textos aims to take reasonable
             steps to allow you to correct, amend, delete or limit the use of
             your Personal Data.
           </p>
@@ -426,7 +426,7 @@ const NotFoundPage = () => {
             </li>
             <li>
               <strong>The right to withdraw consent.</strong> You also have the
-              right to withdraw your consent at any time where ModernTips relied
+              right to withdraw your consent at any time where Mil Textos relied
               on your consent to process your personal information.
             </li>
           </ul>
@@ -659,10 +659,10 @@ const NotFoundPage = () => {
             us:
           </p>
           <ul>
-            <li>By email: info@moderntips.com</li>
+            <li>By email: info@miltextos.com</li>
             <li>
               By visiting this page on our website:
-              https://www.moderntips.com/about/
+              https://www.miltextos.com/about/
             </li>
             <li>By mail: PO Box 515381, Los Angeles, CA 90051-6681</li>
           </ul>
@@ -671,7 +671,7 @@ const NotFoundPage = () => {
 
       <div className='wrapper-box'></div>
       <div className='footer-wrapper'>
-        <FooterContainer label='moderntips.com' link='https://moderntips.com' />
+        <FooterContainer label='miltextos.com' link='https://miltextos.com' />
       </div>
     </div>
   );
