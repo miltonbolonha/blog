@@ -16,7 +16,7 @@
     "@ctrl/react-adsense": "^1.7.0",
     "@fontsource-variable/dosis": "^5.0.8",
     "@fontsource-variable/inter": "^5.0.16",
-    "@fontsource-variable/josefin-sans": "^5.0.9",
+    "@fontsource-variable/josefin-sans": "^5.0.20",
     "@fontsource/varela": "^5.0.8",
     "@jsdevtools/rehype-url-inspector": "^2.0.2",
     "@netlify/edge-functions": "^2.3.1",
