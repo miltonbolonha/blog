@@ -120,11 +120,12 @@ collections:
               - {
                 label: "Social Midias",
                 name: "sameAs",
-                widget: "select",
+                widget: list,
                 multiple: true,
-                - { label: "facebook", value: "https://facebook.com" }
-                - { label: "instagram", value: "https://instagram.com" }
-                - { label: "x", value: "https://x.com" }
+                fields:
+                  - { label: "facebook", value: "https://facebook.com" },
+                  - { label: "instagram", value: "https://instagram.com" },
+                  - { label: "x", value: "https://x.com" }
                 }
               - {
                 label: "Twitter Card",
