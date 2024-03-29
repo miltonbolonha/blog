@@ -65,13 +65,9 @@ collections:
     create: true
     # adding a nested object will show the collection folder structure
     slug: "{{slug}}"
-    fields:
-      - label: Title
-        name: title
-        widget: string
-      - label: Body
-        name: body
-        widget: markdown
+   fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Body", name: "body", widget: "markdown", required: true }
       - { label: "Type", name: "layout", widget: "hidden", default: "page" }
       - {
           label: "Publish Date",
