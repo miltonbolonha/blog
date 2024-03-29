@@ -58,30 +58,6 @@ collections:
       - { label: "Body", name: "body", widget: "markdown", required: true }
       - { label: "Type", name: "layout", widget: "hidden", default: "post" }
 
-  - name: settings
-    label: "Settings"
-    delete: false # Prevent users from deleting documents in this collection
-    editor:
-      preview: false
-    files:
-      - name: "general"
-        label: "Site Settings"
-        file: "next-boilerplate/content/settings.json"
-        description: "General Site Settings"
-        fields:
-          - { label: "Global title", name: "site_title", widget: "string" }
-          - label: "Post Settings"
-            name: posts
-            widget: "object"
-            fields:
-              - {
-                  label: "Number of posts on frontpage",
-                  name: front_limit,
-                  widget: number,
-                  min: 1,
-                  max: 10,
-                }
-
   - name: pages
     label: Pages
     label_singular: "Page"
@@ -104,3 +80,123 @@ collections:
           format: "YYYY-MM-DD HH:mm:ss",
           required: true,
         }
+        - { label: "Description", name: pageDescription, widget: "string" }
+
+  - name: settings
+    label: "Settings"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - name: "general"
+        label: "Site Settings"
+        file: "next-boilerplate/content/settings.json"
+        description: "General Site Settings"
+        fields:
+          - { label: "Global title", name: "site_title", widget: "string" }
+          - label: "Business Settings"
+            name: business
+            widget: "object"
+            fields:
+              - { label: "Brand Person", name: brandPerson, widget: "string" }
+              - { label: "Short Brand Name", name: shortName, widget: "string" }
+              - { label: "Brand Name", name: brandName, widget: "string" }
+              - { label: "Brand Description", name: brandDescription, widget: "string" }
+              - { label: "Brand Phone", name: brandPhone, widget: "string", default: "+1" }
+              - { label: "Brand Email", name: brandEmail, widget: "string" }
+              - { label: "Brand Keywords", name: brandKeywords, widget: "string", default: "value 1, value 2" }
+              - { label: "Feedback Subject", name: feedbackSubject, widget: "string", default: "Message Request" }
+              - { label: "Feedback Email", name: feedbackEmail, widget: "string", default: "general@miltextos.com" }
+              - {
+                  label: "Brand Logo",
+                  name: brandLogo,
+                  widget: "image",
+                  required: true,
+                  default: "logomark.png",
+                }
+              - {
+                  label: "Brand Card Image",
+                  name: brandCardImage,
+                  widget: "image",
+                  required: true,
+                  default: "cover.png",
+                }
+              - {
+                label: "Social Midias",
+                name: "sameAs",
+                widget: "select",
+                multiple: true,
+                - { label: "facebook", value: "https://facebook.com" }
+                - { label: "instagram", value: "https://instagram.com" }
+                - { label: "x", value: "https://x.com" }
+                }
+              - {
+                label: "Twitter Card",
+                name: "twitterCard",
+                widget: "object",
+                fields:
+                  - { label: "card", name: card, widget: "string" }
+                  - { label: "creator", name: creator, widget: "string" }
+                  - { label: "title", name: title, widget: "string" }
+                  - { label: "description", name: description, widget: "string" }
+                  - { label: "image", name: image, widget: "string" }
+                  - { label: "site", name: site, widget: "string" }
+              }
+              - {
+                  label: "RampJS",
+                  name: rampJS,
+                  widget: "boolean",
+                  default: false,
+                }
+              - {
+                  label: "RampJS Segment",
+                  name: rampJSsegment,
+                  widget: "string",
+                }
+              - {
+                  label: "Ads Client ID",
+                  name: adClient,
+                  widget: "string",
+                  default: "ca-pub-",
+                }
+              - {
+                  label: "Google Analytics ID",
+                  name: gaID,
+                  widget: "string",
+                  default: "G-",
+                }
+          - label: "Website Settings"
+            name: website
+            widget: "object"
+            fields:
+              - { label: "Site Url", name: siteUrl, widget: "string" }
+              - { label: "Theme Color", name: themeColor, widget: "string" }
+              - {
+                  label: "Publish Date",
+                  name: "date",
+                  widget: "datetime",
+                  format: "YYYY-MM-DD HH:mm:ss",
+                }
+              - {
+                  label: "Error Message",
+                  name: errorMessage,
+                  widget: "string",
+                  default: "Hmm... something is wrong, try again later or e-mail us: general@miltextoss.com",
+                }
+              - {
+                  label: "Success Message",
+                  name: successMessage,
+                  widget: "string",
+                  default: "Thank you for your message. We will reach you soon.",
+                }
+          - label: "Post Settings"
+            name: posts
+            widget: "object"
+            fields:
+              - {
+                  label: "Number of posts on frontpage",
+                  name: front_limit,
+                  widget: number,
+                  min: 1,
+                  max: 10,
+                }
