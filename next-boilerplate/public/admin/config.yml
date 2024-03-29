@@ -93,7 +93,6 @@ collections:
             name: business
             widget: "object"
             fields:
-              - { label: "Brand Person", name: brandPerson, widget: "string" }
               - { label: "Brand Name", name: brandName, widget: "string" }
               - {
                   label: "Brand Description",
