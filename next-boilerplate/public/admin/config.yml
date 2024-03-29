@@ -97,12 +97,36 @@ collections:
               - { label: "Brand Person", name: brandPerson, widget: "string" }
               - { label: "Short Brand Name", name: shortName, widget: "string" }
               - { label: "Brand Name", name: brandName, widget: "string" }
-              - { label: "Brand Description", name: brandDescription, widget: "string" }
-              - { label: "Brand Phone", name: brandPhone, widget: "string", default: "+1" }
+              - {
+                  label: "Brand Description",
+                  name: brandDescription,
+                  widget: "string",
+                }
+              - {
+                  label: "Brand Phone",
+                  name: brandPhone,
+                  widget: "string",
+                  default: "+1",
+                }
               - { label: "Brand Email", name: brandEmail, widget: "string" }
-              - { label: "Brand Keywords", name: brandKeywords, widget: "string", default: "value 1, value 2" }
-              - { label: "Feedback Subject", name: feedbackSubject, widget: "string", default: "Message Request" }
-              - { label: "Feedback Email", name: feedbackEmail, widget: "string", default: "general@miltextos.com" }
+              - {
+                  label: "Brand Keywords",
+                  name: brandKeywords,
+                  widget: "string",
+                  default: "value 1, value 2",
+                }
+              - {
+                  label: "Feedback Subject",
+                  name: feedbackSubject,
+                  widget: "string",
+                  default: "Message Request",
+                }
+              - {
+                  label: "Feedback Email",
+                  name: feedbackEmail,
+                  widget: "string",
+                  default: "general@miltextos.com",
+                }
               - {
                   label: "Brand Logo",
                   name: brandLogo,
@@ -117,28 +141,6 @@ collections:
                   required: true,
                   default: "cover.png",
                 }
-              - {
-                label: "Social Midias",
-                name: "sameAs",
-                widget: list,
-                multiple: true,
-                fields:
-                  - { label: "facebook", value: "https://facebook.com" },
-                  - { label: "instagram", value: "https://instagram.com" },
-                  - { label: "x", value: "https://x.com" }
-                }
-              - {
-                label: "Twitter Card",
-                name: "twitterCard",
-                widget: "object",
-                fields:
-                  - { label: "card", name: card, widget: "string" }
-                  - { label: "creator", name: creator, widget: "string" }
-                  - { label: "title", name: title, widget: "string" }
-                  - { label: "description", name: description, widget: "string" }
-                  - { label: "image", name: image, widget: "string" }
-                  - { label: "site", name: site, widget: "string" }
-              }
               - {
                   label: "RampJS",
                   name: rampJS,
