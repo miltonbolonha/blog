@@ -143,24 +143,28 @@ collections:
                   label: "RampJS",
                   name: rampJS,
                   widget: "boolean",
+                  required: false,
                   default: false,
                 }
               - {
                   label: "RampJS Segment",
                   name: rampJSsegment,
                   widget: "string",
+                  required: false,
                 }
               - {
                   label: "Ads Client ID",
                   name: adClient,
                   widget: "string",
                   default: "ca-pub-",
+                  required: false,
                 }
               - {
                   label: "Google Analytics ID",
                   name: gaID,
                   widget: "string",
                   default: "G-",
+                  required: false,
                 }
           - label: "Website Settings"
             name: website
