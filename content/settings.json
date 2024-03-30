@@ -1,8 +1,4 @@
 {
-  "site_title": "Meu título",
-  "posts": {
-    "front_limit": 10
-  },
   "website": {
     "date": "2024-03-29 08:18:20",
     "siteUrl": "https://miltextos.netlify.app",

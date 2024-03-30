@@ -7,8 +7,8 @@ import { format } from "date-fns";
 import { usa } from "date-fns/locale";
 
 const contentDirectory = join(process.cwd(), "content");
-const postsDirectory = join(process.cwd(), "content/posts");
-const pagesDirectory = join(process.cwd(), "content/pages");
+const postsDirectory = join(process.cwd(), "../content/posts");
+const pagesDirectory = join(process.cwd(), "../content/pages");
 // console.log("postsDirectory");
 // console.log(postsDirectory);
 export function getPostBySlug(slug) {

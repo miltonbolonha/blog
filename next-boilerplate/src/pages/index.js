@@ -10,10 +10,10 @@ import HeaderContainer from "../containers/HeaderContainer";
 import FooterContainer from "../containers/FooterContainer";
 import mainMenu from "../configs/main-menu.json";
 import mainConfigs from "../configs/main-infos.json";
-
+import mainConfigs2 from "../../content/settings.json";
 const index = mainConfigs?.pages?.index;
-const business = mainConfigs?.business;
-const website = mainConfigs?.website;
+const business = mainConfigs2?.business;
+const website = mainConfigs2?.website;
 
 const infos = {
   slug: "",
@@ -37,7 +37,7 @@ const infos = {
   articleUrl: `${website.siteUrl}/${index?.slug}`,
   themeColor: website.themeColor,
   sameAs: business.sameAs,
-  twitter: business.shortName,
+  // twitter: business.shortName,
 };
 
 const Home = ({ posts }) => {
