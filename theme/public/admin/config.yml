@@ -199,7 +199,7 @@ collections:
             allow_multiple: true
             max: 6
             min: 1
-            widget: "object"
+            widget: "list"
             fields:
               - { label: "Label", name: label, widget: "string" }
               - { label: "Href", name: href, widget: "string" }
