@@ -4,7 +4,8 @@
     "siteUrl": "https://miltextos.netlify.app",
     "themeColor": "#9b00dd",
     "errorMessage": "Hmm... something is wrong, try again later or e-mail us: miltonbolonha@gmail.com",
-    "successMessage": "Thank you for your message. We will reach you soon."
+    "successMessage": "Thank you for your message. We will reach you soon.",
+    "footerMessage": "Isenção de responsabilidade: O conteúdo fornecido neste site destina-se apenas a fins de informação geral e não deve ser considerado um substituto para aconselhamento financeiro e/ou médico profissional. Todos os materiais, incluindo textos, gráficos, imagens e informações, estão sujeitos a alterações sem aviso prévio. As informações, materiais, termos, condições e descrições apresentadas nestas páginas estão sujeitas a alterações sem aviso prévio."
   },
   "business": {
     "brandCardImage": "https://res.cloudinary.com/dyxuhpt7j/image/upload/v1711708916/Group_1000005825_xunfmc.png",
