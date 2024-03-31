@@ -31,5 +31,15 @@
       "label": "Testando",
       "href": "teste"
     }
+  ],
+  "linkTree": [
+    {
+      "label": "facebook",
+      "href": "https://facebook.com"
+    },
+    {
+      "label": "instagram",
+      "href": "https://instragram.com"
+    }
   ]
 }
