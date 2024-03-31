@@ -156,6 +156,7 @@ collections:
                   name: adClient,
                   widget: "string",
                   default: "ca-pub-",
+                  hint: "ca-pub-",
                   required: false,
                 }
               - {
@@ -164,6 +165,7 @@ collections:
                   widget: "string",
                   default: "G-",
                   required: false,
+                  hint: "G-",
                 }
           - label: "Website Settings"
             name: website
@@ -193,6 +195,8 @@ collections:
             label_singular: Item
             name: mainMenu
             allow_add: true
+            allow_delete: true
+            allow_multiple: true
             max: 6
             min: 1
             widget: "object"
