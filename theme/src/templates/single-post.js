@@ -53,7 +53,7 @@ const SinglePost = ({ post }) => {
   // const  c = strongSelect.includes('Fact: ')
 
   const pSelect = doc?.querySelector("p");
-  const excerpt = pSelect?.childNodes[0]?._rawText;
+  const excerpt = pSelect?.childNodes[0]?._rawText || "";
   const killSEO =
     post?.frontmatter?.categories?.length > 0 &&
     post?.frontmatter?.categories[0] === "Hide";
@@ -85,25 +85,6 @@ const SinglePost = ({ post }) => {
       (headingsTexts +=
         e.innerText.replace("Myth: ", "") + ", " || e.innerText + ", ")
   );
-  // ads terms
-  const terms = headingsTexts?.slice(0, -1);
-  let termsString;
-  let adsTerms;
-  if (post?.frontmatter?.tag) {
-    adsTerms = post?.frontmatter?.tag.toString();
-  } else {
-    adsTerms = postHeadings;
-  }
-
-  if (
-    adsTerms === "Test Term 1, Test Term 2, Test Term 3, Test Term 4" ||
-    adsTerms === "" ||
-    !adsTerms
-  ) {
-    termsString = terms;
-  } else {
-    termsString = adsTerms;
-  }
 
   const infos = {
     slug: "/" + post?.slug,
@@ -121,7 +102,7 @@ const SinglePost = ({ post }) => {
     featuredImage: `${website.siteUrl}/posts/${post?.frontmatter?.image}`,
     datePublished: website.datePublished,
     i18n: website.i18n,
-    keywords: termsString || post?.frontmatter?.tag || website.keywords,
+    keywords: post?.frontmatter?.tag || website.keywords,
     questions: [],
     topology: "post",
     articleUrl: `${website.siteUrl}/${post.slug}`,
@@ -160,8 +141,6 @@ const SinglePost = ({ post }) => {
         });
     }
   }, [city, state, promoVisitState, getRef]);
-  console.log("post?.type");
-  console.log(post?.type);
   return (
     <>
       <div className='single-post post-container'>
@@ -201,10 +180,6 @@ const SinglePost = ({ post }) => {
             readMore={readMore}
             topic={post?.frontmatter?.tag[0] || []}
             keywords={post?.frontmatter?.keywords || []}
-            adsTerms={
-              termsString ||
-              "Test Term 1, Test Term 2, Test Term 3, Test Term 4"
-            }
             excerpt={excerpt}
             parseContent={doc}
             relatedPosts={[]}

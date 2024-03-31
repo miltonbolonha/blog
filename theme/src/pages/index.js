@@ -8,12 +8,13 @@ import Image from "next/image";
 import SeoContainer from "../containers/SeoContainer";
 import HeaderContainer from "../containers/HeaderContainer";
 import FooterContainer from "../containers/FooterContainer";
-import mainMenu from "../configs/main-menu.json";
+// import mainMenu from "../configs/main-menu.json";
 // import mainConfigs from "../configs/main-infos.json";
 import mainConfigs2 from "../../settings.json";
 // const index = mainConfigs?.pages?.index;
-const business = mainConfigs2?.business;
-const website = mainConfigs2?.website;
+const { business, website } = mainConfigs2;
+// const website = mainConfigs2?.website;
+// const mainMenu = mainConfigs2?.mainMenu;
 
 const infos = {
   slug: "",
@@ -88,7 +89,7 @@ const Home = ({ posts }) => {
           classes: "header-block",
           pageHasMenu: true,
         }}
-        mainMenu={mainMenu.menu.items}
+        // mainMenu={mainMenu}
         hasMenu={false}
         scheduleLink={"index?.calendlyLink"}
         gtag={"gtag"}
@@ -105,9 +106,9 @@ const Home = ({ posts }) => {
             className='hero-img'
           />
           <div className='row-config inner-hero'>
-            <h1>Search {business?.brandName}</h1>
+            <h1>Search {business?.brandName || ""}</h1>
             <SearchInputContainer
-              siteUrl={website?.siteUrl}
+              siteUrl={website?.siteUrl || ""}
               subDomain={"search"}
             />
           </div>

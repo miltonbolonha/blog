@@ -19,7 +19,6 @@ const SinglePostBlock = ({
   relatedPosts,
   city,
   killSEO,
-  adsTerms,
   state,
   siteKeywords,
   rampSegment,
@@ -69,21 +68,7 @@ const SinglePostBlock = ({
   const promoNOread = promoVisitState === true && readMore === false;
   const promoNEVERread = promoVisitState === true && readMore !== null;
   const noPromoNEVERread = promoVisitState === false && readMore === null;
-  let termsCount = adsTerms.split(",").length <= 5;
-  let termsString = [];
-  postHeadings.forEach(x =>
-    x?.innerText.split(" ").length <= 1
-      ? null
-      : termsString.push(x?.innerText.replace("Myth: ", " "))
-  );
-  termsString = termsCount
-    ? adsTerms.concat(termsString)
-    : adsTerms.concat(siteKeywords);
-  termsString =
-    termsString.length >= 6
-      ? termsString.split(",").slice(0, 5).toString()
-      : termsString;
-  const newTerms = ` terms: "${termsString}", init: {segment: "${rampSegment}"}`;
+
   const script = `
         <script id="js-injection">
           console.log('script injection init');
@@ -127,8 +112,6 @@ const SinglePostBlock = ({
       state={state}
       killSEO={killSEO}
       injectionJSref={injectionJSref}
-      adsTerms={termsString}
-      newTerms={newTerms}
     />
   );
 };

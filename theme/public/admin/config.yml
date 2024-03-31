@@ -180,10 +180,10 @@ collections:
                   format: "YYYY-MM-DD HH:mm:ss",
                 }
               - {
-                  label: "Error Message",
-                  name: errorMessage,
+                  label: "Footer Message",
+                  name: footerMessage,
                   widget: "string",
-                  default: "Hmm... something is wrong, try again later or e-mail us: general@miltextoss.com",
+                  default: "Disclaimer: The content provided on this site is intended for general information purposes only and should not be considered a replacement for professional financial and/or medical advice. All materials, including text, graphics, images, and information, are subject to change without prior notice. The information, materials, terms, conditions, and descriptions presented on these pages are subject to change without prior notice.",
                 }
               - {
                   label: "Success Message",
@@ -191,6 +191,24 @@ collections:
                   widget: "string",
                   default: "Thank you for your message. We will reach you soon.",
                 }
+              - {
+                  label: "Error Message",
+                  name: errorMessage,
+                  widget: "string",
+                  default: "Hmm... something is wrong, try again later or e-mail us: general@miltextoss.com",
+                }
+          - label: "Link Tree"
+            label_singular: Item
+            name: linkTree
+            allow_add: true
+            allow_delete: true
+            allow_multiple: true
+            max: 6
+            min: 1
+            widget: "list"
+            fields:
+              - { label: "Label", name: label, widget: "string" }
+              - { label: "Href", name: href, widget: "string" }
           - label: "Main Menu"
             label_singular: Item
             name: mainMenu

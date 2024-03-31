@@ -61,16 +61,10 @@ const SinglePostBlock = ({
   city,
   killSEO,
   injectionJSref,
-  adsTerms,
-  newTerms,
 }) => {
   return (
     <article>
       <div ref={injectionJSref}></div>
-
-      <Head>
-        <meta name='keywords' content={adsTerms} />
-      </Head>
 
       <section>
         <div className={`main-post ${promoNOread ? "promoVisit" : ""}`}>
@@ -197,7 +191,9 @@ const SinglePostBlock = ({
           </div>
           <section className={`right-column ${promoNOread ? "none" : ""}`}>
             <div
-              className={`ads ads-right-column ${promoNOread ? "none" : ""}             
+              className={`ads ads-right-column ${
+                promoNOread ? "none" : ""
+              }             
               `}
             >
               {!promoNOread && !killSEO ? (
@@ -211,7 +207,9 @@ const SinglePostBlock = ({
               ) : null}
             </div>
             <div
-              className={`desktop-only ${promoNOread || relatedPosts.length <= 1 ? "none" : ""}`}
+              className={`desktop-only ${
+                promoNOread || relatedPosts.length <= 1 ? "none" : ""
+              }`}
             >
               <h2>Related Posts</h2>
               <hr className='small-row' />
@@ -236,8 +234,12 @@ const SinglePostBlock = ({
             </div>
 
             <div
-              className={`ads ads-right-column second ${promoNOread ? "none" : ""}
-              ${promoVisitState === false && readMore === true ? "" : "sticky"}`}
+              className={`ads ads-right-column second ${
+                promoNOread ? "none" : ""
+              }
+              ${
+                promoVisitState === false && readMore === true ? "" : "sticky"
+              }`}
             >
               {!promoNOread && !killSEO ? (
                 <Adsense
@@ -253,7 +255,9 @@ const SinglePostBlock = ({
         </div>
         <div className='post-footer-wrapper'>
           <div
-            className={`ads footer-highlights ads-bottom-row ${promoNOread ? "none" : ""}
+            className={`ads footer-highlights ads-bottom-row ${
+              promoNOread ? "none" : ""
+            }
 `}
           >
             {!promoNOread && !killSEO ? (
@@ -267,7 +271,9 @@ const SinglePostBlock = ({
             ) : null}
           </div>
           <div
-            className={`footer-highlights ${promoNOread || relatedPosts.length <= 6 ? "none" : ""}`}
+            className={`footer-highlights ${
+              promoNOread || relatedPosts.length <= 6 ? "none" : ""
+            }`}
           >
             <h2>Explore</h2>
             <hr className='small-row' />

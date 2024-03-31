@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "next/link";
 const MainMenuList = ({
   list,
   indx,
@@ -10,60 +9,60 @@ const MainMenuList = ({
   hanburguerIcon,
   pathname,
 }) => {
-  if (list.item.href && isMobile !== true) {
+  if (list.href && isMobile !== true) {
     return (
       <li key={indx} role='presentation'>
         <a
-          href={list.item.href}
+          href={list.href}
           role={"menuitem"}
           itemProp='url'
-          title={list.item.label}
-          aria-label={`Acesso a página: ${list.item.label}, fora do websítio da EMPRESA`}
-          alt={`Acesso a página: ${list.item.label}, fora do websítio da EMPRESA`}
+          title={list.label}
+          aria-label={`Acesso a página: ${list.label}, fora do websítio da EMPRESA`}
+          alt={`Acesso a página: ${list.label}, fora do websítio da EMPRESA`}
         >
-          {list.item.label}
+          {list.label}
         </a>
       </li>
     );
   }
-  if ((list.item.to || list.item.anchor) && isMobile !== true) {
-    let anchorHash = null;
-    let label = null;
-    const anchor = list?.item?.anchor?.split(",");
-    anchor?.forEach(w => {
-      const x = w.split(":");
-      if (x[0] === pathname) {
-        return (anchorHash = x[0] === pathname ? x[1] : null);
-      }
+  // if ((list.to || list.anchor) && isMobile !== true) {
+  //   let anchorHash = null;
+  //   let label = null;
+  //   const anchor = list??.anchor?.split(",");
+  //   anchor?.forEach(w => {
+  //     const x = w.split(":");
+  //     if (x[0] === pathname) {
+  //       return (anchorHash = x[0] === pathname ? x[1] : null);
+  //     }
 
-      return null;
-    });
-    const labelString = list?.item?.label?.split(",");
-    labelString?.forEach(l => {
-      const lb = l.split(":");
-      if (lb[0] === pathname) {
-        label = lb[1];
-        return label;
-      }
-      return null;
-    });
-    return (
-      <li key={indx} role='presentation'>
-        <Link
-          href={list.item.anchor ? pathname + "/" + anchorHash : list.item.to}
-          role={"menuitem"}
-          itemProp='url'
-          title={list.item.label}
-          aria-label={`Acesso a página: ${list.item.label}, no websítio da EMPRESA`}
-          alt={`Acesso a página: ${list.item.label}, no websítio da EMPRESA`}
-          className='none'
-          onClick={handleRefState}
-        >
-          {list.item.anchor ? label : list.item.label}
-        </Link>
-      </li>
-    );
-  }
+  //     return null;
+  //   });
+  //   const labelString = list??.label?.split(",");
+  //   labelString?.forEach(l => {
+  //     const lb = l.split(":");
+  //     if (lb[0] === pathname) {
+  //       label = lb[1];
+  //       return label;
+  //     }
+  //     return null;
+  //   });
+  //   return (
+  //     <li key={indx} role='presentation'>
+  //       <Link
+  //         href={list.anchor ? pathname + "/" + anchorHash : list.to}
+  //         role={"menuitem"}
+  //         itemProp='url'
+  //         title={list.label}
+  //         aria-label={`Acesso a página: ${list.label}, no websítio da EMPRESA`}
+  //         alt={`Acesso a página: ${list.label}, no websítio da EMPRESA`}
+  //         className='none'
+  //         onClick={handleRefState}
+  //       >
+  //         {list.anchor ? label : list.label}
+  //       </Link>
+  //     </li>
+  //   );
+  // }
   if (isMobile === true) {
     return (
       <div className='header-columns toggle-menu'>

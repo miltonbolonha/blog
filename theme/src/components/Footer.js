@@ -1,7 +1,8 @@
 import React from "react";
+import Link from "next/link";
 import Row from "../containers/RowContainer";
 import Image from "next/image";
-import mainInfos from "../configs/main-infos.json";
+import mainInfos from "../../settings.json";
 const Footer = () => {
   return (
     <footer>
@@ -17,24 +18,21 @@ const Footer = () => {
           </a>
         </div>
         <div className='right footer-bottom'>
-          <a href={"/about"}>About Us</a>
+          {mainInfos.mainMenu.map((item, itemIndx) => (
+            <Link key={itemIndx} href={"/" + item.href}>
+              {item.label}
+            </Link>
+          ))}
+          {/* <a href={"/about"}>About Us</a>
           <a href={"/advertising-disclosure"}>Advertising Disclosure</a>
           <a href={"/terms-of-use"}>Terms and Conditions</a>
-          <a href={"/privacy-policy"}>Privacy Policy</a>
+          <a href={"/privacy-policy"}>Privacy Policy</a> */}
         </div>
       </Row>
       <div className='bottom'>
         <hr />
         <p>
-          <small>
-            Disclaimer: The content provided on this site is intended for
-            general information purposes only and should not be considered a
-            replacement for professional financial and/or medical advice. All
-            materials, including text, graphics, images, and information, are
-            subject to change without prior notice. The information, materials,
-            terms, conditions, and descriptions presented on these pages are
-            subject to change without prior notice.
-          </small>
+          <small>{mainInfos.website.footerMessage}</small>
         </p>
         <br />
         <p>
