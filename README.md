@@ -1,6 +1,6 @@
 ## Selos de Qualidade:
 
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_next-boilerplate&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_next-boilerplate) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_next-boilerplate&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_next-boilerplate) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_next-boilerplate&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_next-boilerplate) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_next-boilerplate&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_next-boilerplate) [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_next-boilerplate&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_next-boilerplate) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_next-boilerplate&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_next-boilerplate) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_next-boilerplate&metric=bugs)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_next-boilerplate) [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_next-boilerplate&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_next-boilerplate)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_theme&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_theme) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_theme&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_theme) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_theme&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_theme) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_theme&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_theme) [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_theme&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_theme) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_theme&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_theme) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_theme&metric=bugs)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_theme) [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_theme&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_theme)
 
 Projeto de Ensino de Tecnologia
 
@@ -31,7 +31,7 @@ Para começar acesse o Boilerplate Next.js do repositório de Milton Bolonha.
 Use o Github Template. Acesse a página gerada no GitHub Pages. Ou inicie o servidor de desenvolvimento com o comando:
 
 ```
-npm i && npm run dev --workspace=next-boilerplate
+npm i && npm run dev --workspace=theme
 ```
 
 Acesse a aplicação em seu navegador através do endereço: http://localhost:3000.
@@ -44,7 +44,7 @@ Contribuições são sempre bem-vindas! Se você encontrar bugs, tiver sugestõe
 
 ## Como customizar?
 
-Modifique o arquivo `next-boilerplate/src/pages/index.js`. A página atualizará automaticamente.
+Modifique o arquivo `theme/src/pages/index.js`. A página atualizará automaticamente.
 
 # Contato
 

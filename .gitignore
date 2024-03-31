@@ -1,7 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/next-boilerplate/node_modules
+/theme/node_modules
 /node_modules
 /.pnp
 .pnp.js
@@ -10,17 +10,17 @@
 /coverage
 
 # next.js
-next-boilerplate/.next/
-next-boilerplate/out/
+theme/.next/
+theme/out/
 .next/
 
 # github workspaces
 ../../node_modules
-/next-boilerplate/node_modules
+/theme/node_modules
 ../out
-/next-boilerplate/out
+/theme/out
 ../.next
-/next-boilerplate/.next
+/theme/.next
 
 # production
 /build
@@ -37,10 +37,10 @@ yarn-error.log*
 #  local env files
 .env.*
 !.env.example
-/next-boilerplate/.env*
-/next-boilerplate/.env.local
+/theme/.env*
+/theme/.env.local
 .env.local
-!/next-boilerplate/.env.local.example
+!/theme/.env.local.example
 
 # vercel
 .vercel

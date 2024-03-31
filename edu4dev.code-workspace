@@ -2,32 +2,32 @@
   "folders": [
     {
       "name": "Public Files",
-      "path": "./next-boilerplate/public",
+      "path": "./theme/public"
     },
     {
       "name": " Posts",
-      "path": "./next-boilerplate/content/posts",
+      "path": "./content/posts"
     },
     {
-      "name": "NextJS",
-      "path": "./next-boilerplate/",
+      "name": "Engine",
+      "path": "./theme/"
     },
     {
       "name": "Pages",
-      "path": "./next-boilerplate/src/pages",
+      "path": "./content/pages"
     },
     {
       "name": "Styles",
-      "path": "./next-boilerplate/src/styles",
+      "path": "./theme/styles"
     },
     {
-      "name": "Configs",
-      "path": "./next-boilerplate/src/configs",
+      "name": "Theme",
+      "path": "./theme/"
     },
     {
       "name": "Root",
-      "path": "./",
-    },
+      "path": "./"
+    }
   ],
   "settings": {
     "editor.fontFamily": "VCR OSD Mono",
@@ -41,10 +41,10 @@
     "editor.tabSize": 2,
     "terminal.integrated.fontSize": 14,
     "emmet.includeLanguages": {
-      "javascript": "javascriptreact",
+      "javascript": "javascriptreact"
     },
     "emmet.syntaxProfiles": {
-      "javascript": "jsx",
+      "javascript": "jsx"
     },
     "javascript.updateImportsOnFileMove.enabled": "never",
     "editor.parameterHints.enabled": false,
@@ -52,25 +52,25 @@
     "javascript.suggest.autoImports": false,
     "explorer.confirmDragAndDrop": false,
     "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": "explicit",
+      "source.fixAll.eslint": "explicit"
     },
     "workbench.statusBar.visible": false,
     "editor.minimap.enabled": false,
     "[json]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "diffEditor.renderSideBySide": true,
     "workbench.sideBar.location": "right",
     "[javascript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "prettier.jsxSingleQuote": true,
     "prettier.arrowParens": "avoid",
     "window.zoomLevel": 2,
     "workbench.colorTheme": "Edu4Dev Dark",
-    "workbench.activityBar.location": "hidden",
+    "workbench.activityBar.location": "hidden"
   },
   "extensions": {
-    "recommendations": ["edu4dev.vscode-edu4dev-color-theme"],
-  },
+    "recommendations": ["edu4dev.vscode-edu4dev-color-theme"]
+  }
 }

@@ -8,9 +8,9 @@
     "**/bower_components": true,
     "**/*.code-search": true,
     "**/.git": true,
-    "**/next-boilerplate/node_modules": true,
+    "**/theme/node_modules": true,
     "**/out": true,
-    "**/next-boilerplate/.next": true,
+    "**/theme/.next": true,
     "**/.next": true,
     "**/sonarcloud.io": true
   },

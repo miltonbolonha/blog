@@ -1,8 +1,8 @@
 {
-  "name": "next-boilerplate-workspace",
+  "name": "theme-workspace",
   "version": "1.2.0",
   "workspaces": [
-    "next-boilerplate"
+    "theme"
   ],
   "private": false,
   "description": "Mil Textos NextJS Theme",
@@ -22,12 +22,12 @@
     "builder"
   ],
   "scripts": {
-    "build": "npm run build -w next-boilerplate",
-    "serve": "npm run serve -w next-boilerplate",
-    "clean": "npm run clean -w next-boilerplate",
-    "emails": "echo './next-boilerplate/content/emails/index.mjml' && mjml ./next-boilerplate/content/emails/index.mjml -o ./next-boilerplate/content/emails/index.html",
-    "develop": "npm run dev --workspace=next-boilerplate",
-    "dev": "npm run dev --workspace=next-boilerplate"
+    "build": "npm run build -w theme",
+    "serve": "npm run serve -w theme",
+    "clean": "npm run clean -w theme",
+    "emails": "echo './theme/content/emails/index.mjml' && mjml ./theme/content/emails/index.mjml -o ./theme/content/emails/index.html",
+    "develop": "npm run dev --workspace=theme",
+    "dev": "npm run dev --workspace=theme"
   },
   "repository": {
     "type": "git",
@@ -40,5 +40,9 @@
   },
   "bugs": {
     "url": "https://github.com/schindyguy/mt/issues"
+  },
+  "devDependencies": {
+    "chokidar": "^3.6.0",
+    "fs-extra": "^11.2.0"
   }
 }

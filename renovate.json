@@ -5,10 +5,10 @@
   "automergeType": "pr",
   "baseBranches": ["master"],
   "ignorePaths": [
-    "next-boilerplate/content/**",
-    "next-boilerplate/public/posts/**",
-    "next-boilerplate/.env.local.example",
-    "next-boilerplate/src/configs/**"
+    "theme/content/**",
+    "theme/public/posts/**",
+    "theme/.env.local.example",
+    "theme/src/configs/**"
   ],
   "packageRules": [
     {

@@ -1,7 +1,7 @@
 [build]
-    command = "npm run build --workspace=next-boilerplate"
-    functions = "next-boilerplate/src/api"
-    publish = "next-boilerplate/out"
+    command = "npm run build --workspace=theme"
+    functions = "theme/src/api"
+    publish = "theme/out"
 
 [build.environment]
   NODE_VERSION = "20.11.0"
@@ -13,9 +13,9 @@
 package = "@netlify/plugin-emails"
 
 [functions]
-  directory = "next-boilerplate/src/api"
+  directory = "theme/src/api"
 
 [[edge_functions]]
-  path = "/next-boilerplate/src/api/geo" 
+  path = "/theme/src/api/geo" 
   function = "injectGeoCookie"
   
