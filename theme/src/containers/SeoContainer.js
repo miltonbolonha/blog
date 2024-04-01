@@ -15,14 +15,12 @@ const SeoContainer = ({ data, killSeo = true }) => {
       </Head>
     );
   }
-  const authorType =
-    data?.author === data?.brandName ? "Organization" : "Person";
   let socialValues = [];
   for (const key in data?.sameAs) {
-    if (Object.hasOwn(data?.sameAs, key)) {
-      socialValues.push(data?.sameAs[key]);
-    }
+    socialValues.push(data?.sameAs[key].href);
   }
+  console.log("socialValues");
+  console.log(socialValues);
   const orgSchema = [
     {
       "@type": ["Organization"],
@@ -67,7 +65,7 @@ const SeoContainer = ({ data, killSeo = true }) => {
       headline: data?.description,
       description: data?.description,
       author: {
-        "@type": authorType,
+        "@type": '"Organization"',
         name: data?.brandPerson,
         url: data?.siteUrl,
       },

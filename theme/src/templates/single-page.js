@@ -6,7 +6,7 @@ import SeoContainer from "../containers/SeoContainer";
 // import mainMenu from "../configs/main-menu.json";
 
 // const index = mainConfigs?.pages?.index;
-const { business, website } = mainConfigs;
+const { business, website, linkTree } = mainConfigs;
 
 const BlogPost = ({ page }) => {
   const { title } = page.frontmatter;
@@ -31,12 +31,10 @@ const BlogPost = ({ page }) => {
     topology: "page",
     articleUrl: `${website.siteUrl}/${page?.slug}`,
     themeColor: website.themeColor,
-    sameAs: business.sameAs,
+    sameAs: linkTree,
     // twitter: business.shortName,
     // articleBody: doc,
   };
-  console.log("page");
-  // console.log(page);
   return (
     <>
       <div className='single-page'>

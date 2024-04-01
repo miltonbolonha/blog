@@ -10,12 +10,14 @@ import HeaderContainer from "../containers/HeaderContainer";
 import FooterContainer from "../containers/FooterContainer";
 // import mainMenu from "../configs/main-menu.json";
 // import mainConfigs from "../configs/main-infos.json";
-import mainConfigs2 from "../../settings.json";
+import mainConfigs from "../../settings.json";
 // const index = mainConfigs?.pages?.index;
-const { business, website } = mainConfigs2;
-// const website = mainConfigs2?.website;
-// const mainMenu = mainConfigs2?.mainMenu;
-
+const { business, website, linkTree } = mainConfigs;
+// const website = mainConfigs?.website;
+// const mainMenu = mainConfigs?.mainMenu;
+const brandCardImage = business?.brandCardImage?.includes("http")
+  ? business?.brandCardImage
+  : website?.siteUrl + "/" + business?.brandCardImage;
 const infos = {
   slug: "",
   title: `${"Home"} - ${business?.brandName}`,
@@ -28,8 +30,8 @@ const infos = {
   brandPhone: business?.brandPhone,
   brandDescription: business?.brandDescription,
   brandLogo: `${website?.siteUrl}/${business?.brandLogo}`,
-  brandCardImage: `${website?.siteUrl}/${business?.brandCardImage}`,
-  featuredImage: `${website?.siteUrl}/${business?.brandCardImage}`,
+  brandCardImage: brandCardImage,
+  featuredImage: brandCardImage,
   datePublished: website?.date,
   i18n: website?.i18n,
   keywords: website?.keywords,
@@ -37,7 +39,7 @@ const infos = {
   topology: "page",
   articleUrl: `${website?.siteUrl}/${"index?.slug"}`,
   themeColor: website?.themeColor,
-  sameAs: business?.sameAs,
+  sameAs: linkTree,
   // twitter: business?.shortName,
 };
 
