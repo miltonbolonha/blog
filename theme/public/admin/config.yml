@@ -86,7 +86,7 @@ collections:
     files:
       - name: "general"
         label: "Site Settings"
-        file: "theme/manifest.json"
+        file: "theme/public/manifest.json"
         description: "General Site Settings"
         fields:
           - label: "Website Name"
@@ -124,12 +124,12 @@ collections:
             name: scope
             widget: string
             required: true
-            hint: "https://example.com/blog/ - A path that defines the set of URLs that belong to your PWA"
+            hint: "https://example.com/blog - A path that defines the set of URLs that belong to your PWA"
           - label: "Start Url"
             name: start_url
             widget: string
             required: true
-            hint: "https://example.com/blog/home - The URL of the page that opens when users launch your app from their home screen, desktop or dock."
+            hint: "home - The URL of the page that opens when users launch your app from their home screen, desktop or dock (https://example.com/blog/home)."
           - label: "Logo Image"
             label_singular: Logo
             name: logo
@@ -191,13 +191,6 @@ collections:
                   default: "general@miltextos.com",
                 }
               - {
-                  label: "Brand Logo",
-                  name: brandLogo,
-                  widget: "image",
-                  required: true,
-                  default: "logomark.png",
-                }
-              - {
                   label: "Brand Card Image",
                   name: brandCardImage,
                   widget: "image",
@@ -238,7 +231,6 @@ collections:
             widget: "object"
             fields:
               - { label: "Site Url", name: siteUrl, widget: "string" }
-              - { label: "Theme Color", name: themeColor, widget: "string" }
               - {
                   label: "Publish Date",
                   name: "date",
