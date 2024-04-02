@@ -4,7 +4,7 @@ import "@fontsource-variable/inter";
 import "../styles/styles.scss";
 import Script from "next/script";
 import { usePathname } from "next/navigation";
-import mainInfos from "../../../theme/settings.json";
+import mainInfos from "../../../theme/manifest.json";
 function App({ Component, pageProps }) {
   const location = usePathname();
   return (

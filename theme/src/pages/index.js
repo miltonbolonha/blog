@@ -10,7 +10,7 @@ import HeaderContainer from "../containers/HeaderContainer";
 import FooterContainer from "../containers/FooterContainer";
 // import mainMenu from "../configs/main-menu.json";
 // import mainConfigs from "../configs/main-infos.json";
-import mainConfigs from "../../settings.json";
+import mainConfigs from "../../manifest.json";
 // const index = mainConfigs?.pages?.index;
 const { business, website, linkTree } = mainConfigs;
 // const website = mainConfigs?.website;

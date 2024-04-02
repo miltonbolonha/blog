@@ -86,9 +86,75 @@ collections:
     files:
       - name: "general"
         label: "Site Settings"
-        file: "theme/settings.json"
+        file: "theme/manifest.json"
         description: "General Site Settings"
         fields:
+          - label: "Website Name"
+            name: name
+            widget: string
+            required: true
+          - label: "Short Name"
+            name: short_name
+            widget: string
+            required: true
+            default: Mil Textos
+            hint: "short_name"
+          - label: "Theme Color"
+            name: theme_color
+            widget: string
+            required: true
+            hint: "#9b00dd - Specifies the color theme used by browsers when displaying your app."
+          - label: "Background Color"
+            name: background_color
+            widget: string
+            required: true
+            hint: "#00ffc1 - Background color of your application's splash screen or loading screen."
+          - label: "Display"
+            name: display
+            widget: "select"
+            required: true
+            options:
+              [
+                "Standalone (recommended)",
+                "Fullscreen",
+                "Minimal-UI",
+                "Browser",
+              ]
+          - label: "Scope"
+            name: scope
+            widget: string
+            required: true
+            hint: "https://example.com/blog/ - A path that defines the set of URLs that belong to your PWA"
+          - label: "Start Url"
+            name: start_url
+            widget: string
+            required: true
+            hint: "https://example.com/blog/home - The URL of the page that opens when users launch your app from their home screen, desktop or dock."
+          - label: "Logo Image"
+            label_singular: Logo
+            name: logo
+            allow_add: true
+            allow_delete: true
+            allow_multiple: true
+            max: 6
+            min: 2
+            required: true
+            hint: "favicon-16x16.png, favicon-192x192.png, favicon-256x256.png, favicon-512x512.png, logotype.png, rouded-mark.png"
+            widget: "list"
+            fields:
+              - { label: "Image", name: src, widget: "image" }
+              - {
+                  label: "Type",
+                  name: type,
+                  widget: "select",
+                  options: ["image/png", "image/jpg"],
+                }
+              - {
+                  label: "Sizes",
+                  name: sizes,
+                  widget: "string",
+                  hint: "16x16, 192x192, 512x512, WxH - custom",
+                }
           - label: "Business Settings"
             name: business
             widget: "object"
