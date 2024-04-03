@@ -1,12 +1,4 @@
 {
-  "website": {
-    "date": "2024-03-30 10:39:38",
-    "siteUrl": "https://miltextos.netlify.app",
-    "themeColor": "#9b00dd",
-    "errorMessage": "Hmm... something is wrong, try again later or e-mail us: miltonbolonha@gmail.com",
-    "successMessage": "Thank you for your message. We will reach you soon.",
-    "footerMessage": "Isenção de responsabilidade: O conteúdo fornecido neste site destina-se apenas a fins de informação geral e não deve ser considerado um substituto para aconselhamento financeiro e/ou médico profissional. Todos os materiais, incluindo textos, gráficos, imagens e informações, estão sujeitos a alterações sem aviso prévio. As informações, materiais, termos, condições e descrições apresentadas nestas páginas estão sujeitas a alterações sem aviso prévio."
-  },
   "business": {
     "brandCardImage": "https://res.cloudinary.com/dyxuhpt7j/image/upload/v1711708916/Group_1000005825_xunfmc.png",
     "feedbackSubject": "Mil Textos - Message Request",
@@ -22,14 +14,41 @@
     "brandDescription": "A Mil Textos é uma central para você.",
     "feedbackEmail": "miltonbolonha@gmail.com"
   },
-  "mainMenu": [
+  "display": "Standalone (recommended)",
+  "logo": [
     {
-      "label": "Zumba",
-      "href": "zumba"
+      "src": "https://res.cloudinary.com/dyxuhpt7j/image/upload/v1711685821/Group_1000005728_lxkxiw.png",
+      "type": "image/png",
+      "sizes": "562x564"
     },
     {
-      "label": "Testando",
-      "href": "teste"
+      "src": "https://res.cloudinary.com/dyxuhpt7j/image/upload/v1712184969/Group_1000005825_2_dtnzt7.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+  ],
+  "name": "Mil Textos",
+  "theme_color": "#9b00dd",
+  "short_name": "miltextos",
+  "start_url": "/",
+  "background_color": "#00ffc1",
+  "scope": "https://miltextos.netlify.app/",
+  "mainMenu": [
+    {
+      "label": "Sobre Nós",
+      "href": "sobre-nos"
+    },
+    {
+      "label": "Anúncios",
+      "href": "anuncios"
+    },
+    {
+      "label": "Termos e Condições",
+      "href": "termos-e-condicoes"
+    },
+    {
+      "label": "Política de Privacidade",
+      "href": "politica-de-privacidade"
     }
   ],
   "linkTree": [
@@ -41,5 +60,13 @@
       "label": "instagram",
       "href": "https://instragram.com"
     }
-  ]
+  ],
+  "website": {
+    "date": "2024-03-30 10:39:38",
+    "siteUrl": "https://miltextos.netlify.app",
+    "themeColor": "#9b00dd",
+    "errorMessage": "Hmm... something is wrong, try again later or e-mail us: miltonbolonha@gmail.com",
+    "successMessage": "Thank you for your message. We will reach you soon.",
+    "footerMessage": "Isenção de responsabilidade: O conteúdo fornecido neste site destina-se apenas a fins de informação geral e não deve ser considerado um substituto para aconselhamento financeiro e/ou médico profissional. Todos os materiais, incluindo textos, gráficos, imagens e informações, estão sujeitos a alterações sem aviso prévio. As informações, materiais, termos, condições e descrições apresentadas nestas páginas estão sujeitas a alterações sem aviso prévio."
+  }
 }
