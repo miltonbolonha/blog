@@ -1,5 +1,5 @@
 import React from "react";
-import mainConfigs from "../../manifest.json";
+import mainConfigs from "../../public/manifest.json";
 import FooterContainer from "../containers/FooterContainer";
 import HeaderContainer from "../containers/HeaderContainer";
 import SeoContainer from "../containers/SeoContainer";

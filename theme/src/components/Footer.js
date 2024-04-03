@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 import Row from "../containers/RowContainer";
 import Image from "next/image";
-import mainInfos from "../../manifest.json";
+import mainInfos from "../../public/manifest.json";
 const Footer = () => {
   return (
     <footer>
