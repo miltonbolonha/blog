@@ -1,5 +1,5 @@
 [build]
-    command = "npm run build --workspace=theme"
+    command = "node theme/sync.js && npm run build --workspace=theme"
     functions = "theme/src/api"
     publish = "theme/out"
 
