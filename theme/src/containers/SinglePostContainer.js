@@ -1,6 +1,7 @@
 import React, { useEffect, useState, useRef } from "react";
 import SinglePost from "../components/SinglePostBlock";
 import { useRemarkSync } from "react-remark";
+import Image from "next/image";
 
 const SinglePostBlock = ({
   highlightImage,

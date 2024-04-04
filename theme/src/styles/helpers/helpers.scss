@@ -962,3 +962,27 @@ code {
   height: auto;
   overflow: auto;
 }
+.single-page .inner-page {
+  max-width: $ext_page__size;
+  margin: 0 auto 40px;
+  h1 {
+    font-weight: 900;
+  }
+  h2 {
+    font-weight: 800;
+    line-height: normal;
+  }
+  h3 {
+    font-weight: 700;
+    strong {
+      font-weight: 700;
+    }
+  }
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 20px 0;
+  }
+}

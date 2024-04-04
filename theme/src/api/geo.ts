@@ -24,5 +24,5 @@ export default async (request: Request, context: Context) => {
     geo: context.geo,
   });
 };
-
+/* eslint import/no-anonymous-default-export: [2, {"allowArrowFunction": true}] */
 export const config = { path: "/geolocation" };

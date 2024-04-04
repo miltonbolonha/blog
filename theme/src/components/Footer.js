@@ -2,20 +2,20 @@ import React from "react";
 import Link from "next/link";
 import Row from "../containers/RowContainer";
 import Image from "next/image";
-import mainInfos from "../../public/manifest.json";
+import mainInfos from "../../../content/public/manifest.json";
 const Footer = () => {
   return (
     <footer>
       <Row opt={{ isBoxed: true, numColumns: 2, classes: "main-footer" }}>
         <div className='left footer-bottom'>
-          <a href='/'>
+          <Link href='/'>
             <Image
               src={"/android-chrome-512x512.png"}
               alt={"cb mark"}
               width={52}
               height={52}
             />
-          </a>
+          </Link>
         </div>
         <div className='right footer-bottom'>
           {mainInfos.mainMenu.map((item, itemIndx) => (

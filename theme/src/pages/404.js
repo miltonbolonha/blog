@@ -42,9 +42,8 @@ const infos = {
 };
 
 const NotFoundPage = ({ type }) => {
-  const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
-  console.log("type");
-  console.log(type);
+  const pathnameVAR = usePathname();
+  const pathname = pathnameVAR === "/" ? "home" : pathnameVAR.slice(1, -1);
   return (
     <div className='error-page'>
       <SeoContainer killSeo={false} data={infos} />

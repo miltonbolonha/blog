@@ -2,7 +2,7 @@ const chokidar = require("chokidar");
 const fs = require("fs-extra");
 const path = require("path");
 
-const source = "./theme/public/";
+const source = "./content/public/";
 const destination = "./theme/public/";
 
 // Check if --watch flag is present in the command line arguments

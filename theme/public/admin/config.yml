@@ -86,7 +86,7 @@ collections:
     files:
       - name: "general"
         label: "Site Settings"
-        file: "theme/public/manifest.json"
+        file: "content/public/manifest.json"
         description: "General Site Settings"
         fields:
           - label: "Website Name"

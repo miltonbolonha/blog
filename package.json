@@ -1,6 +1,6 @@
 {
   "name": "theme-workspace",
-  "version": "1.2.0",
+  "version": "2.0.0-molecular.1",
   "workspaces": [
     "theme"
   ],
@@ -22,12 +22,13 @@
     "builder"
   ],
   "scripts": {
-    "build": "npm run build -w theme",
-    "serve": "npm run serve -w theme",
+    "build": "npm run sync && npm run build -w theme",
+    "serve": "npm run sync && npm run serve -w theme",
     "clean": "npm run clean -w theme",
     "emails": "echo './theme/content/emails/index.mjml' && mjml ./theme/content/emails/index.mjml -o ./theme/content/emails/index.html",
-    "develop": "npm run dev --workspace=theme",
-    "dev": "npm run dev --workspace=theme"
+    "develop": "npm run sync && npm run dev --workspace=theme",
+    "dev": "npm run sync && npm run dev --workspace=theme",
+    "sync": "node theme/sync.js"
   },
   "repository": {
     "type": "git",

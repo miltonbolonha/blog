@@ -4,6 +4,7 @@ layout: page
 date: 2024-03-31 16:25:34
 pageDescription: MilTextos está aqui para fornecer dicas e truques para viver uma vida melhor.
 ---
+
 ## MilTextos está aqui para fornecer dicas e truques para viver uma vida melhor.
 
 Nós cobrimos uma ampla gama de tópicos, incluindo finanças, saúde e viagens para ajudar a melhorar sua vida cotidiana. Somos apaixonados por espalhar conteúdo significativo que faça uma diferença imediata e perceptível em sua vida.
@@ -17,8 +18,6 @@ Desde idosos até casais recém-casados que estão aprendendo a fazer um orçame
 ### **Contate-nos**
 
 MilTextos
-
-14085-030
 
 Ribeirão Preto, SP
 

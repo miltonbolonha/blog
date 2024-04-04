@@ -8,28 +8,24 @@ import Image from "next/image";
 import SeoContainer from "../containers/SeoContainer";
 import HeaderContainer from "../containers/HeaderContainer";
 import FooterContainer from "../containers/FooterContainer";
-// import mainMenu from "../configs/main-menu.json";
-// import mainConfigs from "../configs/main-infos.json";
-import mainConfigs from "../../public/manifest.json";
-// const index = mainConfigs?.pages?.index;
+import mainConfigs from "../../../content/public/manifest.json";
+
 const { business, website, linkTree } = mainConfigs;
-// const website = mainConfigs?.website;
-// const mainMenu = mainConfigs?.mainMenu;
 const brandCardImage = business?.brandCardImage?.includes("http")
   ? business?.brandCardImage
-  : website?.siteUrl + "/" + business?.brandCardImage;
+  : mainConfigs.scope + "/" + business?.brandCardImage;
 const infos = {
   slug: "",
-  title: `${"Home"} - ${business?.brandName}`,
+  title: `${"Home"} - ${mainConfigs?.name}`,
   description: business?.description,
-  author: business?.brandName,
-  brandPerson: business?.brandName,
-  siteUrl: website?.siteUrl,
-  brandName: business?.brandName,
+  author: mainConfigs?.name,
+  brandPerson: mainConfigs?.name,
+  siteUrl: mainConfigs.scope,
+  brandName: mainConfigs?.name,
   brandEmail: business?.brandEmail,
   brandPhone: business?.brandPhone,
   brandDescription: business?.brandDescription,
-  brandLogo: `${website?.siteUrl}/${business?.brandLogo}`,
+  brandLogo: `${mainConfigs.scope}/${business?.brandLogo}`,
   brandCardImage: brandCardImage,
   featuredImage: brandCardImage,
   datePublished: website?.date,
@@ -37,21 +33,23 @@ const infos = {
   keywords: website?.keywords,
   questions: [],
   topology: "page",
-  articleUrl: `${website?.siteUrl}/${"index?.slug"}`,
+  articleUrl: `${mainConfigs.scope}/${"index?.slug"}`,
   themeColor: website?.themeColor,
   sameAs: linkTree,
   // twitter: business?.shortName,
 };
 
 const Home = ({ posts }) => {
-  const [btnGClick, useBtnGClick] = useState(null);
+  const [btnGClick, handleBtnGClick] = useState(null);
   const [userInfos, setUserInfos] = useState(null);
   const [city, setCity] = useState(null);
   const [state, setState] = useState(null);
-  const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
+  const [searchClick, setSearchClick] = useState(null);
+  const pathnameVAR = usePathname();
+  const pathname = pathnameVAR === "/" ? "home" : pathnameVAR.slice(1, -1);
 
   const fetchApiData = async () => {
-    const res = await fetch(`${website?.siteUrl}/geolocation`);
+    const res = await fetch(`${mainConfigs.scope}/geolocation`);
     const data = await res.json();
     // setMensen(data);
     setUserInfos(data);
@@ -63,7 +61,7 @@ const Home = ({ posts }) => {
   const gtagCounter = id => {
     if (btnGClick === null && typeof window !== "undefined") {
       window?.gtag("event", id);
-      useBtnGClick(null);
+      handleBtnGClick(null);
     }
   };
   useEffect(() => {
@@ -79,7 +77,7 @@ const Home = ({ posts }) => {
           return null;
         });
     }
-  }, [city]);
+  }, [city, state]);
   return (
     <div className='index-page'>
       <SeoContainer killSeo={false} data={infos} />
@@ -108,11 +106,30 @@ const Home = ({ posts }) => {
             className='hero-img'
           />
           <div className='row-config inner-hero'>
-            <h1>Search {business?.brandName || ""}</h1>
+            <h1>Search {mainConfigs?.name || ""}</h1>
             <SearchInputContainer
-              siteUrl={website?.siteUrl || ""}
+              siteUrl={mainConfigs.scope || ""}
               subDomain={"search"}
             />
+            <label htmlFor='post-chooser'>Search for yput post:</label>
+            <input list='post-items' id='post-chooser' name='post-chooser' />
+            <datalist id='post-items'>
+              {posts.map((p, pi) => {
+                if (!p?.frontmatter) return null;
+                if (
+                  !p?.frontmatter?.categories ||
+                  p?.frontmatter?.categories[0] === "Hide"
+                ) {
+                  return null;
+                }
+
+                return (
+                  <option key={pi} id={p?.slug || "none"}>
+                    {p?.frontmatter?.title}
+                  </option>
+                );
+              })}
+            </datalist>
           </div>
         </div>
       </div>

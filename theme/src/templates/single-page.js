@@ -1,5 +1,5 @@
 import React from "react";
-import mainConfigs from "../../public/manifest.json";
+import mainConfigs from "../../../content/public/manifest.json";
 import FooterContainer from "../containers/FooterContainer";
 import HeaderContainer from "../containers/HeaderContainer";
 import SeoContainer from "../containers/SeoContainer";
@@ -37,7 +37,7 @@ const BlogPost = ({ page }) => {
   };
   return (
     <>
-      <div className='single-page'>
+      <div className='single-post post-container single-page'>
         <SeoContainer killSeo={false} data={infos} />
         <HeaderContainer
           opt={{
@@ -54,8 +54,10 @@ const BlogPost = ({ page }) => {
           // gtagCounter={gtagCounter}
           // pathname={pathname}
         />
-        <h1>{title}</h1>
-        <div dangerouslySetInnerHTML={{ __html: page.content }}></div>
+        <div className='inner-page'>
+          <h1>{title}</h1>
+          <div dangerouslySetInnerHTML={{ __html: page.content }}></div>
+        </div>
         <div className='footer-wrapper'>
           <FooterContainer />
         </div>

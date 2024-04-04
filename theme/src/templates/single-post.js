@@ -26,7 +26,8 @@ const SinglePost = ({ post }) => {
   const [state, setState] = useState(null);
   const [userInfos, setUserInfos] = useState(null);
   const getRef = useSearchParams().getAll("ref");
-  const pathname = usePathname() === "/" ? "home" : usePathname().slice(1, -1);
+  const pathnameVAR = usePathname();
+  const pathname = pathnameVAR === "/" ? "home" : pathnameVAR.slice(1, -1);
   const doc = parse(post.content);
   // console.log(post);
 

@@ -19,7 +19,7 @@ const LoadMime = ({
     }, delaySec * 1000);
 
     return () => clearTimeout(timeout);
-  }, [gifState]);
+  }, [gifState, delaySec]);
 
   if (!gifState) return null;
 

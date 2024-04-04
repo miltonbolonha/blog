@@ -1,0 +1,3 @@
+[submodule "sharedlib"]
+	path = sharedlib
+	url = https://github.com/miltonbolonha/theme
