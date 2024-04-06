@@ -58,5 +58,26 @@ Version: 2.0.0-molecular.1
 // $news_card__heading: 16px;
 
 header {
-  background: $primary__colorOne;
+  background-image: url("/brandimages/header-pattern.png");
+  background-size: 225px 1030px;
+  background-repeat: repeat-x;
+  display: flex;
+  flex-direction: column;
+  background-position: bottom center;
+  background-color: transparent;
+  // &::after {
+  //   background-image: url("/brandimages/header-pattern-after.png");
+  //   background-size: 225px 86px;
+  //   background-repeat: repeat-x;
+  //   content: "";
+  //   display: block;
+  //   width: 150%;
+  //   height: 105px;
+  //   background-color: white;
+  //   bottom: 0px;
+  //   left: -100px;
+  //   transform: scaleX(-1);
+  //   position: relative;
+  //   padding-bottom: 13px;
+  // }
 }
