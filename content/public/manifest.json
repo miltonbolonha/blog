@@ -4,7 +4,11 @@
     "feedbackSubject": "Mil Textos - Message Request",
     "brandPhone": "+5512981062959",
     "adClient": "ca-pub-",
-    "brandKeywords": ["mil textos", "blog", "tópicos"],
+    "brandKeywords": [
+      "mil textos",
+      "blog",
+      "tópicos"
+    ],
     "brandLogo": "https://res.cloudinary.com/dyxuhpt7j/image/upload/v1711685821/Group_1000005728_lxkxiw.png",
     "brandName": "Mil Textos",
     "brandEmail": "miltonbolonha@gmail.com",
@@ -12,8 +16,8 @@
     "gaID": "G-",
     "feedbackEmail": "miltonbolonha@gmail.com"
   },
-  "display": "Standalone (recommended)",
-  "icons": [
+  "display": "standalone",
+  "logo": [
     {
       "src": "https://res.cloudinary.com/dyxuhpt7j/image/upload/v1711685821/Group_1000005728_lxkxiw.png",
       "type": "image/png",
@@ -57,6 +61,18 @@
     {
       "label": "instagram",
       "href": "https://instragram.com"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dyxuhpt7j/image/upload/v1713981736/1000txt_1_popvlk.png",
+      "type": "image/png",
+      "sizes": "562x153"
+    },
+    {
+      "type": "image/png",
+      "sizes": "16x16",
+      "src": "https://res.cloudinary.com/dyxuhpt7j/image/upload/v1712184969/Group_1000005825_2_dtnzt7.png"
     }
   ],
   "website": {
