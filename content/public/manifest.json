@@ -63,6 +63,18 @@
       "href": "https://instragram.com"
     }
   ],
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dyxuhpt7j/image/upload/v1713981736/1000txt_1_popvlk.png",
+      "type": "image/png",
+      "sizes": "562x153"
+    },
+    {
+      "type": "image/png",
+      "sizes": "16x16",
+      "src": "https://res.cloudinary.com/dyxuhpt7j/image/upload/v1712184969/Group_1000005825_2_dtnzt7.png"
+    }
+  ],
   "website": {
     "date": "2024-03-30 10:39:38",
     "siteUrl": "https://miltextos.netlify.app",
